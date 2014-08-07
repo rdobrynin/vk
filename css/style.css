@@ -1,0 +1,29 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,800,700,600,300);
+/* Reset */
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, textarea, p, blockquote, th, td {
+    margin: 0;
+    padding: 0;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    font-size: 100%;
+}
+
+html, body {
+    height: 100%;
+    font-family: 'Open Sans', sans-serif;
+    -webkit-font-smoothing: antialiased;
+}
+
+.wrapper {
+    width: 827px;
+    height: 692px;
+    background-color: #ddd;
+}
+
+.container {
+    width: 827px;
+    padding-top: 100px;
+}
+
