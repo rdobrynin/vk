@@ -19,6 +19,7 @@ html, body {
 .wrapper {
     width: 827px;
     height: 700px;
+    background-repeat: no-repeat;
     background: #e7ecef; /* Old browsers */
     background: -moz-linear-gradient(top,  #e7ecef 0%, #ebf0f3 7%, #ecf1f4 14%, #ecf1f4 100%); /* FF3.6+ */
     background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#e7ecef), color-stop(7%,#ebf0f3), color-stop(14%,#ecf1f4), color-stop(100%,#ecf1f4)); /* Chrome,Safari4+ */
@@ -37,7 +38,7 @@ html, body {
 }
 
 .preview {
-    background: url('../images/RIU2.jpg') center no-repeat;
+    background: url('../images/preview_100.jpg') center no-repeat;
 }
 
 .content-frame-outside {
@@ -93,4 +94,23 @@ html, body {
     -webkit-box-shadow: 0px 0.5px 0px 0px rgba(240, 244, 245, 0.8);
     -moz-box-shadow: 0px 0.5px 0px 0px rgba(240, 244, 245, 0.8);
     box-shadow: 0px 0.5px 2px 0px rgba(243, 240, 240, 0.8);
+}
+
+.background {
+    width: 827px;
+    background-image: url('../images/clouds.png');
+    background-size: 827px 143px;
+    height: 143px;
+    position: fixed;
+
+}
+
+@media
+(-webkit-min-device-pixel-ratio: 2),
+(min-resolution: 192dpi) {
+    .background {
+        background-image: url('../images/clouds@2x.png');
+        background-size: 827px 143px;
+    }
+
 }
