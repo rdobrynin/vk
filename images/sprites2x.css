@@ -1,0 +1,94 @@
+.cog-icon, .diamond-icon, .note-icon, .pencil-icon, .place-icon, .plus-green-icon, .plus-icon, .present2-icon, .present-icon, .puma-icon, .rose-icon, .stack-icon, .star-icon, .tiger-icon, .vase-icon{
+	background: url(sprites.png) no-repeat;
+}
+
+.cog-icon{
+	background-position: 0 -1.0104141235351562px ;
+	width: 35px;
+	height: 35px;
+}
+
+.diamond-icon{
+	background-position: -352.9895782470703px -4.010414123535156px ;
+	width: 35px;
+	height: 33px;
+}
+
+.note-icon{
+	background-position: -99.96875px 0;
+	width: 29px;
+	height: 33px;
+}
+
+.pencil-icon{
+	background-position: -254.98959350585938px -48.010406494140625px ;
+	width: 39px;
+	height: 40px;
+}
+
+.place-icon{
+	background-position: -150.97915649414062px -1px ;
+	width: 36px;
+	height: 32px;
+}
+
+.plus-green-icon{
+	background-position: -305.9895935058594px -59.010414123535156px ;
+	width: 19px;
+	height: 18px;
+}
+
+.plus-icon{
+	background-position: -203.98959350585938px -4.010414123535156px ;
+	width: 30px;
+	height: 30px;
+}
+
+.present2-icon{
+	background-position: -8.989593505859375px -58.010414123535156px ;
+	width: 18px;
+	height: 21px;
+}
+
+.present-icon{
+	background-position: -305.9895935058594px -8.010414123535156px ;
+	width: 19px;
+	height: 22px;
+}
+
+.puma-icon{
+	background-position: -148.98959350585938px -52.010414123535156px ;
+	width: 35px;
+	height: 34px;
+}
+
+.rose-icon{
+	background-position: -200.98959350585938px -53.010414123535156px ;
+	width: 32px;
+	height: 31px;
+}
+
+.stack-icon{
+	background-position: -254.98959350585938px -8.010414123535156px ;
+	width: 27px;
+	height: 18px;
+}
+
+.star-icon{
+	background-position: -55.989593505859375px -57.010414123535156px ;
+	width: 23px;
+	height: 23px;
+}
+
+.tiger-icon{
+	background-position: -96.98957824707031px -50.010414123535156px ;
+	width: 34px;
+	height: 33px;
+}
+
+.vase-icon{
+	background-position: -50.96874237060547px -2.0104141235351562px ;
+	width: 33px;
+	height: 35px;
+}
+
