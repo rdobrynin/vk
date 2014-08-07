@@ -13,17 +13,64 @@ h1, h2, h3, h4, h5, h6 {
 html, body {
     height: 100%;
     font-family: 'Open Sans', sans-serif;
-    -webkit-font-smoothing: antialiased;
+    background-color: #000;
 }
 
 .wrapper {
     width: 827px;
-    height: 692px;
-    background-color: #ddd;
+    height: 700px;
+    background: #e7ecef; /* Old browsers */
+    background: -moz-linear-gradient(top,  #e7ecef 0%, #ebf0f3 7%, #ecf1f4 14%, #ecf1f4 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#e7ecef), color-stop(7%,#ebf0f3), color-stop(14%,#ecf1f4), color-stop(100%,#ecf1f4)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #e7ecef 0%,#ebf0f3 7%,#ecf1f4 14%,#ecf1f4 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #e7ecef 0%,#ebf0f3 7%,#ecf1f4 14%,#ecf1f4 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #e7ecef 0%,#ebf0f3 7%,#ecf1f4 14%,#ecf1f4 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #e7ecef 0%,#ebf0f3 7%,#ecf1f4 14%,#ecf1f4 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e7ecef', endColorstr='#ecf1f4',GradientType=0 ); /* IE6-9 */
+
+
 }
 
 .container {
     width: 827px;
     padding-top: 100px;
 }
+
+.preview {
+    background: url('../images/RIU2.jpg') center no-repeat;
+}
+
+.content-frame-outside {
+    width: 644px;
+    height: 421px;
+    margin: 0 auto;
+    background-color: #D9E0E5;
+    top: 150.5px;
+    position: relative;
+    border: 1px solid #CDD8DC;
+    border-radius: 33px;
+    -webkit-border-radius: 33px;
+    -moz-border-radius: 33px;
+    -webkit-box-shadow: 0px -2.5px 0px 0px rgba(196, 208, 209, 0.8);
+    -moz-box-shadow: 0px -2.5px 0px 0px rgba(196, 208, 209, 0.8);
+    box-shadow: 0px -2.5px 0px 0px rgba(196, 208, 209, 0.8);
+}
+
+
+.content-frame-inside {
+    background-color: #fff;
+    width: 630px;
+    height: 408px;
+    position: relative;
+    -webkit-border-radius: 33px;
+    -moz-border-radius: 33px;
+    border-radius: 28px;
+    top: 4px;
+    margin: 0 auto;
+    border: 1px solid #DFDFDF;
+    box-shadow: 0px 3px 2px 0px rgba(196, 208, 209, 0.7);
+    -moz-box-shadow: 0px 3px 2px 0px rgba(196, 208, 209, 0.7);
+    -webkit-box-shadow: 0px 3px 2px 0px rgba(196, 208, 209, 0.7);
+}
+
 
