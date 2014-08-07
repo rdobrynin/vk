@@ -104,13 +104,3 @@ html, body {
     position: fixed;
 
 }
-
-@media
-(-webkit-min-device-pixel-ratio: 2),
-(min-resolution: 192dpi) {
-    .background {
-        background-image: url('../images/clouds@2x.png');
-        background-size: 827px 143px;
-    }
-
-}
