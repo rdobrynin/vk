@@ -25,5 +25,14 @@ only screen and (                min-resolution: 2dppx) {
         left: 0;
     }
 
+    .cup-icon{
+        background-position: -142.5px 6.489586px;
+        background-image: url('../images/sprites@2x.png');
+        background-size: 277px 135px;
+        background-repeat: no-repeat;
+
+    }
+
+
 
 }
