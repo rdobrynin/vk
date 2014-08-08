@@ -65,24 +65,25 @@
 
 
 .icon-grand-big {
-    width: 32px;
-    height: 32px;
+    width: 32.5px;
+    height: 32.5px;
     position: relative;
-    top: 2px;
+    top: 1.5px;
     -webkit-border-radius: 36px;
     -moz-border-radius: 36px;
     border-radius: 36px;
-    right: -2px;
-    background: #cfdae1; /* Old browsers */
-    /* IE9 SVG, needs conditional override of 'filter' to 'none' */
-    background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2NmZGFlMSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNjMWNkZDMiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
-    background: -moz-linear-gradient(top,  #cfdae1 0%, #c1cdd3 100%); /* FF3.6+ */
-    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#cfdae1), color-stop(100%,#c1cdd3)); /* Chrome,Safari4+ */
-    background: -webkit-linear-gradient(top,  #cfdae1 0%,#c1cdd3 100%); /* Chrome10+,Safari5.1+ */
-    background: -o-linear-gradient(top,  #cfdae1 0%,#c1cdd3 100%); /* Opera 11.10+ */
-    background: -ms-linear-gradient(top,  #cfdae1 0%,#c1cdd3 100%); /* IE10+ */
-    background: linear-gradient(to bottom,  #cfdae1 0%,#c1cdd3 100%); /* W3C */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cfdae1', endColorstr='#c1cdd3',GradientType=0 ); /* IE6-8 */
+    right: -1.5px;
+    background: #cfdae1;
+    background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJod…EiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+    background: -moz-linear-gradient(top, #cfdae1 0%, #c1cdd3 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#cfdae1), color-stop(100%,#c1cdd3));
+    background: -webkit-linear-gradient(top, #cfdae1 0%,#c1cdd3 100%);
+    background: -o-linear-gradient(top, #cfdae1 0%,#c1cdd3 100%);
+    background: -ms-linear-gradient(top, #cfdae1 0%,#c1cdd3 100%);
+    background: linear-gradient(to bottom, #cfdae1 0%,#c1cdd3 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cfdae1', endColorstr='#c1cdd3',GradientType=0 );
+    text-align: center;
+    padding-left: 1px;
 
 }
 
@@ -159,8 +160,60 @@
     -webkit-box-shadow: inset 6px 2px 5px -6px rgba(190, 207, 214, 0.95);
     -moz-box-shadow: inset 6px 2px 5px -6px rgba(190, 207, 214, 0.95);
     box-shadow: inset 6px 2px 5px -6px rgba(190, 207, 214, 0.95);
+}
+
+.counter-wrapper {
+    width: 19px;
+    height: 19px;
+    background-color: #fff;
+    -webkit-border-radius: 19px;
+    -moz-border-radius: 19px;
+    border-radius: 19px;
+    position: fixed;
+    margin-left: 36px;
+    z-index: 10;
+    margin-top: -5px;
+}
+
+.counter-bg {
+    background-color: #F41B41;
+    width: 16px;
+    height: 16px;
+    border-radius: 17px;
+    -webkit-border-radius: 17px;
+    -moz-border-radius: 17px;
+    top: 1.5px;
+    position: relative;
+    left: 1.5px;
+    -webkit-box-shadow: inset 0px 1.5px 2px 0px rgba(175, 0, 0, 0.8);
+    -moz-box-shadow: inset 0px 1.5px 2px 0px rgba(175, 0, 0, 0.8);
+    box-shadow: inset 0px 1.5px 2px 0px rgba(175, 0, 0, 0.8);
+    text-align: center;
+}
+
+.gift-count {
+    font-size: 10px;
+    color: #fff;
+    font-weight: bold;
+    position: relative;
+    bottom :3px;
+    letter-spacing: 0;
+}
+
+.cog-grand {
+    font-weight: 800;
+    font-size: 23px;
+    text-align: center;
+    color: #fff;
+    text-shadow: 0 0 4px #8FA0A8, 0 0 4px #8FA0A8, 0 0 1px #8FA0A8, 0 0 4px #8FA0A8, 0 0 3px #8fa0a8, 0 0 3px #8FA0A8, 0 0 3px #8FA0A8, 0 0 0px #8FA0A8;
+    position: relative;
+    left: 0;
+    -webkit-text-stroke-width: 0.3px;
+    -webkit-text-stroke-color: #75848c;
+    top: -1px;
 
 }
+
 
 
 
