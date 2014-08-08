@@ -10,4 +10,14 @@ only screen and (                min-resolution: 2dppx) {
         background-size: 827px 143px;
     }
 
+    .cog-icon{
+        background-position: 7.5px 6.489586px;
+        background-image: url('../images/sprites@2x.png');
+        background-size: 277px 135px;
+        background-repeat: no-repeat;
+        width: 40px;
+        height: 40px;
+    }
+
+
 }

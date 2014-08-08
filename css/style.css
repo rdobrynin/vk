@@ -32,10 +32,6 @@ html, body {
 
 }
 
-.container {
-    width: 827px;
-    padding-top: 100px;
-}
 
 .preview {
     background: url('../images/preview_100.jpg') center no-repeat;
