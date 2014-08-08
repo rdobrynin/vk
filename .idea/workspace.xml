@@ -26,15 +26,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="54" column="18" selection-start="1876" selection-end="1876" vertical-scroll-proportion="-19.333334" vertical-offset="450" max-vertical-offset="2219">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="preview.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/preview.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -56,12 +47,28 @@
       <file leaf-file-name="elements.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/elements.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="54" column="0" selection-start="3533" selection-end="3533" vertical-scroll-proportion="0.4556962" vertical-offset="800" max-vertical-offset="3870">
+            <state line="142" column="0" selection-start="7549" selection-end="7549" vertical-scroll-proportion="0.4050633" vertical-offset="2760" max-vertical-offset="4330">
               <folding>
-                <element signature="e#1965#2628#2" expanded="true" />
-                <element signature="e#3860#4523#2" expanded="true" />
-                <element signature="e#5767#6430#2" expanded="true" />
+                <element signature="e#2067#2730#2" expanded="true" />
+                <element signature="e#3960#4623#2" expanded="true" />
+                <element signature="e#5867#6530#2" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sprites.png" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/sprites.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sprites.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/sprites.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="53" column="4" selection-start="1003" selection-end="1048" vertical-scroll-proportion="0.0" vertical-offset="486" max-vertical-offset="2534">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -381,9 +388,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="47" column="74" selection-start="2287" selection-end="2287" vertical-scroll-proportion="0.0" vertical-offset="846" max-vertical-offset="1296">
           <folding>
-            <element signature="e#1965#2628#2" expanded="true" />
-            <element signature="e#3860#4523#2" expanded="true" />
-            <element signature="e#5767#6430#2" expanded="true" />
+            <element signature="e#2067#2730#2" expanded="true" />
+            <element signature="e#3960#4623#2" expanded="true" />
+            <element signature="e#5867#6530#2" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -480,16 +487,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/sprites.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="16" selection-start="511" selection-end="511" vertical-scroll-proportion="0.18837209" vertical-offset="162" max-vertical-offset="2534" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/sprites.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/sprites2x.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="0" selection-start="244" selection-end="334" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2534">
@@ -518,20 +515,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/images/sprites.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="18" selection-start="1876" selection-end="1876" vertical-scroll-proportion="-19.333334" vertical-offset="450" max-vertical-offset="2219">
+        <state line="53" column="4" selection-start="1003" selection-end="1048" vertical-scroll-proportion="0.0" vertical-offset="486" max-vertical-offset="2534">
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="56" column="19" selection-start="1943" selection-end="1943" vertical-scroll-proportion="-12.0" vertical-offset="684" max-vertical-offset="2381">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/sprites.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/elements.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="0" selection-start="3533" selection-end="3533" vertical-scroll-proportion="0.4556962" vertical-offset="800" max-vertical-offset="3870">
+        <state line="142" column="0" selection-start="7549" selection-end="7549" vertical-scroll-proportion="0.4050633" vertical-offset="2760" max-vertical-offset="4330">
           <folding>
-            <element signature="e#1965#2628#2" expanded="true" />
-            <element signature="e#3860#4523#2" expanded="true" />
-            <element signature="e#5767#6430#2" expanded="true" />
+            <element signature="e#2067#2730#2" expanded="true" />
+            <element signature="e#3960#4623#2" expanded="true" />
+            <element signature="e#5867#6530#2" expanded="true" />
           </folding>
         </state>
       </provider>
