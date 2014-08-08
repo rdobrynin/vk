@@ -5,7 +5,7 @@ only screen and (     -o-min-device-pixel-ratio: 2/1),
 only screen and (        min-device-pixel-ratio: 2),
 only screen and (                min-resolution: 192dpi),
 only screen and (                min-resolution: 2dppx) {
-    .background {
+    .wrapper {
         background-image: url('../images/clouds@2x.png');
         background-size: 827px 143px;
     }
@@ -15,8 +15,14 @@ only screen and (                min-resolution: 2dppx) {
         background-image: url('../images/sprites@2x.png');
         background-size: 277px 135px;
         background-repeat: no-repeat;
-        width: 40px;
-        height: 40px;
+        width: 46px;
+        height: 46px;
+        cursor: pointer;
+        border-radius: 46px;
+        position: relative;
+        background-color: #D7E0E3;
+        top: 0;
+        left: 0;
     }
 
 

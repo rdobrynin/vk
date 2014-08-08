@@ -30,7 +30,7 @@
     top: 3px;
 }
 .icon-big-bg:hover {
-  background-color: #aab4b8;
+  background-color: #C0CBCF;
 }
 
 
@@ -63,8 +63,22 @@
     background-position: 6.5px 3.489586px;
     background-image: url('../images/sprites.png');
     background-repeat: no-repeat;
-    width: 40px;
-    height: 40px;
+    width: 46px;
+    height: 46px;
     cursor: pointer;
+    border-radius: 46px;
+    position: relative;
+    background-color: #D7E0E3;
+    top: 0;
+    left: 0;
 }
+
+.icon-inside-big-hover:hover {
+    -webkit-box-shadow: inset 6px 2px 5px -6px rgba(190, 207, 214, 0.95);
+    -moz-box-shadow: inset 6px 2px 5px -6px rgba(190, 207, 214, 0.95);
+    box-shadow: inset 6px 2px 5px -6px rgba(190, 207, 214, 0.95);
+
+}
+
+
 

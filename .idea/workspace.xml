@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6778edc4-4afe-43d8-bc69-2a652cc0982c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/elements.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/elements.css" afterPath="$PROJECT_DIR$/css/elements.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/preview.html" afterPath="$PROJECT_DIR$/preview.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/retina.css" afterPath="$PROJECT_DIR$/css/retina.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -30,10 +29,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="28" column="34" selection-start="1080" selection-end="1080" vertical-scroll-proportion="0.60504204" vertical-offset="0" max-vertical-offset="1841">
+            <state line="21" column="31" selection-start="965" selection-end="965" vertical-scroll-proportion="-13.333333" vertical-offset="18" max-vertical-offset="2021">
               <folding />
             </state>
           </provider>
@@ -42,7 +41,7 @@
       <file leaf-file-name="preview.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/preview.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="7" selection-start="1040" selection-end="1040" vertical-scroll-proportion="0.0" vertical-offset="468" max-vertical-offset="504">
+            <state line="26" column="7" selection-start="1040" selection-end="1040" vertical-scroll-proportion="-17.333334" vertical-offset="0" max-vertical-offset="1283">
               <folding />
             </state>
           </provider>
@@ -51,7 +50,7 @@
       <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="33" selection-start="549" selection-end="549" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2660">
+            <state line="25" column="10" selection-start="1357" selection-end="1357" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="2534">
               <folding />
             </state>
           </provider>
@@ -60,8 +59,10 @@
       <file leaf-file-name="elements.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/elements.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="47" column="74" selection-start="2287" selection-end="2287" vertical-scroll-proportion="0.0" vertical-offset="846" max-vertical-offset="1296">
-              <folding />
+            <state line="70" column="30" selection-start="3883" selection-end="3883" vertical-scroll-proportion="-6.7192984" vertical-offset="1017" max-vertical-offset="2530">
+              <folding>
+                <element signature="e#2229#2892#2" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -75,10 +76,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="retina.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="retina.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/retina.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="1" selection-start="707" selection-end="707" vertical-scroll-proportion="0.0" vertical-offset="396" max-vertical-offset="432">
+            <state line="19" column="24" selection-start="719" selection-end="719" vertical-scroll-proportion="0.3976744" vertical-offset="0" max-vertical-offset="1346">
               <folding />
             </state>
           </provider>
@@ -123,12 +124,12 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/js/script.js" />
-        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/images/sprites.css" />
-        <option value="$PROJECT_DIR$/css/retina.css" />
         <option value="$PROJECT_DIR$/preview.html" />
         <option value="$PROJECT_DIR$/css/elements.css" />
+        <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/retina.css" />
       </list>
     </option>
   </component>
@@ -315,9 +316,9 @@
     <frame x="65" y="24" width="2495" height="1416" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32930514" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32930514" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32930514" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32930514" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.07751938" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -380,7 +381,9 @@
     <entry file="file://$PROJECT_DIR$/css/elements.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="47" column="74" selection-start="2287" selection-end="2287" vertical-scroll-proportion="0.0" vertical-offset="846" max-vertical-offset="1296">
-          <folding />
+          <folding>
+            <element signature="e#2229#2892#2" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -493,37 +496,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/retina.css">
+    <entry file="file://$PROJECT_DIR$/css/elements.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="1" selection-start="707" selection-end="707" vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="1238">
-          <folding />
+        <state line="70" column="30" selection-start="3883" selection-end="3883" vertical-scroll-proportion="-6.7192984" vertical-offset="1017" max-vertical-offset="2530">
+          <folding>
+            <element signature="e#2229#2892#2" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/preview.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="7" selection-start="1040" selection-end="1040" vertical-scroll-proportion="0.0" vertical-offset="468" max-vertical-offset="504">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/elements.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="74" selection-start="2287" selection-end="2287" vertical-scroll-proportion="0.0" vertical-offset="341" max-vertical-offset="2161">
+        <state line="26" column="7" selection-start="1040" selection-end="1040" vertical-scroll-proportion="-17.333334" vertical-offset="0" max-vertical-offset="1283">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="33" selection-start="549" selection-end="549" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2660">
+        <state line="25" column="10" selection-start="1357" selection-end="1357" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="2534">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="34" selection-start="1080" selection-end="1080" vertical-scroll-proportion="0.60504204" vertical-offset="0" max-vertical-offset="1841">
+        <state line="21" column="31" selection-start="965" selection-end="965" vertical-scroll-proportion="-13.333333" vertical-offset="18" max-vertical-offset="2021">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/retina.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="24" selection-start="719" selection-end="719" vertical-scroll-proportion="0.3976744" vertical-offset="0" max-vertical-offset="1346">
           <folding />
         </state>
       </provider>

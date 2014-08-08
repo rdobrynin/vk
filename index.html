@@ -15,27 +15,37 @@
     <link href="css/elements.css" rel="stylesheet">
     <link href="css/retina.css" rel="stylesheet">
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
-    <script src="//vk.com/js/api/openapi.js" type="text/javascript"></script>
-    <script type="text/javascript">
-        VK.init({
-            apiId: 4496769
-        });
-    </script>
 </head>
 <body>
+<script src="//vk.com/js/api/openapi.js" type="text/javascript"></script>
+<!--<div id="login_button" onclick="VK.Auth.login(authInfo);"></div>-->
+<script type="text/javascript">
+    VK.init({
+        apiId: 4496769
+    });
+    function authInfo(response) {
+        if (response.session) {
+            alert('user: '+response.session.mid);
+        } else {
+            alert('not auth');
+        }
+    }
+    VK.Auth.getLoginStatus(authInfo);
+    VK.UI.button('login_button');
+</script>
 <div class="wrapper">
-    <div class="background"></div>
-    <!--ICON-->
+    <!--ICON-SETTINGS-->
     <div class="icon-wrapper-big">
         <div class="icon-big-bg">
             <div class="icon-big">
                 <!--BUTTON_SETTING-->
-                <div class="cog-icon" id="button-1">
+                <div class="cog-icon icon-inside-big-hover" id="button-1">
                 </div>
             </div>
         </div>
     </div>
-    <!--content box-->
+    <!--END ICON_SETTINGS-->
+
     <div class="box-content-blur">
     <div class="content-frame-outside">
         <div class="content-frame-inside">
