@@ -33,6 +33,14 @@ only screen and (                min-resolution: 2dppx) {
 
     }
 
+    .coin-gold-icon {
+        background-position: -46.000008px -49px;
+        background-image: url('../images/sprites@2x.png');
+        background-repeat: no-repeat;
+        background-size: 277px 135px;
+    }
+
+
 
 
 }
