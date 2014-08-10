@@ -388,5 +388,53 @@ background-color:  #D5DDE0;
     overflow: hidden;
 }
 
+.user-gift-image {
+    width: 35px;
+    height: 30px;
+    z-index: 11;
+    position: fixed;
+    padding-left: 3px;
+    margin-left: 50px;
+    margin-top: 0;
+}
+
+#gift-img-tiger {
+    background-position: -373px -182px;
+    background-image: url('../images/sprites.png');
+    width: 36px;
+    height: 34px;
+    z-index: 12;
+    left: 18px;
+    margin-left: -12px;
+    margin-top: -2px;
+}
+
+#gift-img-puma {
+    background-position: -427px -182px;
+    background-image: url('../images/sprites.png');
+    width: 34px;
+    height: 36px;
+    z-index: 12;
+    left: 18px;
+    margin-left: -12px;
+    margin-top: -2px;
+}
+
+#gift-img-roze {
+    background-position: -476px -182px;
+    background-image: url('../images/sprites.png');
+    width: 34px;
+    height: 36px;
+    z-index: 12;
+    left: 18px;
+    margin-left: -12px;
+    margin-top: -2px;
+}
+
+
+
+
+
+
 
 

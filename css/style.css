@@ -94,8 +94,7 @@ html, body {
 }
 
 .top-users-block {
-    background-color: #ddd;
-    width: 476px;
+    max-width: 476px;
     height: 100px;
     position: fixed;
     top: 49px;
@@ -105,6 +104,12 @@ html, body {
 .user-block {
     width: 119px;
     height: 100px;
-    background-color: #999;
 }
 
+.block-left {
+    float: left;
+}
+
+.block-right {
+    float: right;
+}

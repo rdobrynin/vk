@@ -58,4 +58,25 @@ only screen and (                min-resolution: 2dppx) {
         background-size: 277px 135px;
     }
 
+    #gift-img-tiger {
+        background-position: -373px -182px;
+        background-image: url('../images/sprites@2x.png');
+        background-size: 277px 135px;
+    }
+
+    #gift-img-puma {
+        background-position: -424px -182px;
+        background-image: url('../images/sprites@2x.png');
+        background-size: 277px 135px;
+
+    }
+
+    #gift-roze {
+        background-position: -476px -182px;
+        background-image: url('../images/sprites@2x.png');
+        background-size: 277px 135px;
+
+    }
+
+
 }
