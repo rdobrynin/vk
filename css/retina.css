@@ -40,7 +40,22 @@ only screen and (                min-resolution: 2dppx) {
         background-size: 277px 135px;
     }
 
+    .vk-plus {
+        background-image: url('../images/sprites@2x.png');
+        background-position: -6.100008px -105.9px;
+        background-size: 277px 135px;
+    }
 
+    .note-lg-icon{
+        background-position: -91.000008px 6px;
+        background-image: url('../images/sprites@2x.png');
+        background-size: 277px 135px;
+    }
 
+    .place-icon{
+        background-position: -45.000008px 4px;
+        background-image: url('../images/sprites@2x.png');
+        background-size: 277px 135px;
+    }
 
 }

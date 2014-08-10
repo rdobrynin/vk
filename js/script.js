@@ -1,6 +1,8 @@
 
 $(function () {
-console.log('test');
+    $('#button-add-coins').click(function () {
+        alert('plus');
+    });
 });
 
 
