@@ -92,3 +92,19 @@ html, body {
     right: 0;
     position: fixed;
 }
+
+.top-users-block {
+    background-color: #ddd;
+    width: 476px;
+    height: 100px;
+    position: fixed;
+    top: 49px;
+    left: 191px;
+}
+
+.user-block {
+    width: 119px;
+    height: 100px;
+    background-color: #999;
+}
+

@@ -366,6 +366,27 @@
     left: 687px;
 }
 
+.user-frame {
+    width: 63px;
+    height: 62px;
+    border-radius: 4px;
+background-color:  #D5DDE0;
+    position: relative;
+    margin: 0 auto;
+    top: 9px;
+
+}
+
+.photo {
+    margin: 0 auto;
+    position: relative;
+    width: 57px;
+    height: 56px;
+    left: 0;
+    top: 2.5px;
+    border-radius: 3px;
+    overflow: hidden;
+}
 
 
 
