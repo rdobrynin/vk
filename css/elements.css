@@ -245,13 +245,70 @@
     font-size: 23px;
     text-align: center;
     color: #fff;
-    text-shadow: 0 0 4px #8FA0A8, 0 0 4px #8FA0A8, 0 0 1px #8FA0A8, 0 0 4px #8FA0A8, 0 0 3px #8fa0a8, 0 0 3px #8FA0A8, 0 0 3px #8FA0A8, 0 0 0px #8FA0A8;
+    text-shadow:
+        1px 1px 1px #7B8A8F,
+        -1px -1px 1px #7B8A8F,
+        -1px 1px 1px #7B8A8F,
+        1px -1px 1px #7B8A8F,
+        -1px 0px 1px #7B8A8F,
+        1px 0 1px #7B8A8F,
+        0 1px 1px #7B8A8F,
+        0 -1px 1px #7B8A8F,
+        2px 2px 1px #A4B4BD,
+        -2px 2px 1px #A4B4BD,
+        3px 1px 1px #A4B4BD,
+        2px 0 1px #A4B4BD,
+        -2px 2px 1px #A4B4BD,
+        2px 0 1px #A4B4BD,
+        0 2px 1px #A4B4BD,
+        3px 3px 1px #A4B4BD,
+        -3px 3px 1px #A4B4BD,
+        -3px 3px 1px #A4B4BD,
+        3px 0 1px #A4B4BD,
+        -3px 0 1px #A4B4BD,
+        3px 0 1px #A4B4BD,
+        0 3px 1px #A4B4BD;
     position: relative;
     left: 0;
     -webkit-text-stroke-width: 0.3px;
     -webkit-text-stroke-color: #75848c;
     top: -1px;
 }
+
+
+.balance-amount {
+    position: fixed;
+    font-size: 24px;
+    font-weight: 800;
+    color: #fff;
+    margin-top: 0.5px;
+    margin-left: 10px;
+    text-shadow:
+        1px 1px 1px #7B8A8F,
+        -1px -1px 1px #7B8A8F,
+        -1px 1px 1px #7B8A8F,
+        1px -1px 1px #7B8A8F,
+        -1px 0px 1px #7B8A8F,
+        1px 0 1px #7B8A8F,
+        0 1px 1px #7B8A8F,
+        0 -1px 1px #7B8A8F,
+        2px 2px 1px #A4B4BD,
+        -2px 2px 1px #A4B4BD,
+        3px 1px 1px #A4B4BD,
+        2px 0 1px #A4B4BD,
+        -2px 2px 1px #A4B4BD,
+        2px 0 1px #A4B4BD,
+        0 2px 1px #A4B4BD,
+        3px 3px 1px #A4B4BD,
+        -3px 3px 1px #A4B4BD,
+        -3px 3px 1px #A4B4BD,
+        3px 0 1px #A4B4BD,
+        -3px 0 1px #A4B4BD,
+        3px 0 1px #A4B4BD,
+        0 3px 1px #A4B4BD;
+}
+
+
 
 .coin-balance-wrapper {
     width: 132px;
@@ -576,11 +633,53 @@ background-color:  #D5DDE0;
 }
 
 .username a {
-    font-weight: bold;
-    color: #a8a8a8;
+    letter-spacing:0;
+    font-weight: 800;
+    color: #fff;
     position: relative;
     top: 4px;font-size: 13px;
     text-transform: capitalize;
+  text-shadow:
+      1px 1px 1px #7B8A8F,
+      -1px -1px 1px #7B8A8F,
+      -1px 1px 1px #7B8A8F,
+      1px -1px 1px #7B8A8F,
+      -1px 0px 1px #7B8A8F,
+      1px 0 1px #7B8A8F,
+      0 1px 1px #7B8A8F,
+      0 -1px 1px #7B8A8F,
+
+
+      2px 4px 1px #D5DDE0,
+      -2px 4px 1px #D5DDE0,
+      3px 4px 1px #D5DDE0,
+      2px 0 1px #D5DDE0,
+      -2px 2px 1px #D5DDE0,
+      2px 0 1px #D5DDE0,
+      0 2px 1px #D5DDE0,
+
+
+      3px 3px 1px #D5DDE0,
+      -3px 3px 1px #D5DDE0,
+      -3px 3px 1px #D5DDE0,
+      3px 0 1px #D5DDE0,
+      -3px 0 1px #D5DDE0,
+      3px 0 1px #D5DDE0,
+      0 3px 1px #D5DDE0,
+
+      4px 4px 1px #D5DDE0,
+      -4px 0 1px #D5DDE0,
+      -4px 4px 1px #D5DDE0,
+      4px 0 1px #D5DDE0,
+      -4px 0 1px #D5DDE0,
+      4px 0 1px #D5DDE0,
+      0 4px 1px #D5DDE0;
+
+
+
+
+
+
 }
 
 

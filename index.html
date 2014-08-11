@@ -23,15 +23,15 @@
     VK.init({
         apiId: 4496769
     });
-    function authInfo(response) {
-        if (response.session) {
-            alert('user: ' + response.session.mid);
-        } else {
-            alert('not auth');
-        }
-    }
-    VK.Auth.getLoginStatus(authInfo);
-    VK.UI.button('login_button');
+//    function authInfo(response) {
+//        if (response.session) {
+//            alert('user: ' + response.session.mid);
+//        } else {
+//            alert('not auth');
+//        }
+//    }
+//    VK.Auth.getLoginStatus(authInfo);
+//    VK.UI.button('login_button');
 </script>
 <div class="wrapper">
     <!--TOP RIGHT REGION-->
@@ -39,6 +39,7 @@
         <div class="coin-balance-wrapper">
             <div class="coin-balance-bg">
                 <div class="coin-balance-big">
+                    <span class="balance-amount" id="balance-amount">12318</span>
                     <div class="coin-gold-icon">
                     </div>
                     <div class="green-plus-wrapper">
