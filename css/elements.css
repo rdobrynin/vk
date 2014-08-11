@@ -571,6 +571,18 @@ background-color:  #D5DDE0;
     margin-left: -17px;
 }
 
+.username {
+    text-align: center;
+}
+
+.username a {
+    font-weight: bold;
+    color: #a8a8a8;
+    position: relative;
+    top: 4px;font-size: 13px;
+    text-transform: capitalize;
+}
+
 
 
 

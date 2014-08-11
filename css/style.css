@@ -16,6 +16,10 @@ html, body {
     background:#ecf1f3;
 }
 
+a:hover {
+    text-decoration: none;
+}
+
 .wrapper {
     width: 827px;
     height: 700px;
