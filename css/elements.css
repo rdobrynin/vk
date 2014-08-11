@@ -304,8 +304,19 @@
     top: 1.5px;
 }
 
+.icon-add-gift-active-bg {
+    background-color: #EB8A03;
+    width: 26px;
+    height: 26px;
+    border-radius: 36px;
+    position: relative;
+    margin: 0 auto;
+    top: 1.5px;
+}
+
+
 .icon-add-gift-default {
-    background-position: -253.6px -3.510414px;
+    background-position: -530.6px -4.510414px;
     background-image: url('../images/sprites@2x.png');
     background-size: 277px 135px;
     width: 24.5px;
@@ -318,6 +329,23 @@
     position: relative;
     margin-left: -0.8px;
 }
+
+.icon-add-gift-active {
+    background-position: -279.3px -54.510414px;
+    background-image: url('../images/sprites@2x.png');
+    background-size: 277px 135px;
+    width: 24.5px;
+    height: 23.5px;
+    cursor: pointer;
+    -webkit-border-radius: 21px;
+    -moz-border-radius: 21px;
+    border-radius: 24px;
+    left: 0;
+    position: relative;
+    margin-left: -0.8px;
+     background-color: #fea100;
+}
+
 
 
 .gift-default-bg{
@@ -342,8 +370,32 @@
 
 }
 
+.gift-active-bg{
+    width: 25.5px;
+    height: 25.5px;
+    position: relative;
+    top: 1.8px;
+    -webkit-border-radius: 24px;
+    -moz-border-radius: 24px;
+    border-radius: 24px;
+    right: -1.5px;
+    text-align: center;
+    padding-left: 1px;
+    background-color: #EB8C06;
+    /* background: #fea100; */
+    /* background: -moz-radial-gradient(center, ellipse cover, #fea100 0%, #fea400 100%); */
+    /* background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#fea100), color-stop(100%,#fea400)); */
+    /* background: -webkit-radial-gradient(center, ellipse cover, #fea100 0%,#fea400 100%); */
+    /* background: -o-radial-gradient(center, ellipse cover, #fea100 0%,#fea400 100%); */
+    /* background: -ms-radial-gradient(center, ellipse cover, #fea100 0%,#fea400 100%); */
+    /* background: radial-gradient(ellipse at center, #fea100 0%,#fea400 100%); */
+    /* filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#fea100', endColorstr='#fea400',GradientType=1 ); */
+
+}
+
+
 .icon-add-gift-default-bg:hover .gift-default-bg .icon-add-gift-default {
-    background-position: -253.6px -3.510414px;
+    background-position: -253.6px -4.510414px;
     background-image: url('../images/sprites@2x.png');
     background-size: 277px 135px;
     width: 24.5px;
