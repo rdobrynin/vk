@@ -102,6 +102,14 @@
   background-color: #C0CBCF;
 }
 
+.icon-big-bg:hover .icon-big .cog-icon,
+.icon-big-bg:hover .icon-big .cup-icon,
+.icon-big-bg:hover .icon-big .place-icon,
+.icon-big-bg:hover .icon-big .note-lg-icon{
+    background-color: #d2dbde;
+
+}
+
 
 .icon-big {
     width: 46px;
@@ -265,6 +273,88 @@
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e0e8eb', endColorstr='#ffffff',GradientType=0 );
 }
 
+
+.add-gift-default {
+    width: 29px;
+    height: 29px;
+    -webkit-border-radius: 29px;
+    -moz-border-radius: 29px;
+    border-radius: 29px;
+    background: #e0e8eb;
+    background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJod…EiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+    background: -moz-linear-gradient(top, #e0e8eb 0%, #fff 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#e0e8eb), color-stop(100%,#f8fafb));
+    background: -webkit-linear-gradient(top, #e0e8eb 0%,#fff 100%);
+    background: -o-linear-gradient(top, #e0e8eb 0%,#fff 100%);
+    background: -ms-linear-gradient(top, #e0e8eb 0%,#fff 100%);
+    background: linear-gradient(to bottom, #e0e8eb 0%,#fff 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e0e8eb', endColorstr='#fff',GradientType=0 );
+    position: fixed;
+    margin-left: 55px;
+    margin-top: -14px;
+}
+
+.icon-add-gift-default-bg {
+    background-color: #9eb1b8;
+    width: 26px;
+    height: 26px;
+    border-radius: 36px;
+    position: relative;
+    margin: 0 auto;
+    top: 1.5px;
+}
+
+.icon-add-gift-default {
+    background-position: -253.6px -3.510414px;
+    background-image: url('../images/sprites@2x.png');
+    background-size: 277px 135px;
+    width: 24.5px;
+    height: 24.5px;
+    cursor: pointer;
+    -webkit-border-radius: 21px;
+    -moz-border-radius: 21px;
+    border-radius: 24px;
+    left: -1px;
+    position: relative;
+}
+
+
+.gift-default-bg{
+    width: 24.5px;
+    height: 24.5px;
+    position: relative;
+    top: 1.4px;
+    -webkit-border-radius: 24px;
+    -moz-border-radius: 24px;
+    border-radius: 24px;
+    right: -0.8px;
+    text-align: center;
+    padding-left: 1px;
+    background: #c7d0d5;
+    background: -moz-radial-gradient(center, ellipse cover,  #c7d0d5 0%, #c7d0d5 100%);
+    background: -webkit-gradient(radial, center center, 0px, center center, 100%, color-stop(0%,#c7d0d5), color-stop(100%,#c7d0d5));
+    background: -webkit-radial-gradient(center, ellipse cover,  #c7d0d5 0%,#c7d0d5 100%);
+    background: -o-radial-gradient(center, ellipse cover,  #c7d0d5 0%,#c7d0d5 100%);
+    background: -ms-radial-gradient(center, ellipse cover,  #c7d0d5 0%,#c7d0d5 100%);
+    background: radial-gradient(ellipse at center,  #c7d0d5 0%,#c7d0d5 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c7d0d5', endColorstr='#c7d0d5',GradientType=1 );
+
+}
+
+.icon-add-gift-default-bg:hover .gift-default-bg .icon-add-gift-default {
+    background-position: -253.6px -3.510414px;
+    background-image: url('../images/sprites@2x.png');
+    background-size: 277px 135px;
+    width: 24.5px;
+    height: 24.5px;
+    cursor: pointer;
+    -webkit-border-radius: 21px;
+    -moz-border-radius: 21px;
+    border-radius: 24px;
+    background-color: #d2dbde;
+    left: -1px;
+    position: relative;
+}
 .coin-balance-bg {
     background-color: #A0B3BA;
     width: 124px;
