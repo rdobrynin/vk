@@ -496,6 +496,16 @@ background-color:  #D5DDE0;
     padding-top: 2px;
 }
 
+.user-gift-image-left {
+    width: 35px;
+    height: 30px;
+    z-index: 11;
+    position: fixed;
+    margin-left: -8px;
+    margin-top: 0;
+    padding-top: 2px;
+}
+
 .gift {
     width: 34px;
     height: 36px;
@@ -503,6 +513,10 @@ background-color:  #D5DDE0;
     left: 18px;
     margin-left: -12px;
     margin-top: -2px;
+}
+
+.add-gift-left {
+    margin-left: -17px;
 }
 
 

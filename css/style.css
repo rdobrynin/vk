@@ -102,9 +102,32 @@ html, body {
     left: 155px;
 }
 
+.left-users-block {
+    position: fixed;
+    top: 214px;
+    left: 10px;
+    width: 10px;
+    height: 279px;
+    z-index: 999;
+}
+
+.right-users-block {
+    position: fixed;
+    top: 214px;
+    left: 745px;
+    width: 102px;
+    height: 279px;
+    z-index: 1999
+}
+
 .user-block {
     width: 131px;
     height: 100px;
+}
+
+.user-block-left {
+    width: 71px;
+    height: 125px;
 }
 
 .block-left {
