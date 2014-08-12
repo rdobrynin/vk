@@ -577,10 +577,10 @@ background-color:  #D5DDE0;
 .gift {
     width: 34px;
     height: 36px;
-    z-index: 12;
-    left: 18px;
+    left: 0;
     margin-left: -12px;
-    margin-top: -2px;
+    position: relative;
+    top: -2px;
 }
 
 .add-gift-left {
@@ -589,6 +589,7 @@ background-color:  #D5DDE0;
 
 .username {
     text-align: center;
+    display: block;
 }
 
 .username a {
