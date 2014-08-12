@@ -373,7 +373,7 @@
 
 
 .icon-add-gift-default {
-    background-position: -530.6px -4.510414px;
+    background-position: -519.6px -4.510414px;
     background-image: url('../images/sprites@2x.png');
     background-size: 277px 135px;
     width: 24.5px;
@@ -452,7 +452,7 @@
 
 
 .icon-add-gift-default-bg:hover .gift-default-bg .icon-add-gift-default {
-    background-position: -253.6px -4.510414px;
+    background-position: 310.6px -4.510414px;
     background-image: url('../images/sprites@2x.png');
     background-size: 277px 135px;
     width: 24.5px;
