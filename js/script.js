@@ -1,4 +1,8 @@
 $(function () {
+
+    $('#button-add-coins').click(function () {
+        alert('test for javascript');
+    });
 //    FUNCTION FORMAT NUMBER WITH COMMA
     function CommaFormatted(yourNumber) {
         var n = yourNumber.toString().split(".");
