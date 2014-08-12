@@ -587,12 +587,18 @@ background-color:  #D5DDE0;
     margin-left: -17px;
 }
 
-.username {
+.username a{
+text-decoration: none;
     text-align: center;
     display: block;
+    letter-spacing:0;
+    font-weight: 800;
+    color: #fff;
 }
 
-.username a {
+.username{
+    text-align: center;
+    display: block;
     letter-spacing:0;
     font-weight: 800;
     color: #fff;
@@ -626,15 +632,7 @@ background-color:  #D5DDE0;
       3px 0 1px #D5DDE0,
       -3px 0 1px #D5DDE0,
       3px 0 1px #D5DDE0,
-      0 3px 1px #D5DDE0,
-
-      4px 4px 1px #D5DDE0,
-      -4px 0 1px #D5DDE0,
-      -4px 4px 1px #D5DDE0,
-      4px 0 1px #D5DDE0,
-      -4px 0 1px #D5DDE0,
-      4px 0 1px #D5DDE0,
-      0 4px 1px #D5DDE0;
+      0 3px 1px #D5DDE0;
 }
 
 
@@ -694,6 +692,10 @@ background-color:  #D5DDE0;
     top: 10px;
     left: 15px;
     cursor: pointer;
+}
+
+.user-invite-bg:hover {
+    background-color: #ccd5da;
 }
 
 
