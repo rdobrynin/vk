@@ -655,7 +655,7 @@ text-decoration: none;
 
 .user-wrapper-invite  {
     width: 61px;
-    height: 63px;
+    height: 61px;
     background-color: #F5F8F9;
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
@@ -663,6 +663,10 @@ text-decoration: none;
     position: relative;
     top: 11px;
     left: 3px;
+}
+
+.username.invite {
+    left:-3px;
 }
 
 .user-frame.bottom {
@@ -799,12 +803,13 @@ text-decoration: none;
 }
 
 .sound-on-off {
-    position: fixed;
+    position: relative;
     width: 23px;
     height: 23px;
     background-image: url('../images/sprites@2x.png');
     background-size: 140px 68px;
-    background-position: -187.100008px 5.1px;
+    background-position: -186.6px 5.1px;
+    top: -2px;
 }
 
 
