@@ -92,13 +92,6 @@ a:hover {
 
 }
 
-.top-right   {
-    height: 53px;
-    width: 400px;
-    right: 0;
-    position: fixed;
-}
-
 .top-users-block {
     height: 100px;
     position: fixed;

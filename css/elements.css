@@ -303,12 +303,12 @@
 
 
 .coin-balance-wrapper {
-    width: 132px;
+    width: 65px;
     height: 36px;
     -webkit-border-radius: 40px;
     -moz-border-radius: 40px;
     border-radius: 40px;
-    left: 675px;
+    left: 731px;
     position: fixed;
     top: 9px;
     background: #e0e8eb;
@@ -322,6 +322,16 @@
     filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e0e8eb', endColorstr='#ffffff',GradientType=0 );
 }
 
+
+.coin-balance-big{
+    background-color: #B5C2C9;
+    width: 56px;
+    height: 28px;
+    position: relative;
+    border-radius: 24px;
+    top: 1.5px;
+    left: 1px;
+}
 
 .add-gift {
     width: 29px;
@@ -459,7 +469,7 @@
 }
 .coin-balance-bg {
     background-color: #A0B3BA;
-    width: 124px;
+    width: 59px;
     height: 31px;
     position: relative;
     top: 2.5px;
@@ -482,18 +492,10 @@
     top: -4px;
 }
 
-.coin-balance-big{
-    background-color: #B5C2C9;
-    width: 114px;
-    height: 28px;
-    position: relative;
-    border-radius: 24px;
-    top: 1.5px;
-    left: 1px;
-}
+
 
 .green-plus-wrapper {
-   background-color: #00A91D;
+    background-color: #00A91D;
     width: 19px;
     height: 19px;
     position: relative;
@@ -501,8 +503,8 @@
     -moz-border-radius: 19px;
     border-radius: 19px;
     float: right;
-    right: -63px;
-    top: 18px;
+    right: -25px;
+    top: -20px;
     padding: 0;
     box-shadow: 0px 2px 0px 0px rgba(206, 216, 218, 1.0);
 }
