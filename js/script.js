@@ -5,7 +5,6 @@ $(function () {
         n[0] = n[0].replace(/\B(?=(\d{3})+(?!\d))/g, ",");
         //Combines the two sections
         return n.join(".");
-
     }
 
     str = $('#balance-amount').html();
