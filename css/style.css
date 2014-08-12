@@ -122,9 +122,9 @@ a:hover {
     height: 100px;
 }
 
-.user-block-left {
+.user-block-side {
     width: 71px;
-    height: 125px;
+    height: 130px;
 }
 
 .block-left {
@@ -133,4 +133,77 @@ a:hover {
 
 .block-right {
     float: right;
+}
+
+.favourite {
+    background-image: url('../images/sprites@2x.png');
+    background-size: 277px 135px;
+    background-position: -106.100008px -104.9px;
+    width: 30px;
+    height: 20px;
+    position: fixed;
+    left: 39px;
+    top: 19px;
+}
+
+.score {
+    position: relative;
+    left: 22px;
+    font-size: 8.2px;
+    color: #fff;font-weight: 600;
+    padding-top: 3px;
+    text-shadow: 1px 1px 1px #97a8ad,
+    -1px -1px 1px #97a8ad,
+    -1px 1px 1px #97a8ad,
+    1px -1px 1px #7B8A8F,
+    -1px 0px 1px #97a8ad,
+    1px 0 1px #97a8ad,
+    0 1px 1px #97a8ad,
+    0 -1px 1px #97a8ad;
+}
+
+.test {
+    text-align: center;
+    color: #B9C8CE;
+    font-weight: 800;
+    font-size: 15px;
+    color: #fff;
+    padding: 10px;
+    height: 389px;
+    text-shadow:
+        1px 1px 1px #7B8A8F,
+        -1px -1px 1px #7B8A8F,
+        -1px 1px 1px #7B8A8F,
+        1px -1px 1px #7B8A8F,
+        -1px 0px 1px #7B8A8F,
+        1px 0 1px #7B8A8F,
+        0 1px 1px #7B8A8F,
+        0 -1px 1px #7B8A8F,
+
+
+        2px 4px 1px #D5DDE0,
+        -2px 4px 1px #D5DDE0,
+        3px 4px 1px #D5DDE0,
+        2px 0 1px #D5DDE0,
+        -2px 2px 1px #D5DDE0,
+        2px 0 1px #D5DDE0,
+        0 2px 1px #D5DDE0,
+
+
+        3px 3px 1px #D5DDE0,
+        -3px 3px 1px #D5DDE0,
+        -3px 3px 1px #D5DDE0,
+        3px 0 1px #D5DDE0,
+        -3px 0 1px #D5DDE0,
+        3px 0 1px #D5DDE0,
+        0 3px 1px #D5DDE0,
+
+        4px 4px 1px #D5DDE0,
+        -4px 0 1px #D5DDE0,
+        -4px 4px 1px #D5DDE0,
+        4px 0 1px #D5DDE0,
+        -4px 0 1px #D5DDE0,
+        4px 0 1px #D5DDE0,
+        0 4px 1px #D5DDE0;
+
 }

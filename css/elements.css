@@ -597,7 +597,8 @@ background-color:  #D5DDE0;
     font-weight: 800;
     color: #fff;
     position: relative;
-    top: 4px;font-size: 13px;
+    top: 4px;
+    font-size: 11px;
     text-transform: capitalize;
   text-shadow:
       1px 1px 1px #7B8A8F,
@@ -652,6 +653,47 @@ background-color:  #D5DDE0;
 #place-10 {
     position: relative;
     left: -2px;
+}
+
+.user-wrapper-invite  {
+    width: 64px;
+    height: 60px;
+    background-color: #F5F8F9;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    position: relative;
+    top: 11px;
+}
+
+.user-frame.bottom {
+    top: 0;
+    background-color: #BBC8CE;
+    height: 58px;
+}
+
+.user-invite-bg {
+    background-color: #C8D1D6;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 4px;
+    position: relative;
+    top: 3.8px;
+    width: 62px;
+    height: 54px;
+    left: 1px;
+}
+
+.add-user {
+    width: 30px;
+    height: 30px;
+    background-image: url('../images/sprites@2x.png');
+    background-size: 277px 135px;
+    background-position: -479.100008px -1.9px;
+    position: relative;
+    top: 10px;
+    left: 15px;
+    cursor: pointer;
 }
 
 

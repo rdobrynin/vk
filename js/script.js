@@ -1,7 +1,11 @@
 $(function () {
 
     $('#button-add-coins').click(function () {
-        alert('test for javascript');
+//        $('.content-frame-inside-blur').html('<p class="test">test for javascript</p>').animate( { 'height':'auto' },51000 );
+
+
+
+        $('.test').append(' test for javascript ').animate( { 'height':'auto' },5000 );
     });
 //    FUNCTION FORMAT NUMBER WITH COMMA
     function CommaFormatted(yourNumber) {
@@ -11,8 +15,21 @@ $(function () {
         return n.join(".");
     }
 
-    str = $('#balance-amount').html();
-    var letters = str.length;
+    strBalance = $('#balance-amount').html();
+    strScore1 = $('.score-1').html();
+    strScore2 = $('.score-2').html();
+    var letters = strBalance.length;
+
+
+    var balance = CommaFormatted(strBalance);
+    $('#balance-amount').html(balance);
+
+    var score1 = CommaFormatted(strScore1);
+    $('.score-1').html(score1);
+
+    var score2 = CommaFormatted(strScore2);
+    $('.score-2').html(score2);
+
 
     if(letters == 1) {
         $('.green-plus-wrapper').css({ 'right': '-23px' });
@@ -117,10 +134,6 @@ $(function () {
     else {
 
     }
-
-
-    balance = CommaFormatted(str);
-    $('#balance-amount').html(balance);
 });
 
 
