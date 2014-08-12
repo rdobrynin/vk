@@ -73,15 +73,7 @@
     -moz-border-radius: 36px;
     border-radius: 36px;
     right: -0.8px;
-    background: #B4C2C9;
-    background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJod…EiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
-    background: -moz-linear-gradient(top, #B4C2C9 0%, #c1cdd3 100%);
-    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#B4C2C9), color-stop(100%,#c1cdd3));
-    background: -webkit-linear-gradient(top, #B4C2C9 0%,#c1cdd3 100%);
-    background: -o-linear-gradient(top,#B4C2C9 0%,#c1cdd3 100%);
-    background: -ms-linear-gradient(top, #B4C2C9 0%,#c1cdd3 100%);
-    background: linear-gradient(to bottom, #B4C2C9 0%,#c1cdd3 100%);
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cfdae1', endColorstr='#c1cdd3',GradientType=0 );
+    background: #B6C1C8;
     text-align: center;
     padding-left: 1px;
 
@@ -674,14 +666,25 @@ background-color:  #D5DDE0;
       -4px 0 1px #D5DDE0,
       4px 0 1px #D5DDE0,
       0 4px 1px #D5DDE0;
-
-
-
-
-
-
 }
 
+
+#place-1 {
+    margin-right: 3px;
+}
+
+#place-4{
+    margin-right: 1px;
+}
+
+#place-6,#place-8{
+    margin-right: 1px;
+}
+
+#place-10 {
+    position: relative;
+    left: -2px;
+}
 
 
 
