@@ -136,7 +136,7 @@ $(function () {
         $('.coin-gold-icon').css({ 'top': '-23px' });
     }
     else {
-
+//
     }
 });
 

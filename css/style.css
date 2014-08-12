@@ -205,5 +205,22 @@ a:hover {
         -4px 0 1px #D5DDE0,
         4px 0 1px #D5DDE0,
         0 4px 1px #D5DDE0;
+}
+
+.active-user-wrapper {
+    position: fixed;
+    width: 224px;
+    height: 30px;
+    left: 427px;
+    top: 14px;
+}
+
+.user-frame-active {
+    width: 27px;
+    height: 27px;
+    background-color: #D5DDE0;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
 
 }
