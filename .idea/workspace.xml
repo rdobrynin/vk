@@ -2,8 +2,63 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6778edc4-4afe-43d8-bc69-2a652cc0982c" name="Default" comment="">
+      <change type="MOVED" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/10@2x.png" afterPath="$PROJECT_DIR$/images/10@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/1@2x.png" afterPath="$PROJECT_DIR$/images/1@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/2@2x.png" afterPath="$PROJECT_DIR$/images/2@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/3@2x.png" afterPath="$PROJECT_DIR$/images/3@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/4@2x.png" afterPath="$PROJECT_DIR$/images/4@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/5@2x.png" afterPath="$PROJECT_DIR$/images/5@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/6@2x.png" afterPath="$PROJECT_DIR$/images/6@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/7@2x.png" afterPath="$PROJECT_DIR$/images/7@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/8@2x.png" afterPath="$PROJECT_DIR$/images/8@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/9@2x.png" afterPath="$PROJECT_DIR$/images/9@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/clouds.png" afterPath="$PROJECT_DIR$/images/clouds.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/clouds@2x.png" afterPath="$PROJECT_DIR$/images/clouds@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ico/favicon.ico" afterPath="$PROJECT_DIR$/ico/favicon.ico" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/gift_diamond.png" afterPath="$PROJECT_DIR$/images/gift_diamond.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/gift_puma.png" afterPath="$PROJECT_DIR$/images/gift_puma.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/gift_roze.png" afterPath="$PROJECT_DIR$/images/gift_roze.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/gift_tiger.png" afterPath="$PROJECT_DIR$/images/gift_tiger.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.eot" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.ttf" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.woff" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/photo_left_1@2x.jpg" afterPath="$PROJECT_DIR$/images/photo_left_1@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/photo_left_2@2x.jpg" afterPath="$PROJECT_DIR$/images/photo_left_2@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/photo_right_1@2x.jpg" afterPath="$PROJECT_DIR$/images/photo_right_1@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/photo_right_2@2x.jpg" afterPath="$PROJECT_DIR$/images/photo_right_2@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/photo_top_1@2x.jpg" afterPath="$PROJECT_DIR$/images/photo_top_1@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/photo_top_2@2x.jpg" afterPath="$PROJECT_DIR$/images/photo_top_2@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/photo_top_3@2x.jpg" afterPath="$PROJECT_DIR$/images/photo_top_3@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/photo_top_4@2x.jpg" afterPath="$PROJECT_DIR$/images/photo_top_4@2x.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/preview_100.jpg" afterPath="$PROJECT_DIR$/images/preview_100.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/preview_200.jpg" afterPath="$PROJECT_DIR$/images/preview_200.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sprites.png" afterPath="$PROJECT_DIR$/images/sprites.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sprites@2x.png" afterPath="$PROJECT_DIR$/images/sprites@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.MD" afterPath="$PROJECT_DIR$/README.MD" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/bootstrap-responsive.css" afterPath="$PROJECT_DIR$/css/bootstrap-responsive.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/css/bootstrap.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/elements.css" afterPath="$PROJECT_DIR$/css/elements.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/fonts/glyphicons-halflings-regular.svg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jenkinsSettings.xml" afterPath="$PROJECT_DIR$/.idea/jenkinsSettings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/jquery.preload.min.js" afterPath="$PROJECT_DIR$/js/jquery.preload.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/preview.html" afterPath="$PROJECT_DIR$/preview.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/retina.css" afterPath="$PROJECT_DIR$/css/retina.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/dictionaries/roman.xml" afterPath="$PROJECT_DIR$/.idea/dictionaries/roman.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/script.js" afterPath="$PROJECT_DIR$/js/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sprites.css" afterPath="$PROJECT_DIR$/images/sprites.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/images/sprites2x.css" afterPath="$PROJECT_DIR$/images/sprites2x.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vagrant.xml" afterPath="$PROJECT_DIR$/.idea/vagrant.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vk.iml" afterPath="$PROJECT_DIR$/.idea/vk.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="vk.iws" />
@@ -26,27 +81,18 @@
     <favorites_list name="vk" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.23689727">
+    <splitter split-orientation="horizontal" split-proportion="0.65068495">
       <split-first>
         <leaf>
-          <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="302" column="19" selection-start="11792" selection-end="11792" vertical-scroll-proportion="1.4128065" vertical-offset="6451" max-vertical-offset="9104">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file leaf-file-name="README.MD" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/README.MD">
-              <provider editor-type-id="MarkdownPreviewEditor">
-                <state />
-              </provider>
               <provider selected="true" editor-type-id="text-editor">
                 <state line="4" column="68" selection-start="417" selection-end="417" vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="108">
                   <folding />
                 </state>
+              </provider>
+              <provider editor-type-id="MarkdownPreviewEditor">
+                <state />
               </provider>
             </entry>
           </file>
@@ -57,10 +103,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="187" column="5" selection-start="3966" selection-end="3966" vertical-scroll-proportion="0.0" vertical-offset="3366" max-vertical-offset="4104">
+                <state line="213" column="16" selection-start="4541" selection-end="4541" vertical-scroll-proportion="0.7047619" vertical-offset="3242" max-vertical-offset="4890">
                   <folding />
                 </state>
               </provider>
@@ -117,16 +163,7 @@
           <file leaf-file-name="elements.css" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/elements.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="421" column="30" selection-start="14230" selection-end="14230" vertical-scroll-proportion="0.4313253" vertical-offset="7220" max-vertical-offset="15644">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/index.html">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="31" column="7" selection-start="1206" selection-end="1206" vertical-scroll-proportion="0.0" vertical-offset="558" max-vertical-offset="6192">
+                <state line="395" column="18" selection-start="13085" selection-end="13085" vertical-scroll-proportion="0.49285713" vertical-offset="7272" max-vertical-offset="16770">
                   <folding />
                 </state>
               </provider>
@@ -153,15 +190,15 @@
         <option value="$PROJECT_DIR$/README.MD" />
         <option value="$PROJECT_DIR$/js/script.js" />
         <option value="$PROJECT_DIR$/css/style.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/elements.css" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="66" />
-    <option name="y" value="52" />
+    <option name="y" value="54" />
     <option name="width" value="2485" />
     <option name="height" value="1386" />
   </component>
@@ -340,12 +377,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="66" y="52" width="2485" height="1386" extended-state="0" />
+    <frame x="66" y="54" width="2485" height="1386" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33693972" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32930514" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32921174" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.07783695" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -358,6 +394,7 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.14461286" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33693972" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -384,6 +421,30 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/images/sprites.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="143" column="0" selection-start="6185" selection-end="6185" vertical-scroll-proportion="0.0" vertical-offset="2574" max-vertical-offset="2700">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/preview_200.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/elements.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="406" column="0" selection-start="13839" selection-end="13839" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="14868">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/preview.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="26" column="7" selection-start="1040" selection-end="1040" vertical-scroll-proportion="0.0" vertical-offset="468" max-vertical-offset="504" />
@@ -420,9 +481,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/retina.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="27" selection-start="776" selection-end="776" vertical-scroll-proportion="0.0" vertical-offset="378" max-vertical-offset="702">
-          <folding />
-        </state>
+        <state line="21" column="27" selection-start="776" selection-end="776" vertical-scroll-proportion="0.0" vertical-offset="378" max-vertical-offset="702" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/jquery.preload.min.js">
@@ -478,9 +537,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/retina.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="27" selection-start="776" selection-end="776" vertical-scroll-proportion="0.0" vertical-offset="378" max-vertical-offset="702">
-          <folding />
-        </state>
+        <state line="21" column="27" selection-start="776" selection-end="776" vertical-scroll-proportion="0.0" vertical-offset="378" max-vertical-offset="702" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/jquery.preload.min.js">
@@ -498,11 +555,6 @@
     <entry file="file://$PROJECT_DIR$/images/preview_200.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="14" selection-start="1113" selection-end="1113" vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="972" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/preview.html">
@@ -531,9 +583,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/retina.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="1" selection-start="707" selection-end="707" vertical-scroll-proportion="0.0" vertical-offset="396" max-vertical-offset="432">
-          <folding />
-        </state>
+        <state line="22" column="1" selection-start="707" selection-end="707" vertical-scroll-proportion="0.0" vertical-offset="396" max-vertical-offset="432" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/jquery.preload.min.js">
@@ -553,11 +603,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="0" selection-start="1525" selection-end="1525" vertical-scroll-proportion="0.0" vertical-offset="702" max-vertical-offset="900" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="57" column="0" selection-start="2019" selection-end="2019" vertical-scroll-proportion="0.0" vertical-offset="1026" max-vertical-offset="1746">
@@ -575,11 +620,6 @@
         <state line="8" column="0" selection-start="46" selection-end="46" vertical-scroll-proportion="0.0" vertical-offset="144" max-vertical-offset="216">
           <folding />
         </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="36" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/ico/favicon.ico">
@@ -609,9 +649,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/retina.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="67" column="38" selection-start="2034" selection-end="2034" vertical-scroll-proportion="0.3523256" vertical-offset="903" max-vertical-offset="2300">
-          <folding />
-        </state>
+        <state line="67" column="38" selection-start="2034" selection-end="2034" vertical-scroll-proportion="0.3523256" vertical-offset="903" max-vertical-offset="2300" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/images/gift_tiger.png">
@@ -656,28 +694,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="187" column="5" selection-start="3966" selection-end="3966" vertical-scroll-proportion="0.0" vertical-offset="3368" max-vertical-offset="4887">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/preview_200.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="7" selection-start="1206" selection-end="1206" vertical-scroll-proportion="0.0" vertical-offset="558" max-vertical-offset="6192">
+        <state line="213" column="16" selection-start="4541" selection-end="4541" vertical-scroll-proportion="0.7047619" vertical-offset="3242" max-vertical-offset="4890">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/elements.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="421" column="30" selection-start="14230" selection-end="14230" vertical-scroll-proportion="0.4313253" vertical-offset="7220" max-vertical-offset="15644">
+        <state line="395" column="18" selection-start="13085" selection-end="13085" vertical-scroll-proportion="0.49285713" vertical-offset="7272" max-vertical-offset="16770">
           <folding />
         </state>
       </provider>
