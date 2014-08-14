@@ -17,8 +17,39 @@
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
 </head>
 <body>
-<script src="//vk.com/js/api/openapi.js" type="text/javascript"></script>
-<!--<div id="login_button" onclick="VK.Auth.login(authInfo);"></div>-->
+<script src="http://vkontakte.ru/js/api/openapi.js" type="text/javascript"></script>
+<!--<div id="login_button" onclick="VK.Auth.login(authorize);"></div>-->
+
+<!--<script language="javascript">-->
+<!--    VK.init({-->
+<!--        apiId: 4496769-->
+<!--    });-->
+<!--    function authorize(response) {-->
+<!--        if (response.session) {-->
+<!--            alert("Authorization denied");-->
+<!--        }-->
+<!--        else {-->
+<!--            alert("Authorization doen't denied");-->
+<!--        }-->
+<!--    }-->
+<!---->
+<!--    VK.Api.call('friends.get', {fields: 'uid,first_name'}, function(data) {-->
+<!--        alert(data.response.length);-->
+<!--        if (data.error) {-->
+<!--            alert(data.error.error_msg);-->
+<!--        } else {-->
+<!--            if (data.response.length > 0) {-->
+<!--                for (i = 0; i < data.response.length; i++) {-->
+<!--                    alert(data.response[i]);-->
+<!--                    document.write("<p>" + data.response[i] + "</p>");-->
+<!--                }-->
+<!--            }-->
+<!--        }-->
+<!--    });-->
+<!--    VK.UI.button('login_button');-->
+<!--</script>-->
+
+
 <script type="text/javascript">
     VK.init({
         apiId: 4496769
