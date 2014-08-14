@@ -288,7 +288,7 @@
                     </div>
                 </div>
             </div>
-            <span class="username">анатолий</span>
+            <span class="username" >анатолий</span>
         </div>
     </div>
     <!--2 user-->
@@ -340,11 +340,11 @@
     <div class="user-block-side" id="placeholder-6">
         <!--INVITE CONTAINER-->
         <div class="user-wrapper-invite">
-            <div class="user-frame bottom">
+
                 <div class="user-invite-bg">
                     <div class="add-user"></div>
                 </div>
-            </div>
+
             <span class="username invite">пригласить</span>
         </div>
     </div>

@@ -150,17 +150,70 @@ a:hover {
     position: relative;
     left: 22px;
     font-size: 8px;
-    color: #fff;font-weight: 600;
+    color: #fff;
     padding-top: 3px;
     font-weight: 800;
-    text-shadow: 1px 1px 1px #97a8ad,
-    -1px -1px 1px #97a8ad,
-    -1px 1px 1px #97a8ad,
-    1px -1px 1px #7B8A8F,
-    -1px 0px 1px #97a8ad,
-    1px 0 1px #97a8ad,
-    0 1px 1px #97a8ad,
-    0 -1px 1px #97a8ad;
+    /*text-shadow: 1px 1px 1px #97a8ad,*/
+    /*-1px -1px 1px #97a8ad,*/
+    /*-1px 1px 1px #97a8ad,*/
+    /*1px -1px 1px #7B8A8F,*/
+    /*-1px 0px 1px #97a8ad,*/
+    /*1px 0 1px #97a8ad,*/
+    /*0 1px 1px #97a8ad,*/
+    /*0 -1px 1px #97a8ad;*/
+    text-shadow:
+        0 0 0.5px #89989d,
+        0 0 0.5px #89989d,
+        0 0 0.5px #89989d,
+        0 0 0.5px #89989d,
+        0 0 0.6px #89989d,
+
+
+        0.2px 0 0.5px #89989d,
+        0.2px 0 0.5px #89989d,
+        0.2px 0 0.5px #89989d,
+        0.2px 0 0.5px #89989d,
+        0.2px 0 0.6px #89989d,
+        0.4px 0 0.5px #89989d,
+        0.4px 0 0.5px #89989d,
+        0.4px 0 0.5px #89989d,
+        0.4px 0 0.5px #89989d,
+        0.4px 0 0.6px #89989d,
+
+        -0.2px 0 0.5px #89989d,
+        -0.2px 0 0.5px #89989d,
+        -0.2px 0 0.5px #89989d,
+        -0.2px 0 0.5px #89989d,
+        -0.2px 0 0.6px #89989d,
+        -0.4px 0 0.5px #89989d,
+        -0.4px 0 0.5px #89989d,
+        -0.4px 0 0.5px #89989d,
+        -0.4px 0 0.5px #89989d,
+        -0.4px 0 0.6px #89989d,
+
+        0 0.2px 0.5px #89989d,
+        0 0.2px 0.5px #89989d,
+        0 0.2px 0.5px #89989d,
+        0 0.2px 0.5px #89989d,
+        0 0.2px 0.6px #89989d,
+        0 0.4px 0.5px #89989d,
+        0 0.4px 0.5px #89989d,
+        0 0.4px 0.5px #89989d,
+        0 0.4px 0.5px #89989d,
+        0 0.4px 0.6px #89989d,
+
+
+        0 -0.2px 0.5px #89989d,
+        0 -0.2px 0.5px #89989d,
+        0 -0.2px 0.5px #89989d,
+        0 -0.2px 0.5px #89989d,
+        0 -0.2px 0.6px #89989d,
+        0 -0.4px 0.5px #89989d,
+        0 -0.4px 0.5px #89989d,
+        0 -0.4px 0.5px #89989d,
+        0 -0.4px 0.5px #89989d,
+        0 -0.4px 0.6px #89989d;
+    -webkit-font-smoothing: antialiased;
 }
 
 .test {
@@ -172,40 +225,93 @@ a:hover {
     padding: 10px;
     height: 389px;
     text-shadow:
-        1px 1px 1px #7B8A8F,
-        -1px -1px 1px #7B8A8F,
-        -1px 1px 1px #7B8A8F,
-        1px -1px 1px #7B8A8F,
-        -1px 0px 1px #7B8A8F,
-        1px 0 1px #7B8A8F,
-        0 1px 1px #7B8A8F,
-        0 -1px 1px #7B8A8F,
+        0 0 0.5px #89989d,
+        0 0 0.5px #89989d,
+        0 0 0.5px #89989d,
+        0 0 0.5px #89989d,
+        0 0 0.6px #89989d,
 
+        0.2px 0 0.5px #89989d,
+        0.2px 0 0.5px #89989d,
+        0.2px 0 0.5px #89989d,
+        0.2px 0 0.5px #89989d,
+        0.2px 0 0.6px #89989d,
+        0.4px 0 0.5px #89989d,
+        0.4px 0 0.5px #89989d,
+        0.4px 0 0.5px #89989d,
+        0.4px 0 0.5px #89989d,
+        0.4px 0 0.6px #89989d,
 
-        2px 4px 1px #D5DDE0,
-        -2px 4px 1px #D5DDE0,
-        3px 4px 1px #D5DDE0,
-        2px 0 1px #D5DDE0,
-        -2px 2px 1px #D5DDE0,
-        2px 0 1px #D5DDE0,
-        0 2px 1px #D5DDE0,
+        -0.2px 0 0.5px #89989d,
+        -0.2px 0 0.5px #89989d,
+        -0.2px 0 0.5px #89989d,
+        -0.2px 0 0.5px #89989d,
+        -0.2px 0 0.6px #89989d,
+        -0.4px 0 0.5px #89989d,
+        -0.4px 0 0.5px #89989d,
+        -0.4px 0 0.5px #89989d,
+        -0.4px 0 0.5px #89989d,
+        -0.4px 0 0.6px #89989d,
 
+        0 0.2px 0.5px #89989d,
+        0 0.2px 0.5px #89989d,
+        0 0.2px 0.5px #89989d,
+        0 0.2px 0.5px #89989d,
+        0 0.2px 0.6px #89989d,
+        0 0.4px 0.5px #89989d,
+        0 0.4px 0.5px #89989d,
+        0 0.4px 0.5px #89989d,
+        0 0.4px 0.5px #89989d,
+        0 0.4px 0.6px #89989d,
 
-        3px 3px 1px #D5DDE0,
-        -3px 3px 1px #D5DDE0,
-        -3px 3px 1px #D5DDE0,
-        3px 0 1px #D5DDE0,
-        -3px 0 1px #D5DDE0,
-        3px 0 1px #D5DDE0,
-        0 3px 1px #D5DDE0,
+        0 -0.2px 0.5px #89989d,
+        0 -0.2px 0.5px #89989d,
+        0 -0.2px 0.5px #89989d,
+        0 -0.2px 0.5px #89989d,
+        0 -0.2px 0.6px #89989d,
+        0 -0.4px 0.5px #89989d,
+        0 -0.4px 0.5px #89989d,
+        0 -0.4px 0.5px #89989d,
+        0 -0.4px 0.5px #89989d,
+        0 -0.4px 0.6px #89989d,
 
-        4px 4px 1px #D5DDE0,
-        -4px 0 1px #D5DDE0,
-        -4px 4px 1px #D5DDE0,
-        4px 0 1px #D5DDE0,
-        -4px 0 1px #D5DDE0,
-        4px 0 1px #D5DDE0,
-        0 4px 1px #D5DDE0;
+            /*outside*/
+
+        0 1.2px 0.5px #DDE4E6,
+        0 1.4px 0.5px #DDE4E6,
+        0 1.6px 0.5px #DDE4E6,
+        0 1.8px 0.5px #DDE4E6,
+        0 2.0px 0.6px #DDE4E6,
+        0 2.2px 0.5px #DDE4E6,
+
+        -1.2px 0 0.6px #DDE4E6,
+        -1.4px 0 0.5px #DDE4E6,
+        -1.6px 0 0.5px #DDE4E6,
+        -1.8px 0 0.5px #DDE4E6,
+        -2.0px 0 0.5px #DDE4E6,
+        -2.2px 0 0.6px #DDE4E6,
+
+        -1.2px 1.2px 0.6px #DDE4E6,
+        -1.4px 1.4px 0.5px #DDE4E6,
+        -1.6px 1.6px 0.5px #DDE4E6,
+        -1.8px 1.8px 0.5px #DDE4E6,
+        -2.0px 2.0px 0.5px #DDE4E6,
+        -2.2px 2.2px 0.6px #DDE4E6,
+
+        1.2px 0 0.6px #DDE4E6,
+        1.4px 0 0.5px #DDE4E6,
+        1.6px 0 0.5px #DDE4E6,
+        1.8px 0 0.5px #DDE4E6,
+        2.0px 0 0.5px #DDE4E6,
+        2.2px 0 0.6px #DDE4E6,
+
+        1.2px 1.2px 0.5px #DDE4E6,
+        1.4px 1.4px 0.5px #DDE4E6,
+        1.6px 1.6px 0.5px #DDE4E6,
+        1.8px 1.8px 0.5px #DDE4E6,
+        2px 2px 0.5px #DDE4E6;
+    letter-spacing: 0.4px;
+    -webkit-font-smoothing: antialiased;
 }
 
 .active-user-wrapper {

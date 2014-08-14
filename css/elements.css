@@ -410,9 +410,9 @@
 
 
 .icon-add-gift-default-bg:hover .gift-default-bg .icon-add-gift-default {
-    background-position: -539.0px -49.91px;
+    background-position: -557px -52.61px;
     background-image: url('../images/sprites@2x.png');
-    background-size: 268px 129px;
+    background-size: 277px 135px;
     width: 24.5px;
     height: 24.5px;
     cursor: pointer;
@@ -420,7 +420,7 @@
     -moz-border-radius: 21px;
     border-radius: 24px;
     background-color: #fea100;
-    left: 0;
+    left: -0.3;
     position: relative;
 }
 
@@ -603,103 +603,231 @@ text-decoration: none;
 .username{
     text-align: center;
     display: block;
-    letter-spacing:0;
     font-weight: 800;
     color: #fff;
     position: relative;
     top: 4px;
-    font-size: 11px;
+    font-size: 11.5px;
     text-transform: capitalize;
-
-
+    width: 85px;
+    word-wrap: break-word;
+    left: -10px;
     text-shadow:
-        0 0.1px 0 #89989d,
-        0 0.2px 0 #8d9ea4,
-        0 0.3px 0 #8d9ea4,
-        0 0.4px 0 #8d9ea4,
-        0 0.5px 0 #8d9ea4,
-        0 0.6px 0 #8d9ea4,
-        0 0.7px 0 #8d9ea4,
-        0 0.8px 0 #8d9ea4,
-        0 0.9px 0 #8d9ea4,
-        0 1px 0 #8d9ea4,
+        0 0 0.5px #89989d,
+        0 0 0.5px #89989d,
+        0 0 0.5px #89989d,
+        0 0 0.5px #89989d,
+        0 0 0.6px #89989d,
 
-        0 -0.1px 0 #8d9ea4,
-        0 -0.2px 0 #8d9ea4,
-        0 -0.3px 0 #8d9ea4,
-        0 -0.4px 0 #8d9ea4,
-        0 -0.5px 0 #8d9ea4,
-        0 -0.6px 0 #8d9ea4,
-        0 -0.7px 0 #8d9ea4,
-        0 -0.8px 0 #8d9ea4,
-        0 -0.9px 0 #8d9ea4,
-        0 -1px 0 #8d9ea4,
+        0.2px 0 0.5px #89989d,
+        0.2px 0 0.5px #89989d,
+        0.2px 0 0.5px #89989d,
+        0.2px 0 0.5px #89989d,
+        0.2px 0 0.6px #89989d,
+        0.4px 0 0.5px #89989d,
+        0.4px 0 0.5px #89989d,
+        0.4px 0 0.5px #89989d,
+        0.4px 0 0.5px #89989d,
+        0.4px 0 0.6px #89989d,
 
-        0.1px 0.1px 0 #8d9ea4,
-        0.2px 0.2px 0 #8d9ea4,
-        0.3px 0.3px 0 #8d9ea4,
-        0.4px 0.4px 0 #8d9ea4,
-        0.5px 0.5px 0 #8d9ea4,
-        0.6px 0.6px 0 #8d9ea4,
-        0.7px 0.7px 0 #8d9ea4,
-        0.8px 0.8px 0 #8d9ea4,
-        0.9px 0.9px 0 #8d9ea4,
-        1px 1px 0 #8d9ea4,
+        -0.2px 0 0.5px #89989d,
+        -0.2px 0 0.5px #89989d,
+        -0.2px 0 0.5px #89989d,
+        -0.2px 0 0.5px #89989d,
+        -0.2px 0 0.6px #89989d,
+        -0.4px 0 0.5px #89989d,
+        -0.4px 0 0.5px #89989d,
+        -0.4px 0 0.5px #89989d,
+        -0.4px 0 0.5px #89989d,
+        -0.4px 0 0.6px #89989d,
 
-        0.1px -0.1px 0 #8d9ea4,
-        0.2px -0.2px 0 #8d9ea4,
-        0.3px -0.3px 0 #8d9ea4,
-        0.4px -0.4px 0 #8d9ea4,
-        0.5px -0.5px 0 #8d9ea4,
-        0.6px -0.6px 0 #8d9ea4,
-        0.7px -0.7px 0 #8d9ea4,
-        0.8px -0.8px 0 #8d9ea4,
-        0.9px -0.9px 0 #8d9ea4,
-        1px -1px 0 #8d9ea4,
+        0 0.2px 0.5px #89989d,
+        0 0.2px 0.5px #89989d,
+        0 0.2px 0.5px #89989d,
+        0 0.2px 0.5px #89989d,
+        0 0.2px 0.6px #89989d,
+        0 0.4px 0.5px #89989d,
+        0 0.4px 0.5px #89989d,
+        0 0.4px 0.5px #89989d,
+        0 0.4px 0.5px #89989d,
+        0 0.4px 0.6px #89989d,
 
-        -0.1px -0.1px 0 #8d9ea4,
-        -0.2px -0.2px 0 #8d9ea4,
-        -0.3px -0.3px 0 #8d9ea4,
-        -0.4px -0.4px 0 #8d9ea4,
-        -0.5px -0.5px 0 #8d9ea4,
-        -0.6px -0.6px 0 #8d9ea4,
-        -0.7px -0.7px 0 #8d9ea4,
-        -0.8px -0.8px 0 #8d9ea4,
-        -0.9px -0.9px 0 #8d9ea4,
-        -1px -1px 0 #8d9ea4,
+        0 -0.2px 0.5px #89989d,
+        0 -0.2px 0.5px #89989d,
+        0 -0.2px 0.5px #89989d,
+        0 -0.2px 0.5px #89989d,
+        0 -0.2px 0.6px #89989d,
+        0 -0.4px 0.5px #89989d,
+        0 -0.4px 0.5px #89989d,
+        0 -0.4px 0.5px #89989d,
+        0 -0.4px 0.5px #89989d,
+        0 -0.4px 0.6px #89989d,
 
-        -0.1px 0.1px 0 #8d9ea4,
-        -0.2px 0.2px 0 #8d9ea4,
-        -0.3px 0.3px 0 #8d9ea4,
-        -0.4px 0.4px 0 #8d9ea4,
-        -0.5px 0.5px 0 #8d9ea4,
-        -0.6px 0.6px 0 #8d9ea4,
-        -0.7px 0.7px 0 #8d9ea4,
-        -0.8px 0.8px 0 #8d9ea4,
-        -0.9px 0.9px 0 #8d9ea4,
-        -1px 1px 0 #8d9ea4,
+/*outside*/
 
-        0.1px 0 0 #8d9ea4,
-        0.2px 0 0 #8d9ea4,
-        0.3px 0 0 #8d9ea4,
-        0.4px 0 0 #8d9ea4,
-        0.5px 0 0 #8d9ea4,
-        0.6px 0 0 #8d9ea4,
-        0.7px 0 0 #8d9ea4,
-        0.8px 0 0 #8d9ea4,
-        0.9px 0 0 #8d9ea4,
-        1px 0 0 #8d9ea4,
+        0 1.2px 0.5px #DDE4E6,
+        0 1.4px 0.5px #DDE4E6,
+        0 1.6px 0.5px #DDE4E6,
+        0 1.8px 0.5px #DDE4E6,
+        0 2.0px 0.6px #DDE4E6,
+        0 2.2px 0.5px #DDE4E6,
 
-        -0.1px 0 0 #8d9ea4,
-        -0.2px 0 0 #8d9ea4,
-        -0.3px 0 0 #8d9ea4,
-        -0.4px 0 0 #8d9ea4,
-        -0.5px 0 0 #8d9ea4,
-        -0.6px 0 0 #8d9ea4,
-        -0.7px 0 0 #8d9ea4,
-        -0.8px 0 0 #8d9ea4,
-        -0.9px 0 0 #8d9ea4,
-        -1px 0 0 #8d9ea4;
+        -1.2px 0 0.6px #DDE4E6,
+        -1.4px 0 0.5px #DDE4E6,
+        -1.6px 0 0.5px #DDE4E6,
+        -1.8px 0 0.5px #DDE4E6,
+        -2.0px 0 0.5px #DDE4E6,
+        -2.2px 0 0.6px #DDE4E6,
+
+        -1.2px 1.2px 0.6px #DDE4E6,
+        -1.4px 1.4px 0.5px #DDE4E6,
+        -1.6px 1.6px 0.5px #DDE4E6,
+        -1.8px 1.8px 0.5px #DDE4E6,
+        -2.0px 2.0px 0.5px #DDE4E6,
+        -2.2px 2.2px 0.6px #DDE4E6,
+
+        1.2px 0 0.6px #DDE4E6,
+        1.4px 0 0.5px #DDE4E6,
+        1.6px 0 0.5px #DDE4E6,
+        1.8px 0 0.5px #DDE4E6,
+        2.0px 0 0.5px #DDE4E6,
+        2.2px 0 0.6px #DDE4E6,
+
+        1.2px 1.2px 0.5px #DDE4E6,
+        1.4px 1.4px 0.5px #DDE4E6,
+        1.6px 1.6px 0.5px #DDE4E6,
+        1.8px 1.8px 0.5px #DDE4E6,
+        2px 2px 0.5px #DDE4E6;
+
+
+
+
+
+    letter-spacing: 0.4px;
+    -webkit-font-smoothing: antialiased;
+
+
+    /*text-shadow:*/
+        /*0 0.1px 0 #89989d,*/
+        /*0 0.2px 0 #8d9ea4,*/
+        /*0 0.3px 0 #8d9ea4,*/
+        /*0 0.4px 0 #8d9ea4,*/
+        /*0 0.5px 0 #8d9ea4,*/
+        /*0 0.6px 0 #8d9ea4,*/
+        /*0 0.7px 0 #8d9ea4,*/
+        /*0 0.8px 0 #8d9ea4,*/
+
+
+
+
+
+        /*0 -0.1px 0 #8d9ea4,*/
+        /*0 -0.2px 0 #8d9ea4,*/
+        /*0 -0.3px 0 #8d9ea4,*/
+        /*0 -0.4px 0 #8d9ea4,*/
+        /*0 -0.5px 0 #8d9ea4,*/
+        /*0 -0.6px 0 #8d9ea4,*/
+        /*0 -0.7px 0 #8d9ea4,*/
+        /*0 -0.8px 0 #8d9ea4,*/
+
+
+
+
+        /*0.1px 0.1px 0 #8d9ea4,*/
+        /*0.2px 0.2px 0 #8d9ea4,*/
+        /*0.3px 0.3px 0 #8d9ea4,*/
+        /*0.4px 0.4px 0 #8d9ea4,*/
+        /*0.5px 0.5px 0 #8d9ea4,*/
+        /*0.6px 0.6px 0 #8d9ea4,*/
+        /*0.7px 0.7px 0 #8d9ea4,*/
+        /*0.8px 0.8px 0 #8d9ea4,*/
+
+
+
+
+        /*0.1px -0.1px 0 #8d9ea4,*/
+        /*0.2px -0.2px 0 #8d9ea4,*/
+        /*0.3px -0.3px 0 #8d9ea4,*/
+        /*0.4px -0.4px 0 #8d9ea4,*/
+        /*0.5px -0.5px 0 #8d9ea4,*/
+        /*0.6px -0.6px 0 #8d9ea4,*/
+        /*0.7px -0.7px 0 #8d9ea4,*/
+        /*0.8px -0.8px 0 #8d9ea4,*/
+
+        /*-0.1px -0.1px 0 #8d9ea4,*/
+        /*-0.2px -0.2px 0 #8d9ea4,*/
+        /*-0.3px -0.3px 0 #8d9ea4,*/
+        /*-0.4px -0.4px 0 #8d9ea4,*/
+        /*-0.5px -0.5px 0 #8d9ea4,*/
+        /*-0.6px -0.6px 0 #8d9ea4,*/
+        /*-0.7px -0.7px 0 #8d9ea4,*/
+        /*-0.8px -0.8px 0 #8d9ea4,*/
+
+        /*-0.1px 0.1px 0 #8d9ea4,*/
+        /*-0.2px 0.2px 0 #8d9ea4,*/
+        /*-0.3px 0.3px 0 #8d9ea4,*/
+        /*-0.4px 0.4px 0 #8d9ea4,*/
+        /*-0.5px 0.5px 0 #8d9ea4,*/
+        /*-0.6px 0.6px 0 #8d9ea4,*/
+        /*-0.7px 0.7px 0 #8d9ea4,*/
+        /*-0.8px 0.8px 0 #8d9ea4,*/
+
+        /*0.1px 0 0 #8d9ea4,*/
+        /*0.2px 0 0 #8d9ea4,*/
+        /*0.3px 0 0 #8d9ea4,*/
+        /*0.4px 0 0 #8d9ea4,*/
+        /*0.5px 0 0 #8d9ea4,*/
+        /*0.6px 0 0 #8d9ea4,*/
+        /*0.7px 0 0 #8d9ea4,*/
+        /*0.8px 0 0 #8d9ea4,*/
+
+        /*-0.1px 0 0 #8d9ea4,*/
+        /*-0.2px 0 0 #8d9ea4,*/
+        /*-0.3px 0 0 #8d9ea4,*/
+        /*-0.4px 0 0 #8d9ea4,*/
+        /*-0.5px 0 0 #8d9ea4,*/
+        /*-0.6px 0 0 #8d9ea4,*/
+        /*-0.7px 0 0 #8d9ea4,*/
+        /*-0.8px 0 0 #8d9ea4,*/
+        /*1px 1px 0.2px #DDE4E6,*/
+        /*1.2px 1.2px 0.2px #DDE4E6,*/
+        /*1.4px 1.4px 0.2px #DDE4E6,*/
+        /*1.6px 1.6px 0.2px #DDE4E6,*/
+        /*1.8px 1.8px 0.2px #DDE4E6,*/
+        /*2px 2px 0.2px #DDE4E6,*/
+        /*2.2px 2.2px 0.2px #DDE4E6,*/
+        /*2.4px 2.4px 0.2px #DDE4E6,*/
+        /*2.6px 2.6px 0.2px #DDE4E6,*/
+        /*2.8px 2.8px 0.2px #DDE4E6,*/
+        /*3px 3px 0.2px #DDE4E6,*/
+
+        /*-1px 0 0.2px #DDE4E6,*/
+        /*-1.2px 0 0.2px #DDE4E6,*/
+        /*-1.4px 0 0.2px #DDE4E6,*/
+        /*-1.6px 0 0.2px #DDE4E6,*/
+        /*-1.8px 0 0.2px #DDE4E6,*/
+        /*-2px 0 0.2px #DDE4E6,*/
+        /*-2.2px 0 0.2px #DDE4E6,*/
+        /*-2.4px 0 0.2px #DDE4E6,*/
+        /*-2.6px 0 0.2px #DDE4E6,*/
+        /*-2.8px 0 0.2px #DDE4E6,*/
+        /*-3px 3px 0.2px #DDE4E6,*/
+
+        /*-0.2px 3px 0.2px #DDE4E6,*/
+        /*-0.4px 3px 0.2px #DDE4E6,*/
+        /*-0.6px 3px 0.2px #DDE4E6,*/
+        /*-0.8px 3px 0.2px #DDE4E6,*/
+        /*-1px 3px 0.2px #DDE4E6,*/
+        /*-1.2px 3px 0.2px #DDE4E6,*/
+        /*-1.4px 3px 0.2px #DDE4E6,*/
+        /*-1.6px 3px 0.2px #DDE4E6,*/
+        /*-1.8px 3px 0.2px #DDE4E6,*/
+        /*-2px 3px 0.2px #DDE4E6,*/
+        /*-2.2px 3px 0.2px #DDE4E6,*/
+        /*-2.4px 3px 0.2px #DDE4E6,*/
+        /*-2.6px 3px 0.2px #DDE4E6,*/
+        /*-2.8px 3px 0.2px #DDE4E6;*/
+    -webkit-font-smoothing: antialiased;
 
 
   /*text-shadow:*/
@@ -762,15 +890,10 @@ text-decoration: none;
 }
 
 .username.invite {
-    left:-3px;
+    left:-12px;
 }
 
-.user-frame.bottom {
-    top: 0;
-    background-color: #BBC8CE;
-    height: 58px;
-    width: 61px;
-}
+
 
 .user-invite-bg {
     background-color: #C8D1D6;
@@ -778,10 +901,11 @@ text-decoration: none;
     -moz-border-radius: 5px;
     border-radius: 4px;
     position: relative;
-    top: 3.8px;
-    width: 58.5px;
-    height: 54px;
-    left: 1.2px;
+    top: -0.2px;
+    width: 59.5px;
+    height: 57px;
+    left: 0.5px;
+    box-shadow: inset 0px 3px 0px 1px #BCC9CF;
 }
 
 .add-user {
@@ -789,7 +913,7 @@ text-decoration: none;
     height: 30px;
     background-image: url('../images/sprites@2x.png');
     background-size: 277px 135px;
-    background-position: -479.100008px -1.9px;
+    background-position: -478.100008px 1.1px;
     position: relative;
     top: 10px;
     left: 14px;
@@ -826,14 +950,104 @@ text-decoration: none;
     font-weight: 600;
     position: relative;
     left: 20px;
-    text-shadow: 1px 1px 1px #97a8ad,
-    -1px -1px 1px #97a8ad,
-    -1px 1px 1px #97a8ad,
-    1px -1px 1px #7B8A8F,
-    -1px 0px 1px #97a8ad,
-    1px 0 1px #97a8ad,
-    0 1px 1px #97a8ad,
-    0 -1px 1px #97a8ad;
+    /*text-shadow: 1px 1px 1px #97a8ad,*/
+    /*-1px -1px 1px #97a8ad,*/
+    /*-1px 1px 1px #97a8ad,*/
+    /*1px -1px 1px #7B8A8F,*/
+    /*-1px 0px 1px #97a8ad,*/
+    /*1px 0 1px #97a8ad,*/
+    /*0 1px 1px #97a8ad,*/
+    /*0 -1px 1px #97a8ad;*/
+
+    text-shadow:
+        0 0 0.5px #89989d,
+        0 0 0.5px #89989d,
+        0 0 0.5px #89989d,
+        0 0 0.5px #89989d,
+        0 0 0.6px #89989d,
+
+        0.2px 0 0.5px #89989d,
+        0.2px 0 0.5px #89989d,
+        0.2px 0 0.5px #89989d,
+        0.2px 0 0.5px #89989d,
+        0.2px 0 0.6px #89989d,
+        0.4px 0 0.5px #89989d,
+        0.4px 0 0.5px #89989d,
+        0.4px 0 0.5px #89989d,
+        0.4px 0 0.5px #89989d,
+        0.4px 0 0.6px #89989d,
+
+        -0.2px 0 0.5px #89989d,
+        -0.2px 0 0.5px #89989d,
+        -0.2px 0 0.5px #89989d,
+        -0.2px 0 0.5px #89989d,
+        -0.2px 0 0.6px #89989d,
+        -0.4px 0 0.5px #89989d,
+        -0.4px 0 0.5px #89989d,
+        -0.4px 0 0.5px #89989d,
+        -0.4px 0 0.5px #89989d,
+        -0.4px 0 0.6px #89989d,
+
+        0 0.2px 0.5px #89989d,
+        0 0.2px 0.5px #89989d,
+        0 0.2px 0.5px #89989d,
+        0 0.2px 0.5px #89989d,
+        0 0.2px 0.6px #89989d,
+        0 0.4px 0.5px #89989d,
+        0 0.4px 0.5px #89989d,
+        0 0.4px 0.5px #89989d,
+        0 0.4px 0.5px #89989d,
+        0 0.4px 0.6px #89989d,
+
+        0 -0.2px 0.5px #89989d,
+        0 -0.2px 0.5px #89989d,
+        0 -0.2px 0.5px #89989d,
+        0 -0.2px 0.5px #89989d,
+        0 -0.2px 0.6px #89989d,
+        0 -0.4px 0.5px #89989d,
+        0 -0.4px 0.5px #89989d,
+        0 -0.4px 0.5px #89989d,
+        0 -0.4px 0.5px #89989d,
+        0 -0.4px 0.6px #89989d,
+
+            /*outside*/
+
+        0 1.2px 0.5px #DDE4E6,
+        0 1.4px 0.5px #DDE4E6,
+        0 1.6px 0.5px #DDE4E6,
+        0 1.8px 0.5px #DDE4E6,
+        0 2.0px 0.6px #DDE4E6,
+        0 2.2px 0.5px #DDE4E6,
+
+        -1.2px 0 0.6px #DDE4E6,
+        -1.4px 0 0.5px #DDE4E6,
+        -1.6px 0 0.5px #DDE4E6,
+        -1.8px 0 0.5px #DDE4E6,
+        -2.0px 0 0.5px #DDE4E6,
+        -2.2px 0 0.6px #DDE4E6,
+
+        -1.2px 1.2px 0.6px #DDE4E6,
+        -1.4px 1.4px 0.5px #DDE4E6,
+        -1.6px 1.6px 0.5px #DDE4E6,
+        -1.8px 1.8px 0.5px #DDE4E6,
+        -2.0px 2.0px 0.5px #DDE4E6,
+        -2.2px 2.2px 0.6px #DDE4E6,
+
+        1.2px 0 0.6px #DDE4E6,
+        1.4px 0 0.5px #DDE4E6,
+        1.6px 0 0.5px #DDE4E6,
+        1.8px 0 0.5px #DDE4E6,
+        2.0px 0 0.5px #DDE4E6,
+        2.2px 0 0.6px #DDE4E6,
+
+        1.2px 1.2px 0.5px #DDE4E6,
+        1.4px 1.4px 0.5px #DDE4E6,
+        1.6px 1.6px 0.5px #DDE4E6,
+        1.8px 1.8px 0.5px #DDE4E6,
+        2px 2px 0.5px #DDE4E6;
+
+
+    -webkit-font-smoothing: antialiased;
 }
 
 .audio-sign{
