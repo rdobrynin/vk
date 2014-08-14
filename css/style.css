@@ -149,9 +149,10 @@ a:hover {
 .score {
     position: relative;
     left: 22px;
-    font-size: 8.2px;
+    font-size: 8px;
     color: #fff;font-weight: 600;
     padding-top: 3px;
+    font-weight: 800;
     text-shadow: 1px 1px 1px #97a8ad,
     -1px -1px 1px #97a8ad,
     -1px 1px 1px #97a8ad,
