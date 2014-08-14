@@ -3,7 +3,7 @@ $(function () {
 //    INVITE USER
     $('.add-user').click(function () {
 
-        $('#placeholder-6').html('<div class="user-frame"><div class="photo"><img src="images/photo_right_2@2x.jpg" width="59" height="58"/></div><div class="add-gift add-gift-left"><div class="icon-add-gift-default-bg"><div class="gift-default-bg"><div class="icon-add-gift-default"></div></div></div></div><span class="username">Роман</span></div>');
+        $('#placeholder-6').html('<div class="user-frame"><div class="user-gift-image"><div class="gift"></div></div><div class="photo"><img src="images/photo_right_2@2x.jpg" width="59" height="58"/></div><div class="add-gift add-gift-left"><div class="icon-add-gift-default-bg"><div class="gift-default-bg"><div class="icon-add-gift-default"></div></div></div></div><span class="username">Роман</span></div>');
         $('.test').html('Роман здесь');
     });
 
