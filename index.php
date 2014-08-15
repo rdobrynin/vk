@@ -86,16 +86,16 @@
         <div class="icon-grand-bg">
             <div class="icon-grand-big">
                 <!--ICON DIV-->
-                <span class="cog-grand hide" id="place-1"><img src="images/1@2x.png" width="21" height="26"/></span>
-                <span class="cog-grand hide" id="place-2"><img src="images/2@2x.png" width="21" height="26"/></span>
-                <span class="cog-grand hide" id="place-3"><img src="images/3@2x.png" width="21" height="26"/></span>
-                <span class="cog-grand hide" id="place-4"><img src="images/4@2x.png" width="21" height="26"/></span>
-                <span class="cog-grand hide" id="place-5"><img src="images/5@2x.png" width="21" height="26"/></span>
-                <span class="cog-grand hide" id="place-6"><img src="images/6@2x.png" width="21" height="26"/></span>
-                <span class="cog-grand hide" id="place-7"><img src="images/7@2x.png" width="21" height="26"/></span>
-                <span class="cog-grand hide" id="place-8"><img src="images/8@2x.png" width="21" height="26"/></span>
-                <span class="cog-grand" id="place-9"><img src="images/9@2x.png" width="21" height="26"/></span>
-                <span class="cog-grand hide" id="place-10"><img src="images/10@2x.png" width="34" height="26"/></span>
+                <span class="cog-grand hide" id="place-1"><img src="images/1@2x.png" alt="" width="21" height="26"/></span>
+                <span class="cog-grand hide" id="place-2"><img src="images/2@2x.png" alt="" width="21" height="26"/></span>
+                <span class="cog-grand hide" id="place-3"><img src="images/3@2x.png" alt="" width="21" height="26"/></span>
+                <span class="cog-grand hide" id="place-4"><img src="images/4@2x.png" alt="" width="21" height="26"/></span>
+                <span class="cog-grand hide" id="place-5"><img src="images/5@2x.png" alt="" width="21" height="26"/></span>
+                <span class="cog-grand hide" id="place-6"><img src="images/6@2x.png" alt="" width="21" height="26"/></span>
+                <span class="cog-grand hide" id="place-7"><img src="images/7@2x.png" alt="" width="21" height="26"/></span>
+                <span class="cog-grand hide" id="place-8"><img src="images/8@2x.png" alt="" width="21" height="26"/></span>
+                <span class="cog-grand" id="place-9"><img src="images/9@2x.png" alt="" width="21" height="26"/></span>
+                <span class="cog-grand hide" id="place-10"><img src="images/10@2x.png" alt="" width="34" height="26"/></span>
             </div>
         </div>
     </div>
@@ -122,7 +122,7 @@
         </div>
         <div class="user-frame-active">
             <div class="photo-active">
-                <img src="images/photo_right_1@2x.jpg" width="24" height="23"/>
+                <img src="images/photo_right_1@2x.jpg" alt="" width="24" height="23"/>
             </div>
 
         </div>
@@ -134,7 +134,7 @@
         <div class="icon-big-bg">
             <div class="icon-big">
                 <!--BUTTON_SETTING-->
-                <div class="cog-icon icon-inside-big-hover" id="button-1">
+                <div class="cog-icon icon-inside-big-hover" id="button-1" data-toggle="tooltip" data-placement="bottom" title="установки">
                 </div>
             </div>
         </div>
@@ -162,10 +162,10 @@
         <div class="user-block block-left">
             <div class="user-frame">
                 <div class="user-gift-image">
-                    <div class="gift"><img src="images/gift_tiger.png" width="35" height="33"/></div>
+                    <div class="gift"><img src="images/gift_tiger.png" alt="" width="35" height="33"/></div>
                 </div>
                 <div class="photo">
-                    <img src="images/photo_top_1@2x.jpg" width="59" height="58"/>
+                    <img src="images/photo_top_1@2x.jpg" alt="" width="59" height="58"/>
                 </div>
                 <!--ADD GIFT BUTTON-->
                 <div class="add-gift">
@@ -183,10 +183,10 @@
         <div class="user-block block-left">
             <div class="user-frame">
                 <div class="user-gift-image">
-                    <div class="gift"><img src="images/gift_roze.png" width="35" height="33"/></div>
+                    <div class="gift"><img src="images/gift_roze.png" alt="" width="35" height="33"/></div>
                 </div>
                 <div class="photo">
-                    <img src="images/photo_top_2@2x.jpg" width="59" height="58"/>
+                    <img src="images/photo_top_2@2x.jpg" alt="" width="59" height="58"/>
                 </div>
                 <!--ADD GIFT BUTTON-->
                 <div class="add-gift">
@@ -204,10 +204,10 @@
         <div class="user-block block-right">
             <div class="user-frame">
                 <div class="user-gift-image">
-                    <div class="gift"><img src="images/gift_diamond.png" width="35" height="33"/></div>
+                    <div class="gift"><img src="images/gift_diamond.png" alt="" width="35" height="33"/></div>
                 </div>
                 <div class="photo">
-                    <img src="images/photo_top_4@2x.jpg" width="59" height="58"/>
+                    <img src="images/photo_top_4@2x.jpg" alt="" width="59" height="58"/>
                 </div>
                 <!--ADD GIFT BUTTON-->
                 <div class="add-gift">
@@ -225,10 +225,10 @@
         <div class="user-block block-right">
             <div class="user-frame">
                 <div class="user-gift-image">
-                    <div class="gift"><img src="images/gift_puma.png" width="35" height="33"/></div>
+                    <div class="gift"><img src="images/gift_puma.png" alt="" width="35" height="33"/></div>
                 </div>
                 <div class="photo">
-                    <img src="images/photo_top_3@2x.jpg" width="59" height="58"/>
+                    <img src="images/photo_top_3@2x.jpg" alt="" width="59" height="58"/>
                 </div>
                 <!--ADD GIFT BUTTON-->
                 <div class="add-gift">
@@ -274,10 +274,10 @@
     <div class="user-block-side">
         <div class="user-frame">
             <div class="user-gift-image">
-                <div class="gift"><img src="images/gift_tiger.png" width="35" height="33"/></div>
+                <div class="gift"><img src="images/gift_tiger.png" alt="" width="35" height="33"/></div>
             </div>
             <div class="photo">
-                <img src="images/photo_left_1@2x.jpg" width="59" height="58"/>
+                <img src="images/photo_left_1@2x.jpg" alt="" width="59" height="58"/>
             </div>
             <!--ADD GIFT BUTTON-->
             <div class="add-gift">
@@ -295,10 +295,10 @@
     <div class="user-block-side">
         <div class="user-frame">
             <div class="user-gift-image">
-                <div class="gift"><img src="images/gift_roze.png" width="35" height="33"/></div>
+                <div class="gift"><img src="images/gift_roze.png" alt="" width="35" height="33"/></div>
             </div>
             <div class="photo">
-                <img src="images/photo_left_2@2x.jpg" width="59" height="58"/>
+                <img src="images/photo_left_2@2x.jpg" alt="" width="59" height="58"/>
             </div>
             <!--ADD GIFT BUTTON-->
             <div class="add-gift">
@@ -320,10 +320,10 @@
     <div class="user-block-side">
         <div class="user-frame">
             <div class="user-gift-image-left">
-                <div class="gift"><img src="images/gift_tiger.png" width="35" height="33"/></div>
+                <div class="gift"><img src="images/gift_tiger.png" alt="" width="35" height="33"/></div>
             </div>
             <div class="photo">
-                <img src="images/photo_right_1@2x.jpg" width="59" height="58"/>
+                <img src="images/photo_right_1@2x.jpg" alt="" width="59" height="58"/>
             </div>
             <!--ADD GIFT BUTTON-->
             <div class="add-gift add-gift-left">
@@ -351,18 +351,75 @@
 
 </div>
 
-<div class="box-content-blur">
-    <div class="content-frame-outside">
-        <div class="content-frame-inside">
-            <div class="content-frame-inside-blur">
+<!--empty container-->
+
+<div class="box-content-empty-blur hide">
+    <div class="content-frame-empty-outside">
+        <div class="content-frame-white">
+            <div class="content-frame-white-blur">
                 <!--HERE IS CONTENT-->
-                <div class="test"></div>
+                <div class="white"></div>
                 <!--END OF CONTENT-->
             </div>
         </div>
     </div>
 </div>
+<!--END empty container-->
+
+<!--paint container-->
+<div class="box-content-paint-blur">
+    <div class="content-frame-paint-outside">
+        <div class="content-frame-paint">
+            <div class="content-frame-paint-blur">
+                <div class="paint-frame">
+                    <div class="left-corner-bg">
+                        <div class="left-corner">
+                            <div class="pencil" data-toggle="tooltip" data-placement="top" title="карандаш">
+
+                            </div>
+                        </div>
+                    </div>
+                    <div class="left-panel-paint">
+                    </div>
+                    <div class="canvas-wrapper-bg">
+                        <!-- canvas-->
+                        <div class="canvas">
+                        </div>
+                        <!-- end canvas-->
+                        <div class="bottom-panel-paint">
+                            <button class="btn btn-riu-success">готово!</button>
+                        </div>
+                        <div class="activation-panel">
+                            <div class="painter" data-toggle="tooltip" data-placement="top" title="кисть"></div>
+                            <div class="eraser" data-toggle="tooltip" data-placement="top" title="резинка"></div>
+                            <div class="empty-1">
+                         <div class="lock lock-1" data-toggle="tooltip" data-placement="top" title="открыть 1"><a href="#"><img src="images/lock@2x.png" alt="" width="21" height="26"/></a></div>
+                            </div>
+                            <div class="empty-2">
+                                <div class="lock lock-2" data-toggle="tooltip" data-placement="top"  title="открыть 2"><a href="#"><img src="images/lock@2x.png" alt="" width="21" height="26"/></a></div>
+                            </div>
+                            <div class="empty-3">
+                                <div class="lock lock-3" data-toggle="tooltip" data-placement="top"  title="открыть 3"><a href="#"><img src="images/lock@2x.png" alt="" width="21" height="26"/></a></div>
+                            </div>
+                            <div class="empty-4">
+                                <div class="lock lock-4" data-toggle="tooltip" data-placement="top"  title="открыть 4"><a href="#"><img src="images/lock@2x.png" alt="" width="21" height="26"/></a></div>
+                            </div>
+                            <div class="empty-5">
+                                <div class="lock lock-5" data-toggle="tooltip" data-placement="top"  title="открыть 5"><a href="#"><img src="images/lock@2x.png" alt="" width="21" height="26"/></a></div>
+                            </div>
+                            <div class="empty-6">
+                                <div class="lock lock-6" data-toggle="tooltip" data-placement="top"  title="открыть 6"><a href="#"><img src="images/lock@2x.png" alt="" width="21" height="26"/></a></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
 </div>
+<!--END paint container-->
+
+
 <script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
 <script src="//oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
 <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
