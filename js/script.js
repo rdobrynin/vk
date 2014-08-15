@@ -2,9 +2,16 @@ $(function () {
 
 //    INVITE USER
     $('.add-user').click(function () {
-
         $('#placeholder-6').html('<div class="user-frame"><div class="user-gift-image"><div class="gift"></div></div><div class="photo"><img src="images/photo_right_2@2x.jpg" width="59" height="58"/></div><div class="add-gift add-gift-left"><div class="icon-add-gift-default-bg"><div class="gift-default-bg"><div class="icon-add-gift-default"></div></div></div></div><span class="username" id="username-7">роман</span></div>');
         $('.test').html('Роман здесь');
+//IF after click username length >10
+        if (($("#username-7").length > 0)) {
+            var user_7 = $('#username-7').html();
+            if (user_7.length > 10) {
+                var username7 = user_7.slice(0, 10);
+                $('#username-7').html(username7 + ' ...');
+            }
+        }
     });
 
     $('#button-add-coins').click(function () {
@@ -138,63 +145,71 @@ $(function () {
 
 //USER SHORT TEXT
 //    If username length >10, username name = username...
-    var user_1 = $('#username-1').html();
-    var user_2 = $('#username-2').html();
-    var user_3 = $('#username-3').html();
-    var user_4 = $('#username-4').html();
-    var user_5 = $('#username-5').html();
-    var user_6 = $('#username-6').html();
-    var user_7 = $('#username-7').html();
-    var userCurrent = $('#current-user').html();
-    if (user_1 != 'undefined') {
+
+    if (($("#username-1").length > 0)) {
+        var user_1 = $('#username-1').html();
         if (user_1.length > 10) {
             var username1 = user_1.slice(0, 10);
             $('#username-1').html(username1 + ' ...');
         }
     }
-    if (user_2 != 'undefined') {
+
+    if (($("#username-2").length > 0)) {
+        var user_2 = $('#username-2').html();
         if (user_2.length > 10) {
             var username2 = user_2.slice(0, 10);
             $('#username-2').html(username2 + ' ...');
         }
     }
-    if (user_3 != 'undefined') {
+
+    if (($("#username-3").length > 0)) {
+        var user_3 = $('#username-3').html();
         if (user_3.length > 10) {
             var username3 = user_3.slice(0, 10);
             $('#username-3').html(username3 + ' ...');
         }
     }
 
-    if (user_4 != 'undefined') {
+    if (($("#username-4").length > 0)) {
+        var user_4 = $('#username-4').html();
         if (user_4.length > 10) {
             var username4 = user_4.slice(0, 10);
             $('#username-4').html(username4 + ' ...');
         }
     }
-    if (user_5 != 'undefined') {
+
+    if (($("#username-5").length > 0)) {
+        var user_5 = $('#username-5').html();
         if (user_5.length > 10) {
             var username5 = user_5.slice(0, 10);
             $('#username-5').html(username5 + ' ...');
         }
     }
-    if (user_6 != 'undefined') {
+
+    if (($("#username-6").length > 0)) {
+        var user_6 = $('#username-6').html();
         if (user_6.length > 10) {
             var username6 = user_6.slice(0, 10);
             $('#username-6').html(username6 + ' ...');
         }
     }
-    if (user_7 != 'undefined') {
+
+    if (($("#username-7").length > 0)) {
+        var user_7 = $('#username-7').html();
         if (user_7.length > 10) {
             var username7 = user_7.slice(0, 10);
             $('#username-7').html(username7 + ' ...');
         }
     }
-    if (userCurrent != 'undefined') {
+
+    if (($("#current-user").length > 0)) {
+        var userCurrent = $('#current-user').html();
         if (userCurrent.length > 10) {
             var username = userCurrent.slice(0, 10);
             $('#current-user').html(username + ' ...');
         }
     }
+
 });
 
 
