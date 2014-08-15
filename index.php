@@ -176,7 +176,7 @@
                             </div>
                         </div>
                 </div>
-                <span class="username">евгений</span>
+                <span class="username" id="username-1">евгений</span>
             </div>
         </div>
         <!--2 user-->
@@ -197,7 +197,7 @@
                             </div>
                         </div>
                 </div>
-                <span class="username">маша</span>
+                <span class="username" id="username-2">маша</span>
             </div>
         </div>
         <!--4 user-->
@@ -218,7 +218,7 @@
                         </div>
                     </div>
                 </div>
-                <span class="username">наташа</span>
+                <span class="username" id="username-4">наташа</span>
             </div>
         </div>
         <!--3 user-->
@@ -240,7 +240,7 @@
                             </div>
                         </div>
                 </div>
-                <span class="username">александра</span>
+                <span class="username" id="username-3">александра</span>
             </div>
         </div>
     </div>
@@ -288,7 +288,7 @@
                     </div>
                 </div>
             </div>
-            <span class="username" >анатолий</span>
+            <span class="username" id="username-6">анатолий</span>
         </div>
     </div>
     <!--2 user-->
@@ -309,7 +309,7 @@
                     </div>
                 </div>
             </div>
-            <span class="username">виктория</span>
+            <span class="username" id="username-5">виктория</span>
         </div>
     </div>
 </div>
@@ -334,7 +334,7 @@
                     </div>
                 </div>
             </div>
-            <span class="username">Ваге</span>
+            <span class="username" id="current-user">ваге</span>
         </div>
     </div>
     <div class="user-block-side" id="placeholder-6">

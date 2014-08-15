@@ -3,7 +3,7 @@ $(function () {
 //    INVITE USER
     $('.add-user').click(function () {
 
-        $('#placeholder-6').html('<div class="user-frame"><div class="user-gift-image"><div class="gift"></div></div><div class="photo"><img src="images/photo_right_2@2x.jpg" width="59" height="58"/></div><div class="add-gift add-gift-left"><div class="icon-add-gift-default-bg"><div class="gift-default-bg"><div class="icon-add-gift-default"></div></div></div></div><span class="username">Роман</span></div>');
+        $('#placeholder-6').html('<div class="user-frame"><div class="user-gift-image"><div class="gift"></div></div><div class="photo"><img src="images/photo_right_2@2x.jpg" width="59" height="58"/></div><div class="add-gift add-gift-left"><div class="icon-add-gift-default-bg"><div class="gift-default-bg"><div class="icon-add-gift-default"></div></div></div></div><span class="username" id="username-5">Роман</span></div>');
         $('.test').html('Роман здесь');
     });
 
@@ -135,8 +135,51 @@ $(function () {
         $('.green-plus-wrapper').css({ 'top': '-2px' });
         $('.coin-gold-icon').css({ 'top': '-23px' });
     }
-    else {
-//
+
+//USER SHORT TEXT
+//    If username length >10, username name = username...
+
+    var user_1 = $('#username-1').html();
+    var user_2 = $('#username-2').html();
+    var user_3 = $('#username-3').html();
+    var user_4 = $('#username-4').html();
+    var user_5 = $('#username-5').html();
+    var user_6 = $('#username-6').html();
+    var user_7 = $('#username-7').html();
+    var userCurrent = $('#current-user').html();
+
+
+    if(user_1.length >10) {
+        var username1= user_1.slice(0,10);
+        $('#username-1').html(username1+' ...');
+    }
+    else if(user_2.length >10) {
+        var username2= user_2.slice(0,10);
+        $('#username-2').html(username2+' ...');
+    }
+    else if(user_3.length >10) {
+        var username3= user_3.slice(0,10);
+        $('#username-3').html(username3+' ...');
+    }
+    else if(user_4.length >10) {
+        var username4= user_4.slice(0,10);
+        $('#username-4').html(username4+' ...');
+    }
+    else if(user_5.length >10) {
+        var username5= user_5.slice(0,10);
+        $('#username-5').html(username5+' ...');
+    }
+    else if(user_6.length >10) {
+        var username6= user_6.slice(0,10);
+        $('#username-6').html(username6+' ...');
+    }
+    else if(user_7.length >10) {
+        var username7= user_7.slice(0,10);
+        $('#username-7').html(username7+' ...');
+    }
+    else if(userCurrent.length >10) {
+        var username= userCurrent.slice(0,10);
+        $('#current-user').html(username+' ...');
     }
 });
 
