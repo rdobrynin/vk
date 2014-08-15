@@ -314,7 +314,6 @@
     </div>
 </div>
 <!--END_LEFT_USER_BLOCK-->
-
 <div class="right-users-block">
     <!--1 user-->
     <div class="user-block-side">
@@ -350,9 +349,7 @@
     </div>
 
 </div>
-
 <!--empty container-->
-
 <div class="box-content-empty-blur hide">
     <div class="content-frame-empty-outside">
         <div class="content-frame-white">
@@ -365,7 +362,6 @@
     </div>
 </div>
 <!--END empty container-->
-
 <!--paint container-->
 <div class="box-content-paint-blur">
     <div class="content-frame-paint-outside">
@@ -418,8 +414,6 @@
     </div>
 </div>
 <!--END paint container-->
-
-
 <script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
 <script src="//oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
 <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
