@@ -14,6 +14,23 @@ $(function () {
         }
     });
 
+    $('.sound-on-off').click(function () {
+        $('.current-track').html('L. Utesov- U Samovara');
+        if (($(".current-track").length > 0)) {
+            var track = $('.current-track').html();
+            if (track.length > 30) {
+                var tracklength = track.slice(0, 30);
+                $('.current-track').html(tracklength + ' ...');
+                $('.current-audio').css({ 'left': '-15px' });
+                $('.user-frame-active').css({ 'left': '-15px' });
+            }
+            else {
+                $('.current-audio').css({ 'left': '0' });
+                $('.user-frame-active').css({ 'left': '0' });
+            }
+        }
+    });
+
     $('#button-add-coins').click(function () {
 
         $('.test').html(' test for javascript ').animate( { 'height':'auto' },5000 );
@@ -207,6 +224,20 @@ $(function () {
         if (userCurrent.length > 10) {
             var username = userCurrent.slice(0, 10);
             $('#current-user').html(username + ' ...');
+        }
+    }
+
+    if (($(".current-track").length > 0)) {
+        var track = $('.current-track').html();
+        if (track.length > 26) {
+            var tracklength = track.slice(0, 26);
+            $('.current-track').html(tracklength + ' ...');
+            $('.current-audio').css({ 'left': '-15px' });
+            $('.user-frame-active').css({ 'left': '-15px' });
+        }
+        else {
+            $('.current-audio').css({ 'left': '0' });
+            $('.user-frame-active').css({ 'left': '0' });
         }
     }
 
