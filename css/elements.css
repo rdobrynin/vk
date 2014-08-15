@@ -26,7 +26,6 @@
     left: 86px;
 }
 
-
 .icon-wrapper-grand {
     width: 42px;
     height: 42px;
@@ -45,7 +44,6 @@
     left: 7px;
 }
 
-
 .icon-grand-bg {
     background-color: #9eb1b8;
     width: 36px;
@@ -55,7 +53,6 @@
     margin: 0 auto;
     top: 3px
 }
-
 
 
 .icon-grand-big {
@@ -72,7 +69,6 @@
     padding-left: 1px;
 
 }
-
 
 .icon-big-bg {
     background-color: #B9C8CE;
@@ -96,7 +92,6 @@
 
 }
 
-
 .icon-big {
     width: 46px;
     height: 46px;
@@ -114,7 +109,6 @@
     background: -ms-linear-gradient(top,  #d8e1e4 0%,#d4dee2 100%); /* IE10+ */
     background: linear-gradient(to bottom,  #d8e1e4 0%,#d4dee2 100%); /* W3C */
 }
-
 
 /*icons*/
 
@@ -291,8 +285,6 @@
         0 3px 1px #A4B4BD;
 }
 
-
-
 .coin-balance-wrapper {
     width: 65px;
     height: 36px;
@@ -310,7 +302,6 @@
     background: -ms-linear-gradient(top, #e0e8eb 0%,#ffffff 100%);
     background: linear-gradient(to bottom, #e0e8eb 0%,#ffffff 100%);
 }
-
 
 .coin-balance-big{
     background-color: #B5C2C9;
@@ -351,8 +342,6 @@
     top: 1.5px;
 }
 
-
-
 .icon-add-gift-default {
     background-position: -519.6px -4.510414px;
     background-image: url('../images/sprites@2x.png');
@@ -367,9 +356,6 @@
     position: relative;
     margin-left: -0.8px;
 }
-
-
-
 
 .gift-default-bg{
     width: 24.5px;
@@ -391,8 +377,6 @@
     background: radial-gradient(ellipse at center,  #c7d0d5 0%,#c7d0d5 100%);
 
 }
-
-
 
 .icon-add-gift-default-bg:hover .gift-default-bg .icon-add-gift-default {
     background-position: -557px -52.61px;
@@ -442,8 +426,6 @@
     right: -16px;
     top: -38px;
 }
-
-
 
 .green-plus-wrapper {
     background-color: #00A91D;
@@ -521,7 +503,6 @@ background-color:  #D5DDE0;
     position: relative;
     margin: 0 auto;
     top: 9px;
-
 }
 
 .photo {
@@ -677,14 +658,8 @@ text-decoration: none;
         1.6px 1.6px 0.5px #DDE4E6,
         1.8px 1.8px 0.5px #DDE4E6,
         2px 2px 0.5px #DDE4E6;
-
-
-
-
-
     letter-spacing: 0.4px;
     -webkit-font-smoothing: antialiased;
-
 
     /*text-shadow:*/
         /*0 0.1px 0 #89989d,*/
@@ -696,10 +671,6 @@ text-decoration: none;
         /*0 0.7px 0 #8d9ea4,*/
         /*0 0.8px 0 #8d9ea4,*/
 
-
-
-
-
         /*0 -0.1px 0 #8d9ea4,*/
         /*0 -0.2px 0 #8d9ea4,*/
         /*0 -0.3px 0 #8d9ea4,*/
@@ -709,9 +680,6 @@ text-decoration: none;
         /*0 -0.7px 0 #8d9ea4,*/
         /*0 -0.8px 0 #8d9ea4,*/
 
-
-
-
         /*0.1px 0.1px 0 #8d9ea4,*/
         /*0.2px 0.2px 0 #8d9ea4,*/
         /*0.3px 0.3px 0 #8d9ea4,*/
@@ -720,9 +688,6 @@ text-decoration: none;
         /*0.6px 0.6px 0 #8d9ea4,*/
         /*0.7px 0.7px 0 #8d9ea4,*/
         /*0.8px 0.8px 0 #8d9ea4,*/
-
-
-
 
         /*0.1px -0.1px 0 #8d9ea4,*/
         /*0.2px -0.2px 0 #8d9ea4,*/
@@ -808,7 +773,6 @@ text-decoration: none;
         /*-2.8px 3px 0.2px #DDE4E6;*/
     -webkit-font-smoothing: antialiased;
 
-
   /*text-shadow:*/
       /*1px 1px 1px #8d9ea4,*/
       /*-1px -1px 1px #8d9ea4,*/
@@ -837,7 +801,6 @@ text-decoration: none;
       /*3px 0 1px #D5DDE0,*/
       /*0 3px 1px #D5DDE0;*/
 }
-
 
 #place-1 {
     margin-right: 3px;
@@ -873,8 +836,6 @@ text-decoration: none;
     text-align: center;
     position: relative;
 }
-
-
 
 .user-invite-bg {
     background-color: #C8D1D6;
@@ -1026,8 +987,6 @@ text-decoration: none;
         1.6px 1.6px 0.5px #DDE4E6,
         1.8px 1.8px 0.5px #DDE4E6,
         2px 2px 0.5px #DDE4E6;
-
-
     -webkit-font-smoothing: antialiased;
 }
 
@@ -1102,7 +1061,6 @@ text-decoration: none;
 .sound-bg:hover {
     background-color: #bfc8cb;
 }
-
 
 .pencil {
     width: 34px;
@@ -1215,8 +1173,6 @@ text-decoration: none;
     float: left;
 }
 
-
-
 .lock-1 {
     position: relative;
     left: 20px;
@@ -1228,8 +1184,6 @@ text-decoration: none;
     left: 20px;
     top: -2px;
 }
-
-
 
 .lock-3 {
     position: relative;
@@ -1248,7 +1202,6 @@ text-decoration: none;
     top: 3px;
 }
 
-
 .lock-6 {
     position: relative;
     left: 24px;
@@ -1258,11 +1211,11 @@ text-decoration: none;
 button.btn.btn-riu-success {
     position: fixed;
     z-index: 9999;
-    top: 525px;
+    top: 523px;
     left: 627px;
-    border-radius: 20px;
-    padding-top: 6px;
-    padding-bottom: 6px;
+    border-radius: 51px;
+    padding-top: 8px;
+    padding-bottom: 8px;
     padding-left: 15px;
     padding-right: 15px;
     background: #00c81d; /* Old browsers */

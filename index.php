@@ -124,9 +124,7 @@
             <div class="photo-active">
                 <img src="images/photo_right_1@2x.jpg" alt="" width="24" height="23"/>
             </div>
-
         </div>
-
     </div>
     <!--END_ACTIVE USER WRAPPER-->
     <!--ICON-SETTINGS-->
@@ -267,7 +265,6 @@
     </div>
 </div>
 <!--END ICON_LG_NOTE-->
-
 <!--LEFT USERS BLOCK-->
 <div class="left-users-block">
     <!--1 user-->
@@ -343,11 +340,9 @@
                 <div class="user-invite-bg">
                     <div class="add-user"></div>
                 </div>
-
             <span class="username invite">пригласить</span>
         </div>
     </div>
-
 </div>
 <!--empty container-->
 <div class="box-content-empty-blur hide">
@@ -371,7 +366,6 @@
                     <div class="left-corner-bg">
                         <div class="left-corner">
                             <div class="pencil" data-toggle="tooltip" data-placement="top" title="карандаш">
-
                             </div>
                         </div>
                     </div>

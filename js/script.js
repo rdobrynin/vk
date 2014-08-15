@@ -39,9 +39,10 @@ $(function () {
 
     $('#button-add-coins').click(function () {
 
-        $('.box-content-empty-blur').toggleClass('hide');
+        $('.box-content-empty-blur').fadeIn( "fast");
+        $('.box-content-empty-blur').removeClass( "hide");
 
-        $('.box-content-paint-blur').toggleClass('hide');
+        $('.box-content-paint-blur').fadeToggle( "fast");
 
 //        $('.test').html(' test for javascript ').animate( { 'height':'auto' },5000 );
     });
