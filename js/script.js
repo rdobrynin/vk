@@ -252,9 +252,14 @@ $(function () {
             $('.user-frame-active').css({ 'left': '0' });
         }
     }
-
+// switcher
     $(".brush-icon-wrapper").click(function(e) {
         $('.brush-icon-wrapper').removeClass('active');
+        $(this).addClass('active');
+    });
+
+    $(".brush-form-wrapper").click(function(e) {
+        $('.brush-form-wrapper').removeClass('active');
         $(this).addClass('active');
     });
 

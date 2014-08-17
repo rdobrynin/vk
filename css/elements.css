@@ -1283,22 +1283,7 @@ button.btn.btn-riu-success:hover {
     z-index: 999;
 }
 
-.brush-icon-wrapper-1 {
-    width: 33px;
-    height: 33px;
-    -webkit-border-radius: 33px;
-    -moz-border-radius: 33px;
-    border-radius: 33px;
-    background: #E6E6E6;
-    background: -moz-linear-gradient(top, #E6E6E6 0%, #ffffff 100%);
-    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#E6E6E6), color-stop(100%,#ffffff));
-    background: -webkit-linear-gradient(top, #E6E6E6 0%,#ffffff 100%);
-    background: -o-linear-gradient(top, #E6E6E6 0%,#ffffff 100%);
-    background: -ms-linear-gradient(top, #E6E6E6 0%,#ffffff 100%);
-    background: linear-gradient(to bottom, #E6E6E6 0%,#ffffff 100%);
-    position: relative;
-    float: left;
-}
+
 
 .brush-icon-wrapper.active {
     width: 33px;
@@ -1317,7 +1302,71 @@ button.btn.btn-riu-success:hover {
     float: left;
     left: 0;
     top: -3px;
+    margin-bottom: -5px;
 }
+
+.brush-form-wrapper {
+    width: 40px;
+    height: 40px;
+    -webkit-border-radius: 40px;
+    -moz-border-radius: 40px;
+    border-radius: 40px;
+    position: relative;
+    float: left;
+    left: 8.5px;
+    top: -3px;
+    margin-bottom: -5px;
+}
+
+.brush-form-wrapper.active {
+    width: 40px;
+    height: 40px;
+    -webkit-border-radius: 40px;
+    -moz-border-radius: 40px;
+    border-radius: 40px;
+    background: #e0e8eb;
+    background: -moz-linear-gradient(top, #e0e8eb 0%, #ffffff 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#e0e8eb), color-stop(100%,#ffffff));
+    background: -webkit-linear-gradient(top, #e0e8eb 0%,#ffffff 100%);
+    background: -o-linear-gradient(top, #e0e8eb 0%,#ffffff 100%);
+    background: -ms-linear-gradient(top, #e0e8eb 0%,#ffffff 100%);
+    background: linear-gradient(to bottom, #e0e8eb 0%,#ffffff 100%);
+    position: relative;
+    float: left;
+    left: 8.5px;
+    top: -3px;
+}
+
+
+.brush-form-wrapper.active>.brush-form-inside {
+    width: 32px;
+    height: 32px;
+    position: relative;
+    top: 5px;
+    -webkit-border-radius: 37px;
+    -moz-border-radius: 37px;
+    border-radius: 37px;
+    left: 4px;
+    cursor: pointer;
+    background-color: #E9EEF1;
+    box-shadow: 0 -2px 0px #B9C8CE;
+    margin-bottom: 2px;
+}
+
+.brush-form-inside {
+    width: 32px;
+    height: 32px;
+    position: relative;
+    top: 5px;
+    -webkit-border-radius: 37px;
+    -moz-border-radius: 37px;
+    border-radius: 37px;
+    left: 4px;
+    cursor: pointer;
+    margin-bottom: 2px;
+}
+
+
 
 .brush-icon-wrapper {
     width: 33px;
@@ -1342,10 +1391,80 @@ button.btn.btn-riu-success:hover {
     -moz-border-radius: 26px;
     border-radius: 27px;
     left: 3px;
-
     cursor: pointer;
-
 }
+
+
+
+.brush-form {
+    width: 20px;
+    height: 20px;
+    position: relative;
+    margin: 0 auto;
+}
+
+.brush-form-1 {
+    background-image: url('../images/sprites_color@2x.png');
+    background-size: 37px 666px;
+    background-position: -0px -0px;
+    top: 5px;
+}
+
+.brush-form-2 {
+    background-image: url('../images/sprites_color@2x.png');
+    background-size: 37px 666px;
+    background-position: -0px -24px;
+    top: 5px;
+}
+
+
+.brush-form-3 {
+    background-image: url('../images/sprites_color@2x.png');
+    background-size: 37px 666px;
+    background-position: -0px -48px;
+    top: 5px;
+}
+
+
+.brush-form-4 {
+    background-image: url('../images/sprites_color@2x.png');
+    background-size: 37px 666px;
+    background-position: -0px -72px;
+    top: 5px;
+}
+
+
+.brush-form-5 {
+    background-image: url('../images/sprites_color@2x.png');
+    background-size: 37px 666px;
+    background-position: -0px -96px;
+    top: 5px;
+}
+
+
+.brush-form-6 {
+    background-image: url('../images/sprites_color@2x.png');
+    background-size: 37px 666px;
+    background-position: -0px -120px;
+    top: 5px;
+}
+
+
+.brush-form-7 {
+    background-image: url('../images/sprites_color@2x.png');
+    background-size: 37px 666px;
+    background-position: -0px -145px;
+    top: 5px;
+}
+
+.brush-form-8 {
+    background-image: url('../images/sprites_color@2x.png');
+    background-size: 37px 666px;
+    background-position: -0px -171px;
+    top: 5px;
+}
+
+
 
 
 .brush-icon-wrapper.active>.brush-inside {
@@ -1371,8 +1490,6 @@ cursor:default;
 
     background-color:#526A76 ;
 }
-
-
 
 
 .size-1{
