@@ -365,11 +365,16 @@
                 <div class="paint-frame">
                     <div class="left-corner-bg">
                         <div class="left-corner">
-                            <div class="pencil" data-toggle="tooltip" data-placement="top" title="карандаш">
+                            <div class="pencil" data-toggle="tooltip" data-placement="bottom" title="карандаш">
                             </div>
                         </div>
                     </div>
                     <div class="left-panel-paint">
+                        <div class="brush-form-wrapper">
+                            <div class="brush-form-inside">
+                                <div class="brush-form brush-form-1"></div>
+                            </div>
+                        </div>
                     </div>
                     <div class="canvas-wrapper-bg">
                         <!-- canvas-->
@@ -377,28 +382,58 @@
                         </div>
                         <!-- end canvas-->
                         <div class="bottom-panel-paint">
+                            <div class="brush-icon-wrapper" data-toggle="tooltip" data-placement="top" title="21">
+                                <div class="brush-inside">
+                                    <div class="brush size-1"></div>
+                                </div>
+                            </div>
+                            <div class="brush-icon-wrapper" data-toggle="tooltip" data-placement="top" title="15">
+                                <div class="brush-inside">
+                                    <div class="brush size-2"></div>
+                                </div>
+                            </div>
+                            <div class="brush-icon-wrapper" data-toggle="tooltip" data-placement="top" title="13">
+                                <div class="brush-inside">
+                                    <div class="brush size-3"></div>
+                                </div>
+                            </div>
+                            <div class="brush-icon-wrapper"  data-toggle="tooltip" data-placement="top" title="11">
+                                <div class="brush-inside">
+                                    <div class="brush size-4"></div>
+                                </div>
+                            </div>
+                            <div class="brush-icon-wrapper" data-toggle="tooltip" data-placement="top" title="8">
+                                <div class="brush-inside">
+                                    <div class="brush size-5"></div>
+                                </div>
+                            </div>
+                            <div class="brush-icon-wrapper" data-toggle="tooltip" data-placement="top" title="5">
+                                <div class="brush-inside">
+                                    <div class="brush size-6"></div>
+                                </div>
+                            </div>
                             <button class="btn btn-riu-success">готово!</button>
                         </div>
                         <div class="activation-panel">
-                            <div class="painter" data-toggle="tooltip" data-placement="top" title="кисть"></div>
-                            <div class="eraser" data-toggle="tooltip" data-placement="top" title="резинка"></div>
+                            <div class="painter" data-toggle="tooltip" data-placement="bottom" title="кисть"></div>
+                            <div class="eraser" data-toggle="tooltip" data-placement="bottom" title="резинка"></div>
                             <div class="empty-1">
-                         <div class="lock lock-1" data-toggle="tooltip" data-placement="top" title="открыть 1"><a href="#"><img src="images/lock@2x.png" alt="" width="21" height="26"/></a></div>
+                         <div class="lock lock-1" data-toggle="tooltip" data-placement="bottom" title="открыть 1"><a href="#"><img src="images/lock@2x.png" alt="" width="21" height="26"/></a></div>
                             </div>
                             <div class="empty-2">
-                                <div class="lock lock-2" data-toggle="tooltip" data-placement="top"  title="открыть 2"><a href="#"><img src="images/lock@2x.png" alt="" width="21" height="26"/></a></div>
+                                <div class="lock lock-2" data-toggle="tooltip" data-placement="bottom"  title="открыть 2"><a href="#"><img src="images/lock@2x.png" alt="" width="21" height="26"/></a></div>
                             </div>
                             <div class="empty-3">
-                                <div class="lock lock-3" data-toggle="tooltip" data-placement="top"  title="открыть 3"><a href="#"><img src="images/lock@2x.png" alt="" width="21" height="26"/></a></div>
+                                <div class="lock lock-3" data-toggle="tooltip" data-placement="bottom" title="открыть 3"><a href="#"><img src="images/lock@2x.png" alt="" width="21" height="26"/></a></div>
                             </div>
                             <div class="empty-4">
-                                <div class="lock lock-4" data-toggle="tooltip" data-placement="top"  title="открыть 4"><a href="#"><img src="images/lock@2x.png" alt="" width="21" height="26"/></a></div>
+                                <div class="lock lock-4" data-toggle="tooltip" data-placement="bottom"  title="открыть 4"><a href="#"><img src="images/lock@2x.png" alt="" width="21" height="26"/></a></div>
                             </div>
                             <div class="empty-5">
-                                <div class="lock lock-5" data-toggle="tooltip" data-placement="top"  title="открыть 5"><a href="#"><img src="images/lock@2x.png" alt="" width="21" height="26"/></a></div>
+                                <div class="lock lock-5" data-toggle="tooltip" data-placement="bottom" title="открыть 5"><a href="#"><img src="images/lock@2x.png" alt="" width="21" height="26"/></a></div>
                             </div>
                             <div class="empty-6">
-                                <div class="lock lock-6" data-toggle="tooltip" data-placement="top"  title="открыть 6"><a href="#"><img src="images/lock@2x.png" alt="" width="21" height="26"/></a></div>
+                                <div class="lock lock-6" data-toggle="tooltip" data-placement="bottom" title="открыть 6"><a href="#"><img src="images/lock@2x.png" alt="" width="21" height="26"/></a></div>
                             </div>
                         </div>
                     </div>

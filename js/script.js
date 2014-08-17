@@ -5,6 +5,7 @@ $(function () {
     $('.painter').tooltip();
     $('.pencil').tooltip();
     $('.cog-icon').tooltip();
+    $('.brush-icon-wrapper').tooltip();
 
 //    INVITE USER
     $('.add-user').click(function () {
@@ -251,6 +252,11 @@ $(function () {
             $('.user-frame-active').css({ 'left': '0' });
         }
     }
+
+    $(".brush-icon-wrapper").click(function(e) {
+        $('.brush-icon-wrapper').removeClass('active');
+        $(this).addClass('active');
+    });
 
 });
 
