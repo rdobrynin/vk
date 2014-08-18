@@ -90,7 +90,47 @@ only screen and (                min-resolution: 2dppx) {
         background-repeat: no-repeat;
         background-position: -11px -44px;
         box-shadow: inset 0px 3px 3px -1px white;
-
     }
 
+    .row-300 {
+        background-image: url('../images/300_coins@2x.png');
+        background-size: 63px 51px;
+        background-repeat: no-repeat;
+        background-position: 71px 3px;
+    }
+
+    .row-1500 {
+        background-image: url('../images/1500_coins@2x.png');
+        background-size: 124px 73px;
+        background-repeat: no-repeat;
+        background-position: 71px 5px;
+    }
+
+    .row-3200 {
+        background-image: url('../images/3200_coins@2x.png');
+        background-size: 180px 87px;
+        background-repeat: no-repeat;
+        background-position: 50px 5px;
+    }
+
+    .row-7500 {
+        background-image: url('../images/7500_coins@2x.png');
+        background-size: 180px 87px;
+        background-repeat: no-repeat;
+        background-position: 55px 5px;
+    }
+
+    .row-15000 {
+        background-image: url('../images/15000_coins@2x.png');
+        background-size: 271px 110px;
+        background-repeat: no-repeat;
+        background-position: 25px -12px;
+    }
+
+    .row-gift {
+        background-image: url('../images/modal_get_present_bg@2x.jpg');
+        background-size: 409px 114px;
+        background-repeat: no-repeat;
+        background-position: -27px -12px;
+    }
 }

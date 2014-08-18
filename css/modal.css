@@ -21,7 +21,7 @@
 
 
 #modal-buy .modal-content {
-    height: 533px;
+    height: 582px;
     top: 39px;
     -webkit-border-radius: 18px;
     -moz-border-radius: 18px;
@@ -31,7 +31,12 @@
     background-repeat: no-repeat;
     background-position: -11px -44px;
     box-shadow:inset 0 3px 3px -1px rgb(235, 235, 235);
+    border: 0;
+    padding-top: 108px;
+    padding-left: 27px;
+    padding-right: 27px;
 }
+
 
 .modal-right-top-corner {
 position: fixed;
@@ -50,4 +55,125 @@ position: fixed;
     width: 28px;
     background-color: #B2BDC3;
     box-shadow: inset 0 2px 0 #9CACB3;
+}
+
+.modal-title {
+    font-size: 33px;
+    font-weight: 800;
+    color: #fff;
+    text-shadow: 1px 1px 1px #7B8A8F,
+    -1px -1px 1px #7B8A8F,
+    -1px 1px 1px #7B8A8F,
+    1px -1px 1px #7B8A8F,
+    -1px 0 1px #7B8A8F,
+    1px 0 1px #7B8A8F,
+    0 1px 1px #7B8A8F,
+    0 -1px 1px #7B8A8F,
+    2px 2px 1px #A4B4BD,
+    -2px 2px 1px #A4B4BD,
+    3px 1px 1px #A4B4BD,
+    2px 0 1px #A4B4BD,
+    -2px 2px 1px #A4B4BD,
+    2px 0 1px #A4B4BD,
+    0 2px 1px #A4B4BD,
+    3px 3px 1px #A4B4BD,
+    -3px 2px 1px #A4B4BD,
+    -3px 2px 1px #A4B4BD,
+    3px 0 1px #A4B4BD,
+    -3px 0 1px #A4B4BD,
+    3px 0 1px #A4B4BD,
+    0 3px 1px #A4B4BD;
+    clear: both;
+    line-height: 30px;
+    position: fixed;
+    top: 63px;
+    left: 30px;
+}
+
+.modal-row-wrapper {
+    width: 426px;
+    height: 68px;
+    background: #e0e8eb;
+    background: -moz-linear-gradient(top, #e0e8eb 0%, #ffffff 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#e0e8eb), color-stop(100%,#ffffff));
+    background: -webkit-linear-gradient(top, #e0e8eb 0%,#ffffff 100%);
+    background: -o-linear-gradient(top, #e0e8eb 0%,#ffffff 100%);
+    background: -ms-linear-gradient(top, #e0e8eb 0%,#ffffff 100%);
+    background: linear-gradient(to bottom, #e0e8eb 0%,#ffffff 100%);
+    -webkit-border-radius: 13px;
+    -moz-border-radius: 13px;
+    border-radius: 13px;
+    margin-bottom: 6px;
+}
+
+.modal-row-bg {
+    width: 421px;
+    height: 62px;
+    background-color: #CDDADE;
+    position: relative;
+    -webkit-border-radius: 14px;
+    -moz-border-radius: 14px;
+    border-radius: 14px;
+    top: 2.5px;
+    left: 2.5px;
+}
+
+.modal-row {
+    width: 419px;
+    height: 60px;
+    background-color: #E8EDF0;
+    position: relative;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    border-radius: 12px;
+    top: 2px;
+    left: 1px;
+}
+
+.row-300 {
+    background-image: url('../images/300_coins.png');
+    background-size: 63px 51px;
+    background-repeat: no-repeat;
+    background-position: 71px 3px;
+}
+
+.row-1500 {
+    background-image: url('../images/1500_coins.png');
+    background-size: 124px 73px;
+    background-repeat: no-repeat;
+    background-position: 71px 5px;
+}
+
+.row-3200 {
+    background-image: url('../images/3200_coins.png');
+    background-size: 180px 87px;
+    background-repeat: no-repeat;
+    background-position: 50px 5px;
+}
+
+.row-7500 {
+    background-image: url('../images/7500_coins.png');
+    background-size: 180px 87px;
+    background-repeat: no-repeat;
+    background-position: 55px 5px;
+}
+
+.row-15000 {
+    background-image: url('../images/15000_coins.png');
+    background-size: 271px 110px;
+    background-repeat: no-repeat;
+    background-position: 25px -12px;
+}
+
+.row-gift {
+    background-image: url('../images/modal_get_present_bg.jpg');
+    background-size: 409px 114px;
+    background-repeat: no-repeat;
+    background-position: -27px -12px;
+}
+
+.present-row-gift {
+    top: -16px;
+    position: relative;
+    left: 12px;
 }

@@ -4,10 +4,10 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="Roman Dobrynin">
-    <meta name="description" content="vk application">
+    <meta name="description" content="RIU application">
     <meta name="keywords" content="game">
     <link rel="icon" type="image/vnd.microsoft.icon" href="ico/favicon.ico"/>
-    <title>VK Application</title>
+    <title>RIU</title>
     <!-- CSS -->
     <!-- Latest compiled and minified CSS -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
