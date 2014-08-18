@@ -445,13 +445,13 @@
                             </div>
                             <div class="time-wrapper">
                                 <div class="time-wrapper-bg">
-
+                                    <span class="timer">00:00</span>
                                 </div>
                             </div>
                             <div class="btn btn-undo" disabled="disabled" data-toggle="tooltip" data-placement="top" title="шаг назад"></div>
                             <div class="btn btn-redo" disabled="disabled" data-toggle="tooltip" data-placement="top" title="шаг вперед"></div>
                             <div class=" btn btn-trash" data-toggle="tooltip" data-placement="top" title="начать с начала"></div>
-                            <div class="ready"><button class="btn btn-riu-success">готово!</button></div>
+                            <div class="ready"><button class="btn btn-riu-success" >готово!</button></div>
                         </div>
                         <div class="activation-panel">
                             <div class="btn btn-painter" data-toggle="tooltip" data-placement="bottom" title="кисть"></div>
@@ -492,6 +492,7 @@
 <script src="//oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
 <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
 <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script src="js/function.js"></script>
 <script src="js/script.js"></script>
 <script src="js/jquery.preload.min.js"></script>
 <script src="js/bootstrap.min.js"></script>

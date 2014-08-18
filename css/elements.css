@@ -1547,6 +1547,76 @@ button.btn.btn-riu-success:hover {
 
 }
 
+span.timer {
+    text-align: center;
+    position: relative;
+    padding-left: 13px;
+    top: 5px;
+    font-weight: 800;
+    color: #fff;
+    font-size: 16px;
+    text-shadow: 0 0 0.5px #89989d,
+0 0 0.5px #89989d,
+0 0 0.5px #89989d,
+0 0 0.5px #89989d,
+0 0 0.6px #89989d,
+
+0.2px 0 0.5px #89989d,
+0.4px 0 0.5px #89989d,
+0.4px 0 0.6px #89989d,
+
+-0.2px 0 0.5px #89989d,
+-0.2px 0 0.6px #89989d,
+-0.4px 0 0.5px #89989d,
+-0.4px 0 0.6px #89989d,
+
+0 0.2px 0.5px #89989d,
+0 0.4px 0.5px #89989d,
+0 0.4px 0.6px #89989d,
+
+0 -0.2px 0.5px #89989d,
+0 -0.2px 0.6px #89989d,
+0 -0.4px 0.5px #89989d,
+0 -0.4px 0.6px #89989d,
+
+    /*outside*/
+
+0 1.2px 0.5px #DDE4E6,
+0 1.4px 0.5px #DDE4E6,
+0 1.6px 0.5px #DDE4E6,
+0 1.8px 0.5px #DDE4E6,
+0 2.0px 0.6px #DDE4E6,
+0 2.2px 0.5px #DDE4E6,
+
+-1.2px 0 0.6px #DDE4E6,
+-1.4px 0 0.5px #DDE4E6,
+-1.6px 0 0.5px #DDE4E6,
+-1.8px 0 0.5px #DDE4E6,
+-2.0px 0 0.5px #DDE4E6,
+-2.2px 0 0.6px #DDE4E6,
+
+-1.2px 1.2px 0.6px #DDE4E6,
+-1.4px 1.4px 0.5px #DDE4E6,
+-1.6px 1.6px 0.5px #DDE4E6,
+-1.8px 1.8px 0.5px #DDE4E6,
+-2.0px 2.0px 0.5px #DDE4E6,
+-2.2px 2.2px 0.6px #DDE4E6,
+
+1.2px 0 0.6px #DDE4E6,
+1.4px 0 0.5px #DDE4E6,
+1.6px 0 0.5px #DDE4E6,
+1.8px 0 0.5px #DDE4E6,
+2.0px 0 0.5px #DDE4E6,
+2.2px 0 0.6px #DDE4E6,
+
+1.2px 1.2px 0.5px #DDE4E6,
+1.4px 1.4px 0.5px #DDE4E6,
+1.6px 1.6px 0.5px #DDE4E6,
+1.8px 1.8px 0.5px #DDE4E6,
+2px 2px 0.5px #DDE4E6;
+
+}
+
 .brush-inside {
     width: 27px;
     height: 27px;

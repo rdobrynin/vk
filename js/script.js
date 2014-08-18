@@ -1,4 +1,6 @@
 $(function () {
+//    timer start on load document
+    startCount();
 
     $('.lock').tooltip();
     $('.eraser').tooltip();
@@ -265,8 +267,6 @@ $(function () {
     });
 
 });
-
-
 
 
 
