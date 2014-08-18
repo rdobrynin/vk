@@ -1,3 +1,11 @@
+var pixelRatio = !!window.devicePixelRatio ? window.devicePixelRatio : 1;
+$(window).on("load", function() {
+    if (pixelRatio > 1) {
+        $('#top-chest').attr('src', $('#top-chest').attr('src').replace(".png","@2x.png"));
+        $('body').addClass('retina');
+    }
+});
+
 $(function () {
 //    timer start on load document
     startCount();
@@ -41,15 +49,14 @@ $(function () {
         }
     });
 
-    $('#button-add-coins').click(function () {
+//    SWITCH LAYOUT
 
-        $('.box-content-empty-blur').fadeIn( "fast");
-        $('.box-content-empty-blur').removeClass( "hide");
-
-        $('.box-content-paint-blur').fadeToggle( "fast");
-
-//        $('.test').html(' test for javascript ').animate( { 'height':'auto' },5000 );
-    });
+//    $('#button-add-coins').click(function () {
+//        $('.box-content-empty-blur').fadeIn( "fast");
+//        $('.box-content-empty-blur').removeClass( "hide");
+//        $('.box-content-paint-blur').fadeToggle( "fast");
+//
+//    });
 //    FUNCTION FORMAT NUMBER WITH COMMA
     function CommaFormatted(yourNumber) {
         var n = yourNumber.toString().split(".");

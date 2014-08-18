@@ -79,4 +79,18 @@ only screen and (                min-resolution: 2dppx) {
     /*}*/
 
 
+    #modal-buy .modal-content{
+        height: 533px;
+        top: 39px;
+        -webkit-border-radius: 18px;
+        -moz-border-radius: 18px;
+        border-radius: 18px;
+        background-image: url('../images/modal_buy_bg@2x.jpg');
+        background-size: 522px 670px;
+        background-repeat: no-repeat;
+        background-position: -11px -44px;
+        box-shadow: inset 0px 3px 3px -1px white;
+
+    }
+
 }

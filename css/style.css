@@ -291,7 +291,7 @@ textarea:focus, input:focus{
     left: 745px;
     width: 102px;
     height: 279px;
-    z-index: 1999
+    z-index: 1020;
 }
 
 .user-block {
@@ -525,3 +525,4 @@ textarea:focus, input:focus{
     top: 29px;
     left: 2px;
 }
+

@@ -1365,9 +1365,7 @@ text-decoration: none;
 
 button.btn.btn-riu-success {
     position: relative;
-    z-index: 9999;
-    /* top: 523px; */
-    /* left: 627px; */
+    z-index: 1020;
     border-radius: 51px;
     padding-top: 6px;
     padding-bottom: 6px;

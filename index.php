@@ -13,8 +13,9 @@
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
     <link href="css/elements.css" rel="stylesheet">
-    <link href="css/retina.css" rel="stylesheet">
+    <link href="css/modal.css" rel="stylesheet">
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+    <link href="css/retina.css" rel="stylesheet">
 </head>
 <body>
 <script src="http://vkontakte.ru/js/api/openapi.js" type="text/javascript"></script>
@@ -72,7 +73,7 @@
                 </div>
                 <div class="green-plus-wrapper">
                     <div class="green-plus-bg">
-                        <button class=" btn vk-plus" id="button-add-coins"></button>
+                        <button class="btn vk-plus" id="button-add-coins" data-toggle="modal" data-target="#modal-buy"></button>
                     </div>
                 </div>
             </div>
@@ -492,6 +493,7 @@
         </div>
     </div>
 </div>
+<?php include('modal_buy.php')?>
 <!--END paint container-->
 <script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
 <script src="//oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>

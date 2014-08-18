@@ -1,0 +1,53 @@
+/*MODAL*/
+
+.modal-backdrop {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1030;
+    background-color: #000;
+    opacity:0.6 !important;
+}
+
+#modal-buy>.modal-dialog {
+    position: fixed;
+    left: 195px;
+    width: 481px;
+    /* height: 533px; */
+}
+
+
+
+#modal-buy .modal-content {
+    height: 533px;
+    top: 39px;
+    -webkit-border-radius: 18px;
+    -moz-border-radius: 18px;
+    border-radius: 18px;
+    background-image: url('../images/modal_buy_bg.jpg');
+    background-size: 522px 670px;
+    background-repeat: no-repeat;
+    background-position: -11px -44px;
+    box-shadow:inset 0 3px 3px -1px rgb(235, 235, 235);
+}
+
+.modal-right-top-corner {
+position: fixed;
+    right: 14px;
+    top: 25px;
+}
+
+.btn-close {
+    position: fixed;
+    right: 7px;
+    top: 46px;
+    -webkit-border-radius: 28px;
+    -moz-border-radius: 28px;
+    border-radius: 28px;
+    height: 28px;
+    width: 28px;
+    background-color: #B2BDC3;
+    box-shadow: inset 0 2px 0 #9CACB3;
+}
