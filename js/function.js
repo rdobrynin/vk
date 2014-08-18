@@ -15,6 +15,9 @@ function count() {
         secs = 0;
         mins=mins + 1;
     }
+    if(mins==2 && secs ==0) {
+        alert('time is over');
+    }
     $(".timer").text(plz(mins) + ":" + plz(secs));
 }
 

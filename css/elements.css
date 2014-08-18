@@ -561,6 +561,7 @@ text-decoration: none;
     letter-spacing:0;
     font-weight: 800;
     color: #fff;
+
 }
 
 .username{
@@ -661,6 +662,7 @@ text-decoration: none;
         2px 2px 0.5px #DDE4E6;
     letter-spacing: 0.4px;
     -webkit-font-smoothing: antialiased;
+    -moz-font-smoothing: antialiased;
 
     /*text-shadow:*/
         /*0 0.1px 0 #89989d,*/
@@ -773,6 +775,7 @@ text-decoration: none;
         /*-2.6px 3px 0.2px #DDE4E6,*/
         /*-2.8px 3px 0.2px #DDE4E6;*/
     -webkit-font-smoothing: antialiased;
+    -moz-font-smoothing: antialiased;
 
   /*text-shadow:*/
       /*1px 1px 1px #8d9ea4,*/
@@ -989,6 +992,7 @@ text-decoration: none;
         1.8px 1.8px 0.5px #DDE4E6,
         2px 2px 0.5px #DDE4E6;
     -webkit-font-smoothing: antialiased;
+    -moz-font-smoothing: antialiased;
 }
 
 .audio-sign{
@@ -1468,7 +1472,7 @@ button.btn.btn-riu-success:hover {
     background: linear-gradient(to bottom, #e0e8eb 0%,#ffffff 100%);
     position: relative;
     float: left;
-    left: 8.5px;
+    left: 6.5px;
     top: -3px;
 }
 
@@ -1496,7 +1500,7 @@ button.btn.btn-riu-success:hover {
     -webkit-border-radius: 37px;
     -moz-border-radius: 37px;
     border-radius: 37px;
-    left: 4px;
+    left: 2px;
     cursor: pointer;
     margin-bottom: 2px;
 }
@@ -1551,7 +1555,7 @@ span.timer {
     text-align: center;
     position: relative;
     padding-left: 13px;
-    top: 5px;
+    top: 4px;
     font-weight: 800;
     color: #fff;
     font-size: 16px;
@@ -1629,8 +1633,6 @@ span.timer {
     cursor: pointer;
 }
 
-
-
 .brush-form {
     width: 22px;
     height: 22px;
@@ -1641,14 +1643,14 @@ span.timer {
 .brush-form-1 {
     background-image: url('../images/sprites_color@2x.png');
     background-size: 37px 735px;
-    background-position: 1px -0px;
+    background-position: 1px 1px;
     top: 5px;
 }
 
 .brush-form-2 {
     background-image: url('../images/sprites_color@2x.png');
     background-size: 37px 735px;
-    background-position: 0 592px;
+    background-position: -1px 593px;
     top: 5px;
 }
 
@@ -1656,7 +1658,7 @@ span.timer {
 .brush-form-3 {
     background-image: url('../images/sprites_color@2x.png');
     background-size: 37px 735px;
-    background-position: 1px -119.5px;
+    background-position: 0.5px -117.5px;
     top: 5px;
 }
 
@@ -1664,7 +1666,7 @@ span.timer {
 .brush-form-4 {
     background-image: url('../images/sprites_color@2x.png');
     background-size: 37px 735px;
-    background-position: 1px -71.5px;
+    background-position: 0.5px -70.5px;
     top: 5px;
 }
 
@@ -1672,7 +1674,7 @@ span.timer {
 .brush-form-5 {
     background-image: url('../images/sprites_color@2x.png');
     background-size: 37px 735px;
-    background-position: 1px -170.5px;
+    background-position: 0.5px -168.5px;
     top: 5px;
 }
 
@@ -1680,7 +1682,7 @@ span.timer {
 .brush-form-6 {
     background-image: url('../images/sprites_color@2x.png');
     background-size: 37px 735px;
-    background-position: 1px -47px;
+    background-position: 0.5px -46px;
     top: 5px;
 }
 
@@ -1688,16 +1690,63 @@ span.timer {
 .brush-form-7 {
     background-image: url('../images/sprites_color@2x.png');
     background-size: 37px 735px;
-    background-position: 1px -23.5px;
+    background-position: 0.5px -23.5px;
     top: 5px;
 }
 
 .brush-form-8 {
     background-image: url('../images/sprites_color@2x.png');
     background-size: 37px 735px;
-    background-position: 1px -95.5px;
+    background-position: 0.5px -94.5px;
     top: 5px;
 }
+
+.color-palette-wrapper {
+    width: 43px;
+    height: 43px;
+    -webkit-border-radius: 45px;
+    -moz-border-radius: 45px;
+    border-radius: 45px;
+    background: #e0e8eb;
+    background: -moz-linear-gradient(top, #e0e8eb 0%, #ffffff 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#e0e8eb), color-stop(100%,#ffffff));
+    background: -webkit-linear-gradient(top, #e0e8eb 0%,#ffffff 100%);
+    background: -o-linear-gradient(top, #e0e8eb 0%,#ffffff 100%);
+    background: -ms-linear-gradient(top, #e0e8eb 0%,#ffffff 100%);
+    background: linear-gradient(to bottom, #e0e8eb 0%,#ffffff 100%);
+    position: relative;
+    float: left;
+    left: 5px;
+    top: 2px;
+}
+
+.palette {
+    background-image: url('../images/sprites_color@2x.png');
+    background-size: 37px 735px;
+    background-position: 4.5px 175.5px;
+    width: 33px;
+    height: 24px;
+    top: 4.5px;
+    position: relative;
+    display: block;
+    left: 0.5px;
+}
+
+.color-palette-bg {
+    width: 36px;
+    height: 36px;
+    position: relative;
+    top: 4px;
+    -webkit-border-radius: 40px;
+    -moz-border-radius: 40px;
+    border-radius: 40px;
+    left: 3.5px;
+    background-color: #E9EEF1;
+    box-shadow: 0 -1px 0 #B9C8CE;
+    cursor: pointer;
+
+}
+
 
 
 
@@ -1786,8 +1835,8 @@ cursor:default;
     -webkit-border-radius: 8px;
     -moz-border-radius: 8px;
     border-radius: 8px;
-    top: 8.5px;
-    left: 9px;
+    top: 8.4px;
+    left: 10px;
     position: relative;
     float: left;
     cursor: pointer;
@@ -1800,7 +1849,7 @@ cursor:default;
     -webkit-border-radius: 5px;
     -moz-border-radius: 5px;
     border-radius: 5px;
-    top: 10px;
+    top: 9px;
     left: 11px;
     position: relative;
     float: left;

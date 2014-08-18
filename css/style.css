@@ -233,7 +233,7 @@ textarea:focus, input:focus{
     border-radius: 16px;
     position: relative;
     top: 1.5px;
-    left: 0.4px;
+    left: 0.6px;
 }
 
 .left-corner-bg {
@@ -391,6 +391,7 @@ textarea:focus, input:focus{
         0 -0.4px 0.5px #89989d,
         0 -0.4px 0.6px #89989d;
     -webkit-font-smoothing: antialiased;
+    -moz-font-smoothing: antialiased;
 }
 
 .white {
@@ -489,6 +490,7 @@ textarea:focus, input:focus{
         2px 2px 0.5px #DDE4E6;
     letter-spacing: 0.4px;
     -webkit-font-smoothing: antialiased;
+    -moz-font-smoothing: antialiased;
 }
 
 

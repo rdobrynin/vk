@@ -406,6 +406,11 @@
                                 <div class="brush-form brush-form-8"></div>
                             </div>
                         </div>
+                      <div class="color-palette-wrapper">
+                          <div class="color-palette-bg">
+                            <span class="palette"></span>
+                          </div>
+                      </div>
                     </div>
                     <div class="canvas-wrapper-bg">
                         <!-- canvas-->
