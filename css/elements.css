@@ -1,3 +1,4 @@
+
 .icon-wrapper-big{
     width: 54px;
     height: 54px;
@@ -1062,24 +1063,116 @@ text-decoration: none;
     background-color: #bfc8cb;
 }
 
-.pencil {
+.btn-trash {
+    width: 34px;
+    height: 34px;
+    background-image: url('../images/sprites_color@2x.png');
+    background-size: 37px 735px;
+    background-position: -0px -664px;
+    position: fixed;
+    cursor: pointer;
+    left: 584px;
+}
+
+.btn-trash:active {
+    width: 34px;
+    height: 34px;
+    background-image: url('../images/sprites_color@2x.png');
+    background-size: 37px 735px;
+    background-position: 1px -663.5px;
+    position: fixed;
+    cursor: pointer;
+    left: 584px;
+    border: 0;
+    box-shadow: none;
+    border-radius: 0;
+}
+
+.btn-undo{
+    width: 34px;
+    height: 34px;
+    background-image: url('../images/sprites_color@2x.png');
+    background-size: 37px 735px;
+    background-position: 0px -698px;
+    position: fixed;
+    cursor: pointer;
+    left: 486px;
+}
+
+.btn-undo:active{
+    width: 34px;
+    height: 34px;
+    background-image: url('../images/sprites_color@2x.png');
+    background-size: 37px 735px;
+    background-position: 1px -697.5px;
+    position: fixed;
+    cursor: pointer;
+    left: 486px;
+    border: 0;
+    box-shadow: none;
+    border-radius: 0;
+}
+
+
+.btn-redo{
+    width: 34px;
+    height: 34px;
+    background-image: url('../images/sprites_color@2x.png');
+    background-size: 37px 735px;
+    background-position: -0px -629px;
+    position: fixed;
+    cursor: pointer;
+    left: 535px;
+}
+
+.btn-redo:active{
+    width: 34px;
+    height: 34px;
+    background-image: url('../images/sprites_color@2x.png');
+    background-size: 37px 735px;
+    background-position: 1px -628.5px;
+    position: fixed;
+    cursor: pointer;
+    left: 535px;
+    border: 0;
+    box-shadow: none;
+    border-radius: 0;
+}
+
+
+.btn-pencil {
     width: 34px;
     height: 38px;
     background-image: url('../images/sprites_color@2x.png');
-    background-size: 37px 666px;
-    background-position: -0px -593px;
+    background-size: 37px 735px;
+    background-position: -0px -585px;
     position: relative;
     top: 45px;
     left: 16px;
     cursor: pointer;
 }
 
-.painter  {
+.btn-pencil:active {
     width: 34px;
     height: 38px;
     background-image: url('../images/sprites_color@2x.png');
-    background-size: 37px 666px;
-    background-position: -0px -530px;
+    background-size: 37px 735px;
+    background-position: 1px -584.5px;
+    position: relative;
+    top: 45px;
+    left: 16px;
+    cursor: pointer;
+    border: 0;
+    box-shadow: none;
+}
+
+
+.btn-painter  {
+    width: 34px;
+    height: 38px;
+    background-image: url('../images/sprites_color@2x.png');
+    background-size: 37px 735px;
+    background-position: -0px -525px;
     position: relative;
     top: 5px;
     left: 16px;
@@ -1087,12 +1180,27 @@ text-decoration: none;
     float: left;
 }
 
-.eraser  {
+.btn-painter:active  {
     width: 34px;
     height: 38px;
     background-image: url('../images/sprites_color@2x.png');
-    background-size: 37px 666px;
-    background-position: -0px -458px;
+    background-size: 37px 735px;
+    background-position: 1px -524.5px;
+    position: relative;
+    top: 5px;
+    left: 16px;
+    cursor: pointer;
+    float: left;
+    border: 0;
+    box-shadow: none;
+}
+
+.btn-eraser  {
+    width: 34px;
+    height: 38px;
+    background-image: url('../images/sprites_color@2x.png');
+    background-size: 37px 735px;
+    background-position: -0px -453px;
     position: relative;
     top: 4px;
     left: 45px;
@@ -1100,13 +1208,28 @@ text-decoration: none;
     float: left;
 }
 
+.btn-eraser:active  {
+    width: 34px;
+    height: 38px;
+    background-image: url('../images/sprites_color@2x.png');
+    background-size: 37px 735px;
+    background-position: 1px -452.5px;
+    position: relative;
+    top: 4px;
+    left: 45px;
+    cursor: pointer;
+    float: left;
+    border: 0;
+    box-shadow: none;
+}
+
 
 .empty-1  {
     width: 34px;
     height: 38px;
     background-image: url('../images/sprites_color@2x.png');
-    background-size: 37px 666px;
-    background-position: 0 -196px;
+    background-size: 37px 735px;
+    background-position: 0 -193px;
     position: relative;
     top: 4px;
     left: 75px;
@@ -1117,8 +1240,8 @@ text-decoration: none;
     width: 34px;
     height: 38px;
     background-image: url('../images/sprites_color@2x.png');
-    background-size: 37px 666px;
-    background-position: 0 -240px;
+    background-size: 37px 735px;
+    background-position: 0 -236px;
     position: relative;
     top: 3px;
     left: 106px;
@@ -1129,8 +1252,8 @@ text-decoration: none;
     width: 34px;
     height: 38px;
     background-image: url('../images/sprites_color@2x.png');
-    background-size: 37px 666px;
-    background-position: 0 -284px;
+    background-size: 37px 735px;
+    background-position: 0 -280px;
     position: relative;
     top: 2px;
     left: 138px;
@@ -1141,8 +1264,8 @@ text-decoration: none;
     width: 34px;
     height: 45px;
     background-image: url('../images/sprites_color@2x.png');
-    background-size: 37px 666px;
-    background-position: 0 -324px;
+    background-size: 37px 735px;
+    background-position: 0 -320px;
     position: relative;
     top: -2px;
     left: 183px;
@@ -1153,8 +1276,8 @@ text-decoration: none;
     width: 34px;
     height: 45px;
     background-image: url('../images/sprites_color@2x.png');
-    background-size: 37px 666px;
-    background-position: 0 -369px;
+    background-size: 37px 735px;
+    background-position: 0 -365px;
     position: relative;
     top: -2px;
     left: 216px;
@@ -1163,10 +1286,10 @@ text-decoration: none;
 
 .empty-6 {
     width: 34px;
-    height: 45px;
+    height: 40px;
     background-image: url('../images/sprites_color@2x.png');
-    background-size: 37px 666px;
-    background-position: 0 -415px;
+    background-size: 37px 735px;
+    background-position: 0 -411px;
     position: relative;
     top: 1px;
     left: 248px;
@@ -1208,14 +1331,27 @@ text-decoration: none;
     top: 1px;
 }
 
+.ready {
+    background-color: #E6ECEB;
+    -webkit-border-radius: 51px;
+    -moz-border-radius: 51px;
+    border-radius: 51px;
+    padding-bottom: 6px;
+    position: relative;
+    width: 86px;
+    float: right;
+    height: 35px;
+    margin-right: -5px;
+}
+
 button.btn.btn-riu-success {
     position: relative;
     z-index: 9999;
     /* top: 523px; */
     /* left: 627px; */
     border-radius: 51px;
-    padding-top: 8px;
-    padding-bottom: 8px;
+    padding-top: 6px;
+    padding-bottom: 6px;
     padding-left: 15px;
     padding-right: 15px;
     background: #00c81d;
@@ -1250,7 +1386,6 @@ button.btn.btn-riu-success {
     0 1.6px 0.5px #0caf23,
     0 2.0px 0.5px #0caf23,
     0 2.2px 0.5px #0caf23;
-
     float: right;
     bottom: 4px;
 }
@@ -1382,6 +1517,36 @@ button.btn.btn-riu-success:hover {
 
 }
 
+.time-wrapper {
+    width: 76px;
+    height: 41px;
+    margin-top: -6px;
+    -webkit-border-radius: 38px;
+    -moz-border-radius: 38px;
+    border-radius: 38px;
+    position: fixed;
+    left: 390px;
+    background: #e0e8eb;
+    background: -moz-linear-gradient(top, #e0e8eb 0%, #ffffff 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%, #e0e8eb), color-stop(100%, #ffffff));
+    background: -webkit-linear-gradient(top, #e0e8eb 0%, #ffffff 100%);
+    background: -o-linear-gradient(top, #e0e8eb 0%, #ffffff 100%);
+    background: -ms-linear-gradient(top, #e0e8eb 0%, #ffffff 100%);
+    background: linear-gradient(to bottom, #e0e8eb 0%, #ffffff 100%);
+}
+
+.time-wrapper-bg {
+    width: 69px;
+    height: 33px;
+    background-color: #D9E1E4;
+    box-shadow: 0px -2px 0 #C3CED3;
+    border-radius: 22px;
+    position: relative;
+    top: 5px;
+    left: 3.5px;
+
+}
+
 .brush-inside {
     width: 27px;
     height: 27px;
@@ -1397,70 +1562,70 @@ button.btn.btn-riu-success:hover {
 
 
 .brush-form {
-    width: 20px;
-    height: 20px;
+    width: 22px;
+    height: 22px;
     position: relative;
     margin: 0 auto;
 }
 
 .brush-form-1 {
     background-image: url('../images/sprites_color@2x.png');
-    background-size: 37px 666px;
-    background-position: -0px -0px;
+    background-size: 37px 735px;
+    background-position: 1px -0px;
     top: 5px;
 }
 
 .brush-form-2 {
     background-image: url('../images/sprites_color@2x.png');
-    background-size: 37px 666px;
-    background-position: -0px -24px;
+    background-size: 37px 735px;
+    background-position: 0 592px;
     top: 5px;
 }
 
 
 .brush-form-3 {
     background-image: url('../images/sprites_color@2x.png');
-    background-size: 37px 666px;
-    background-position: -0px -48px;
+    background-size: 37px 735px;
+    background-position: 1px -119.5px;
     top: 5px;
 }
 
 
 .brush-form-4 {
     background-image: url('../images/sprites_color@2x.png');
-    background-size: 37px 666px;
-    background-position: -0px -72px;
+    background-size: 37px 735px;
+    background-position: 1px -71.5px;
     top: 5px;
 }
 
 
 .brush-form-5 {
     background-image: url('../images/sprites_color@2x.png');
-    background-size: 37px 666px;
-    background-position: -0px -96px;
+    background-size: 37px 735px;
+    background-position: 1px -170.5px;
     top: 5px;
 }
 
 
 .brush-form-6 {
     background-image: url('../images/sprites_color@2x.png');
-    background-size: 37px 666px;
-    background-position: -0px -120px;
+    background-size: 37px 735px;
+    background-position: 1px -47px;
     top: 5px;
 }
 
 
 .brush-form-7 {
     background-image: url('../images/sprites_color@2x.png');
-    background-size: 37px 666px;
-    background-position: -0px -145px;
+    background-size: 37px 735px;
+    background-position: 1px -23.5px;
     top: 5px;
 }
 
 .brush-form-8 {
     background-image: url('../images/sprites_color@2x.png');
-    background-size: 37px 666px;
-    background-position: -0px -171px;
+    background-size: 37px 735px;
+    background-position: 1px -95.5px;
     top: 5px;
 }
 

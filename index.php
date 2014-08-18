@@ -19,7 +19,6 @@
 <body>
 <script src="http://vkontakte.ru/js/api/openapi.js" type="text/javascript"></script>
 <!--<div id="login_button" onclick="VK.Auth.login(authorize);"></div>-->
-
 <!--<script language="javascript">-->
 <!--    VK.init({-->
 <!--        apiId: 4496769-->
@@ -48,38 +47,37 @@
 <!--    });-->
 <!--    VK.UI.button('login_button');-->
 <!--</script>-->
-
-
 <script type="text/javascript">
     VK.init({
         apiId: 4496769
     });
-//    function authInfo(response) {
-//        if (response.session) {
-//            alert('user: ' + response.session.mid);
-//        } else {
-//            alert('not auth');
-//        }
-//    }
-//    VK.Auth.getLoginStatus(authInfo);
-//    VK.UI.button('login_button');
+    //    function authInfo(response) {
+    //        if (response.session) {
+    //            alert('user: ' + response.session.mid);
+    //        } else {
+    //            alert('not auth');
+    //        }
+    //    }
+    //    VK.Auth.getLoginStatus(authInfo);
+    //    VK.UI.button('login_button');
 </script>
 <div class="wrapper">
     <!--TOP RIGHT REGION-->
-        <div class="coin-balance-wrapper">
-            <div class="coin-balance-bg">
-                <div class="coin-balance-big">
-                    <span class="balance-amount" id="balance-amount">1238</span>
-                    <div class="coin-gold-icon">
-                    </div>
-                    <div class="green-plus-wrapper">
-                        <div class="green-plus-bg">
-                            <div class="vk-plus" id="button-add-coins"></div>
-                        </div>
+    <div class="coin-balance-wrapper">
+        <div class="coin-balance-bg">
+            <div class="coin-balance-big">
+                <span class="balance-amount" id="balance-amount">1238</span>
+
+                <div class="coin-gold-icon">
+                </div>
+                <div class="green-plus-wrapper">
+                    <div class="green-plus-bg">
+                        <div class="vk-plus" id="button-add-coins"></div>
                     </div>
                 </div>
             </div>
         </div>
+    </div>
     <!--END TOP_RIGHT REGION-->
     <!--ICON_GRANT_PLACE-->
     <div class="icon-wrapper-grand">
@@ -100,9 +98,9 @@
         </div>
     </div>
     <div class="favourite">
-       <div class="score">
-           <span class="score-1">43000</span>/<span class="score-2">50000</span>
-       </div>
+        <div class="score">
+            <span class="score-1">43000</span>/<span class="score-2">50000</span>
+        </div>
     </div>
     <!--END ICON_GRANT_PLACE-->
     <!--ACTIVE USER WRAPPER-->
@@ -114,9 +112,9 @@
             </div>
             <div class="sound-switch">
                 <div class="sound-bg">
-<div class="sound-default-bg">
-    <div class="sound-on-off"></div>
-</div>
+                    <div class="sound-default-bg">
+                        <div class="sound-on-off"></div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -167,12 +165,12 @@
                 </div>
                 <!--ADD GIFT BUTTON-->
                 <div class="add-gift">
-                        <div class="icon-add-gift-default-bg">
-                            <div class="gift-default-bg">
-                                <div class="icon-add-gift-default">
-                                </div>
+                    <div class="icon-add-gift-default-bg">
+                        <div class="gift-default-bg">
+                            <div class="icon-add-gift-default">
                             </div>
                         </div>
+                    </div>
                 </div>
                 <span class="username" id="username-1">евгений</span>
             </div>
@@ -188,12 +186,12 @@
                 </div>
                 <!--ADD GIFT BUTTON-->
                 <div class="add-gift">
-                        <div class="icon-add-gift-default-bg">
-                            <div class="gift-default-bg">
-                                <div class="icon-add-gift-default">
-                                </div>
+                    <div class="icon-add-gift-default-bg">
+                        <div class="gift-default-bg">
+                            <div class="icon-add-gift-default">
                             </div>
                         </div>
+                    </div>
                 </div>
                 <span class="username" id="username-2">маша</span>
             </div>
@@ -230,13 +228,12 @@
                 </div>
                 <!--ADD GIFT BUTTON-->
                 <div class="add-gift">
-
-                        <div class="icon-add-gift-default-bg">
-                            <div class="gift-default-bg">
-                                <div class="icon-add-gift-default">
-                                </div>
+                    <div class="icon-add-gift-default-bg">
+                        <div class="gift-default-bg">
+                            <div class="icon-add-gift-default">
                             </div>
                         </div>
+                    </div>
                 </div>
                 <span class="username" id="username-3">александра</span>
             </div>
@@ -336,10 +333,9 @@
     <div class="user-block-side" id="placeholder-6">
         <!--INVITE CONTAINER-->
         <div class="user-wrapper-invite">
-
-                <div class="user-invite-bg">
-                    <div class="add-user"></div>
-                </div>
+            <div class="user-invite-bg">
+                <div class="add-user"></div>
+            </div>
             <span class="username invite">пригласить</span>
         </div>
     </div>
@@ -365,57 +361,51 @@
                 <div class="paint-frame">
                     <div class="left-corner-bg">
                         <div class="left-corner">
-                            <div class="pencil" data-toggle="tooltip" data-placement="bottom" title="карандаш">
+                            <div class="btn btn-pencil" data-toggle="tooltip" data-placement="bottom" title="карандаш">
                             </div>
                         </div>
                     </div>
                     <div class="left-panel-paint">
-
                         <div class="brush-form-wrapper">
                             <div class="brush-form-inside">
                                 <div class="brush-form brush-form-1"></div>
                             </div>
                         </div>
-
-
                         <div class="brush-form-wrapper">
                             <div class="brush-form-inside">
                                 <div class="brush-form brush-form-2"></div>
                             </div>
                         </div>
-
                         <div class="brush-form-wrapper active">
                             <div class="brush-form-inside">
                                 <div class="brush-form brush-form-3"></div>
                             </div>
                         </div>
-
                         <div class="brush-form-wrapper">
                             <div class="brush-form-inside">
                                 <div class="brush-form brush-form-4"></div>
                             </div>
-                    </div>
-
+                        </div>
                         <div class="brush-form-wrapper">
                             <div class="brush-form-inside">
                                 <div class="brush-form brush-form-5"></div>
                             </div>
-</div>
+                        </div>
                         <div class="brush-form-wrapper">
                             <div class="brush-form-inside">
                                 <div class="brush-form brush-form-6"></div>
                             </div>
-</div>
+                        </div>
                         <div class="brush-form-wrapper">
                             <div class="brush-form-inside">
                                 <div class="brush-form brush-form-7"></div>
                             </div>
-                            </div>
+                        </div>
                         <div class="brush-form-wrapper">
                             <div class="brush-form-inside">
                                 <div class="brush-form brush-form-8"></div>
                             </div>
-</div>
+                        </div>
                     </div>
                     <div class="canvas-wrapper-bg">
                         <!-- canvas-->
@@ -433,12 +423,12 @@
                                     <div class="brush size-2"></div>
                                 </div>
                             </div>
-                            <div class="brush-icon-wrapper active" data-toggle="tooltip" data-placement="top" title="13">
+                            <div class="brush-icon-wrapper" data-toggle="tooltip" data-placement="top" title="13">
                                 <div class="brush-inside">
                                     <div class="brush size-3"></div>
                                 </div>
                             </div>
-                            <div class="brush-icon-wrapper"  data-toggle="tooltip" data-placement="top" title="11">
+                            <div class="brush-icon-wrapper active" data-toggle="tooltip" data-placement="top" title="11">
                                 <div class="brush-inside">
                                     <div class="brush size-4"></div>
                                 </div>
@@ -453,28 +443,42 @@
                                     <div class="brush size-6"></div>
                                 </div>
                             </div>
-                            <button class="btn btn-riu-success">готово!</button>
+                            <div class="time-wrapper">
+                                <div class="time-wrapper-bg">
+
+                                </div>
+                            </div>
+                            <div class="btn btn-undo" disabled="disabled" data-toggle="tooltip" data-placement="top" title="шаг назад"></div>
+                            <div class="btn btn-redo" disabled="disabled" data-toggle="tooltip" data-placement="top" title="шаг вперед"></div>
+                            <div class=" btn btn-trash" data-toggle="tooltip" data-placement="top" title="начать с начала"></div>
+                            <div class="ready"><button class="btn btn-riu-success">готово!</button></div>
                         </div>
                         <div class="activation-panel">
-                            <div class="painter" data-toggle="tooltip" data-placement="bottom" title="кисть"></div>
-                            <div class="eraser" data-toggle="tooltip" data-placement="bottom" title="резинка"></div>
+                            <div class="btn btn-painter" data-toggle="tooltip" data-placement="bottom" title="кисть"></div>
+                            <div class="btn btn-eraser" data-toggle="tooltip" data-placement="bottom" title="резинка"></div>
                             <div class="empty-1">
-                         <div class="lock lock-1" data-toggle="tooltip" data-placement="bottom" title="открыть 1"><a href="#"><img src="images/lock@2x.png" alt="" width="21" height="26"/></a></div>
+                                <div class="lock lock-1" data-toggle="tooltip" data-placement="bottom" title="открыть 1">
+                                    <a href="#"><img src="images/lock@2x.png" alt="" width="21" height="26"/></a></div>
                             </div>
                             <div class="empty-2">
-                                <div class="lock lock-2" data-toggle="tooltip" data-placement="bottom"  title="открыть 2"><a href="#"><img src="images/lock@2x.png" alt="" width="21" height="26"/></a></div>
+                                <div class="lock lock-2" data-toggle="tooltip" data-placement="bottom" title="открыть 2">
+                                    <a href="#"><img src="images/lock@2x.png" alt="" width="21" height="26"/></a></div>
                             </div>
                             <div class="empty-3">
-                                <div class="lock lock-3" data-toggle="tooltip" data-placement="bottom" title="открыть 3"><a href="#"><img src="images/lock@2x.png" alt="" width="21" height="26"/></a></div>
+                                <div class="lock lock-3" data-toggle="tooltip" data-placement="bottom" title="открыть 3">
+                                    <a href="#"><img src="images/lock@2x.png" alt="" width="21" height="26"/></a></div>
                             </div>
                             <div class="empty-4">
-                                <div class="lock lock-4" data-toggle="tooltip" data-placement="bottom"  title="открыть 4"><a href="#"><img src="images/lock@2x.png" alt="" width="21" height="26"/></a></div>
+                                <div class="lock lock-4" data-toggle="tooltip" data-placement="bottom" title="открыть 4">
+                                    <a href="#"><img src="images/lock@2x.png" alt="" width="21" height="26"/></a></div>
                             </div>
                             <div class="empty-5">
-                                <div class="lock lock-5" data-toggle="tooltip" data-placement="bottom" title="открыть 5"><a href="#"><img src="images/lock@2x.png" alt="" width="21" height="26"/></a></div>
+                                <div class="lock lock-5" data-toggle="tooltip" data-placement="bottom" title="открыть 5">
+                                    <a href="#"><img src="images/lock@2x.png" alt="" width="21" height="26"/></a></div>
                             </div>
                             <div class="empty-6">
-                                <div class="lock lock-6" data-toggle="tooltip" data-placement="bottom" title="открыть 6"><a href="#"><img src="images/lock@2x.png" alt="" width="21" height="26"/></a></div>
+                                <div class="lock lock-6" data-toggle="tooltip" data-placement="bottom" title="открыть 6">
+                                    <a href="#"><img src="images/lock@2x.png" alt="" width="21" height="26"/></a></div>
                             </div>
                         </div>
                     </div>

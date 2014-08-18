@@ -6,6 +6,7 @@ $(function () {
     $('.pencil').tooltip();
     $('.cog-icon').tooltip();
     $('.brush-icon-wrapper').tooltip();
+    $('.btn').tooltip();
 
 //    INVITE USER
     $('.add-user').click(function () {
