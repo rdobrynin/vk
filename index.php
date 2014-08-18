@@ -72,7 +72,7 @@
                 </div>
                 <div class="green-plus-wrapper">
                     <div class="green-plus-bg">
-                        <div class="vk-plus" id="button-add-coins"></div>
+                        <button class=" btn vk-plus" id="button-add-coins"></button>
                     </div>
                 </div>
             </div>

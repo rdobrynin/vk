@@ -23,12 +23,12 @@ a, a:hover, a:active, a:focus {
 a:active { outline: none; }
 a:focus{ -moz-outline-style: none; }
 
-button:focus {outline:0;}
-button:active {outline:0;}
-button:hover {outline:0;}
+.btn:focus {outline:0 !important;}
+.btn:active {outline:0 !important;}
+.btn:hover {outline:0 !important;}
 
-button {
-    outline: none;
+.btn {
+    outline: 0 !important;
 }
 
 input:focus,
