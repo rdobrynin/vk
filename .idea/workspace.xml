@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6778edc4-4afe-43d8-bc69-2a652cc0982c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/modal.css" afterPath="$PROJECT_DIR$/css/modal.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/script.js" afterPath="$PROJECT_DIR$/js/script.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="vk.iws" />
@@ -31,7 +31,7 @@
           <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="464" column="67" selection-start="21938" selection-end="21938" vertical-scroll-proportion="0.4969988" vertical-offset="7938" max-vertical-offset="9311">
+                <state line="462" column="34" selection-start="21795" selection-end="21795" vertical-scroll-proportion="0.45378152" vertical-offset="7938" max-vertical-offset="9311">
                   <folding />
                 </state>
               </provider>
@@ -114,10 +114,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="modal.css" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="modal.css" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css/modal.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="219" column="17" selection-start="5314" selection-end="5314" vertical-scroll-proportion="0.74399036" vertical-offset="3341" max-vertical-offset="12298">
+                <state line="211" column="20" selection-start="5180" selection-end="5180" vertical-scroll-proportion="-16.321428" vertical-offset="3341" max-vertical-offset="12298">
                   <folding />
                 </state>
               </provider>
@@ -132,12 +132,12 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/js/script.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="23" column="0" selection-start="1053" selection-end="1053" vertical-scroll-proportion="-3.4736843" vertical-offset="216" max-vertical-offset="6388">
+                <state line="294" column="3" selection-start="11551" selection-end="11551" vertical-scroll-proportion="0.5379826" vertical-offset="5076" max-vertical-offset="6293">
                   <folding>
-                    <marker date="1408459996774" expanded="false" signature="945:1019" placeholder="..." />
+                    <marker date="1408460547518" expanded="false" signature="945:1019" placeholder="..." />
                   </folding>
                 </state>
               </provider>
@@ -189,9 +189,9 @@
         <option value="$PROJECT_DIR$/modal_profile.php" />
         <option value="$PROJECT_DIR$/modal_buy.php" />
         <option value="$PROJECT_DIR$/css/retina.css" />
-        <option value="$PROJECT_DIR$/js/script.js" />
         <option value="$PROJECT_DIR$/modal_level.php" />
         <option value="$PROJECT_DIR$/css/modal.css" />
+        <option value="$PROJECT_DIR$/js/script.js" />
       </list>
     </option>
   </component>
@@ -453,7 +453,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="8" column="0" selection-start="46" selection-end="46" vertical-scroll-proportion="0.0" vertical-offset="144" max-vertical-offset="216">
           <folding>
-            <marker date="1408459996774" expanded="false" signature="945:1019" placeholder="..." />
+            <marker date="1408460547518" expanded="false" signature="945:1019" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -693,12 +693,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/script.js">
+    <entry file="file://$PROJECT_DIR$/css/modal.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="0" selection-start="1053" selection-end="1053" vertical-scroll-proportion="-3.4736843" vertical-offset="216" max-vertical-offset="6388">
-          <folding>
-            <marker date="1408459996774" expanded="false" signature="945:1019" placeholder="..." />
-          </folding>
+        <state line="211" column="20" selection-start="5180" selection-end="5180" vertical-scroll-proportion="-16.321428" vertical-offset="3341" max-vertical-offset="12298">
+          <folding />
         </state>
       </provider>
     </entry>
@@ -709,16 +707,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/modal.css">
+    <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="219" column="17" selection-start="5314" selection-end="5314" vertical-scroll-proportion="0.74399036" vertical-offset="3341" max-vertical-offset="12298">
-          <folding />
+        <state line="294" column="3" selection-start="11551" selection-end="11551" vertical-scroll-proportion="0.5379826" vertical-offset="5076" max-vertical-offset="6293">
+          <folding>
+            <marker date="1408460547518" expanded="false" signature="945:1019" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="464" column="67" selection-start="21938" selection-end="21938" vertical-scroll-proportion="0.4969988" vertical-offset="7938" max-vertical-offset="9311">
+        <state line="462" column="34" selection-start="21795" selection-end="21795" vertical-scroll-proportion="0.45378152" vertical-offset="7938" max-vertical-offset="9311">
           <folding />
         </state>
       </provider>
