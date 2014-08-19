@@ -11,11 +11,11 @@ $(window).on("load", function() {
 });
 
 
-//If user has ie 8 or less notification income for updating ie version
+//$(window).load(function(){
+//    $('#modal-level').modal('show');
+//});
 
-$(window).load(function(){
-    $('#modal-level').modal('show');
-});
+//If user has ie 8 or less notification income for updating ie version
 
 if ($.browser.msie  && parseInt($.browser.version, 10) === 8) {
    $('body').empty();
