@@ -46,18 +46,20 @@
 }
 
 .btn-close {
-    position: fixed;
-    right: 7px;
-    top: 46px;
+    background-color: #B2BDC3;
     -webkit-border-radius: 28px;
     -moz-border-radius: 28px;
     border-radius: 28px;
+    -webkit-box-shadow: inset 0px 2px 0px #9CACB3;
+    -moz-box-shadow: inset 0px 2px 0px #9CACB3;
+    box-shadow: inset 0px 2px 0px #9CACB3;
+    float: right;
     height: 28px;
+    position: relative;
+    right: -153px;
+    top: -62px;
     width: 28px;
-    background-color: #B2BDC3;
-    -webkit-box-shadow: inset 0 2px 0 #9CACB3;
-    -moz-box-shadow: inset 0 2px 0 #9CACB3;
-    box-shadow: inset 0 2px 0 #9CACB3;
+    z-index: 999;
 }
 
 .modal-title {
@@ -188,14 +190,21 @@
     position: relative;
     top: 0;
     left: 14px;
-    text-shadow: 1px 1px 1px #7B8A8F,
-    -1px -1px 1px #7B8A8F,
-    -1px 1px 1px #7B8A8F,
-    1px -1px 1px #7B8A8F,
-    -1px 0 1px #7B8A8F,
-    1px 0 1px #7B8A8F,
-    0 1px 1px #7B8A8F,
-    0 -1px 1px #7B8A8F,
+    text-shadow: 1px 1px 1px #5A6167,
+    -1px -1px 1px #5A6167,
+    -1px 1px 1px #5A6167,
+    1px -1px 1px #5A6167,
+    -1px 0 1px #5A6167,
+    1px 0 1px #5A6167,
+    0 1px 1px #5A6167,
+    0 -1px 1px #5A6167,
+    -1.4px -1px 1px #5A6167,
+    -1.4px 1px 1px #5A6167,
+    1.4px -1px 1px #5A6167,
+    -1.4px 0 1px #5A6167,
+    1.4px 0 1px #5A6167,
+    0 1.4px 1px #5A6167,
+    0 -1.4px 1px #5A6167,
     2px 2px 1px #A4B4BD,
     -2px 2px 1px #A4B4BD,
     3px 1px 1px #A4B4BD,
@@ -213,17 +222,106 @@
 }
 
 .coin_300 {
-    top: 6px;
+    top: 9px;
 }
 
 .coin_1500 {
 font-size: 33px;
+    text-shadow: 1px 1px 1px #5A6167,
+    -1px -1px 1px #5A6167,
+    -1px 1px 1px #5A6167,
+    1px -1px 1px #5A6167,
+    -1px 0 1px #5A6167,
+    1px 0 1px #5A6167,
+    0 1px 1px #5A6167,
+    0 -1px 1px #5A6167,
+    -1.4px -1px 1px #5A6167,
+    -1.4px 1px 1px #5A6167,
+    1.4px -1px 1px #5A6167,
+    -1.4px 0 1px #5A6167,
+    1.4px 0 1px #5A6167,
+    0 1.4px 1px #5A6167,
+    0 -1.4px 1px #5A6167,
+    2px 2px 1px #A4B4BD,
+    -2px 2px 1px #A4B4BD,
+    3px 1px 1px #A4B4BD,
+    2px 0 1px #A4B4BD,
+    -2px 2px 1px #A4B4BD,
+    2px 0 1px #A4B4BD,
+    0 2px 1px #A4B4BD,
+    3px 3px 1px #A4B4BD,
+    -3px 2px 1px #A4B4BD,
+    -3px 2px 1px #A4B4BD,
+    3px 0 1px #A4B4BD,
+    -3px 0 1px #A4B4BD,
+    3px 0 1px #A4B4BD,
+    0 3px 1px #A4B4BD;
+    top: 6px;
 }
 
 .coin_3200, .coin_7500 {
     font-size: 39px;
+    text-shadow: 1px 1px 1px #5A6167,
+    -1px -1px 1px #5A6167,
+    -1px 1px 1px #5A6167,
+    1px -1px 1px #5A6167,
+    -1px 0 1px #5A6167,
+    1px 0 1px #5A6167,
+    0 1px 1px #5A6167,
+    0 -1px 1px #5A6167,
+    -2px -2px 1px #5A6167,
+    -2px 2px 1px #5A6167,
+    2px -1px 1px #5A6167,
+    -2px 0 1px #5A6167,
+    2px 0 1px #5A6167,
+    0 2px 1px #5A6167,
+    0 -2px 1px #5A6167,
+    2px 2px 1px #A4B4BD,
+    -2px 2px 1px #A4B4BD,
+    3px 1px 1px #A4B4BD,
+    2px 0 1px #A4B4BD,
+    -2px 2px 1px #A4B4BD,
+    2px 0 1px #A4B4BD,
+    0 2px 1px #A4B4BD,
+    3px 3px 1px #A4B4BD,
+    -3px 2px 1px #A4B4BD,
+    -3px 2px 1px #A4B4BD,
+    3px 0 1px #A4B4BD,
+    -3px 0 1px #A4B4BD,
+    3px 0 1px #A4B4BD,
+    0 3px 1px #A4B4BD;
+    top: 1px;
 }
 
 .coin_15000 {
     font-size: 43px;
+    text-shadow: 1px 1px 1px #5A6167,
+    -1px -1px 1px #5A6167,
+    -1px 1px 1px #5A6167,
+    1px -1px 1px #5A6167,
+    -1px 0 1px #5A6167,
+    1px 0 1px #5A6167,
+    0 1px 1px #5A6167,
+    0 -1px 1px #5A6167,
+    -2px -2px 1px #5A6167,
+    -2px 2px 1px #5A6167,
+    2px -1px 1px #5A6167,
+    -2px 0 1px #5A6167,
+    2px 0 1px #5A6167,
+    0 2px 1px #5A6167,
+    0 -2px 1px #5A6167,
+    2px 2px 1px #A4B4BD,
+    -2px 2px 1px #A4B4BD,
+    3px 1px 1px #A4B4BD,
+    2px 0 1px #A4B4BD,
+    -2px 2px 1px #A4B4BD,
+    2px 0 1px #A4B4BD,
+    0 2px 1px #A4B4BD,
+    3px 3px 1px #A4B4BD,
+    -3px 2px 1px #A4B4BD,
+    -3px 2px 1px #A4B4BD,
+    3px 0 1px #A4B4BD,
+    -3px 0 1px #A4B4BD,
+    3px 0 1px #A4B4BD,
+    0 3px 1px #A4B4BD;
 }

@@ -2,11 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6778edc4-4afe-43d8-bc69-2a652cc0982c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/empty.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.MD" afterPath="$PROJECT_DIR$/README.MD" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/elements.css" afterPath="$PROJECT_DIR$/css/elements.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/modal.css" afterPath="$PROJECT_DIR$/css/modal.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modal_buy.php" afterPath="$PROJECT_DIR$/modal_buy.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="vk.iws" />
@@ -29,25 +29,34 @@
     <favorites_list name="vk" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.26089016">
+    <splitter split-orientation="horizontal" split-proportion="0.19261083">
       <split-first>
         <leaf>
           <file leaf-file-name="README.MD" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/README.MD">
-              <provider editor-type-id="MarkdownPreviewEditor">
-                <state />
-              </provider>
               <provider selected="true" editor-type-id="text-editor">
-                <state line="6" column="0" selection-start="486" selection-end="486" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="144">
+                <state line="6" column="53" selection-start="539" selection-end="539" vertical-scroll-proportion="-4.0" vertical-offset="0" max-vertical-offset="890">
                   <folding />
                 </state>
+              </provider>
+              <provider editor-type-id="MarkdownPreviewEditor">
+                <state />
               </provider>
             </entry>
           </file>
           <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="12" column="45" selection-start="520" selection-end="520" vertical-scroll-proportion="0.41290322" vertical-offset="0" max-vertical-offset="15055">
+                <state line="363" column="56" selection-start="15115" selection-end="15115" vertical-scroll-proportion="0.5714286" vertical-offset="8064" max-vertical-offset="12644">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="empty.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/empty.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="296" column="10" selection-start="12166" selection-end="12166" vertical-scroll-proportion="-0.4" vertical-offset="5306" max-vertical-offset="6928">
                   <folding />
                 </state>
               </provider>
@@ -106,55 +115,25 @@
           <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="412" column="26" selection-start="9122" selection-end="9122" vertical-scroll-proportion="-19.214285" vertical-offset="8526" max-vertical-offset="11580">
+                <state line="412" column="26" selection-start="9122" selection-end="9122" vertical-scroll-proportion="0.0" vertical-offset="7416" max-vertical-offset="8856">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="modal.css" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="modal.css" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/modal.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="41" column="17" selection-start="937" selection-end="937" vertical-scroll-proportion="0.0" vertical-offset="597" max-vertical-offset="5844">
+                <state line="291" column="22" selection-start="6819" selection-end="6819" vertical-scroll-proportion="0.5462287" vertical-offset="6826" max-vertical-offset="8947">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="1500_coins.png" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/images/1500_coins.png">
-              <provider selected="true" editor-type-id="images">
-                <state />
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="300_coins.png" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/images/300_coins.png">
-              <provider selected="true" editor-type-id="images">
-                <state />
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="elements.css" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="elements.css" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css/elements.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="220" column="0" selection-start="5950" selection-end="5950" vertical-scroll-proportion="0.4428224" vertical-offset="3596" max-vertical-offset="30558">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="sprites_color@2x.png" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/images/sprites_color@2x.png">
-              <provider selected="true" editor-type-id="images">
-                <state />
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="sprites_color.txt" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/images/sprites_color.txt">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="20" column="0" selection-start="1960" selection-end="1960" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="396">
+                <state line="630" column="22" selection-start="17180" selection-end="17180" vertical-scroll-proportion="0.0" vertical-offset="10478" max-vertical-offset="28645">
                   <folding />
                 </state>
               </provider>
@@ -163,16 +142,7 @@
           <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/js/script.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="18" column="39" selection-start="619" selection-end="619" vertical-scroll-proportion="0.0" vertical-offset="324" max-vertical-offset="5112">
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="function.js" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/js/function.js">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="16" column="5" selection-start="342" selection-end="342" vertical-scroll-proportion="0.0" vertical-offset="288" max-vertical-offset="684">
+                <state line="43" column="48" selection-start="1953" selection-end="1953" vertical-scroll-proportion="0.0" vertical-offset="486" max-vertical-offset="5980">
                   <folding />
                 </state>
               </provider>
@@ -196,16 +166,17 @@
         <option value="$PROJECT_DIR$/images/sprites.css" />
         <option value="$PROJECT_DIR$/preview.html" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/README.MD" />
         <option value="$PROJECT_DIR$/css/aqs" />
         <option value="$PROJECT_DIR$/js/function.js" />
         <option value="$PROJECT_DIR$/css/retina.css" />
         <option value="$PROJECT_DIR$/js/script.js" />
         <option value="$PROJECT_DIR$/modal_buy.php" />
-        <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/css/modal.css" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/css/elements.css" />
+        <option value="$PROJECT_DIR$/empty.php" />
+        <option value="$PROJECT_DIR$/README.MD" />
+        <option value="$PROJECT_DIR$/css/modal.css" />
       </list>
     </option>
   </component>
@@ -242,7 +213,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -319,6 +289,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -342,8 +313,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/css" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/css" />
       <recent name="$PROJECT_DIR$/js" />
     </key>
   </component>
@@ -429,16 +400,16 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32930514" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Jenkins" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32955924" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.06471307" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.098087095" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -458,11 +429,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/images/sprites.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/sprites.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="53" column="4" selection-start="1003" selection-end="1048" vertical-scroll-proportion="0.0" vertical-offset="954" max-vertical-offset="1728" />
@@ -592,23 +558,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/sprites_color@2x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/sprites_color.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="0" selection-start="1960" selection-end="1960" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1192">
-          <folding />
-        </state>
+        <state line="20" column="0" selection-start="1960" selection-end="1960" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1192" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/function.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="5" selection-start="342" selection-end="342" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1457">
-          <folding />
-        </state>
+        <state line="16" column="5" selection-start="342" selection-end="342" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1457" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/images/sprites.png">
@@ -634,16 +591,6 @@
     <entry file="file://$PROJECT_DIR$/images/gift_tiger.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.MD">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="0" selection-start="486" selection-end="486" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="144">
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/jquery.preload.min.js">
@@ -708,13 +655,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="39" selection-start="619" selection-end="619" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5968">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/modal_buy.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="29" column="43" selection-start="1321" selection-end="1321" vertical-scroll-proportion="0.0" vertical-offset="522" max-vertical-offset="1224">
@@ -722,30 +662,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="45" selection-start="520" selection-end="520" vertical-scroll-proportion="0.41290322" vertical-offset="0" max-vertical-offset="15055">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/modal.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="17" selection-start="937" selection-end="937" vertical-scroll-proportion="0.0" vertical-offset="597" max-vertical-offset="5844">
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/images/sprites_color@2x.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="412" column="26" selection-start="9122" selection-end="9122" vertical-scroll-proportion="-19.214285" vertical-offset="8526" max-vertical-offset="11580">
+        <state line="412" column="26" selection-start="9122" selection-end="9122" vertical-scroll-proportion="0.0" vertical-offset="7416" max-vertical-offset="8856">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/elements.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="220" column="0" selection-start="5950" selection-end="5950" vertical-scroll-proportion="0.4428224" vertical-offset="3596" max-vertical-offset="30558">
+        <state line="630" column="22" selection-start="17180" selection-end="17180" vertical-scroll-proportion="0.0" vertical-offset="10478" max-vertical-offset="28645">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/empty.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="296" column="10" selection-start="12166" selection-end="12166" vertical-scroll-proportion="-0.4" vertical-offset="5306" max-vertical-offset="6928">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.MD">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="53" selection-start="539" selection-end="539" vertical-scroll-proportion="-4.0" vertical-offset="0" max-vertical-offset="890">
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="363" column="56" selection-start="15115" selection-end="15115" vertical-scroll-proportion="0.5714286" vertical-offset="8064" max-vertical-offset="12644">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="48" selection-start="1953" selection-end="1953" vertical-scroll-proportion="0.0" vertical-offset="486" max-vertical-offset="5980">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/modal.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="291" column="22" selection-start="6819" selection-end="6819" vertical-scroll-proportion="0.5462287" vertical-offset="6826" max-vertical-offset="8947">
           <folding />
         </state>
       </provider>
