@@ -2,7 +2,9 @@
 <div class="modal fade" id="modal-buy" tabindex="-1" role="dialog" aria-labelledby="modal-buyLabel" data-backdrop="static" aria-hidden="true">
     <div class="modal-dialog">
         <div class="modal-content">
-            <span class="modal-title">Докупить<br/>монеты</span>
+<!--            <span class="modal-title">Докупить<br/>монеты</span>-->
+
+            <div class="text-buy-coins"><img id="text-buy-coins" src="images/text_buy_money.png" alt="" width="168" height="59"/></div>
 
             <div class="modal-right-top-corner">
                 <img id="top-chest" src="images/chest.png" alt="" width="137" height="127"/></div>
@@ -64,10 +66,10 @@
                 </div>
             </div>
             <!--            ROW 5-->
-            <div class="modal-row-wrapper" style="margin-top: 15px">
+            <div class="modal-row-wrapper" style="margin-top: 15px; margin-bottom:20px;">
                 <div class="modal-row-bg">
                     <div class="modal-row row-gift">
-                        <div class="present-row-gift"><img id="gold-gift" src="images/gold_gift@2x.png" alt="" width="90" height="94"/></div>
+                        <div class="present-row-gift"><img id="gold-gift" src="images/gold_gift_new.png" alt="" width="149" height="94"/></div>
                     </div>
                     <div class="button-wrapper-buy" style="margin-top: 2px;">
                         <button class="btn btn-riu-modal-success">получить</button>

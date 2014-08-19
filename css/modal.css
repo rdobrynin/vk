@@ -57,7 +57,7 @@
     height: 28px;
     position: relative;
     right: -153px;
-    top: -62px;
+    top: -90px;
     width: 28px;
     z-index: 999;
 }
@@ -171,16 +171,21 @@
 }
 
 .row-gift {
-    background-image: url('../images/modal_get_present_bg.jpg');
+    background-image: url('../images/modal_get_present_bg_new.jpg');
     background-size: 409px 114px;
     background-repeat: no-repeat;
-    background-position: -27px -12px;
+    background-position: -97px -12px;
 }
 
 .present-row-gift {
-    top: -16px;
+    top: -18px;
     position: relative;
-    left: 12px;
+    left: -14px;
+}
+
+.text-buy-coins {
+    position: relative;
+    top: -13px;
 }
 
 .coins_cost {

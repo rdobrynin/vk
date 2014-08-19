@@ -80,7 +80,7 @@ only screen and (                min-resolution: 2dppx) {
 
 
     #modal-buy .modal-content{
-        height: 533px;
+        height: auto;
         top: 39px;
         -webkit-border-radius: 18px;
         -moz-border-radius: 18px;
@@ -131,6 +131,6 @@ only screen and (                min-resolution: 2dppx) {
         background-image: url('../images/modal_get_present_bg@2x.jpg');
         background-size: 409px 114px;
         background-repeat: no-repeat;
-        background-position: -27px -12px;
+        background-position: -97px -12px;
     }
 }
