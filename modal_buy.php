@@ -8,8 +8,9 @@
 
             <div class="modal-right-top-corner">
                 <img id="top-chest" src="images/chest.png" alt="" width="137" height="127"/></div>
-            <button type="button" class=" btn btn-close" data-dismiss="modal">
-                <span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+           <div class="close-modal-wrapper">
+               <button type="button" class=" btn btn-close" data-dismiss="modal"> <img id="modal-buy-close" src="images/modal_close.png" alt="" width="21" height="20"/></button>
+           </div>
 <!--            ROW 1-->
             <div class="modal-row-wrapper">
                 <div class="modal-row-bg">

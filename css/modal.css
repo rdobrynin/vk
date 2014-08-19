@@ -42,7 +42,24 @@
     float: right;
     position: relative;
     right: -5px;
-    top: -86px;
+    top: -114px;
+}
+
+.close-modal-wrapper {
+    background-color: #B2BDC3;
+    -webkit-border-radius: 28px;
+    -moz-border-radius: 28px;
+    border-radius: 28px;
+    -webkit-box-shadow : 0 2px 0 #D2D5D6;
+    -moz-box-shadow: 0 2px 0 #D2D5D6;
+    box-shadow: 0 2px 0 #D2D5D6;
+    float: right;
+    height: 28px;
+    position: relative;
+    right: -153px;
+    top: -90px;
+    width: 28px;
+    z-index: 999;
 }
 
 .btn-close {
@@ -53,13 +70,16 @@
     -webkit-box-shadow: inset 0px 2px 0px #9CACB3;
     -moz-box-shadow: inset 0px 2px 0px #9CACB3;
     box-shadow: inset 0px 2px 0px #9CACB3;
-    float: right;
     height: 28px;
-    position: relative;
-    right: -153px;
-    top: -90px;
     width: 28px;
-    z-index: 999;
+    position: relative;
+}
+
+img#modal-buy-close {
+    position: absolute;
+    margin: 0px auto;
+    left: 3px;
+    top: 3px;
 }
 
 .modal-title {

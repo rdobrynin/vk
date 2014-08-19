@@ -4,6 +4,7 @@ $(window).on("load", function() {
         $('#top-chest').attr('src', $('#top-chest').attr('src').replace(".png","@2x.png"));
         $('#gold-gift').attr('src', $('#gold-gift').attr('src').replace(".png","@2x.png"));
         $('#text-buy-coins').attr('src', $('#text-buy-coins').attr('src').replace(".png","@2x.png"));
+        $('#modal-buy-close').attr('src', $('#modal-buy-close').attr('src').replace(".png","@2x.png"));
         $('body').addClass('retina');
     }
 });
