@@ -3,6 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="author" content="Roman Dobrynin">
     <meta name="description" content="RIU application">
     <meta name="keywords" content="game">
@@ -15,6 +16,7 @@
     <link href="css/elements.css" rel="stylesheet">
     <link href="css/modal.css" rel="stylesheet">
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,800,700,600,300' rel='stylesheet' type='text/css'>
     <link href="css/retina.css" rel="stylesheet">
 </head>
 <body>

@@ -1,4 +1,4 @@
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,800,700,600,300);
+
 /* Reset */
 body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, textarea, p, blockquote, th, td {
     margin: 0;
@@ -38,13 +38,7 @@ button:focus {
     outline: none;
 }
 
-button:focus {outline:none;}
 button::-moz-focus-inner {border:0;}
-
-button::-moz-focus-inner {
-    border: 0;
-}
-
 html, body {
     height: 100%;
     font-family: 'Open Sans', sans-serif;
@@ -59,15 +53,11 @@ a:hover {
     outline: none;
 }
 
-textarea:focus, input:focus{
-    outline: none;
-}
 
 .wrapper {
     width: 827px;
     height: 700px;
     background-image: url('../images/clouds.png');
-    /*background-size: 827px 143px;*/
     background-repeat: no-repeat;
     background-attachment: fixed;
 
@@ -109,8 +99,6 @@ textarea:focus, input:focus{
     box-shadow: 0 -2.5px 0 0 rgba(196, 208, 209, 0.8);
     border-bottom: 0;
 }
-
-
 
 .content-frame-white {
     background-color: #F2F3F5;
@@ -169,6 +157,8 @@ textarea:focus, input:focus{
     background-color: #E6EBEB;
     width: 626px;
     height: 417px;
+    -webkit-border-radius: 28px;
+    -moz-border-radius: 28px;
     border-radius: 28px;
     box-shadow: inset 0 3px 0 #fff;
     position: relative;
@@ -186,9 +176,9 @@ textarea:focus, input:focus{
     border-radius: 33px;
     -webkit-border-radius: 33px;
     -moz-border-radius: 33px;
-    -webkit-box-shadow: 0px 0.5px 0px 0px rgba(240, 244, 245, 0.8);
-    -moz-box-shadow: 0px 0.5px 0px 0px rgba(240, 244, 245, 0.8);
-    box-shadow: 0px 0.5px 2px 0px rgba(243, 240, 240, 0.8);
+    -webkit-box-shadow: 0 0.5px 0 0 rgba(240, 244, 245, 0.8);
+    -moz-box-shadow: 0 0.5px 0 0 rgba(240, 244, 245, 0.8);
+    box-shadow: 0 0.5px 2px 0 rgba(243, 240, 240, 0.8);
     left: 89px;
 }
 
@@ -199,16 +189,14 @@ textarea:focus, input:focus{
     background-color: #F6F8FA;
     top: 149.5px;
     position: fixed;
-    /*border: 1px solid #F3F3F3;*/
     border-radius: 33px;
     -webkit-border-radius: 33px;
     -moz-border-radius: 33px;
-    -webkit-box-shadow: 0px 0.5px 0px 0px rgba(240, 244, 245, 0.8);
-    -moz-box-shadow: 0px 0.5px 0px 0px rgba(240, 244, 245, 0.8);
-    box-shadow: 0px 0.5px 2px 0px rgba(243, 240, 240, 0.8);
+    -webkit-box-shadow: 0 0.5px 0 0 rgba(240, 244, 245, 0.8);
+    -moz-box-shadow: 0 0.5px 0px 0 rgba(240, 244, 245, 0.8);
+    box-shadow: 0 0.5px 2px 0 rgba(243, 240, 240, 0.8);
     left: 90px;
 }
-
 
 .canvas-wrapper-bg {
     width: 562px;
@@ -217,7 +205,7 @@ textarea:focus, input:focus{
     -moz-border-radius: 18px;
     border-radius: 18px;
     background-color: #D7DEE4;
-    box-shadow: 0px 2px 0 #E8ECEC;
+    box-shadow: 0 2px 0 #E8ECEC;
     position: relative;
     right: -56px;
     top: 5px;
@@ -243,9 +231,11 @@ textarea:focus, input:focus{
     position: fixed;
     top: 529px;
     border-bottom-left-radius: 23px;
+    -moz-border-bottom-left-radius: 23px;
+    -moz-border-bottom-left-radius: 23px;
     border-bottom-right-radius: 23px;
-
-
+    -webkit-border-bottom-right-radius: 23px;
+    -moz-border-bottom-right-radius: 23px;
 }
 
 .left-corner {
@@ -256,9 +246,7 @@ textarea:focus, input:focus{
     border-bottom-right-radius: 23px;
     position: relative;
     box-shadow: 0 4px 0 #E8EDED;
-
 }
-
 
 .activation-panel {
     width: 100%;
@@ -330,73 +318,91 @@ textarea:focus, input:focus{
     color: #fff;
     padding-top: 3px;
     font-weight: 800;
-    /*text-shadow: 1px 1px 1px #97a8ad,*/
-    /*-1px -1px 1px #97a8ad,*/
-    /*-1px 1px 1px #97a8ad,*/
-    /*1px -1px 1px #7B8A8F,*/
-    /*-1px 0px 1px #97a8ad,*/
-    /*1px 0 1px #97a8ad,*/
-    /*0 1px 1px #97a8ad,*/
-    /*0 -1px 1px #97a8ad;*/
     text-shadow:
-        0 0 0.5px #89989d,
-        0 0 0.5px #89989d,
-        0 0 0.5px #89989d,
-        0 0 0.5px #89989d,
-        0 0 0.6px #89989d,
-
-
         0.2px 0 0.5px #89989d,
-        0.2px 0 0.5px #89989d,
-        0.2px 0 0.5px #89989d,
-        0.2px 0 0.5px #89989d,
-        0.2px 0 0.6px #89989d,
         0.4px 0 0.5px #89989d,
-        0.4px 0 0.5px #89989d,
-        0.4px 0 0.5px #89989d,
-        0.4px 0 0.5px #89989d,
-        0.4px 0 0.6px #89989d,
+        0.6px 0 0.5px #89989d,
+        0.8px 0 0.5px #89989d,
+        1px 0 0.5px #89989d,
 
         -0.2px 0 0.5px #89989d,
-        -0.2px 0 0.5px #89989d,
-        -0.2px 0 0.5px #89989d,
-        -0.2px 0 0.5px #89989d,
-        -0.2px 0 0.6px #89989d,
         -0.4px 0 0.5px #89989d,
-        -0.4px 0 0.5px #89989d,
-        -0.4px 0 0.5px #89989d,
-        -0.4px 0 0.5px #89989d,
-        -0.4px 0 0.6px #89989d,
+        -0.6px 0 0.5px #89989d,
+        -0.8px 0 0.5px #89989d,
+        -1px 0 0.5px #89989d,
 
         0 0.2px 0.5px #89989d,
-        0 0.2px 0.5px #89989d,
-        0 0.2px 0.5px #89989d,
-        0 0.2px 0.5px #89989d,
-        0 0.2px 0.6px #89989d,
         0 0.4px 0.5px #89989d,
-        0 0.4px 0.5px #89989d,
-        0 0.4px 0.5px #89989d,
-        0 0.4px 0.5px #89989d,
-        0 0.4px 0.6px #89989d,
-
+        0 0.6px 0.5px #89989d,
+        0 0.8px 0.5px #89989d,
+        0 1px 0.5px #89989d,
 
         0 -0.2px 0.5px #89989d,
-        0 -0.2px 0.5px #89989d,
-        0 -0.2px 0.5px #89989d,
-        0 -0.2px 0.5px #89989d,
-        0 -0.2px 0.6px #89989d,
         0 -0.4px 0.5px #89989d,
-        0 -0.4px 0.5px #89989d,
-        0 -0.4px 0.5px #89989d,
-        0 -0.4px 0.5px #89989d,
-        0 -0.4px 0.6px #89989d;
-    -webkit-font-smoothing: antialiased;
-    -moz-font-smoothing: antialiased;
+        0 -0.6px 0.5px #89989d,
+        0 -0.8px 0.5px #89989d,
+        0 -1px 0.5px #89989d,
+
+        0.2px -0.2px 0.5px #89989d,
+        0.4px -0.4px 0.5px #89989d,
+        0.6px -0.6px 0.5px #89989d,
+        0.8px -0.8px 0.5px #89989d,
+        1px -1px 0.5px #89989d,
+
+        -0.2px -0.2px 0.5px #89989d,
+        -0.4px -0.4px 0.5px #89989d,
+        -0.6px -0.6px 0.5px #89989d,
+        -0.8px -0.8px 0.5px #89989d,
+        -1px -1px 0.5px #89989d,
+
+        0.2px 0.2px 0.5px #89989d,
+        0.4px 0.4px 0.5px #89989d,
+        0.6px 0.6px 0.5px #89989d,
+        0.8px 0.8px 0.5px #89989d,
+        1px 1px 0.5px #89989d,
+
+
+
+        1px 1px 0.2px #DDE4E6,
+        0.2px 1.2px 0 #DDE4E6,
+        1.4px 0.4px 0 #DDE4E6,
+        1.6px 1.6px 0 #DDE4E6,
+        1.8px 1.8px 0 #DDE4E6,
+        1px 2px 0 #DDE4E6,
+        1.2px 0.2px 0 #DDE4E6,
+        1.4px 2.4px 0 #DDE4E6,
+        1.6px 2.6px 0 #DDE4E6,
+        2.4px 1.8px 0 #DDE4E6,
+        1px 0 0 #DDE4E6,
+        2px 0 0 #DDE4E6,
+        -0.2px 0 0 #DDE4E6,
+        0.6px 0 0 #DDE4E6,
+        0.4px 0 0 #DDE4E6,
+        0.2px 0 0 #DDE4E6,
+        0 0 0 #DDE4E6,
+        -0.2px 0 0 #DDE4E6,
+        -0.4px 0 0 #DDE4E6,
+        -0.6px 0 0 #DDE4E6,
+        -1.8px 0 0 #DDE4E6,
+        -1px 2px 0 #DDE4E6,
+        -0.2px 2px 0 #DDE4E6,
+        -0.4px 1px 0 #DDE4E6,
+        -0.6px 2px 0 #DDE4E6,
+        -0.8px 2px 0 #DDE4E6,
+        -1px 2px 0 #DDE4E6,
+        -1.2px 2px 0 #DDE4E6,
+        -1.4px 2px 0 #DDE4E6,
+        -1.6px 2px 0 #DDE4E6,
+        -1.8px 2px 0 #DDE4E6,
+        -2px 2px 0 #DDE4E6,
+        -0.2px 2px 0 #DDE4E6,
+        -0.4px 2px 0 #DDE4E6,
+        -0.6px 2px 0 #DDE4E6,
+        -0.8px 2px 0 #DDE4E6;
 }
 
 .white {
     text-align: center;
-    color: #B9C8CE;
     font-weight: 800;
     font-size: 15px;
     color: #fff;
@@ -404,96 +410,54 @@ textarea:focus, input:focus{
     height: 389px;
     text-shadow:
         0 0 0.5px #89989d,
-        0 0 0.5px #89989d,
-        0 0 0.5px #89989d,
-        0 0 0.5px #89989d,
         0 0 0.6px #89989d,
-
-        0.2px 0 0.5px #89989d,
-        0.2px 0 0.5px #89989d,
-        0.2px 0 0.5px #89989d,
         0.2px 0 0.5px #89989d,
         0.2px 0 0.6px #89989d,
         0.4px 0 0.5px #89989d,
-        0.4px 0 0.5px #89989d,
-        0.4px 0 0.5px #89989d,
-        0.4px 0 0.5px #89989d,
         0.4px 0 0.6px #89989d,
-
-        -0.2px 0 0.5px #89989d,
-        -0.2px 0 0.5px #89989d,
-        -0.2px 0 0.5px #89989d,
         -0.2px 0 0.5px #89989d,
         -0.2px 0 0.6px #89989d,
         -0.4px 0 0.5px #89989d,
-        -0.4px 0 0.5px #89989d,
-        -0.4px 0 0.5px #89989d,
-        -0.4px 0 0.5px #89989d,
         -0.4px 0 0.6px #89989d,
-
-        0 0.2px 0.5px #89989d,
-        0 0.2px 0.5px #89989d,
-        0 0.2px 0.5px #89989d,
         0 0.2px 0.5px #89989d,
         0 0.2px 0.6px #89989d,
         0 0.4px 0.5px #89989d,
-        0 0.4px 0.5px #89989d,
-        0 0.4px 0.5px #89989d,
-        0 0.4px 0.5px #89989d,
         0 0.4px 0.6px #89989d,
-
-        0 -0.2px 0.5px #89989d,
-        0 -0.2px 0.5px #89989d,
-        0 -0.2px 0.5px #89989d,
         0 -0.2px 0.5px #89989d,
         0 -0.2px 0.6px #89989d,
         0 -0.4px 0.5px #89989d,
-        0 -0.4px 0.5px #89989d,
-        0 -0.4px 0.5px #89989d,
-        0 -0.4px 0.5px #89989d,
         0 -0.4px 0.6px #89989d,
-
-            /*outside*/
-
         0 1.2px 0.5px #DDE4E6,
         0 1.4px 0.5px #DDE4E6,
         0 1.6px 0.5px #DDE4E6,
         0 1.8px 0.5px #DDE4E6,
         0 2.0px 0.6px #DDE4E6,
         0 2.2px 0.5px #DDE4E6,
-
         -1.2px 0 0.6px #DDE4E6,
         -1.4px 0 0.5px #DDE4E6,
         -1.6px 0 0.5px #DDE4E6,
         -1.8px 0 0.5px #DDE4E6,
         -2.0px 0 0.5px #DDE4E6,
         -2.2px 0 0.6px #DDE4E6,
-
         -1.2px 1.2px 0.6px #DDE4E6,
         -1.4px 1.4px 0.5px #DDE4E6,
         -1.6px 1.6px 0.5px #DDE4E6,
         -1.8px 1.8px 0.5px #DDE4E6,
         -2.0px 2.0px 0.5px #DDE4E6,
         -2.2px 2.2px 0.6px #DDE4E6,
-
         1.2px 0 0.6px #DDE4E6,
         1.4px 0 0.5px #DDE4E6,
         1.6px 0 0.5px #DDE4E6,
         1.8px 0 0.5px #DDE4E6,
         2.0px 0 0.5px #DDE4E6,
         2.2px 0 0.6px #DDE4E6,
-
         1.2px 1.2px 0.5px #DDE4E6,
         1.4px 1.4px 0.5px #DDE4E6,
         1.6px 1.6px 0.5px #DDE4E6,
         1.8px 1.8px 0.5px #DDE4E6,
         2px 2px 0.5px #DDE4E6;
-    letter-spacing: 0.4px;
-    -webkit-font-smoothing: antialiased;
-    -moz-font-smoothing: antialiased;
+      letter-spacing: 0.4px;
 }
-
-
 
 .active-user-wrapper {
     position: fixed;
@@ -525,4 +489,3 @@ textarea:focus, input:focus{
     top: 29px;
     left: 2px;
 }
-

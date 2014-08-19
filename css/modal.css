@@ -15,9 +15,7 @@
     position: fixed;
     left: 195px;
     width: 481px;
-    /* height: 533px; */
 }
-
 
 
 #modal-buy .modal-content {
@@ -30,18 +28,21 @@
     background-size: 522px 670px;
     background-repeat: no-repeat;
     background-position: -11px -44px;
-    box-shadow:inset 0 3px 3px -1px rgb(235, 235, 235);
+    -webkit-box-shadow: inset 0 3px 3px -1px rgb(235, 235, 235);
+    -moz-box-shadow: inset 0 3px 3px -1px rgb(235, 235, 235);
+    box-shadow: inset 0 3px 3px -1px rgb(235, 235, 235);
     border: 0;
-    padding-top: 108px;
+    padding-top: 41px;
     padding-left: 27px;
     padding-right: 27px;
+    border-bottom: 4px solid #D2DADD;
 }
 
-
 .modal-right-top-corner {
-position: fixed;
-    right: 14px;
-    top: 25px;
+    float: right;
+    position: relative;
+    right: -5px;
+    top: -86px;
 }
 
 .btn-close {
@@ -54,6 +55,8 @@ position: fixed;
     height: 28px;
     width: 28px;
     background-color: #B2BDC3;
+    -webkit-box-shadow: inset 0 2px 0 #9CACB3;
+    -moz-box-shadow: inset 0 2px 0 #9CACB3;
     box-shadow: inset 0 2px 0 #9CACB3;
 }
 
@@ -85,9 +88,9 @@ position: fixed;
     0 3px 1px #A4B4BD;
     clear: both;
     line-height: 30px;
-    position: fixed;
-    top: 63px;
-    left: 30px;
+    position: relative;
+    top: -12px;
+    left: 4px;
 }
 
 .modal-row-wrapper {
@@ -176,4 +179,51 @@ position: fixed;
     top: -16px;
     position: relative;
     left: 12px;
+}
+
+.coins_cost {
+    font-weight: 800;
+    color: #fff;
+    font-size: 29px;
+    position: relative;
+    top: 0;
+    left: 14px;
+    text-shadow: 1px 1px 1px #7B8A8F,
+    -1px -1px 1px #7B8A8F,
+    -1px 1px 1px #7B8A8F,
+    1px -1px 1px #7B8A8F,
+    -1px 0 1px #7B8A8F,
+    1px 0 1px #7B8A8F,
+    0 1px 1px #7B8A8F,
+    0 -1px 1px #7B8A8F,
+    2px 2px 1px #A4B4BD,
+    -2px 2px 1px #A4B4BD,
+    3px 1px 1px #A4B4BD,
+    2px 0 1px #A4B4BD,
+    -2px 2px 1px #A4B4BD,
+    2px 0 1px #A4B4BD,
+    0 2px 1px #A4B4BD,
+    3px 3px 1px #A4B4BD,
+    -3px 2px 1px #A4B4BD,
+    -3px 2px 1px #A4B4BD,
+    3px 0 1px #A4B4BD,
+    -3px 0 1px #A4B4BD,
+    3px 0 1px #A4B4BD,
+    0 3px 1px #A4B4BD;
+}
+
+.coin_300 {
+    top: 6px;
+}
+
+.coin_1500 {
+font-size: 33px;
+}
+
+.coin_3200, .coin_7500 {
+    font-size: 39px;
+}
+
+.coin_15000 {
+    font-size: 43px;
 }
