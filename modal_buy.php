@@ -8,7 +8,7 @@
 
             <div class="modal-right-top-corner">
                 <img id="top-chest" src="images/chest.png" alt="" width="137" height="127"/></div>
-           <div class="close-modal-wrapper">
+           <div class="close-modal-wrapper-buy">
                <button type="button" class=" btn btn-close" data-dismiss="modal"> <img id="modal-buy-close" src="images/modal_close.png" alt="" width="21" height="20"/></button>
            </div>
 <!--            ROW 1-->

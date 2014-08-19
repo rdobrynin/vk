@@ -67,20 +67,21 @@
 
 #modal-level>.modal-dialog {
     position: fixed;
-    left: 195px;
-    width: 481px;
+    left: 239px;
+    width: 370px;
+    top: 83px;
 }
 
 #modal-level .modal-level {
-    height: 582px;
+    height: 374px;
     top: 39px;
     -webkit-border-radius: 18px;
     -moz-border-radius: 18px;
     border-radius: 18px;
-    background-image: url('../images/modal_buy_bg.jpg');
-    background-size: 522px 670px;
+    background-image: url('../images/modal_level_bg.jpg');
+    background-size: 516px 434px;
     background-repeat: no-repeat;
-    background-position: -11px -44px;
+    background-position: -60px -44px;
     -webkit-box-shadow: inset 0 3px 3px -1px rgb(235, 235, 235);
     -moz-box-shadow: inset 0 3px 3px -1px rgb(235, 235, 235);
     box-shadow: inset 0 3px 3px -1px rgb(235, 235, 235);
@@ -100,7 +101,7 @@
     top: -114px;
 }
 
-.close-modal-wrapper {
+.close-modal-wrapper-buy {
     background-color: #B2BDC3;
     -webkit-border-radius: 28px;
     -moz-border-radius: 28px;
@@ -117,6 +118,22 @@
     z-index: 999;
 }
 
+.close-modal-wrapper-level {
+    background-color: #B2BDC3;
+    -webkit-border-radius: 28px;
+    -moz-border-radius: 28px;
+    border-radius: 28px;
+    -webkit-box-shadow: 0 2px 0 #D2D5D6;
+    -moz-box-shadow: 0 2px 0 #D2D5D6;
+    box-shadow: 0 2px 0 #D2D5D6;
+    float: right;
+    height: 28px;
+    position: fixed;
+    width: 28px;
+    right: 7px;
+    top: 7px;
+}
+
 .btn-close {
     background-color: #B2BDC3;
     -webkit-border-radius: 28px;
@@ -130,12 +147,13 @@
     position: relative;
 }
 
-img#modal-buy-close {
+img#modal-buy-close, img#modal-level-close {
     position: absolute;
-    margin: 0px auto;
+    margin: 0 auto;
     left: 3px;
     top: 3px;
 }
+
 
 .modal-title {
     font-size: 33px;

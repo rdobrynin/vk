@@ -5,6 +5,7 @@ $(window).on("load", function() {
         $('#gold-gift').attr('src', $('#gold-gift').attr('src').replace(".png","@2x.png"));
         $('#text-buy-coins').attr('src', $('#text-buy-coins').attr('src').replace(".png","@2x.png"));
         $('#modal-buy-close').attr('src', $('#modal-buy-close').attr('src').replace(".png","@2x.png"));
+        $('#modal-level-close').attr('src', $('#modal-level-close').attr('src').replace(".png","@2x.png"));
         $('body').addClass('retina');
     }
 });
@@ -12,10 +13,16 @@ $(window).on("load", function() {
 
 //If user has ie 8 or less notification income for updating ie version
 
+$(window).load(function(){
+    $('#modal-level').modal('show');
+});
+
 if ($.browser.msie  && parseInt($.browser.version, 10) === 8) {
    $('body').empty();
     $('body').html('<p style="text-align:center; padding-top: 100px; font-weight: bold; font-size: 30px;">Пожалуйста обновите IE</p>');
 }
+
+
 
 
 $(function () {
