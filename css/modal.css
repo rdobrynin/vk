@@ -221,9 +221,9 @@ img#modal-buy-close, img#modal-level-close {
     height: 60px;
     background-color: #E8EDF0;
     position: relative;
-    -webkit-border-radius: 12px;
-    -moz-border-radius: 12px;
-    border-radius: 12px;
+    -webkit-border-radius: 11px;
+    -moz-border-radius: 11px;
+    border-radius: 11px;
     top: 2px;
     left: 1px;
 }
