@@ -47,7 +47,7 @@
     <!--ICON_GRANT_PLACE-->
     <div class="icon-wrapper-grand">
         <div class="icon-grand-bg">
-            <div class="icon-grand-big">
+            <div class="icon-grand-big" data-toggle="modal" data-target="#modal-level">
                 <!--ICON DIV-->
                 <span class="cog-grand hide" id="place-1"><img src="images/1@2x.png" alt="" width="21" height="26"/></span>
                 <span class="cog-grand hide" id="place-2"><img src="images/2@2x.png" alt="" width="21" height="26"/></span>
@@ -460,6 +460,7 @@
 <!--END paint container-->
 <?php include('modal_buy.php')?>
 <?php include('modal_profile.php')?>
+<?php include('modal_level.php')?>
 <script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
 <script src="//oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
 <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
