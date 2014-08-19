@@ -18,7 +18,7 @@
 }
 
 
-#modal-buy .modal-content {
+#modal-buy .modal-buy {
     height: 582px;
     top: 39px;
     -webkit-border-radius: 18px;
@@ -37,6 +37,60 @@
     padding-right: 27px;
     border-bottom: 4px solid #D2DADD;
 }
+
+#modal-profile>.modal-dialog {
+    position: fixed;
+    left: 195px;
+    width: 481px;
+}
+
+#modal-profile .modal-profile {
+    height: 582px;
+    top: 39px;
+    -webkit-border-radius: 18px;
+    -moz-border-radius: 18px;
+    border-radius: 18px;
+    background-image: url('../images/modal_buy_bg.jpg');
+    background-size: 522px 670px;
+    background-repeat: no-repeat;
+    background-position: -11px -44px;
+    -webkit-box-shadow: inset 0 3px 3px -1px rgb(235, 235, 235);
+    -moz-box-shadow: inset 0 3px 3px -1px rgb(235, 235, 235);
+    box-shadow: inset 0 3px 3px -1px rgb(235, 235, 235);
+    border: 0;
+    padding-top: 41px;
+    padding-left: 27px;
+    padding-right: 27px;
+    border-bottom: 4px solid #D2DADD;
+}
+
+#modal-level>.modal-dialog {
+    position: fixed;
+    left: 195px;
+    width: 481px;
+}
+
+#modal-level .modal-level {
+    height: 582px;
+    top: 39px;
+    -webkit-border-radius: 18px;
+    -moz-border-radius: 18px;
+    border-radius: 18px;
+    background-image: url('../images/modal_buy_bg.jpg');
+    background-size: 522px 670px;
+    background-repeat: no-repeat;
+    background-position: -11px -44px;
+    -webkit-box-shadow: inset 0 3px 3px -1px rgb(235, 235, 235);
+    -moz-box-shadow: inset 0 3px 3px -1px rgb(235, 235, 235);
+    box-shadow: inset 0 3px 3px -1px rgb(235, 235, 235);
+    border: 0;
+    padding-top: 41px;
+    padding-left: 27px;
+    padding-right: 27px;
+    border-bottom: 4px solid #D2DADD;
+}
+
+
 
 .modal-right-top-corner {
     float: right;

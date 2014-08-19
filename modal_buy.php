@@ -1,7 +1,7 @@
 <!-- Modal BUY-->
 <div class="modal fade" id="modal-buy" tabindex="-1" role="dialog" aria-labelledby="modal-buyLabel" data-backdrop="static" aria-hidden="true">
     <div class="modal-dialog">
-        <div class="modal-content">
+        <div class="modal-buy">
 <!--            <span class="modal-title">Докупить<br/>монеты</span>-->
 
             <div class="text-buy-coins"><img id="text-buy-coins" src="images/text_buy_money.png" alt="" width="168" height="59"/></div>

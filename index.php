@@ -84,7 +84,7 @@
             </div>
         </div>
         <div class="user-frame-active">
-            <div class="photo-active">
+            <div class="photo-active" data-toggle="modal" data-target="#modal-profile">
                 <img src="images/photo_right_1@2x.jpg" alt="" width="24" height="23"/>
             </div>
         </div>
@@ -125,7 +125,7 @@
                 <div class="user-gift-image">
                     <div class="gift"><img src="images/gift_tiger.png" alt="" width="35" height="33"/></div>
                 </div>
-                <div class="photo">
+                <div class="photo" data-toggle="modal" data-target="#modal-profile">
                     <img src="images/photo_top_1@2x.jpg" alt="" width="59" height="58"/>
                 </div>
                 <!--ADD GIFT BUTTON-->
@@ -146,7 +146,7 @@
                 <div class="user-gift-image">
                     <div class="gift"><img src="images/gift_roze.png" alt="" width="35" height="33"/></div>
                 </div>
-                <div class="photo">
+                <div class="photo" data-toggle="modal" data-target="#modal-profile">
                     <img src="images/photo_top_2@2x.jpg" alt="" width="59" height="58"/>
                 </div>
                 <!--ADD GIFT BUTTON-->
@@ -167,7 +167,7 @@
                 <div class="user-gift-image">
                     <div class="gift"><img src="images/gift_diamond.png" alt="" width="35" height="33"/></div>
                 </div>
-                <div class="photo">
+                <div class="photo" data-toggle="modal" data-target="#modal-profile">
                     <img src="images/photo_top_4@2x.jpg" alt="" width="59" height="58"/>
                 </div>
                 <!--ADD GIFT BUTTON-->
@@ -188,7 +188,7 @@
                 <div class="user-gift-image">
                     <div class="gift"><img src="images/gift_puma.png" alt="" width="35" height="33"/></div>
                 </div>
-                <div class="photo">
+                <div class="photo" data-toggle="modal" data-target="#modal-profile">
                     <img src="images/photo_top_3@2x.jpg" alt="" width="59" height="58"/>
                 </div>
                 <!--ADD GIFT BUTTON-->
@@ -235,7 +235,7 @@
             <div class="user-gift-image">
                 <div class="gift"><img src="images/gift_tiger.png" alt="" width="35" height="33"/></div>
             </div>
-            <div class="photo">
+            <div class="photo" data-toggle="modal" data-target="#modal-profile">
                 <img src="images/photo_left_1@2x.jpg" alt="" width="59" height="58"/>
             </div>
             <!--ADD GIFT BUTTON-->
@@ -256,7 +256,7 @@
             <div class="user-gift-image">
                 <div class="gift"><img src="images/gift_roze.png" alt="" width="35" height="33"/></div>
             </div>
-            <div class="photo">
+            <div class="photo" data-toggle="modal" data-target="#modal-profile">
                 <img src="images/photo_left_2@2x.jpg" alt="" width="59" height="58"/>
             </div>
             <!--ADD GIFT BUTTON-->
@@ -280,7 +280,7 @@
             <div class="user-gift-image-left">
                 <div class="gift"><img src="images/gift_tiger.png" alt="" width="35" height="33"/></div>
             </div>
-            <div class="photo">
+            <div class="photo" data-toggle="modal" data-target="#modal-profile">
                 <img src="images/photo_right_1@2x.jpg" alt="" width="59" height="58"/>
             </div>
             <!--ADD GIFT BUTTON-->
@@ -459,6 +459,7 @@
 </div>
 <!--END paint container-->
 <?php include('modal_buy.php')?>
+<?php include('modal_profile.php')?>
 <script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
 <script src="//oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
 <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
