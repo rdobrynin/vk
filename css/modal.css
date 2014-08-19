@@ -325,3 +325,152 @@ font-size: 33px;
     3px 0 1px #A4B4BD,
     0 3px 1px #A4B4BD;
 }
+
+.button-wrapper-buy {
+    width: 126px;
+    height: 47px;
+    -webkit-border-radius: 9px;
+    -moz-border-radius: 9px;
+    border-radius: 9px;
+    background-color: #E0E0E0;
+    position: absolute;
+    right: 8px;
+    margin-bottom: 89px;
+    top: 8px;
+}
+
+.btn-riu-modal-primary {
+    width: 126px;
+    position: relative;
+    height: 43px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    background-color: #00A8FF;
+    border-bottom: 3px solid #1B98E7;
+    padding-top: 8px;
+    text-shadow: 0 0 0.5px #1B98E7,
+    0 0 0.5px #1B98E7,
+    0 0 0.6px #1B98E7,
+    0.2px 0 0.5px #1B98E7,
+    0.2px 0 0.6px #1B98E7,
+    0.4px 0 0.5px #1B98E7,
+    -0.2px 0 0.5px #1B98E7,
+    -0.4px 0 0.5px #1B98E7,
+    0 0.2px 0.5px #1B98E7,
+    0 0.4px 0.5px #1B98E7,
+    0 -0.2px 0.5px #1B98E7,
+    0 -0.4px 0.5px #1B98E7,
+    0 0.2px 0.5px #1B98E7,
+    0 0.4px 0.5px #1B98E7,
+    0 0.6px 0.5px #1B98E7,
+    0 1.2px 0.5px #1B98E7,
+    0 1.6px 0.5px #1B98E7,
+    0 2.0px 0.5px #1B98E7,
+    0 2.2px 0.5px #1B98E7;
+}
+
+
+.btn-riu-modal-success {
+    width: 126px;
+    position: relative;
+    height: 43px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    background-color: #00c81d;
+    border-bottom: 3px solid #0caf23;
+    padding-top: 8px;
+    text-shadow: 0 0 0.5px #0caf23,
+    0 0 0.5px #0caf23,
+    0 0 0.6px #0caf23,
+    0.2px 0 0.5px #0caf23,
+    0.2px 0 0.6px #0caf23,
+    0.4px 0 0.5px #0caf23,
+    -0.2px 0 0.5px #0caf23,
+    -0.4px 0 0.5px #0caf23,
+    0 0.2px 0.5px #0caf23,
+    0 0.4px 0.5px #0caf23,
+    0 -0.2px 0.5px #0caf23,
+    0 -0.4px 0.5px #0caf23,
+    0 0.2px 0.5px #0caf23,
+    0 0.4px 0.5px #0caf23,
+    0 0.6px 0.5px #0caf23,
+    0 1.2px 0.5px #0caf23,
+    0 1.6px 0.5px #0caf23,
+    0 2.0px 0.5px #0caf23,
+    0 2.2px 0.5px #0caf23;
+}
+
+.btn-riu-modal-success:focus {
+    width: 126px;
+    position: relative;
+    height: 43px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    background-color: #00c81d;
+    padding-top: 8px;
+    color: #fff;
+    text-shadow: 0 0 0.5px #0caf23,
+    0 0 0.5px #0caf23,
+    0 0 0.6px #0caf23,
+    0.2px 0 0.5px #0caf23,
+    0.2px 0 0.6px #0caf23,
+    0.4px 0 0.5px #0caf23,
+    -0.2px 0 0.5px #0caf23,
+    -0.4px 0 0.5px #0caf23,
+    0 0.2px 0.5px #0caf23,
+    0 0.4px 0.5px #0caf23,
+    0 -0.2px 0.5px #0caf23,
+    0 -0.4px 0.5px #0caf23,
+    0 0.2px 0.5px #0caf23,
+    0 0.4px 0.5px #0caf23,
+    0 0.6px 0.5px #0caf23,
+    0 1.2px 0.5px #0caf23,
+    0 1.6px 0.5px #0caf23,
+    0 2.0px 0.5px #0caf23,
+    0 2.2px 0.5px #0caf23;
+}
+
+
+
+.btn-riu-modal-primary:focus {
+    width: 126px;
+    position: relative;
+    height: 43px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    color: #fff;
+    border-radius: 8px;
+    background-color: #00A8FF;
+    padding-top: 8px;
+    text-shadow: 0 0 0.5px #1B98E7,
+    0 0 0.5px #1B98E7,
+    0 0 0.6px #1B98E7,
+    0.2px 0 0.5px #1B98E7,
+    0.2px 0 0.6px #1B98E7,
+    0.4px 0 0.5px #1B98E7,
+    -0.2px 0 0.5px #1B98E7,
+    -0.4px 0 0.5px #1B98E7,
+    0 0.2px 0.5px #1B98E7,
+    0 0.4px 0.5px #1B98E7,
+    0 -0.2px 0.5px #1B98E7,
+    0 -0.4px 0.5px #1B98E7,
+    0 0.2px 0.5px #1B98E7,
+    0 0.4px 0.5px #1B98E7,
+    0 0.6px 0.5px #1B98E7,
+    0 1.2px 0.5px #1B98E7,
+    0 1.6px 0.5px #1B98E7,
+    0 2.0px 0.5px #1B98E7,
+    0 2.2px 0.5px #1B98E7;
+}
+
+
+.btn-riu-modal-primary, .btn-riu-modal-success, .btn-riu-modal-primary:hover, .btn-riu-modal-success:hover  {
+    color: #fff;
+    text-transform: capitalize;
+    font-size: 17px;
+    text-align: center;
+    font-weight: 800;
+}

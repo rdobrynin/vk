@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6778edc4-4afe-43d8-bc69-2a652cc0982c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/empty.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.MD" afterPath="$PROJECT_DIR$/README.MD" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/elements.css" afterPath="$PROJECT_DIR$/css/elements.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/modal.css" afterPath="$PROJECT_DIR$/css/modal.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modal_buy.php" afterPath="$PROJECT_DIR$/modal_buy.php" />
     </list>
     <ignored path="vk.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,7 +25,7 @@
     <favorites_list name="vk" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.19261083">
+    <splitter split-orientation="horizontal" split-proportion="0.42463055">
       <split-first>
         <leaf>
           <file leaf-file-name="README.MD" pinned="false" current="false" current-in-tab="false">
@@ -44,10 +40,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/index.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="363" column="56" selection-start="15115" selection-end="15115" vertical-scroll-proportion="0.5714286" vertical-offset="8064" max-vertical-offset="12644">
+                <state line="334" column="32" selection-start="13587" selection-end="13587" vertical-scroll-proportion="-3.84" vertical-offset="5248" max-vertical-offset="8340">
                   <folding />
                 </state>
               </provider>
@@ -62,10 +58,22 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="modal_buy.php" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="modal_buy.php" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/modal_buy.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="29" column="43" selection-start="1321" selection-end="1321" vertical-scroll-proportion="0.0" vertical-offset="522" max-vertical-offset="1224">
+                <state line="69" column="15" selection-start="3329" selection-end="3329" vertical-scroll-proportion="0.621455" vertical-offset="774" max-vertical-offset="2287">
+                  <folding>
+                    <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#div#0;n#div#5;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#div#1;n#div#0;n#div#6;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="phrase.rnc" pinned="false" current="false" current-in-tab="false">
+            <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/phrase.rnc">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="318" column="48" selection-start="6102" selection-end="6102" vertical-scroll-proportion="0.0" vertical-offset="5733" max-vertical-offset="8020">
                   <folding />
                 </state>
               </provider>
@@ -124,7 +132,7 @@
           <file leaf-file-name="modal.css" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/modal.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="291" column="22" selection-start="6819" selection-end="6819" vertical-scroll-proportion="0.5462287" vertical-offset="6826" max-vertical-offset="8947">
+                <state line="418" column="26" selection-start="9802" selection-end="9802" vertical-scroll-proportion="0.35074627" vertical-offset="7242" max-vertical-offset="9354">
                   <folding />
                 </state>
               </provider>
@@ -170,12 +178,12 @@
         <option value="$PROJECT_DIR$/js/function.js" />
         <option value="$PROJECT_DIR$/css/retina.css" />
         <option value="$PROJECT_DIR$/js/script.js" />
-        <option value="$PROJECT_DIR$/modal_buy.php" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/css/elements.css" />
         <option value="$PROJECT_DIR$/empty.php" />
         <option value="$PROJECT_DIR$/README.MD" />
+        <option value="$PROJECT_DIR$/modal_buy.php" />
         <option value="$PROJECT_DIR$/css/modal.css" />
       </list>
     </option>
@@ -386,11 +394,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="59" y="24" width="2501" height="1416" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.336858" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.336858" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32854986" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32854986" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.07570208" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -400,7 +408,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32930514" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Jenkins" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32955924" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.098087095" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.098087095" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -429,11 +437,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/images/sprites.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="4" selection-start="1003" selection-end="1048" vertical-scroll-proportion="0.0" vertical-offset="954" max-vertical-offset="1728" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/sprites2x.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="0" selection-start="244" selection-end="334" vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="1728" />
@@ -655,13 +658,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modal_buy.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="43" selection-start="1321" selection-end="1321" vertical-scroll-proportion="0.0" vertical-offset="522" max-vertical-offset="1224">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/sprites_color@2x.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -698,13 +694,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="363" column="56" selection-start="15115" selection-end="15115" vertical-scroll-proportion="0.5714286" vertical-offset="8064" max-vertical-offset="12644">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="43" column="48" selection-start="1953" selection-end="1953" vertical-scroll-proportion="0.0" vertical-offset="486" max-vertical-offset="5980">
@@ -712,9 +701,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="334" column="32" selection-start="13587" selection-end="13587" vertical-scroll-proportion="-3.84" vertical-offset="5248" max-vertical-offset="8340">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/phrase.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="318" column="48" selection-start="6102" selection-end="6102" vertical-scroll-proportion="0.0" vertical-offset="5733" max-vertical-offset="8020">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modal_buy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="15" selection-start="3329" selection-end="3329" vertical-scroll-proportion="0.621455" vertical-offset="774" max-vertical-offset="2287">
+          <folding>
+            <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#div#0;n#div#5;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#6;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/modal.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="291" column="22" selection-start="6819" selection-end="6819" vertical-scroll-proportion="0.5462287" vertical-offset="6826" max-vertical-offset="8947">
+        <state line="418" column="26" selection-start="9802" selection-end="9802" vertical-scroll-proportion="0.35074627" vertical-offset="7242" max-vertical-offset="9354">
           <folding />
         </state>
       </provider>
