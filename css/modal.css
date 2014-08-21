@@ -639,7 +639,7 @@ font-size: 33px;
     background-position: center;
     margin: 0 auto;
     position: relative;
-    top: 33px;
+    top: 3px;
 }
 
 .new-instrument-left {
@@ -650,7 +650,7 @@ font-size: 33px;
     -webkit-border-radius: 20px;
     -moz-border-radius: 20px;
     border-radius: 20px;
-    top: 45px;
+    top: 20px;
     left: 16px;
     background: #e0e8eb; /* Old browsers */
     background: -moz-linear-gradient(top,  #e0e8eb 0%, #ffffff 100%); /* FF3.6+ */
@@ -669,7 +669,7 @@ font-size: 33px;
     -webkit-border-radius: 20px;
     -moz-border-radius: 20px;
     border-radius: 20px;
-    top: 45px;
+    top: 20px;
     right: 16px;
     background: #e0e8eb; /* Old browsers */
     background: -moz-linear-gradient(top,  #e0e8eb 0%, #ffffff 100%); /* FF3.6+ */
@@ -717,7 +717,10 @@ font-size: 33px;
     margin: 0 auto;
     width: 282px;
     height: 38px;
-    top: 72px;
+    top: 68px;
+    left: 16px;
+    display: block;
+    float: left;
 
 }
 
@@ -727,13 +730,32 @@ font-size: 33px;
     -moz-border-radius: 5px;
     border-radius: 5px;
     border-bottom: 3px solid #4DAD02;
+    text-shadow: 0 0 0.5px #4DAD02,
+    0 0 0.5px #4DAD02,
+    0 0 0.6px #4DAD02,
+    0.2px 0 0.5px #4DAD02,
+    0.2px 0 0.6px #4DAD02,
+    0.4px 0 0.5px #4DAD02,
+    -0.2px 0 0.5px #4DAD02,
+    -0.4px 0 0.5px #4DAD02,
+    0 0.2px 0.5px #4DAD02,
+    0 0.4px 0.5px #4DAD02,
+    0 -0.2px 0.5px #4DAD02,
+    0 -0.4px 0.5px #4DAD02,
+    0 0.2px 0.5px #4DAD02,
+    0 0.4px 0.5px #4DAD02,
+    0 0.6px 0.5px #4DAD02,
+    0 1.2px 0.5px #4DAD02,
+    0 1.6px 0.5px #4DAD02,
+    0 2.0px 0.5px #4DAD02,
+    0 2.2px 0.5px #4DAD02;
 }
 
 .level-btn-bg {
     background-color: #E6EBEE;
     width: 279px;
     height: 46px;
-    position: fixed;
+    position: relative;
     bottom: 23px;
     border-radius: 6px;
 }
@@ -769,4 +791,16 @@ font-size: 33px;
     0 2.2px 0.5px #4DAD02;
 }
 
+.new-level {
+    background-image: url('../images/text_new_level.png');
+    background-repeat: no-repeat;
+    background-size: 137px 22px;
+    background-position: center;
+    display: block;
+    position: relative;
+    width: 137px;
+    height: 22px;
+    margin: 0 auto;
+    left: 10px;
+}
 
