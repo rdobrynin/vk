@@ -125,7 +125,7 @@
 }
 
 .note-lg-icon, .note-lg-icon:focus {
-    background-position: -92.000008px 7px;
+    background-position: -92.000008px 5px;
     background-image: url('../images/sprites@2x.png');
     background-size: 277px 135px;
     background-repeat: no-repeat;
@@ -694,8 +694,8 @@ button.btn.btn-undo, button.btn.btn-redo  {
 }
 
 .add-user, .add-user:focus {
-    width: 30px;
-    height: 30px;
+    width: 31px;
+    height: 31px;
     background-image: url('../images/sprites@2x.png');
     background-size: 277px 135px;
     background-position: -478.100008px 1.1px;
