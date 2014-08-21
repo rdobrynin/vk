@@ -22,6 +22,25 @@
                     <img id="modal-level-close" src="images/modal_close.png" alt="" width="21" height="20"/>
                 </button>
             </div>
+            <span class="available-new-instr"></span>
+
+            <div class="new-instrument-left">
+                <div class="new-instrument-bg">
+                    <div class="new-instrument-image"> <img  class="new-image" id="new-instrument-1" src="images/new_instrument_1.png" alt="" width="106" height="93"/></div>
+                </div>
+            </div>
+            <div class="new-instrument-right">
+                <div class="new-instrument-bg">
+                    <div class="new-instrument-image"> <img  class="new-image" id="new-instrument-2" src="images/new_instrument_2.png" alt="" width="106" height="93"/></div>
+                </div>
+                </div>
+            <div class="level-bottom">
+                <div class="level-btn-bg">
+                    <button class="btn btn-riu-modal-success btn-level-modal" style="width: 100%;">получить</button>
+                </div>
+            </div>
+            </div> <!--End modal-level-->
+
         </div>
     </div>
 </div>
