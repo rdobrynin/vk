@@ -18,7 +18,7 @@ $(window).on("load", function() {
 
 
 $(window).load(function(){
-    $('#modal-profile').modal('show');
+    $('#modal-level').modal('show');
 });
 
 //If user has ie 8 or less notification income for updating ie version

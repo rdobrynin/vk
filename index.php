@@ -32,7 +32,6 @@
         <div class="coin-balance-bg">
             <div class="coin-balance-big">
                 <span class="balance-amount" id="balance-amount">1238</span>
-
                 <div class="coin-gold-icon">
                 </div>
                 <div class="green-plus-wrapper">

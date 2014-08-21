@@ -11,7 +11,7 @@
            <div class="close-modal-wrapper-buy">
                <button type="button" class=" btn btn-close" data-dismiss="modal"> <img id="modal-buy-close" src="images/modal_close.png" alt="" width="21" height="20"/></button>
            </div>
-<!--ROW 1-->
+            <!--ROW 1-->
             <div class="modal-row-wrapper">
                 <div class="modal-row-bg">
                     <div class="modal-row row-300">
