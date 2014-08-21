@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6778edc4-4afe-43d8-bc69-2a652cc0982c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/text_new_level.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/text_new_level@2x.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/modal.css" afterPath="$PROJECT_DIR$/css/modal.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modal_level.php" afterPath="$PROJECT_DIR$/modal_level.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/retina.css" afterPath="$PROJECT_DIR$/css/retina.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="6778edc4-4afe-43d8-bc69-2a652cc0982c" name="Default" comment="" />
     <ignored path="vk.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,10 +25,10 @@
     <splitter split-orientation="horizontal" split-proportion="0.6013612">
       <split-first>
         <leaf>
-          <file leaf-file-name="modal_level.php" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="modal_level.php" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/modal_level.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="24" column="43" selection-start="2087" selection-end="2087" vertical-scroll-proportion="0.53956836" vertical-offset="0" max-vertical-offset="1716">
+                <state line="32" column="46" selection-start="2499" selection-end="2499" vertical-scroll-proportion="0.7338129" vertical-offset="0" max-vertical-offset="1716">
                   <folding />
                 </state>
               </provider>
@@ -70,10 +63,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="retina.css" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="retina.css" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/retina.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="163" column="21" selection-start="4786" selection-end="4786" vertical-scroll-proportion="0.73170733" vertical-offset="2304" max-vertical-offset="3867">
+                <state line="155" column="16" selection-start="4512" selection-end="4512" vertical-scroll-proportion="0.5644599" vertical-offset="2304" max-vertical-offset="3867">
                   <folding />
                 </state>
               </provider>
@@ -341,7 +334,7 @@
     <layout>
       <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.336858" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32854986" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32854986" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.18681319" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -643,13 +636,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modal_level.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="43" selection-start="2087" selection-end="2087" vertical-scroll-proportion="0.53956836" vertical-offset="0" max-vertical-offset="1716">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/modal.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="806" column="0" selection-start="19675" selection-end="19675" vertical-scroll-proportion="0.0" vertical-offset="14076" max-vertical-offset="15495">
@@ -659,7 +645,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/retina.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="163" column="21" selection-start="4786" selection-end="4786" vertical-scroll-proportion="0.73170733" vertical-offset="2304" max-vertical-offset="3867">
+        <state line="155" column="16" selection-start="4512" selection-end="4512" vertical-scroll-proportion="0.5644599" vertical-offset="2304" max-vertical-offset="3867">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modal_level.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="32" column="46" selection-start="2499" selection-end="2499" vertical-scroll-proportion="0.7338129" vertical-offset="0" max-vertical-offset="1716">
           <folding />
         </state>
       </provider>
