@@ -888,12 +888,13 @@ button.btn.btn-undo, button.btn.btn-redo  {
     height: 23px;
     background-image: url('../images/sprites@2x.png');
     background-size: 277px 135px;
-    background-position: -430.1px -102.9px;
-    top: 17px;
     background-color: transparent;
+    background-position: -430.5px -102.9px;
+    top: 16px;
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     box-shadow: none;
+
 }
 
 .sound-bg:hover {
