@@ -25,13 +25,13 @@
     <favorites_list name="vk" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.695462">
+    <splitter split-orientation="horizontal" split-proportion="0.50461835">
       <split-first>
         <leaf>
           <file leaf-file-name="modal_level.php" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/modal_level.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="23" column="18" selection-start="1767" selection-end="2043" vertical-scroll-proportion="-15.862069" vertical-offset="0" max-vertical-offset="2032">
+                <state line="6" column="0" selection-start="319" selection-end="1712" vertical-scroll-proportion="-4.137931" vertical-offset="0" max-vertical-offset="1992">
                   <folding />
                 </state>
               </provider>
@@ -40,7 +40,7 @@
           <file leaf-file-name="modal_profile.php" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/modal_profile.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="26" column="41" selection-start="1241" selection-end="1241" vertical-scroll-proportion="0.5827338" vertical-offset="0" max-vertical-offset="1356">
+                <state line="18" column="120" selection-start="1866" selection-end="1866" vertical-scroll-proportion="0.67146283" vertical-offset="0" max-vertical-offset="1894">
                   <folding />
                 </state>
               </provider>
@@ -49,7 +49,7 @@
           <file leaf-file-name="modal_buy.php" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/modal_buy.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="75" column="83" selection-start="3815" selection-end="3874" vertical-scroll-proportion="0.0" vertical-offset="1350" max-vertical-offset="1530">
+                <state line="75" column="83" selection-start="3815" selection-end="3874" vertical-scroll-proportion="-50.0" vertical-offset="0" max-vertical-offset="2382">
                   <folding />
                 </state>
               </provider>
@@ -69,7 +69,7 @@
           <file leaf-file-name="modal.css" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/modal.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="215" column="0" selection-start="5053" selection-end="5053" vertical-scroll-proportion="0.58420444" vertical-offset="3565" max-vertical-offset="18789">
+                <state line="1010" column="0" selection-start="24353" selection-end="24353" vertical-scroll-proportion="0.8327526" vertical-offset="17535" max-vertical-offset="19203">
                   <folding />
                 </state>
               </provider>
@@ -334,7 +334,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32854986" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.092796095" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.092796095" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -572,13 +572,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modal_buy.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="75" column="83" selection-start="3815" selection-end="3874" vertical-scroll-proportion="0.0" vertical-offset="1350" max-vertical-offset="1530">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/modal_sprites.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -604,13 +597,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modal_level.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="18" selection-start="1767" selection-end="2043" vertical-scroll-proportion="-15.862069" vertical-offset="0" max-vertical-offset="2032">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/retina.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="131" column="38" selection-start="3872" selection-end="3872" vertical-scroll-proportion="0.0" vertical-offset="1754" max-vertical-offset="3533">
@@ -627,16 +613,40 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/modal_buy.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="83" selection-start="3815" selection-end="3874" vertical-scroll-proportion="-50.0" vertical-offset="0" max-vertical-offset="2382">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modal_level.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="319" selection-end="1712" vertical-scroll-proportion="-4.137931" vertical-offset="0" max-vertical-offset="1992">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/modal_2_profile@2x.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/modal_10_profile@2x.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/modal_profile.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="41" selection-start="1241" selection-end="1241" vertical-scroll-proportion="0.5827338" vertical-offset="0" max-vertical-offset="1356">
+        <state line="18" column="120" selection-start="1866" selection-end="1866" vertical-scroll-proportion="0.67146283" vertical-offset="0" max-vertical-offset="1894">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/modal.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="215" column="0" selection-start="5053" selection-end="5053" vertical-scroll-proportion="0.58420444" vertical-offset="3565" max-vertical-offset="18789">
+        <state line="1010" column="0" selection-start="24353" selection-end="24353" vertical-scroll-proportion="0.8327526" vertical-offset="17535" max-vertical-offset="19203">
           <folding />
         </state>
       </provider>

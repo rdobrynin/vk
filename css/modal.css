@@ -212,8 +212,6 @@
     top: 57px;
 }
 
-
-
 #modal-level .modal-level {
     height: 374px;
     top: 39px;
@@ -233,8 +231,6 @@
     padding-right: 27px;
     border-bottom: 4px solid #D2DADD;
 }
-
-
 
 .modal-right-top-corner {
     float: right;
@@ -295,7 +291,6 @@ img#modal-buy-close, img#modal-level-close {
     left: 3px;
     top: 3px;
 }
-
 
 .modal-title {
     font-size: 33px;
@@ -945,4 +940,77 @@ font-size: 33px;
     margin: 0 auto;
     left: 10px;
 }
+
+#modal_profile_place_1{
+    position: relative;
+    margin: 0 auto;
+    left: -4px;
+    top: -3px;
+}
+
+#modal_profile_place_4{
+    position: relative;
+    margin: 0 auto;
+    left: -4px;
+    top: -4px;
+}
+
+#modal_profile_place_2,
+#modal_profile_place_3,
+#modal_profile_place_5,
+#modal_profile_place_6,
+#modal_profile_place_7,
+#modal_profile_place_8,
+#modal_profile_place_9,
+#modal_profile_place_10{
+    position: relative;
+    margin: 0 auto;
+    left: -3px;
+    top: -4px;
+}
+
+#modal_profile_place_7 {
+    position: relative;
+    margin: 0 auto;
+    left: -3px;
+    top: -3px;
+}
+
+.profile-title {
+    display: block;
+    position: relative;
+    float: left;
+    top: -28px;
+    left: -11px;
+    font-weight: 800;
+    color: #fff;
+    font-size: 20px;
+    text-transform: capitalize;
+    text-shadow: 1px 1px 1px #1268B5,
+    -0.5px -0.5px 0.5px #1268B5,
+    -0.5px 0.5px 0.5px #1268B5,
+    0.5px -0.5px 0.5px #1268B5,
+    -0.5px 0 0.5px #1268B5,
+    0.5px 0 0.5px #1268B5,
+    0 0.5px 0.5px #1268B5,
+    0 -0.5px 0.5px #1268B5,
+
+    1.5px 1.5px 1px #609DD5,
+    -1.5px 1.5px 1px #609DD5,
+    1.5px 1.5px 1px #609DD5,
+    1.5px 0 1px #609DD5,
+    2px 0 1px #609DD5,
+    0 2px 1px #609DD5,
+    2px 2px 1px #609DD5,
+    -2px 2px 1px #609DD5,
+    -2px 2px 1px #609DD5,
+    2px 0 1px #609DD5,
+    -2px 0 1px #609DD5,
+    2px 0 1px #609DD5,
+    0 2px 1px #609DD5;
+
+}
+
+
+
 
