@@ -42,27 +42,113 @@
 #modal-profile>.modal-dialog {
     position: fixed;
     left: 195px;
-    width: 481px;
+    width: 493px;
 }
 
 #modal-profile .modal-profile {
-    height: 582px;
+    width: 492px;
+    height: 462px;
     top: 39px;
-    -webkit-border-radius: 18px;
-    -moz-border-radius: 18px;
-    border-radius: 18px;
-    background-image: url('../images/modal_buy_bg.jpg');
-    background-size: 522px 670px;
-    background-repeat: no-repeat;
-    background-position: -11px -44px;
-    -webkit-box-shadow: inset 0 3px 3px -1px rgb(235, 235, 235);
-    -moz-box-shadow: inset 0 3px 3px -1px rgb(235, 235, 235);
-    box-shadow: inset 0 3px 3px -1px rgb(235, 235, 235);
+    -webkit-border-radius: 23px;
+    -moz-border-radius: 23px;
+    border-radius: 23px;
+    background-color: #6BA9E4;
+    -webkit-box-shadow: inset 0 3px 0 rgb(133, 190, 235);
+    -moz-box-shadow: inset 0 3px 0 rgb(133, 190, 235);
+    box-shadow: inset 0 3px 0 rgb(133, 190, 235);
     border: 0;
     padding-top: 41px;
     padding-left: 27px;
-    padding-right: 27px;
-    border-bottom: 4px solid #D2DADD;
+    border-bottom: 4px solid #558EC5;
+    position: fixed;
+    left: 163px;
+}
+
+.btn-close-profile {
+    background-color: #5899D9 !important;
+    -webkit-box-shadow: inset 0 2px 0 #4B8AC6 !important;
+    -moz-box-shadow: inset 0 2px 0 #4B8AC6 !important;
+    box-shadow: inset 0 2px 0 #4B8AC6 !important;
+}
+
+#modal-profile-close {
+    position: absolute;
+    left: 1.5px;
+    top: 4px;
+}
+
+.bg-place-profile {
+    background-color: #38699F;
+    position: relative;
+    width: 37px;
+    height: 37px;
+    -webkit-border-radius: 44px;
+    -moz-border-radius: 44px;
+    border-radius: 44px;
+    left: 2.5px;
+    top: 2.5px;
+}
+
+.place-profile {
+    position: relative;
+    background-color: #4A82BD;
+    width: 35px;
+    height: 35px;
+    top: 2px;
+    -webkit-border-radius: 34px;
+    -moz-border-radius: 34px;
+    border-radius: 34px;
+    left: 1px;
+}
+
+.close-modal-wrapper-profile {
+    background-color: #B2BDC3;
+    -webkit-border-radius: 28px;
+    -moz-border-radius: 28px;
+    border-radius: 28px;
+    -webkit-box-shadow:  0 2px 0 #83BDEC;
+    -moz-box-shadow:  0 2px 0 #83BDEC;
+    box-shadow:  0 2px 0 #83BDEC;
+    float: right;
+    height: 28px;
+    position: relative;
+    width: 28px;
+    right: 9px;
+    top: -31px;
+}
+
+.place-profile-wrapper {
+    width: 42px;
+    height: 42px;
+    position: relative;
+    float: left;
+    -webkit-border-radius: 42px;
+    -moz-border-radius: 42px;
+    border-radius: 42px;
+    background: #5290c9;
+    background: -moz-linear-gradient(top, #5290c9 0%, #85beeb 100%);
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#5290c9), color-stop(100%,#85beeb));
+    background: -webkit-linear-gradient(top, #5290c9 0%,#85beeb 100%);
+    background: -o-linear-gradient(top, #5290c9 0%,#85beeb 100%);
+    background: -ms-linear-gradient(top, #5290c9 0%,#85beeb 100%);
+    background: linear-gradient(to bottom, #5290c9 0%,#85beeb 100%);
+    top: -35px;
+    left: -21px;
+}
+
+.inside-bg-profile {
+    width: 472px;
+    height: 394px;
+    position: relative;
+    background-color: #5088C4;
+    -webkit-border-radius: 16px;
+    -moz-border-radius: 16px;
+    border-radius: 16px;
+    left: -17px;
+    bottom: -17px;
+    -webkit-box-shadow: inset 0 -3px 0 rgb(133, 190, 235);
+    -moz-box-shadow: inset 0 -3px 0 rgb(133, 190, 235);
+    box-shadow: inset 0 -3px 0 rgb(133, 190, 235);
 }
 
 #modal-level>.modal-dialog {
@@ -71,6 +157,62 @@
     width: 370px;
     top: 83px;
 }
+
+.bg-profile-wrapper {
+    width: 470px;
+    height: 388px;
+    -webkit-border-radius: 14px;
+    -moz-border-radius: 14px;
+    border-radius: 14px;
+    background-color: #5D98D2;
+    top: 3px;
+    position: relative;
+    left: 1px;
+}
+
+.content-profile-wrapper {
+    width: 461px;
+    height: 377px;
+    background-color: #DAE1E6;
+    position: relative;
+    -webkit-box-shadow: 0 3px 0 #5088C5;
+    -moz-box-shadow: 0 3px 0 #5088C5;
+    box-shadow: 0 3px 0 #5088C5;
+    -webkit-border-radius: 14px;
+    -moz-border-radius: 14px;
+    border-radius: 14px;
+    border: 1px solid #5088C5;
+    margin: 0 auto;
+    top: 4px;
+}
+
+.profile-container {
+    width: 457px;
+    height: 366px;
+    position: relative;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    border-radius: 12px;
+    background-color: #F2F6F7;
+    left: 1px;
+    -webkit-box-shadow: 0 -3px 2px #fff;
+    -moz-box-shadow: 0 -3px 2px #fff;
+    box-shadow: 0 -3px 2px #fff;
+    top: 4px;
+    padding: 25px;
+}
+
+.profile-glow {
+    background: rgba(255, 255, 255, 0.1);
+    width: 495px;
+    height: 459px;
+    border-radius: 31px;
+    left: 180px;
+    position: fixed;
+    top: 50px;
+}
+
+
 
 #modal-level .modal-level {
     height: 374px;

@@ -6,6 +6,7 @@ $(window).on("load", function() {
         $('#text-buy-coins').attr('src', $('#text-buy-coins').attr('src').replace(".png","@2x.png"));
         $('#modal-buy-close').attr('src', $('#modal-buy-close').attr('src').replace(".png","@2x.png"));
         $('#modal-level-close').attr('src', $('#modal-level-close').attr('src').replace(".png","@2x.png"));
+        $('#modal-profile-close').attr('src', $('#modal-profile-close').attr('src').replace(".png","@2x.png"));
         $('#new-instrument-1').attr('src', $('#new-instrument-1').attr('src').replace(".png","@2x.png"));
         $('#new-instrument-2').attr('src', $('#new-instrument-2').attr('src').replace(".png","@2x.png"));
         $('body').addClass('retina');
@@ -14,7 +15,7 @@ $(window).on("load", function() {
 
 
 $(window).load(function(){
-    $('#modal-level').modal('show');
+    $('#modal-profile').modal('show');
 });
 
 //If user has ie 8 or less notification income for updating ie version
