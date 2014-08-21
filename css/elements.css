@@ -121,7 +121,7 @@
     position: relative;
     background-color: #D7E0E3;
     top: 0;
-    left: 0;
+    left: -1px;
 }
 
 .note-lg-icon, .note-lg-icon:focus {
@@ -711,6 +711,14 @@ button.btn.btn-undo, button.btn.btn-redo  {
 
 .user-invite-bg:hover {
     background-color: #ccd5da;
+}
+
+.lock, .lock:focus, .btn-painter, .btn-painter:focus, .btn-eraser, .btn-eraser:focus, .btn-trash, .btn-trash:focus, .btn-pencil, .btn-pencil:focus {
+    background-color: transparent;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    padding: 0;
 }
 
 .photo-active {

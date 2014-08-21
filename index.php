@@ -320,8 +320,8 @@
                 <div class="paint-frame">
                     <div class="left-corner-bg">
                         <div class="left-corner">
-                            <div class="btn btn-pencil" data-toggle="tooltip" data-placement="bottom" title="карандаш">
-                            </div>
+                            <button class="btn btn-pencil" data-toggle="tooltip" data-placement="bottom" title="карандаш">
+                            </button>
                         </div>
                     </div>
                     <div class="left-panel-paint">
@@ -414,35 +414,35 @@
                             </div>
                             <button class="btn btn-undo" disabled="disabled" data-toggle="tooltip" data-placement="top" title="шаг назад"></button>
                             <button class="btn btn-redo" disabled="disabled" data-toggle="tooltip" data-placement="top" title="шаг вперед"></button>
-                            <div class=" btn btn-trash" data-toggle="tooltip" data-placement="top" title="начать с начала"></div>
+                            <button class="btn btn-trash" data-toggle="tooltip" data-placement="top" title="начать с начала"></button>
                             <div class="ready"><button class="btn btn-riu-success" >готово!</button></div>
                         </div>
                         <div class="activation-panel">
-                            <div class="btn btn-painter" data-toggle="tooltip" data-placement="bottom" title="кисть"></div>
-                            <div class="btn btn-eraser" data-toggle="tooltip" data-placement="bottom" title="резинка"></div>
+                            <button class="btn btn-painter" data-toggle="tooltip" data-placement="bottom" title="кисть"></button>
+                            <button class="btn btn-eraser" data-toggle="tooltip" data-placement="bottom" title="резинка"></button>
                             <div class="empty-1">
-                                <div class="lock lock-1" data-toggle="tooltip" data-placement="bottom" title="открыть 1">
-                                    <a href="#"><img src="images/lock@2x.png" alt="" width="21" height="26"/></a></div>
+                                <button class="btn lock lock-1" data-toggle="tooltip" data-placement="bottom" title="открыть 1">
+                                    <a href="#"><img src="images/lock@2x.png" alt="" width="21" height="26"/></a></button>
                             </div>
                             <div class="empty-2">
-                                <div class="lock lock-2" data-toggle="tooltip" data-placement="bottom" title="открыть 2">
-                                    <a href="#"><img src="images/lock@2x.png" alt="" width="21" height="26"/></a></div>
+                                <button class="btn lock lock-2" data-toggle="tooltip" data-placement="bottom" title="открыть 2">
+                                    <a href="#"><img src="images/lock@2x.png" alt="" width="21" height="26"/></a></button>
                             </div>
                             <div class="empty-3">
-                                <div class="lock lock-3" data-toggle="tooltip" data-placement="bottom" title="открыть 3">
-                                    <a href="#"><img src="images/lock@2x.png" alt="" width="21" height="26"/></a></div>
+                                <button class="btn lock lock-3" data-toggle="tooltip" data-placement="bottom" title="открыть 3">
+                                    <a href="#"><img src="images/lock@2x.png" alt="" width="21" height="26"/></a></button>
                             </div>
                             <div class="empty-4">
-                                <div class="lock lock-4" data-toggle="tooltip" data-placement="bottom" title="открыть 4">
-                                    <a href="#"><img src="images/lock@2x.png" alt="" width="21" height="26"/></a></div>
+                                <button class="btn lock lock-4" data-toggle="tooltip" data-placement="bottom" title="открыть 4">
+                                    <a href="#"><img src="images/lock@2x.png" alt="" width="21" height="26"/></a></button>
                             </div>
                             <div class="empty-5">
-                                <div class="lock lock-5" data-toggle="tooltip" data-placement="bottom" title="открыть 5">
-                                    <a href="#"><img src="images/lock@2x.png" alt="" width="21" height="26"/></a></div>
+                                <button class="btn lock lock-5" data-toggle="tooltip" data-placement="bottom" title="открыть 5">
+                                    <a href="#"><img src="images/lock@2x.png" alt="" width="21" height="26"/></a></button>
                             </div>
                             <div class="empty-6">
-                                <div class="lock lock-6" data-toggle="tooltip" data-placement="bottom" title="открыть 6">
-                                    <a href="#"><img src="images/lock@2x.png" alt="" width="21" height="26"/></a></div>
+                                <button class="btn lock lock-6" data-toggle="tooltip" data-placement="bottom" title="открыть 6">
+                                    <a href="#"><img src="images/lock@2x.png" alt="" width="21" height="26"/></a></button>
                             </div>
                         </div>
                     </div>
