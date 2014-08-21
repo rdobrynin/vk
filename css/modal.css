@@ -749,19 +749,9 @@ font-size: 33px;
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     box-shadow: none;
+    cursor: default;
 }
 
-.new-instrument-image:hover {
-    position: relative;
-    background-color: #e0e5e8;
-    width: 120px;
-    height: 119px;
-    -webkit-border-radius: 16px;
-    -moz-border-radius: 16px;
-    border-radius: 16px;
-    left: 1px;
-    top: 3px;
-}
 
 #modal_level_place_7,
 #modal_level_place_1,

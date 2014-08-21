@@ -2,19 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6778edc4-4afe-43d8-bc69-2a652cc0982c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/gift_profile_add.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/gift_profile_add@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/vase_profile_btn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/vase_profile_btn@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/vk_profile_btn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/vk_profile_btn@2x.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/elements.css" afterPath="$PROJECT_DIR$/css/elements.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/modal.css" afterPath="$PROJECT_DIR$/css/modal.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modal_buy.php" afterPath="$PROJECT_DIR$/modal_buy.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modal_level.php" afterPath="$PROJECT_DIR$/modal_level.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modal_profile.php" afterPath="$PROJECT_DIR$/modal_profile.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/script.js" afterPath="$PROJECT_DIR$/js/script.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="vk.iws" />
@@ -40,11 +29,13 @@
     <splitter split-orientation="horizontal" split-proportion="0.7082962">
       <split-first>
         <leaf>
-          <file leaf-file-name="modal_level.php" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="modal_level.php" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/modal_level.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="29" column="32" selection-start="2264" selection-end="2284" vertical-scroll-proportion="0.6476427" vertical-offset="0" max-vertical-offset="1652">
-                  <folding />
+                <state line="18" column="18" selection-start="1749" selection-end="1749" vertical-scroll-proportion="0.4019851" vertical-offset="0" max-vertical-offset="1634">
+                  <folding>
+                    <element signature="n#style#0;n#button#0;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -96,10 +87,10 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="modal.css" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="modal.css" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/modal.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="754" column="23" selection-start="18128" selection-end="18128" vertical-scroll-proportion="0.60511035" vertical-offset="13177" max-vertical-offset="22551">
+                <state line="757" column="21" selection-start="18162" selection-end="18162" vertical-scroll-proportion="1.0023229" vertical-offset="12889" max-vertical-offset="22371">
                   <folding />
                 </state>
               </provider>
@@ -161,8 +152,8 @@
         <option value="$PROJECT_DIR$/css/elements.css" />
         <option value="$PROJECT_DIR$/modal_profile.php" />
         <option value="$PROJECT_DIR$/modal_buy.php" />
-        <option value="$PROJECT_DIR$/modal_level.php" />
         <option value="$PROJECT_DIR$/css/modal.css" />
+        <option value="$PROJECT_DIR$/modal_level.php" />
       </list>
     </option>
   </component>
@@ -711,17 +702,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/modal_level.php">
+    <entry file="file://$PROJECT_DIR$/css/modal.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="32" selection-start="2264" selection-end="2284" vertical-scroll-proportion="0.6476427" vertical-offset="0" max-vertical-offset="1652">
+        <state line="757" column="21" selection-start="18162" selection-end="18162" vertical-scroll-proportion="1.0023229" vertical-offset="12889" max-vertical-offset="22371">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/modal.css">
+    <entry file="file://$PROJECT_DIR$/modal_level.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="754" column="23" selection-start="18128" selection-end="18128" vertical-scroll-proportion="0.60511035" vertical-offset="13177" max-vertical-offset="22551">
-          <folding />
+        <state line="18" column="18" selection-start="1749" selection-end="1749" vertical-scroll-proportion="0.4019851" vertical-offset="0" max-vertical-offset="1634">
+          <folding>
+            <element signature="n#style#0;n#button#0;n#div#0;n#div#4;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
