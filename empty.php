@@ -37,7 +37,7 @@
                 </div>
                 <div class="green-plus-wrapper">
                     <div class="green-plus-bg">
-                        <button class="btn vk-plus" id="button-add-coins" data-toggle="modal" data-target="#modal-buy"></button>
+                        <button class="btn add-coins" id="button-add-coins" data-toggle="modal" data-target="#modal-buy"></button>
                     </div>
                 </div>
             </div>

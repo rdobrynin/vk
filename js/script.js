@@ -11,9 +11,9 @@ $(window).on("load", function() {
 });
 
 
-//$(window).load(function(){
-//    $('#modal-level').modal('show');
-//});
+$(window).load(function(){
+    $('#modal-level').modal('show');
+});
 
 //If user has ie 8 or less notification income for updating ie version
 
@@ -21,8 +21,6 @@ if ($.browser.msie  && parseInt($.browser.version, 10) === 8) {
    $('body').empty();
     $('body').html('<p style="text-align:center; padding-top: 100px; font-weight: bold; font-size: 30px;">Пожалуйста обновите IE</p>');
 }
-
-
 
 
 $(function () {
@@ -70,12 +68,12 @@ $(function () {
 
 //    SWITCH LAYOUT
 
-//    $('#button-add-coins').click(function () {
-//        $('.box-content-empty-blur').fadeIn( "fast");
-//        $('.box-content-empty-blur').removeClass( "hide");
-//        $('.box-content-paint-blur').fadeToggle( "fast");
-//
-//    });
+    $('#test').click(function () {
+        $('.box-content-empty-blur').fadeIn( "fast");
+        $('.box-content-empty-blur').removeClass( "hide");
+        $('.box-content-paint-blur').fadeToggle( "fast");
+
+    });
 //    FUNCTION FORMAT NUMBER WITH COMMA
     function CommaFormatted(yourNumber) {
         var n = yourNumber.toString().split(".");

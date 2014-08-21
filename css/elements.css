@@ -430,7 +430,7 @@
     cursor: pointer;
 }
 
-.vk-plus {
+.add-coins {
     background-image: url('../images/sprites@2x.png');
     background-size: 277px 135px;
     background-position: -7.500008px -108.3px;
@@ -440,7 +440,13 @@
     outline: 0;
 }
 
-.vk-plus:active {
+#test {
+    position: fixed;
+    left:  340px;
+    top:10px;
+}
+
+.add-coins:active {
     background-image: url('../images/sprites@2x.png');
     background-size: 277px 135px;
     background-position: -7.500008px -108.3px;
