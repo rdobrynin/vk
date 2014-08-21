@@ -78,7 +78,8 @@
             <div class="sound-switch">
                 <div class="sound-bg">
                     <div class="sound-default-bg">
-                        <div class="sound-on-off"></div>
+<!--button switchy sounds tracks-->
+                        <button class="btn sound-on-off"></button>
                     </div>
                 </div>
             </div>
@@ -95,8 +96,8 @@
         <div class="icon-big-bg">
             <div class="icon-big">
                 <!--BUTTON_SETTING-->
-                <div class="cog-icon icon-inside-big-hover" id="button-1" data-toggle="tooltip" data-placement="bottom" title="установки">
-                </div>
+                <button class="btn cog-icon icon-inside-big-hover" id="button-1" data-toggle="tooltip" data-placement="bottom" title="установки">
+                </button>
             </div>
         </div>
     </div>
@@ -111,8 +112,8 @@
         <div class="icon-big-bg">
             <div class="icon-big">
                 <!--BUTTON_SETTING-->
-                <div class="cup-icon icon-inside-big-hover">
-                </div>
+                <button class="btn cup-icon icon-inside-big-hover">
+                </button>
             </div>
         </div>
     </div>
@@ -132,8 +133,7 @@
                 <div class="add-gift">
                     <div class="icon-add-gift-default-bg">
                         <div class="gift-default-bg">
-                            <div class="icon-add-gift-default">
-                            </div>
+                            <button class="btn icon-add-gift-default"></button>
                         </div>
                     </div>
                 </div>
@@ -153,8 +153,7 @@
                 <div class="add-gift">
                     <div class="icon-add-gift-default-bg">
                         <div class="gift-default-bg">
-                            <div class="icon-add-gift-default">
-                            </div>
+                            <button class="btn icon-add-gift-default"></button>
                         </div>
                     </div>
                 </div>
@@ -174,8 +173,7 @@
                 <div class="add-gift">
                     <div class="icon-add-gift-default-bg">
                         <div class="gift-default-bg">
-                            <div class="icon-add-gift-default">
-                            </div>
+                            <button class="btn icon-add-gift-default"></button>
                         </div>
                     </div>
                 </div>
@@ -195,8 +193,7 @@
                 <div class="add-gift">
                     <div class="icon-add-gift-default-bg">
                         <div class="gift-default-bg">
-                            <div class="icon-add-gift-default">
-                            </div>
+                            <button class="btn icon-add-gift-default"></button>
                         </div>
                     </div>
                 </div>
@@ -210,8 +207,8 @@
     <div class="icon-big-bg">
         <div class="icon-big">
             <!--BUTTON_SETTING-->
-            <div class="place-icon icon-inside-big-hover">
-            </div>
+            <button class="btn place-icon icon-inside-big-hover">
+            </button>
         </div>
     </div>
 </div>
@@ -221,8 +218,8 @@
     <div class="icon-big-bg">
         <div class="icon-big">
             <!--BUTTON_SETTING-->
-            <div class="note-lg-icon icon-inside-big-hover">
-            </div>
+            <button class="btn note-lg-icon icon-inside-big-hover">
+            </button>
         </div>
     </div>
 </div>
@@ -242,8 +239,7 @@
             <div class="add-gift">
                 <div class="icon-add-gift-default-bg">
                     <div class="gift-default-bg">
-                        <div class="icon-add-gift-default">
-                        </div>
+                        <button class="btn icon-add-gift-default"></button>
                     </div>
                 </div>
             </div>
@@ -263,8 +259,7 @@
             <div class="add-gift">
                 <div class="icon-add-gift-default-bg">
                     <div class="gift-default-bg">
-                        <div class="icon-add-gift-default">
-                        </div>
+                        <button class="btn icon-add-gift-default"></button>
                     </div>
                 </div>
             </div>
@@ -287,8 +282,7 @@
             <div class="add-gift add-gift-left">
                 <div class="icon-add-gift-default-bg">
                     <div class="gift-default-bg">
-                        <div class="icon-add-gift-default">
-                        </div>
+                        <button class="btn icon-add-gift-default"></button>
                     </div>
                 </div>
             </div>
@@ -299,7 +293,7 @@
         <!--INVITE CONTAINER-->
         <div class="user-wrapper-invite">
             <div class="user-invite-bg">
-                <div class="add-user"></div>
+                <button class="btn add-user"></button>
             </div>
             <span class="username invite">пригласить</span>
         </div>
