@@ -9,13 +9,16 @@ $(window).on("load", function() {
         $('#modal-profile-close').attr('src', $('#modal-profile-close').attr('src').replace(".png","@2x.png"));
         $('#new-instrument-1').attr('src', $('#new-instrument-1').attr('src').replace(".png","@2x.png"));
         $('#new-instrument-2').attr('src', $('#new-instrument-2').attr('src').replace(".png","@2x.png"));
+        $('.left-col-btn-present-img').attr('src', $('.left-col-btn-present-img').attr('src').replace(".png","@2x.png"));
+        $('.left-col-btn-vk-img').attr('src', $('.left-col-btn-vk-img').attr('src').replace(".png","@2x.png"));
+        $('.left-col-btn-vase-img').attr('src', $('.left-col-btn-vase-img').attr('src').replace(".png","@2x.png"));
         $('body').addClass('retina');
     }
 });
 
 
 $(window).load(function(){
-//    $('#modal-profile').modal('show');
+    $('#modal-profile').modal('show');
 });
 
 //If user has ie 8 or less notification income for updating ie version

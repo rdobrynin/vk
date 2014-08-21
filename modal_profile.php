@@ -1,5 +1,5 @@
 <!-- Modal PROFILE-->
-<div class="modal fade" id="modal-profile" tabindex="-1" role="dialog" aria-labelledby="modal-profileLabel" data-backdrop="false" aria-hidden="true">
+<div class="modal fade" id="modal-profile" tabindex="-1" role="dialog" aria-labelledby="modal-profile" data-backdrop="false" aria-hidden="true">
     <div class="modal-dialog"></div>
     <div class="profile-glow">
         <div class="modal-profile">
@@ -23,7 +23,7 @@
                 </div>
                 <div class="profile-title">александра, 22</div>
                 <div class="close-modal-wrapper-profile">
-                    <button type="button" class=" btn btn-close btn-close-profile" data-dismiss="modal">
+                    <button type="button" class="btn btn-close btn-close-profile" data-dismiss="modal">
                         <img id="modal-profile-close" src="images/close_profile.png" alt="" width="23" height="20"/>
                     </button>
                 </div>
@@ -36,6 +36,24 @@
                             <!--CONTENT-->
                             <div class="left-col">
                                 <div class="photo-big-profile"><img src="images/modal_profile_picture@2x.jpg" alt="" width="170" height="257"/></div>
+                                <div class="bottom-left-col">
+                                    <div class="left-col-btn">
+                                        <button class="btn left-col-btn-present">
+<img src="images/gift_profile_add.png" class="left-col-btn-present-img" alt="" width="30" height="31"/>
+                                        </button>
+                                    </div>
+                                    <div class="left-col-btn">
+                                        <button class="btn left-col-btn-vk">
+                                            <img src="images/vk_profile_btn.png" class="left-col-btn-vk-img" alt="" width="28" height="32"/>
+                                        </button>
+                                    </div>
+                                    <div class="left-col-btn">
+                                        <div class="amount-vase">10</div>
+                                        <button class="btn left-col-btn-vase">
+                                            <img src="images/vase_profile_btn.png" class="left-col-btn-vase-img" alt="" width="31" height="30"/>
+                                        </button>
+                                    </div>
+                                </div>
                             </div>
                             <div class="right-col">
                             </div>

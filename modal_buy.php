@@ -1,5 +1,5 @@
 <!-- Modal BUY-->
-<div class="modal fade" id="modal-buy" tabindex="-1" role="dialog" aria-labelledby="modal-buyLabel" data-backdrop="static" aria-hidden="true">
+<div class="modal fade" id="modal-buy" tabindex="-1" role="dialog" aria-labelledby="modal-buy" data-backdrop="static" aria-hidden="true">
     <div class="modal-dialog">
         <div class="modal-buy">
 <!--            <span class="modal-title">Докупить<br/>монеты</span>-->

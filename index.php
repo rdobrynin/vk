@@ -3,7 +3,6 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="author" content="Roman Dobrynin">
     <meta name="description" content="RIU application">
     <meta name="keywords" content="game">
@@ -419,8 +418,8 @@
                                     <span class="timer">00:00</span>
                                 </div>
                             </div>
-                            <div class="btn btn-undo" disabled="disabled" data-toggle="tooltip" data-placement="top" title="шаг назад"></div>
-                            <div class="btn btn-redo" disabled="disabled" data-toggle="tooltip" data-placement="top" title="шаг вперед"></div>
+                            <button class="btn btn-undo" disabled="disabled" data-toggle="tooltip" data-placement="top" title="шаг назад"></button>
+                            <button class="btn btn-redo" disabled="disabled" data-toggle="tooltip" data-placement="top" title="шаг вперед"></button>
                             <div class=" btn btn-trash" data-toggle="tooltip" data-placement="top" title="начать с начала"></div>
                             <div class="ready"><button class="btn btn-riu-success" >готово!</button></div>
                         </div>

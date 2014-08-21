@@ -1,5 +1,5 @@
 <!-- Modal LEVEL-->
-<div class="modal fade" id="modal-level" tabindex="-1" role="dialog" aria-labelledby="modal-levelLabel" data-backdrop="static" aria-hidden="true">
+<div class="modal fade" id="modal-level" tabindex="-1" role="dialog" aria-labelledby="modal-level" data-backdrop="static" aria-hidden="true">
     <div class="modal-dialog">
         <div class="modal-level">
             <div class="top-level-wrapper">
@@ -27,12 +27,12 @@
 
             <div class="new-instrument-left">
                 <div class="new-instrument-bg">
-                    <div class="new-instrument-image"> <img  class="new-image" id="new-instrument-1" src="images/new_instrument_1.png" alt="" width="106" height="93"/></div>
+                    <div class="new-instrument-image"><button class="btn btn-new-instrument"><img class="new-image" id="new-instrument-1" src="images/new_instrument_1.png" alt="" width="106" height="93"/></button></div>
                 </div>
             </div>
             <div class="new-instrument-right">
                 <div class="new-instrument-bg">
-                    <div class="new-instrument-image"> <img  class="new-image" id="new-instrument-2" src="images/new_instrument_2.png" alt="" width="106" height="93"/></div>
+                    <div class="new-instrument-image"><button class="btn btn-new-instrument"><img  class="new-image" id="new-instrument-2" src="images/new_instrument_2.png" alt="" width="106" height="93"/></button></div>
                 </div>
                 </div>
             <div class="level-bottom">

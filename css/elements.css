@@ -469,6 +469,10 @@
 
 }
 
+button.btn.btn-undo, button.btn.btn-redo  {
+    background-color: transparent;
+}
+
 .icon-wrapper-lg-note {
     position: fixed;
     top: 114px;
