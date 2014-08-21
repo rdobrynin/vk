@@ -1,14 +1,13 @@
 <!-- Modal PROFILE-->
 <div class="modal fade" id="modal-profile" tabindex="-1" role="dialog" aria-labelledby="modal-profileLabel" data-backdrop="static" aria-hidden="true">
-    <div class="modal-dialog"> </div>
-        <div class="profile-glow">
+    <div class="modal-dialog"></div>
+    <div class="profile-glow">
         <div class="modal-profile">
             <div class="top-profile">
                 <div class="place-profile-wrapper">
-<div class="bg-place-profile">
-    <div class="place-profile"></div>
-
-</div>
+                    <div class="bg-place-profile">
+                        <div class="place-profile"></div>
+                    </div>
                 </div>
                 <div class="close-modal-wrapper-profile">
                     <button type="button" class=" btn btn-close btn-close-profile" data-dismiss="modal">
@@ -24,9 +23,8 @@
                     </div>
                 </div>
             </div>
-        </div> <!-- END Modal PROFILE wrapper-->
-
+        </div>
+        <!-- END Modal PROFILE wrapper-->
     </div>
 </div>
-
 <!-- END Modal PROFILE-->

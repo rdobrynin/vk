@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6778edc4-4afe-43d8-bc69-2a652cc0982c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/close_profile.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/close_profile@2x.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/modal.css" afterPath="$PROJECT_DIR$/css/modal.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modal_profile.php" afterPath="$PROJECT_DIR$/modal_profile.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/script.js" afterPath="$PROJECT_DIR$/js/script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="vk.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,7 +25,7 @@
     <favorites_list name="vk" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5101148">
+    <splitter split-orientation="horizontal" split-proportion="0.695462">
       <split-first>
         <leaf>
           <file leaf-file-name="modal_level.php" pinned="false" current="false" current-in-tab="false">
@@ -44,7 +40,7 @@
           <file leaf-file-name="modal_profile.php" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/modal_profile.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="24" column="22" selection-start="1111" selection-end="1111" vertical-scroll-proportion="0.5611511" vertical-offset="0" max-vertical-offset="1410">
+                <state line="26" column="41" selection-start="1241" selection-end="1241" vertical-scroll-proportion="0.5827338" vertical-offset="0" max-vertical-offset="1356">
                   <folding />
                 </state>
               </provider>
@@ -73,7 +69,7 @@
           <file leaf-file-name="modal.css" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/modal.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="91" column="16" selection-start="2062" selection-end="2062" vertical-scroll-proportion="0.70731705" vertical-offset="1029" max-vertical-offset="18033">
+                <state line="215" column="0" selection-start="5053" selection-end="5053" vertical-scroll-proportion="0.58420444" vertical-offset="3565" max-vertical-offset="18789">
                   <folding />
                 </state>
               </provider>
@@ -633,14 +629,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/modal_profile.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="22" selection-start="1111" selection-end="1111" vertical-scroll-proportion="0.5611511" vertical-offset="0" max-vertical-offset="1410">
+        <state line="26" column="41" selection-start="1241" selection-end="1241" vertical-scroll-proportion="0.5827338" vertical-offset="0" max-vertical-offset="1356">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/modal.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="91" column="16" selection-start="2062" selection-end="2062" vertical-scroll-proportion="0.70731705" vertical-offset="1029" max-vertical-offset="18033">
+        <state line="215" column="0" selection-start="5053" selection-end="5053" vertical-scroll-proportion="0.58420444" vertical-offset="3565" max-vertical-offset="18789">
           <folding />
         </state>
       </provider>
