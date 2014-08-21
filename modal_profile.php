@@ -27,11 +27,19 @@
                         <img id="modal-profile-close" src="images/close_profile.png" alt="" width="23" height="20"/>
                     </button>
                 </div>
-            </div><!--            end top-profile-->
+            </div>
+            <!--end top-profile-->
             <div class="inside-bg-profile">
                 <div class="bg-profile-wrapper">
                     <div class="content-profile-wrapper">
                         <div class="profile-container">
+                            <!--CONTENT-->
+                            <div class="left-col">
+                                <div class="photo-big-profile"><img src="images/modal_profile_picture@2x.jpg" alt="" width="170" height="257"/></div>
+                            </div>
+                            <div class="right-col">
+                            </div>
+                            <!-- END CONTENT-->
                         </div>
                     </div>
                 </div>
