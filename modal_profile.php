@@ -1,5 +1,5 @@
 <!-- Modal PROFILE-->
-<div class="modal fade" id="modal-profile" tabindex="-1" role="dialog" aria-labelledby="modal-profileLabel" data-backdrop="static" aria-hidden="true">
+<div class="modal fade" id="modal-profile" tabindex="-1" role="dialog" aria-labelledby="modal-profileLabel" data-backdrop="false" aria-hidden="true">
     <div class="modal-dialog"></div>
     <div class="profile-glow">
         <div class="modal-profile">
