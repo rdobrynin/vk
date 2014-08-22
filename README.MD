@@ -1,5 +1,6 @@
 Files:
 - index.php - layouts
+Modal windows attached as include php function at the end of index file before the closed body tag:
 - modal_buy.php - modal window (buy coins)
 - modal_level.php - modal window (new level)
 - modal_profile.php - modal window ( user profile)

@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6778edc4-4afe-43d8-bc69-2a652cc0982c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/modal.css" afterPath="$PROJECT_DIR$/css/modal.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modal_profile.php" afterPath="$PROJECT_DIR$/modal_profile.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/script.js" afterPath="$PROJECT_DIR$/js/script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.MD" afterPath="$PROJECT_DIR$/README.MD" />
     </list>
     <ignored path="vk.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,16 +30,37 @@
           <file leaf-file-name="modal_profile.php" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/modal_profile.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="68" column="50" selection-start="5154" selection-end="5154" vertical-scroll-proportion="-4.2222223" vertical-offset="1110" max-vertical-offset="3228">
+                <state line="69" column="14" selection-start="5169" selection-end="5169" vertical-scroll-proportion="11.111111" vertical-offset="1542" max-vertical-offset="3228">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/index.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="449" column="14" selection-start="21686" selection-end="21686" vertical-scroll-proportion="-6.7777777" vertical-offset="7899" max-vertical-offset="9204">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="README.MD" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/README.MD">
+              <provider editor-type-id="MarkdownPreviewEditor">
+                <state />
+              </provider>
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="9" column="36" selection-start="411" selection-end="411" vertical-scroll-proportion="0.19424461" vertical-offset="0" max-vertical-offset="1158">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/js/script.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="22" column="0" selection-start="1424" selection-end="1424" vertical-scroll-proportion="0.4599303" vertical-offset="0" max-vertical-offset="6261">
+                <state line="22" column="0" selection-start="1424" selection-end="1424" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6261">
                   <folding>
                     <marker date="1408695954028" expanded="false" signature="1673:1747" placeholder="..." />
                   </folding>
@@ -94,7 +113,6 @@
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/empty.php" />
         <option value="$PROJECT_DIR$/css/retina.css" />
-        <option value="$PROJECT_DIR$/README.MD" />
         <option value="$PROJECT_DIR$/modal_level.php" />
         <option value="$PROJECT_DIR$/css/elements.css" />
         <option value="$PROJECT_DIR$/index.php" />
@@ -102,6 +120,7 @@
         <option value="$PROJECT_DIR$/css/modal.css" />
         <option value="$PROJECT_DIR$/modal_profile.php" />
         <option value="$PROJECT_DIR$/js/script.js" />
+        <option value="$PROJECT_DIR$/README.MD" />
       </list>
     </option>
   </component>
@@ -569,14 +588,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.MD">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="812" selection-end="812" vertical-scroll-proportion="0.38848922" vertical-offset="0" max-vertical-offset="1140" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/modal_2_profile@2x.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -623,13 +634,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="54" selection-start="2493" selection-end="2493" vertical-scroll-proportion="0.7134293" vertical-offset="359" max-vertical-offset="9204">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/elements.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="162" column="17" selection-start="4749" selection-end="4749" vertical-scroll-proportion="0.0" vertical-offset="2299" max-vertical-offset="30651">
@@ -644,19 +648,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="0" selection-start="1424" selection-end="1424" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6261">
+          <folding>
+            <marker date="1408695954028" expanded="false" signature="1673:1747" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/modal_profile.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="68" column="50" selection-start="5154" selection-end="5154" vertical-scroll-proportion="-4.2222223" vertical-offset="1110" max-vertical-offset="3228">
+        <state line="69" column="14" selection-start="5169" selection-end="5169" vertical-scroll-proportion="11.111111" vertical-offset="1542" max-vertical-offset="3228">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/script.js">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="0" selection-start="1424" selection-end="1424" vertical-scroll-proportion="0.4599303" vertical-offset="0" max-vertical-offset="6261">
-          <folding>
-            <marker date="1408695954028" expanded="false" signature="1673:1747" placeholder="..." />
-          </folding>
+        <state line="449" column="14" selection-start="21686" selection-end="21686" vertical-scroll-proportion="-6.7777777" vertical-offset="7899" max-vertical-offset="9204">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.MD">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="36" selection-start="411" selection-end="411" vertical-scroll-proportion="0.19424461" vertical-offset="0" max-vertical-offset="1158">
+          <folding />
         </state>
       </provider>
     </entry>
