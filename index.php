@@ -458,6 +458,7 @@
 <script src="//oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
 <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
 <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script src="js/textshadow.js"></script>
 <script src="js/function.js"></script>
 <script src="js/script.js"></script>
 <script src="js/jquery.preload.min.js"></script>

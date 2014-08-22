@@ -18,6 +18,7 @@ $(window).on("load", function() {
 
 
 $(window).load(function(){
+
     $('#modal-level').modal('show');
 });
 
@@ -30,6 +31,19 @@ if ($.browser.msie  && parseInt($.browser.version, 10) === 9 || $.browser.msie  
 
 
 $(function () {
+
+//
+//    var option = {
+//        x:      11,
+//        y:      2,
+//        radius: 3,
+//        color:  "red"
+//    }
+//
+//    $(".profile-label").textShadow(option);
+
+
+
 //    timer start on load document
     startCount();
 
