@@ -35,11 +35,13 @@
                         <div class="profile-container">
                             <!--CONTENT-->
                             <div class="left-col">
-                                <div class="photo-big-profile"><img src="images/modal_profile_picture@2x.jpg" alt="" width="170" height="257"/></div>
+                                <div class="photo-big-profile">
+                                    <img src="images/modal_profile_picture@2x.jpg" alt="" width="170" height="257"/>
+                                </div>
                                 <div class="bottom-left-col">
                                     <div class="left-col-btn">
                                         <button class="btn left-col-btn-present">
-<img src="images/gift_profile_add.png" class="left-col-btn-present-img" alt="" width="30" height="31"/>
+                                            <img src="images/gift_profile_add.png" class="left-col-btn-present-img" alt="" width="30" height="31"/>
                                         </button>
                                     </div>
                                     <div class="left-col-btn">
@@ -56,6 +58,20 @@
                                 </div>
                             </div>
                             <div class="right-col">
+                                <!--ROW-1-->
+                                <div class="profile-row">
+<span class="profile-label">Место в рейтинге игроков</span>
+                                </div>
+                                <!--end row-->
+                                <!--ROW-2-->
+                                <div class="profile-row"></div>
+                                <!--end row-->
+                                <!--ROW-3-->
+                                <div class="profile-row"></div>
+                                <!--end row-->
+                                <!--ROW-4-->
+                                <div class="profile-row"></div>
+                                <!--end row-->
                             </div>
                             <!-- END CONTENT-->
                         </div>

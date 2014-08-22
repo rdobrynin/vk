@@ -1038,7 +1038,8 @@ font-size: 33px;
     position: relative;
     float: left;
     width: 239px;
-    height: 319px
+    height: 319px;
+    top: -7px;
 }
 
 .photo-big-profile  {
@@ -1179,4 +1180,38 @@ font-size: 33px;
     color: #47960B;
     font-size: 12px;
     padding-top: 1px;
+}
+
+.profile-row {
+    width: 235px;
+    height: 80px;
+    position: relative;
+    float: left;
+    margin-left: 20px;
+}
+
+.profile-label {
+ display: block;
+    position: relative;
+    float: left;
+    font-size: 13px;
+    color: #fff;
+    font-weight: 800;
+    text-shadow:
+        0.5px 0.5px 0.5px #5B6D76,
+        -0.5px -0.5px 0.5px #5B6D76,
+        -0.5px 0.5px 0.5px #5B6D76,
+        0.5px -0.5px 0.5px #5B6D76,
+        -0.5px 0 0.5px #5B6D76,
+        0.5px 0 0.5px #5B6D76,
+        1px 1px 0.5px #DDE5E7,
+        1.5px 1.5px 0.5px #DDE5E7,
+        -1.5px 1.5px 0.5px #DDE5E7,
+        2px 2px 0.5px #DDE5E7,
+        -2px 2px 0.5px #DDE5E7,
+        0 -1px 0.5px #DDE5E7,
+        0 -1.5px 0.5px #DDE5E7,
+        0 1.5px 0.5px #DDE5E7,
+        0 2px 0.5px #DDE5E7,
+        -2px 0 0.5px #DDE5E7;
 }
