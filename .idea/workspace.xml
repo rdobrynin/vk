@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6778edc4-4afe-43d8-bc69-2a652cc0982c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/elements.css" afterPath="$PROJECT_DIR$/css/elements.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/modal.css" afterPath="$PROJECT_DIR$/css/modal.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/ie10-viewport-bug-workaround.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/ie8-responsive-file-warning.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.MD" afterPath="$PROJECT_DIR$/README.MD" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/script.js" afterPath="$PROJECT_DIR$/js/script.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="vk.iws" />
@@ -26,23 +29,36 @@
     <favorites_list name="vk" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.6243469">
+    <splitter split-orientation="horizontal" split-proportion="0.7324974">
       <split-first>
         <leaf>
-          <file leaf-file-name="modal_profile.php" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/modal_profile.php">
+          <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/index.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="69" column="14" selection-start="5169" selection-end="5169" vertical-scroll-proportion="11.111111" vertical-offset="1542" max-vertical-offset="3228">
+                <state line="34" column="7" selection-start="1505" selection-end="1505" vertical-scroll-proportion="0.58064514" vertical-offset="144" max-vertical-offset="9356">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/index.php">
+          <file leaf-file-name="ie10-viewport-bug-workaround.js" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/js/ie10-viewport-bug-workaround.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="458" column="62" selection-start="21876" selection-end="21876" vertical-scroll-proportion="-10.4" vertical-offset="7672" max-vertical-offset="9176">
-                  <folding />
+                <state line="21" column="5" selection-start="735" selection-end="735" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1221">
+                  <folding>
+                    <element signature="n#!!doc" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="ie8-responsive-file-warning.js" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/js/ie8-responsive-file-warning.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="12" column="1" selection-start="599" selection-end="599" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1059">
+                  <folding>
+                    <element signature="n#!!doc" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -62,7 +78,7 @@
                 <state />
               </provider>
               <provider selected="true" editor-type-id="text-editor">
-                <state line="14" column="65" selection-start="563" selection-end="563" vertical-scroll-proportion="-9.333333" vertical-offset="0" max-vertical-offset="1158">
+                <state line="15" column="57" selection-start="698" selection-end="698" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="1176">
                   <folding />
                 </state>
               </provider>
@@ -71,9 +87,10 @@
           <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/js/script.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="26" column="43" selection-start="1541" selection-end="1541" vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="6513">
+                <state line="37" column="0" selection-start="2049" selection-end="2064" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="7261">
                   <folding>
-                    <marker date="1408701302136" expanded="false" signature="1674:1748" placeholder="..." />
+                    <marker date="1408705073608" expanded="false" signature="1680:1754" placeholder="..." />
+                    <marker date="1408705073608" expanded="true" signature="1924:1998" placeholder="..." />
                   </folding>
                 </state>
               </provider>
@@ -90,10 +107,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="elements.css" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="elements.css" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css/elements.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="1357" column="24" selection-start="33978" selection-end="33978" vertical-scroll-proportion="0.43817526" vertical-offset="24097" max-vertical-offset="29741">
+                <state line="1415" column="1" selection-start="35303" selection-end="35303" vertical-scroll-proportion="-13.5" vertical-offset="25092" max-vertical-offset="29741">
                   <folding />
                 </state>
               </provider>
@@ -106,7 +123,7 @@
           <file leaf-file-name="modal.css" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/modal.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="1280" column="8" selection-start="30637" selection-end="30945" vertical-scroll-proportion="2.0696864" vertical-offset="21546" max-vertical-offset="27213">
+                <state line="1205" column="28" selection-start="28117" selection-end="28117" vertical-scroll-proportion="0.39721254" vertical-offset="22536" max-vertical-offset="28257">
                   <folding />
                 </state>
               </provider>
@@ -137,13 +154,17 @@
         <option value="$PROJECT_DIR$/modal_level.php" />
         <option value="$PROJECT_DIR$/modal_buy.php" />
         <option value="$PROJECT_DIR$/modal_profile.php" />
-        <option value="$PROJECT_DIR$/README.MD" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/js/textshadow.js" />
-        <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/js/script.js" />
-        <option value="$PROJECT_DIR$/css/modal.css" />
         <option value="$PROJECT_DIR$/css/elements.css" />
+        <option value="$PROJECT_DIR$/README.MD" />
+        <option value="$PROJECT_DIR$/css/modal.css" />
+        <option value="$PROJECT_DIR$/ie10-viewport-bug-workaround.js" />
+        <option value="$PROJECT_DIR$/js/ie8-viewport-bug-workaround.js" />
+        <option value="$PROJECT_DIR$/js/script.js" />
+        <option value="$PROJECT_DIR$/js/jquery.corner.js" />
+        <option value="$PROJECT_DIR$/js/ie8.js" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -222,38 +243,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="preview" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vk" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="ico" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -301,6 +290,9 @@
       <recent name="$PROJECT_DIR$/js" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/js" />
     </key>
   </component>
   <component name="RunManager">
@@ -414,32 +406,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/jquery.preload.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="252" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="46" selection-end="46" vertical-scroll-proportion="0.0" vertical-offset="144" max-vertical-offset="216">
-          <folding>
-            <marker date="1408701302136" expanded="false" signature="1674:1748" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ico/favicon.ico">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/web-forms.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="486" column="23" selection-start="11091" selection-end="11091" vertical-scroll-proportion="0.33293557" vertical-offset="8469" max-vertical-offset="11440">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/sprites.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -652,26 +618,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.MD">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="65" selection-start="563" selection-end="563" vertical-scroll-proportion="-9.333333" vertical-offset="0" max-vertical-offset="1158">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="36" selection-start="551" selection-end="551" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="9663">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="458" column="62" selection-start="21876" selection-end="21876" vertical-scroll-proportion="-10.4" vertical-offset="7672" max-vertical-offset="9176">
           <folding />
         </state>
       </provider>
@@ -685,25 +634,61 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/elements.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1415" column="1" selection-start="35303" selection-end="35303" vertical-scroll-proportion="-13.5" vertical-offset="25092" max-vertical-offset="29741">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.MD">
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="57" selection-start="698" selection-end="698" vertical-scroll-proportion="-10.0" vertical-offset="0" max-vertical-offset="1176">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/ie10-viewport-bug-workaround.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="5" selection-start="735" selection-end="735" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1221">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/ie8-responsive-file-warning.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="1" selection-start="599" selection-end="599" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1059">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="43" selection-start="1541" selection-end="1541" vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="6513">
+        <state line="37" column="0" selection-start="2049" selection-end="2064" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="7261">
           <folding>
-            <marker date="1408701302136" expanded="false" signature="1674:1748" placeholder="..." />
+            <marker date="1408705073608" expanded="false" signature="1680:1754" placeholder="..." />
+            <marker date="1408705073608" expanded="true" signature="1924:1998" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/modal.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1280" column="8" selection-start="30637" selection-end="30945" vertical-scroll-proportion="2.0696864" vertical-offset="21546" max-vertical-offset="27213">
+        <state line="1205" column="28" selection-start="28117" selection-end="28117" vertical-scroll-proportion="0.39721254" vertical-offset="22536" max-vertical-offset="28257">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/elements.css">
+    <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1357" column="24" selection-start="33978" selection-end="33978" vertical-scroll-proportion="0.43817526" vertical-offset="24097" max-vertical-offset="29741">
+        <state line="34" column="7" selection-start="1505" selection-end="1505" vertical-scroll-proportion="0.58064514" vertical-offset="144" max-vertical-offset="9356">
           <folding />
         </state>
       </provider>

@@ -24,8 +24,13 @@ $(window).load(function(){
 
 //If user has ie 8 or less notification income for updating ie version
 
-if ($.browser.msie  && parseInt($.browser.version, 10) === 9 || $.browser.msie  && parseInt($.browser.version, 10) === 8) {
-   $('body').empty();
+//if ($.browser.msie  && parseInt($.browser.version, 10) === 9 || $.browser.msie  && parseInt($.browser.version, 10) === 8) {
+//   $('body').empty();
+//    $('body').html('<p style="text-align:center; padding-top: 100px; font-weight: bold; font-size: 30px;">Пожалуйста обновите Internet Explorer</p>');
+//}
+
+if ($.browser.msie  && parseInt($.browser.version, 10) === 7 ) {
+    $('body').empty();
     $('body').html('<p style="text-align:center; padding-top: 100px; font-weight: bold; font-size: 30px;">Пожалуйста обновите Internet Explorer</p>');
 }
 

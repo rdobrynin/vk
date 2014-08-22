@@ -11,7 +11,7 @@ Modal windows attached as include php function at the end of index file before t
 - script.js - JS frontend functionality
 
 
-1. switching layouts -> due to test id div.
+1. switching layouts -> due to test id div (must be removed before production).
 2.  BALANCE INT comma reformed by JS function  CommaFormatted(yourNumber) in script.js | ID balance-amount
 4.  font-sizes of balance reformed by JS functions length 1 - 11 in script.js
 5.  Grand places 1-10 as ID hide (twitter bootstrap 3 class) must be switching with JS functionality
