@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="Roman Dobrynin">
     <meta name="description" content="RIU application">
-    <meta name="keywords" content="game">
+    <meta name="keywords" content="application">
     <link rel="icon" type="image/vnd.microsoft.icon" href="ico/favicon.ico"/>
     <title>RIU</title>
     <!-- CSS -->
@@ -467,7 +467,6 @@
 <script src="//oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
 <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
 <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
-<script src="js/textshadow.js"></script>
 <script src="js/function.js"></script>
 <script src="js/script.js"></script>
 <script src="js/jquery.preload.min.js"></script>

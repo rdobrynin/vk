@@ -822,14 +822,15 @@ button.btn.btn-undo, button.btn.btn-redo  {
 }
 
 .sound-on-off, .sound-on-off:focus {
-    position: fixed;
+    position: relative;
     width: 23px;
     height: 23px;
     background-image: url('../images/sprites@2x.png');
     background-size: 277px 135px;
     background-color: transparent;
-    background-position: -430.5px -102.9px;
-    top: 16px;
+    background-position: -431.5px -102.9px;
+    top: -3px;
+    left: 0.5px;
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     box-shadow: none;
