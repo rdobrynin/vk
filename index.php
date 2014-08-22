@@ -86,7 +86,7 @@
             <div class="sound-switch">
                 <div class="sound-bg">
                     <div class="sound-default-bg">
-<!--button switchy sounds tracks-->
+<!--button switch sounds tracks-->
                         <button class="btn sound-on-off"></button>
                     </div>
                 </div>
