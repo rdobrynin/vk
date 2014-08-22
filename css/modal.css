@@ -274,10 +274,10 @@
     box-shadow: 0 2px 0 #D2D5D6;
     float: right;
     height: 28px;
-    position: fixed;
+    position: relative;
     width: 28px;
-    right: 7px;
-    top: 7px;
+    right: -19px;
+    top: -33px;
 }
 
 .btn-close {
@@ -1198,24 +1198,79 @@ font-size: 33px;
     font-size: 13px;
     color: #fff;
     font-weight: 800;
-    text-shadow:
-        0.5px 0.5px 0.5px #5B6D76,
-        -0.5px -0.5px 0.5px #5B6D76,
-        -0.5px 0.5px 0.5px #5B6D76,
-        0.5px -0.5px 0.5px #5B6D76,
-        -0.5px 0 0.5px #5B6D76,
-        0.5px 0 0.5px #5B6D76,
-        1px 1px 0.5px #DDE5E7,
-        1.5px 1.5px 0.5px #DDE5E7,
-        -1.5px 1.5px 0.5px #DDE5E7,
-        2px 2px 0.5px #DDE5E7,
-        -2px 2px 0.5px #DDE5E7,
-        0 -1px 0.5px #DDE5E7,
-        0 -0.5px 0.5px #DDE5E7,
-        0 1.5px 0.5px #DDE5E7,
-        0 2px 0.5px #DDE5E7,
-        -2px 0 0.5px #DDE5E7;
     padding-bottom: 5px;
+    text-shadow:
+        0.2px 0 0.5px #89989d,
+        0.4px 0 0.5px #89989d,
+        0.6px 0 0.5px #89989d,
+        0.8px 0 0.5px #89989d,
+        1px 0 0.5px #89989d,
+        -0.2px 0 0.5px #89989d,
+        -0.4px 0 0.5px #89989d,
+        -0.6px 0 0.5px #89989d,
+        -0.8px 0 0.5px #89989d,
+        -1px 0 0.5px #89989d,
+        0 0.2px 0.5px #89989d,
+        0 0.4px 0.5px #89989d,
+        0 0.6px 0.5px #89989d,
+        0 0.8px 0.5px #89989d,
+        0 1px 0.5px #89989d,
+        0 -0.2px 0.5px #89989d,
+        0 -0.4px 0.5px #89989d,
+        0 -0.6px 0.5px #89989d,
+        0 -0.8px 0.5px #89989d,
+        0 -1px 0.5px #89989d,
+        0.2px -0.2px 0.5px #89989d,
+        0.4px -0.4px 0.5px #89989d,
+        0.6px -0.6px 0.5px #89989d,
+        0.8px -0.8px 0.5px #89989d,
+        1px -1px 0.5px #89989d,
+        -0.2px -0.2px 0.5px #89989d,
+        -0.4px -0.4px 0.5px #89989d,
+        -0.6px -0.6px 0.5px #89989d,
+        -0.8px -0.8px 0.5px #89989d,
+        -1px -1px 0.5px #89989d,
+        0.2px 0.2px 0.5px #89989d,
+        0.4px 0.4px 0.5px #89989d,
+        0.6px 0.6px 0.5px #89989d,
+        0.8px 0.8px 0.5px #89989d,
+        1px 1px 0.5px #89989d,
+        1px 1px 0.2px #DDE4E6,
+        0.2px 1.2px 0 #DDE4E6,
+        1.4px 0.4px 0 #DDE4E6,
+        1.6px 1.6px 0 #DDE4E6,
+        1.8px 1.8px 0 #DDE4E6,
+        1px 2px 0 #DDE4E6,
+        1.2px 0.2px 0 #DDE4E6,
+        1.4px 2.4px 0 #DDE4E6,
+        1.6px 2.6px 0 #DDE4E6,
+        2.4px 1.8px 0 #DDE4E6,
+        1px 0 0 #DDE4E6,
+        2px 0 0 #DDE4E6,
+        -0.2px 0 0 #DDE4E6,
+        0.6px 0 0 #DDE4E6,
+        0.4px 0 0 #DDE4E6,
+        0.2px 0 0 #DDE4E6,
+        0 0 0 #DDE4E6,
+        -0.2px 0 0 #DDE4E6,
+        -0.4px 0 0 #DDE4E6,
+        -0.6px 0 0 #DDE4E6,
+        -1.8px 0 0 #DDE4E6,
+        -1px 2px 0 #DDE4E6,
+        -0.2px 2px 0 #DDE4E6,
+        -0.4px 1px 0 #DDE4E6,
+        -0.6px 2px 0 #DDE4E6,
+        -0.8px 2px 0 #DDE4E6,
+        -1px 2px 0 #DDE4E6,
+        -1.2px 2px 0 #DDE4E6,
+        -1.4px 2px 0 #DDE4E6,
+        -1.6px 2px 0 #DDE4E6,
+        -1.8px 2px 0 #DDE4E6,
+        -2px 2px 0 #DDE4E6,
+        -0.2px 2px 0 #DDE4E6,
+        -0.4px 2px 0 #DDE4E6,
+        -0.6px 2px 0 #DDE4E6,
+        -0.8px 2px 0 #DDE4E6;
 }
 
 .data-profile-wrapper {

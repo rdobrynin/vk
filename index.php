@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="ru">
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -15,7 +15,6 @@
     <link href="css/elements.css" rel="stylesheet">
     <link href="css/modal.css" rel="stylesheet">
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
-    <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,700italic,400,800,700,600,300' rel='stylesheet' type='text/css'>
     <link href="css/retina.css" rel="stylesheet">
 </head>
 <body>
@@ -46,7 +45,7 @@
     <!--ICON_GRANT_PLACE-->
     <div class="icon-wrapper-grand">
         <div class="icon-grand-bg">
-            <div class="icon-grand-big" data-toggle="modal" data-target="#modal-level">
+            <div class="icon-grand-big">
                 <!--ICON DIV-->
                 <span class="cog-grand hide" id="place-1"><img src="images/1@2x.png" alt="" width="21" height="26"/></span>
                 <span class="cog-grand hide" id="place-2"><img src="images/2@2x.png" alt="" width="21" height="26"/></span>
@@ -373,6 +372,7 @@
                     <div class="canvas-wrapper-bg">
                         <!-- canvas-->
                         <div class="canvas">
+<!--                            <p style="font-weight: 800; color:#000;">Absdfrerrytuyu Ячясваававаа</p>-->
                         </div>
                         <!-- end canvas-->
                         <div class="bottom-panel-paint">
@@ -421,27 +421,27 @@
                             <button class="btn btn-eraser" data-toggle="tooltip" data-placement="bottom" title="резинка"></button>
                             <div class="empty-1">
                                 <button class="btn lock lock-1" data-toggle="tooltip" data-placement="bottom" title="открыть 1">
-                                    <a href="#"><img src="images/lock@2x.png" alt="" width="21" height="26"/></a></button>
+                                   <img src="images/lock@2x.png" alt="" width="21" height="26"/></button>
                             </div>
                             <div class="empty-2">
                                 <button class="btn lock lock-2" data-toggle="tooltip" data-placement="bottom" title="открыть 2">
-                                    <a href="#"><img src="images/lock@2x.png" alt="" width="21" height="26"/></a></button>
+                                    <img src="images/lock@2x.png" alt="" width="21" height="26"/></button>
                             </div>
                             <div class="empty-3">
                                 <button class="btn lock lock-3" data-toggle="tooltip" data-placement="bottom" title="открыть 3">
-                                    <a href="#"><img src="images/lock@2x.png" alt="" width="21" height="26"/></a></button>
+                                    <img src="images/lock@2x.png" alt="" width="21" height="26"/></button>
                             </div>
                             <div class="empty-4">
                                 <button class="btn lock lock-4" data-toggle="tooltip" data-placement="bottom" title="открыть 4">
-                                    <a href="#"><img src="images/lock@2x.png" alt="" width="21" height="26"/></a></button>
+                                    <img src="images/lock@2x.png" alt="" width="21" height="26"/></button>
                             </div>
                             <div class="empty-5">
                                 <button class="btn lock lock-5" data-toggle="tooltip" data-placement="bottom" title="открыть 5">
-                                    <a href="#"><img src="images/lock@2x.png" alt="" width="21" height="26"/></a></button>
+                                    <img src="images/lock@2x.png" alt="" width="21" height="26"/></button>
                             </div>
                             <div class="empty-6">
                                 <button class="btn lock lock-6" data-toggle="tooltip" data-placement="bottom" title="открыть 6">
-                                    <a href="#"><img src="images/lock@2x.png" alt="" width="21" height="26"/></a></button>
+                                    <img src="images/lock@2x.png" alt="" width="21" height="26"/></button>
                             </div>
                         </div>
                     </div>
