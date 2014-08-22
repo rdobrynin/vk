@@ -16,39 +16,16 @@ $(window).on("load", function() {
     }
 });
 
-
 $(window).load(function(){
-
     $('#modal-level').modal('show');
 });
-
-//If user has ie 8 or less notification income for updating ie version
-
-//if ($.browser.msie  && parseInt($.browser.version, 10) === 9 || $.browser.msie  && parseInt($.browser.version, 10) === 8) {
-//   $('body').empty();
-//    $('body').html('<p style="text-align:center; padding-top: 100px; font-weight: bold; font-size: 30px;">Пожалуйста обновите Internet Explorer</p>');
-//}
 
 if ($.browser.msie  && parseInt($.browser.version, 10) === 7 ) {
     $('body').empty();
     $('body').html('<p style="text-align:center; padding-top: 100px; font-weight: bold; font-size: 30px;">Пожалуйста обновите Internet Explorer</p>');
 }
 
-
 $(function () {
-
-//
-//    var option = {
-//        x:      11,
-//        y:      2,
-//        radius: 3,
-//        color:  "red"
-//    }
-//
-//    $(".profile-label").textShadow(option);
-
-
-
 //    timer start on load document
     startCount();
 
