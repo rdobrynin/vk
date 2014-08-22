@@ -1,7 +1,7 @@
 <!-- Modal PROFILE-->
 <div class="modal fade" id="modal-profile" tabindex="-1" role="dialog" aria-labelledby="modal-profile" data-backdrop="false" aria-hidden="true">
     <div class="modal-dialog"></div>
-    <div class="profile-glow">
+    <div class="profile-static">
         <div class="modal-profile">
             <div class="top-profile">
                 <div class="place-profile-wrapper">

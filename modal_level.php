@@ -1,6 +1,7 @@
 <!-- Modal LEVEL-->
 <div class="modal fade" id="modal-level" tabindex="-1" role="dialog" aria-labelledby="modal-level" data-backdrop="static" aria-hidden="true">
     <div class="modal-dialog">
+        <div class="level-static">
         <div class="modal-level">
             <div class="top-level-wrapper">
                 <div class="top-level-bg">
@@ -41,6 +42,7 @@
                 </div>
             </div>
             </div> <!--End modal-level-->
+        </div>
         </div>
     </div>
 <!-- END Modal LEVEL-->

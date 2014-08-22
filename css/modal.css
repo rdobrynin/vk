@@ -210,7 +210,7 @@
     float: left;
 }
 
-.profile-glow {
+.profile-static {
     background: none repeat scroll 0% 0% rgba(48, 48, 48, 0.1);
     width: 495px;
     height: 459px;
@@ -218,6 +218,13 @@
     left: 175px;
     position: fixed;
     top: 57px;
+}
+
+.buy-static, .level-static  {
+    border-radius: 31px;
+    left: 0;
+    position: fixed;
+    top: 0;
 }
 
 #modal-level .modal-level {
