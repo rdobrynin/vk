@@ -60,17 +60,57 @@
                             <div class="right-col">
                                 <!--ROW-1-->
                                 <div class="profile-row">
-<span class="profile-label">Место в рейтинге игроков</span>
+                                    <span class="profile-label">Место в рейтинге игроков</span>
+                                    <div class="data-profile-wrapper">
+                                        <div class="bg-data-profile-wrapper">
+                                            <div class="data-profile">
+                                                <span class="bg-profile-row-1"></span>
+                                                <span class="data-profile-text-row-1">1124</span>
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
                                 <!--end row-->
                                 <!--ROW-2-->
-                                <div class="profile-row"></div>
+                                <div class="profile-row">
+                                    <span class="profile-label">Становилась ведущей</span>
+                                    <div class="data-profile-wrapper">
+                                        <div class="bg-data-profile-wrapper">
+                                            <div class="data-profile">
+                                                <span class="bg-profile-row-2"></span>
+                                                <span class="data-profile-text-row-2">78</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
                                 <!--end row-->
                                 <!--ROW-3-->
-                                <div class="profile-row"></div>
+                                <div class="profile-row">
+                                    <span class="profile-label">Угадывания</span>
+                                    <div class="data-profile-wrapper">
+                                        <div class="bg-data-profile-wrapper">
+                                            <div class="data-profile">
+                                                <span class="bg-profile-row-3-false"></span>
+                                                <span class="data-profile-text-row-3-true">154</span>
+                                                <span class="bg-profile-row-3-true"></span>
+                                                <span class="data-profile-text-row-3-false">35</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
                                 <!--end row-->
                                 <!--ROW-4-->
-                                <div class="profile-row"></div>
+                                <div class="profile-row">
+                                    <span class="profile-label">Ставила музыку</span>
+                                    <div class="data-profile-wrapper">
+                                        <div class="bg-data-profile-wrapper">
+                                            <div class="data-profile">
+                                                <span class="bg-profile-row-4"></span>
+                                                <span class="data-profile-text-row-2">46</span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
                                 <!--end row-->
                             </div>
                             <!-- END CONTENT-->

@@ -1187,7 +1187,8 @@ font-size: 33px;
     height: 80px;
     position: relative;
     float: left;
-    margin-left: 20px;
+    margin-left: 33px;
+    margin-bottom: 6px;
 }
 
 .profile-label {
@@ -1210,8 +1211,162 @@ font-size: 33px;
         2px 2px 0.5px #DDE5E7,
         -2px 2px 0.5px #DDE5E7,
         0 -1px 0.5px #DDE5E7,
-        0 -1.5px 0.5px #DDE5E7,
+        0 -0.5px 0.5px #DDE5E7,
         0 1.5px 0.5px #DDE5E7,
         0 2px 0.5px #DDE5E7,
         -2px 0 0.5px #DDE5E7;
+    padding-bottom: 5px;
+}
+
+.data-profile-wrapper {
+    clear: both;
+    position: relative;
+    float: left;
+    height: 50px;
+    width: auto;
+    -webkit-border-radius: 50px;
+    -moz-border-radius: 50px;
+    border-radius: 50px;
+    background: #e2e9eb; /* Old browsers */
+    background: -moz-linear-gradient(top,  #e2e9eb 0%, #ffffff 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#e2e9eb), color-stop(100%,#ffffff)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #e2e9eb 0%,#ffffff 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #e2e9eb 0%,#ffffff 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #e2e9eb 0%,#ffffff 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #e2e9eb 0%,#ffffff 100%); /* W3C */
+    padding: 3px;
+    left: -4px;
+}
+
+.bg-data-profile-wrapper {
+    background-color: #CED9DF;
+    position: relative;
+    width: 100%;
+    height: 44px;
+    -webkit-border-radius: 44px;
+    -moz-border-radius: 44px;
+    border-radius: 44px;
+}
+
+.data-profile {
+    background-color: #EAEFF2;
+    width: auto;
+    height: 42px;
+    -webkit-border-radius: 42px;
+    -moz-border-radius: 42px;
+    border-radius: 42px;
+    top: 2px;
+    position: relative;
+    left: 1px;
+    margin-right: 2px;
+}
+
+.bg-profile-row-1 {
+    background-position: -128.5px 128.489586px;
+    background-image: url('../images/modal_sprites.png');
+    background-size: 114px 218px;
+    width: 26px;
+    height: 32px;
+    position: absolute;
+    left: 6px;
+}
+
+.bg-profile-row-2 {
+    background-position: -126.5px 42.489586px;
+    background-image: url('../images/modal_sprites.png');
+    background-size: 114px 218px;
+    width: 34px;
+    height: 32px;
+    position: absolute;
+    left: 5px;
+    top: 1px;
+}
+
+.bg-profile-row-2 {
+    background-position: -126.5px 42.489586px;
+    background-image: url('../images/modal_sprites.png');
+    background-size: 114px 218px;
+    width: 34px;
+    height: 32px;
+    position: absolute;
+    left: 5px;
+    top: 1px;
+}
+
+.bg-profile-row-3-true {
+    background-position: -126.5px -8px;
+    background-image: url('../images/modal_sprites.png');
+    background-size: 114px 218px;
+    width: 34px;
+    height: 36px;
+    position: absolute;
+    left: 3px;
+    top: 1px;
+}
+
+.bg-profile-row-3-false {
+    background-position: -174.5px -93px;
+    background-image: url('../images/modal_sprites.png');
+    background-size: 114px 218px;
+    width: 34px;
+    height: 36px;
+    position: absolute;
+    left: 92px;
+    top: 4px;
+}
+
+.bg-profile-row-4 {
+    background-position: -176.5px -41px;
+    background-image: url('../images/modal_sprites.png');
+    background-size: 114px 218px;
+    width: 34px;
+    height: 36px;
+    position: absolute;
+    left: 5px;
+    top: 1px;
+}
+
+
+.data-profile-text-row-1 {
+    position: relative;
+    font-size: 24px;
+    color: #5B6D76;
+    font-weight: 800;
+    text-align: center;
+    padding-left: 36px;
+    padding-right: 13px;
+    top: 2px;
+}
+
+.data-profile-text-row-2 {
+    position: relative;
+    font-size: 24px;
+    color: #5B6D76;
+    font-weight: 800;
+    text-align: center;
+    padding-left: 40px;
+    padding-right: 13px;
+    top: 2px;
+}
+
+.data-profile-text-row-3-true {
+    position: relative;
+    font-size: 24px;
+    color: #5CAE13;
+    font-weight: 800;
+    text-align: center;
+    padding-left: 44px;
+    padding-right: 13px;
+    top: 2px;
+}
+
+.data-profile-text-row-3-false {
+    position: relative;
+    font-size: 24px;
+    color: #E9788C;
+    font-weight: 800;
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 12px;
+    top: 2px;
 }
