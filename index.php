@@ -382,7 +382,6 @@
                     <div class="canvas-wrapper-bg">
                         <!-- canvas-->
                         <div class="canvas">
-<!--                            <p style="font-weight: 800; color:#000;">Absdfrerrytuyu Ячясваававаа</p>-->
                         </div>
                         <!-- end canvas-->
                         <div class="bottom-panel-paint">
