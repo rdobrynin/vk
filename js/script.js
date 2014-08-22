@@ -26,6 +26,8 @@ if ($.browser.msie  && parseInt($.browser.version, 10) === 7 ) {
 }
 
 $(function () {
+//restrict drugging images
+    $('img').on('dragstart', function(event) { event.preventDefault(); });
 //    timer start on load document
     startCount();
 
