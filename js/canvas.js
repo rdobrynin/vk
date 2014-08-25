@@ -64,6 +64,30 @@
             fillColor = '#B400FF';
         });
 
+//        BRUSH RADIUS
+        $('.brush-dim-1').click(function () {
+            radius = 21;
+        });
+
+        $('.brush-dim-2').click(function () {
+            radius = 15;
+        });
+
+        $('.brush-form-3').click(function () {
+            radius = 13;
+        });
+
+        $('.brush-dim-4').click(function () {
+            radius = 11;
+        });
+
+        $('.brush-dim-5').click(function () {
+            radius = 8;
+        });
+
+        $('.brush-dim-6').click(function () {
+            radius = 5;
+        });
 
         // bind mouse events
         canvas.node.onmousemove = function(e) {

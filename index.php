@@ -384,32 +384,32 @@
                         </div>
                         <!-- end canvas-->
                         <div class="bottom-panel-paint">
-                            <div class="brush-icon-wrapper" data-toggle="tooltip" data-placement="top" title="21">
+                            <div class="brush-icon-wrapper brush-dim-1" data-toggle="tooltip" data-placement="top" title="21">
                                 <div class="brush-inside">
                                     <div class="brush size-1"></div>
                                 </div>
                             </div>
-                            <div class="brush-icon-wrapper" data-toggle="tooltip" data-placement="top" title="15">
+                            <div class="brush-icon-wrapper brush-dim-2" data-toggle="tooltip" data-placement="top" title="15">
                                 <div class="brush-inside">
                                     <div class="brush size-2"></div>
                                 </div>
                             </div>
-                            <div class="brush-icon-wrapper" data-toggle="tooltip" data-placement="top" title="13">
+                            <div class="brush-icon-wrapper brush-dim-3" data-toggle="tooltip" data-placement="top" title="13">
                                 <div class="brush-inside">
                                     <div class="brush size-3"></div>
                                 </div>
                             </div>
-                            <div class="brush-icon-wrapper active" data-toggle="tooltip" data-placement="top" title="11">
+                            <div class="brush-icon-wrapper brush-dim-4" data-toggle="tooltip" data-placement="top" title="11">
                                 <div class="brush-inside">
                                     <div class="brush size-4"></div>
                                 </div>
                             </div>
-                            <div class="brush-icon-wrapper" data-toggle="tooltip" data-placement="top" title="8">
+                            <div class="brush-icon-wrapper brush-dim-5 active" data-toggle="tooltip" data-placement="top" title="8">
                                 <div class="brush-inside">
                                     <div class="brush size-5"></div>
                                 </div>
                             </div>
-                            <div class="brush-icon-wrapper" data-toggle="tooltip" data-placement="top" title="5">
+                            <div class="brush-icon-wrapper brush-dim-6" data-toggle="tooltip" data-placement="top" title="5">
                                 <div class="brush-inside">
                                     <div class="brush size-6"></div>
                                 </div>
