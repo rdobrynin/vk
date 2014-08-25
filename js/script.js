@@ -17,7 +17,7 @@ $(window).on("load", function() {
 });
 
 $(window).load(function(){
-    $('#modal-level').modal('show');
+    $('#modal-username').modal('show');
 });
 
 //restrict selection
@@ -66,6 +66,10 @@ if ($.browser.msie  && parseInt($.browser.version, 10) === 7 ) {
 }
 
 $(function () {
+
+    $('.icon-grand-bg').click(function () {
+        $('#modal-level').modal('show');
+    });
 
 //restrict drugging images
     $('img').on('dragstart', function(event) { event.preventDefault(); });
@@ -332,6 +336,33 @@ $(function () {
     $(".brush-form-wrapper").click(function(e) {
         $('.brush-form-wrapper').removeClass('active');
         $(this).addClass('active');
+    });
+
+
+//    LOGIN
+    $("#password").keydown(function() {
+        $('#ok').removeAttr("disabled");
+    });
+    $( "#ok" ).click(function() {
+        var form_data = {
+            password: $("#password").val(),
+            email: $("#email").val()
+        };
+        $.ajax({
+            url: "username.php",
+            type: 'POST',
+            data: form_data,
+            dataType: 'json',
+            success: function (msg) {
+                if(msg.result!=true) {
+                   $('#err').fadeIn('slow');
+                }
+                else {
+                    $('#err').hide();
+                    $('#modal-username').modal('hide');
+                }
+            }
+        });
     });
 
 });
