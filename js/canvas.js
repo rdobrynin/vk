@@ -25,6 +25,11 @@
             ctx.fillRect(0, 0, width, height);
         };
         ctx.clearTo(fillColor || "#ddd");
+// CLEAR CANVAS
+        $('.btn-trash').click(function () {
+            ctx.clearRect(0, 0, 700, 500);
+        });
+
 
         // bind mouse events
         canvas.node.onmousemove = function(e) {
@@ -46,11 +51,7 @@
     }
 
     var container = document.getElementById('canvas');
-    init(container, 550, 352, '#fff');
-
-    $('.btn-trash').click(function () {
-
-    });
+    init(container, 550, 350, '#fff');
 
 
 })();

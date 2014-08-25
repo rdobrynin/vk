@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6778edc4-4afe-43d8-bc69-2a652cc0982c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/canvas.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/function.js" afterPath="$PROJECT_DIR$/js/function.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/script.js" afterPath="$PROJECT_DIR$/js/script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/canvas.js" afterPath="$PROJECT_DIR$/js/canvas.js" />
     </list>
     <ignored path="vk.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -44,7 +39,7 @@
           <file leaf-file-name="canvas.js" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/js/canvas.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="54" column="0" selection-start="1730" selection-end="1730" vertical-scroll-proportion="0.6666667" vertical-offset="432" max-vertical-offset="1818">
+                <state line="58" column="0" selection-start="1804" selection-end="1804" vertical-scroll-proportion="0.35555556" vertical-offset="756" max-vertical-offset="1836">
                   <folding />
                 </state>
               </provider>
@@ -187,8 +182,8 @@
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/js/function.js" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/js/canvas.js" />
         <option value="$PROJECT_DIR$/js/script.js" />
+        <option value="$PROJECT_DIR$/js/canvas.js" />
       </list>
     </option>
   </component>
@@ -737,7 +732,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/canvas.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="0" selection-start="1730" selection-end="1730" vertical-scroll-proportion="0.6666667" vertical-offset="432" max-vertical-offset="1818">
+        <state line="58" column="0" selection-start="1804" selection-end="1804" vertical-scroll-proportion="0.35555556" vertical-offset="756" max-vertical-offset="1836">
           <folding />
         </state>
       </provider>
