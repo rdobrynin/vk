@@ -360,6 +360,7 @@ $(function () {
                 else {
                     $('#err').hide();
                     $('#modal-username').modal('hide');
+
                 }
             }
         });

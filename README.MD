@@ -17,3 +17,5 @@ Modal windows attached as include php function at the end of index file before t
 5.  Grand places 1-10 as ID hide (twitter bootstrap 3 class) must be switching with JS functionality
 6.  div test - remove for production. it shows only JS testing
 7.  If username length >10, username = "name..." - see script.js
+8. If time counter get 2 mins - alert window appear - see function.js
+9. click trash icon - timer(reset) - see function.js

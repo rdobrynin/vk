@@ -74,10 +74,6 @@ a:hover {
 
 }
 
-/*NEED DELETE BEFORE PRODUCTION*/
-.preview {
-    background: url('../images/preview_100.jpg') center no-repeat;
-}
 
 .content-frame-empty-outside {
     width: 644px;
@@ -223,16 +219,18 @@ a:hover {
 }
 
 .canvas {
-    width: 559px;
+    width: 562px;
     height: 349px;
     background-color: #fff;
-    box-shadow: 1px 3px 0 #F2F3F4;
+    box-shadow: 0 3px 0 #F2F3F4;
     -webkit-border-radius: 16px;
     -moz-border-radius: 16px;
     border-radius: 16px;
     position: relative;
-    top: 1.5px;
-    left: 0.6px;
+    top: 0;
+    left: 0;
+    border: 1px solid #ddd;
+    border-bottom: 0;
 }
 
 .left-corner-bg {

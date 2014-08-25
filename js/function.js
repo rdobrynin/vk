@@ -16,8 +16,13 @@ function count() {
         mins=mins + 1;
     }
     if(mins==2 && secs ==0) {
-        console.log('time is over');
+        alert('time is over');
     }
+
+    $('.btn-trash').click(function () {
+        $(".timer").text(plz(0) + ":" + plz(0));
+    });
+
     $(".timer").text(plz(mins) + ":" + plz(secs));
 }
 
