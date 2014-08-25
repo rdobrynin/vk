@@ -19,9 +19,6 @@ function count() {
         alert('time is over');
     }
 
-    $('.btn-trash').click(function () {
-        $(".timer").text(plz(0) + ":" + plz(0));
-    });
 
     $(".timer").text(plz(mins) + ":" + plz(secs));
 }

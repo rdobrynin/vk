@@ -380,7 +380,7 @@
                     </div>
                     <div class="canvas-wrapper-bg">
                         <!-- canvas-->
-                        <div class="canvas">
+                        <div class="canvas" id="canvas">
                         </div>
                         <!-- end canvas-->
                         <div class="bottom-panel-paint">
@@ -469,6 +469,7 @@
 <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
 <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 <script src="js/function.js"></script>
+<script src="js/canvas.js"></script>
 <script src="js/script.js"></script>
 <script src="js/jquery.preload.min.js"></script>
 <script src="js/bootstrap.min.js"></script>

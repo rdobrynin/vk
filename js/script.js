@@ -66,6 +66,9 @@ if ($.browser.msie  && parseInt($.browser.version, 10) === 7 ) {
 }
 
 $(function () {
+    $('.btn-trash').click(function () {
+        $(".timer").text(plz(0) + ":" + plz(0));
+    });
 
     $('.icon-grand-bg').click(function () {
         $('#modal-level').modal('show');

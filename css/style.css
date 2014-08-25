@@ -233,6 +233,15 @@ a:hover {
     border-bottom: 0;
 }
 
+canvas {
+    position: fixed;
+    left: 156px;
+    top: 165px;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+}
+
 .left-corner-bg {
     width: 61px;
     height: 96px;
