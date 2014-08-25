@@ -30,6 +30,40 @@
             ctx.clearRect(0, 0, 700, 500);
         });
 
+        var fillColor = '#ff0000';
+        var radius = 8; // or whatever
+
+        $('.color-form-3').click(function () {
+                fillColor = '#ff0000';
+        });
+
+        $('.color-form-2').click(function () {
+                fillColor = '#ffffff';
+        });
+
+        $('.color-form-1').click(function () {
+                fillColor = '#000000';
+        });
+        $('.color-form-4').click(function () {
+            fillColor = '#FF6000';
+        });
+
+        $('.color-form-5').click(function () {
+            fillColor = '#FFBA00';
+        });
+
+        $('.color-form-6').click(function () {
+            fillColor = '#75E200';
+        });
+
+        $('.color-form-7').click(function () {
+            fillColor = '#0028A9';
+        });
+
+        $('.color-form-8').click(function () {
+            fillColor = '#B400FF';
+        });
+
 
         // bind mouse events
         canvas.node.onmousemove = function(e) {
@@ -38,8 +72,8 @@
             }
             var x = e.pageX - this.offsetLeft;
             var y = e.pageY - this.offsetTop;
-            var radius = 4; // or whatever
-            var fillColor = '#ff0000';
+
+
             ctx.fillCircle(x, y, radius, fillColor);
         };
         canvas.node.onmousedown = function(e) {
@@ -51,7 +85,7 @@
     }
 
     var container = document.getElementById('canvas');
-    init(container, 550, 350, '#fff');
+    init(container, 550, 346, '#fff');
 
 
 })();

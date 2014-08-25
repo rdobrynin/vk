@@ -333,41 +333,41 @@
                     </div>
                     <div class="left-panel-paint">
                         <div class="brush-form-wrapper">
-                            <div class="brush-form-inside">
+                            <div class="brush-form-inside color-form-1">
                                 <div class="brush-form brush-form-1"></div>
                             </div>
                         </div>
-                        <div class="brush-form-wrapper">
+                        <div class="brush-form-wrapper color-form-2">
                             <div class="brush-form-inside">
                                 <div class="brush-form brush-form-2"></div>
                             </div>
                         </div>
-                        <div class="brush-form-wrapper active">
+                        <div class="brush-form-wrapper active color-form-3">
                             <div class="brush-form-inside">
                                 <div class="brush-form brush-form-3"></div>
                             </div>
                         </div>
-                        <div class="brush-form-wrapper">
+                        <div class="brush-form-wrapper color-form-4">
                             <div class="brush-form-inside">
                                 <div class="brush-form brush-form-4"></div>
                             </div>
                         </div>
-                        <div class="brush-form-wrapper">
+                        <div class="brush-form-wrapper color-form-5">
                             <div class="brush-form-inside">
                                 <div class="brush-form brush-form-5"></div>
                             </div>
                         </div>
-                        <div class="brush-form-wrapper">
+                        <div class="brush-form-wrapper color-form-6">
                             <div class="brush-form-inside">
                                 <div class="brush-form brush-form-6"></div>
                             </div>
                         </div>
-                        <div class="brush-form-wrapper">
+                        <div class="brush-form-wrapper color-form-7">
                             <div class="brush-form-inside">
                                 <div class="brush-form brush-form-7"></div>
                             </div>
                         </div>
-                        <div class="brush-form-wrapper">
+                        <div class="brush-form-wrapper color-form-8">
                             <div class="brush-form-inside">
                                 <div class="brush-form brush-form-8"></div>
                             </div>
