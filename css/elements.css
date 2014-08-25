@@ -1605,3 +1605,7 @@ span.timer {
     float: left;
     cursor: pointer;
 }
+
+canvas {
+    /*cursor: url(../images/trash.png), auto;*/
+}

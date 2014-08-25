@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6778edc4-4afe-43d8-bc69-2a652cc0982c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/canvas.js" afterPath="$PROJECT_DIR$/js/canvas.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/elements.css" afterPath="$PROJECT_DIR$/css/elements.css" />
     </list>
     <ignored path="vk.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,10 +27,10 @@
     <splitter split-orientation="horizontal" split-proportion="0.8655685">
       <split-first>
         <leaf>
-          <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/index.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="385" column="56" selection-start="16941" selection-end="16941" vertical-scroll-proportion="0.354399" vertical-offset="6259" max-vertical-offset="8882">
+                <state line="393" column="68" selection-start="17525" selection-end="17525" vertical-scroll-proportion="-5.9259257" vertical-offset="6361" max-vertical-offset="8882">
                   <folding />
                 </state>
               </provider>
@@ -61,16 +60,16 @@
           <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="240" column="29" selection-start="5479" selection-end="5479" vertical-scroll-proportion="0.0" vertical-offset="3960" max-vertical-offset="9280">
+                <state line="243" column="0" selection-start="5507" selection-end="5507" vertical-scroll-proportion="0.0" vertical-offset="4320" max-vertical-offset="9285">
                   <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="elements.css" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="elements.css" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/elements.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="63" column="29" selection-start="2076" selection-end="2076" vertical-scroll-proportion="0.0" vertical-offset="990" max-vertical-offset="30034">
+                <state line="1605" column="20" selection-start="39502" selection-end="39502" vertical-scroll-proportion="0.7305459" vertical-offset="28261" max-vertical-offset="29823">
                   <folding />
                 </state>
               </provider>
@@ -171,7 +170,6 @@
         <option value="$PROJECT_DIR$/js/ie8-viewport-bug-workaround.js" />
         <option value="$PROJECT_DIR$/js/jquery.corner.js" />
         <option value="$PROJECT_DIR$/js/ie8.js" />
-        <option value="$PROJECT_DIR$/css/elements.css" />
         <option value="$PROJECT_DIR$/modal_buy.php" />
         <option value="$PROJECT_DIR$/modal_profile.php" />
         <option value="$PROJECT_DIR$/modal_level.php" />
@@ -185,6 +183,7 @@
         <option value="$PROJECT_DIR$/css/modal.css" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/js/canvas.js" />
+        <option value="$PROJECT_DIR$/css/elements.css" />
       </list>
     </option>
   </component>
@@ -454,11 +453,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/images/sprites.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/sprites@2x.png">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -687,23 +681,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/elements.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="29" selection-start="2076" selection-end="2076" vertical-scroll-proportion="0.0" vertical-offset="990" max-vertical-offset="30034">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/function.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="26" column="26" selection-start="514" selection-end="514" vertical-scroll-proportion="-14.0" vertical-offset="206" max-vertical-offset="1684">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="240" column="29" selection-start="5479" selection-end="5479" vertical-scroll-proportion="0.0" vertical-offset="3960" max-vertical-offset="9280">
           <folding />
         </state>
       </provider>
@@ -733,7 +713,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="385" column="56" selection-start="16941" selection-end="16941" vertical-scroll-proportion="0.354399" vertical-offset="6259" max-vertical-offset="8882">
+        <state line="393" column="68" selection-start="17525" selection-end="17525" vertical-scroll-proportion="-5.9259257" vertical-offset="6361" max-vertical-offset="8882">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/trash.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="243" column="0" selection-start="5507" selection-end="5507" vertical-scroll-proportion="0.0" vertical-offset="4320" max-vertical-offset="9285">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/elements.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1605" column="20" selection-start="39502" selection-end="39502" vertical-scroll-proportion="0.7305459" vertical-offset="28261" max-vertical-offset="29823">
           <folding />
         </state>
       </provider>
