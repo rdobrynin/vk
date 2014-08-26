@@ -64,21 +64,48 @@
     left: 163px;
 }
 
-.btn-close-profile {
+
+#modal-palette>.modal-dialog {
+    position: fixed;
+    left: 195px;
+    width: 493px;
+}
+
+#modal-palette .modal-palette {
+    width: 400px;
+    height: 261px;
+    top: 321px;
+    -webkit-border-radius: 23px;
+    -moz-border-radius: 23px;
+    border-radius: 23px;
+    background-color: #6BA9E4;
+    -webkit-box-shadow: inset 0 3px 0 rgb(133, 190, 235);
+    -moz-box-shadow: inset 0 3px 0 rgb(133, 190, 235);
+    box-shadow: inset 0 3px 0 rgb(133, 190, 235);
+    border: 0;
+    padding-top: 41px;
+    padding-left: 27px;
+    border-bottom: 4px solid #558EC5;
+    position: fixed;
+    left: 163px;
+}
+
+
+.btn-close-profile, .btn-close-palette {
     background-color: #5899D9 !important;
     -webkit-box-shadow: inset 0 2px 0 #4B8AC6 !important;
     -moz-box-shadow: inset 0 2px 0 #4B8AC6 !important;
     box-shadow: inset 0 2px 0 #4B8AC6 !important;
 }
 
-.btn-close-profile:hover {
+.btn-close-profile:hover, .btn-close-palette:hover {
     background-color: #5899D9 !important;
     -webkit-box-shadow: inset 0 2px 0 #4B8AC6 !important;
     -moz-box-shadow: inset 0 2px 0 #4B8AC6 !important;
     box-shadow: inset 0 3px 0 #4B8AC6 !important;
 }
 
-#modal-profile-close {
+#modal-profile-close, #modal-palette-close  {
     position: absolute;
     left: 1.5px;
     top: 4px;
@@ -218,6 +245,16 @@
     left: 175px;
     position: fixed;
     top: 57px;
+}
+
+.palette-static {
+    background: none repeat scroll 0% 0% rgba(48, 48, 48, 0.1);
+    width: 396px;
+    height: 254px;
+    border-radius: 31px;
+    left: 175px;
+    position: fixed;
+    top: 336px;
 }
 
 .buy-static, .level-static  {

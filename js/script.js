@@ -17,7 +17,7 @@ $(window).on("load", function() {
 });
 
 $(window).load(function(){
-    $('#modal-username').modal('show');
+//    $('#modal-username').modal('show');
 });
 
 //restrict selection
@@ -72,6 +72,10 @@ $(function () {
 
     $('.icon-grand-bg').click(function () {
         $('#modal-level').modal('show');
+    });
+
+    $('.color-palette-bg').click(function () {
+        $('#modal-palette').modal('show');
     });
 
 //restrict drugging images
