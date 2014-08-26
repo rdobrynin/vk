@@ -12,6 +12,7 @@ $(window).on("load", function() {
         $('.left-col-btn-present-img').attr('src', $('.left-col-btn-present-img').attr('src').replace(".png","@2x.png"));
         $('.left-col-btn-vk-img').attr('src', $('.left-col-btn-vk-img').attr('src').replace(".png","@2x.png"));
         $('.left-col-btn-vase-img').attr('src', $('.left-col-btn-vase-img').attr('src').replace(".png","@2x.png"));
+        $('#modal-palette-title').attr('src', $('#modal-palette-title').attr('src').replace(".png","@2x.png"));
         $('body').addClass('retina');
     }
 });
