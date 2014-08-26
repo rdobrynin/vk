@@ -332,8 +332,8 @@
                         </div>
                     </div>
                     <div class="left-panel-paint">
-                        <div class="brush-form-wrapper">
-                            <div class="brush-form-inside color-form-1">
+                        <div class="brush-form-wrapper color-form-1">
+                            <div class="brush-form-inside">
                                 <div class="brush-form brush-form-1"></div>
                             </div>
                         </div>

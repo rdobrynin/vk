@@ -19,3 +19,4 @@ Modal windows attached as include php function at the end of index file before t
 7.  If username length >10, username = "name..." - see script.js
 8. If time counter get 2 mins - alert window appear - see function.js
 9. click trash icon - timer(reset) - see function.js
+10. Drawing parameters you can find in enclosed canvas.js

@@ -30,7 +30,9 @@
             ctx.clearRect(0, 0, 700, 500);
         });
 
-        var fillColor = '#ff0000';
+//        CHANGE COLOR AND BRUSH DIAMETER
+
+        var fillColor = '#FF0000';
         var radius = 8; // or whatever
 
         $('.color-form-3').click(function () {
@@ -73,7 +75,7 @@
             radius = 15;
         });
 
-        $('.brush-form-3').click(function () {
+        $('.brush-dim-3').click(function () {
             radius = 13;
         });
 
@@ -109,7 +111,7 @@
     }
 
     var container = document.getElementById('canvas');
-    init(container, 550, 346, '#fff');
+    init(container, 557, 324, '#fff');
 
 
 })();
