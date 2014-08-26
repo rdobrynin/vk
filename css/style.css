@@ -236,10 +236,11 @@ a:hover {
 canvas {
     position: fixed;
     left: 155px;
-    top: 165px;
+    top: 154px;
     -webkit-border-radius: 13px;
     -moz-border-radius: 13px;
     border-radius: 13px;
+    background: transparent !important;
 }
 
 .left-corner-bg {

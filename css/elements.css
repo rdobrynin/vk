@@ -945,7 +945,7 @@ button.btn.btn-undo, button.btn.btn-redo  {
     background-size: 37px 735px;
     background-position: 1px -584.5px;
     position: relative;
-    top: 45px;
+    top: 25px;
     left: 16px;
     cursor: pointer;
     border: 0;
@@ -1600,5 +1600,5 @@ span.timer {
 }
 
 canvas {
-    /*cursor: url(../images/trash.png), auto;*/
+    cursor: url(../images/cursor_paint.png), auto;
 }

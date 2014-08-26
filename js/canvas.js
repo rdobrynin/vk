@@ -91,6 +91,17 @@
             radius = 5;
         });
 
+        $('.btn-pencil').click(function () {
+            radius = 1;
+            $('canvas').css( 'cursor', 'url(../images/cursor_pencil.png), auto' );
+        });
+
+        $('.btn-painter').click(function () {
+            radius = 8;
+            $('canvas').css( 'cursor', 'url(../images/cursor_paint.png), auto' );
+        });
+
+
         // bind mouse events
         canvas.node.onmousemove = function(e) {
             if (!canvas.isDrawing) {
@@ -111,7 +122,7 @@
     }
 
     var container = document.getElementById('canvas');
-    init(container, 557, 324, '#fff');
+    init(container, 560, 336, 'transparent');
 
 
 })();
