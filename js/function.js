@@ -16,7 +16,7 @@ function count() {
         mins=mins + 1;
     }
     if(mins==2 && secs ==0) {
-        alert('time is over');
+        console.log('time is over');
     }
 
 
