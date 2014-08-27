@@ -27,6 +27,27 @@ a, a:hover, a:active, a:focus {
     outline-style: none;
 }
 
+td {
+    text-align: center;
+    vertical-align: middle;
+}
+
+table {
+    width: 97% !important;
+    margin-bottom: 0 !important;
+}
+
+.table>thead>tr>th, .table>tbody>tr>th, .table>tfoot>tr>th, .table>thead>tr>td, .table>tbody>tr>td, .table>tfoot>tr>td {
+    border-top: 0 !important;
+}
+
+.table>thead>tr>th, .table>tbody>tr>th, .table>tfoot>tr>th, .table>thead>tr>td, .table>tbody>tr>td, .table>tfoot>tr>td {
+    padding: 0 !important;
+    line-height: 1.42857143;
+     vertical-align: middle;
+    border-top: 1px solid #ddd;
+}
+
 .tooltip {
     z-index: 9999;
 }

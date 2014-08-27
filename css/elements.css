@@ -474,6 +474,31 @@ button.btn.btn-undo, button.btn.btn-redo  {
     background-color: transparent;
 }
 
+.btn-choose-color, .btn-choose-tint  {
+    -webkit-border-radius: 36px;
+    -moz-border-radius: 36px;
+    border-radius: 36px;
+    height: 36px;
+    width: 36px;
+    background-color: transparent;
+}
+
+.btn-choose-color:active, .btn-choose-tint:active  {
+    box-shadow: inset 0 3px 5px rgba(0,0,0,.125);
+}
+
+.btn-choose-color:focus, .btn-choose-tint:focus  {
+    box-shadow: inset 0 3px 5px rgba(0,0,0,.125);
+}
+
+img#img-choose-color {
+    position: relative;
+    padding: 0;
+    margin: 0 auto;
+    left: -4px;
+    top: -1px;
+}
+
 .icon-wrapper-lg-note {
     position: fixed;
     top: 114px;

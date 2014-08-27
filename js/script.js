@@ -13,6 +13,8 @@ $(window).on("load", function() {
         $('.left-col-btn-vk-img').attr('src', $('.left-col-btn-vk-img').attr('src').replace(".png","@2x.png"));
         $('.left-col-btn-vase-img').attr('src', $('.left-col-btn-vase-img').attr('src').replace(".png","@2x.png"));
         $('#modal-palette-title').attr('src', $('#modal-palette-title').attr('src').replace(".png","@2x.png"));
+        $('#title-choose-color').attr('src', $('#title-choose-color').attr('src').replace(".png","@2x.png"));
+        $('#title-choose-tint').attr('src', $('#title-choose-tint').attr('src').replace(".png","@2x.png"));
         $('body').addClass('retina');
     }
 });
@@ -335,7 +337,7 @@ $(function () {
             $('.user-frame-active').css({ 'left': '0' });
         }
     }
-// switcher
+// switcher brush
     $(".brush-icon-wrapper").click(function(e) {
         $('.brush-icon-wrapper').removeClass('active');
         $(this).addClass('active');
@@ -344,6 +346,28 @@ $(function () {
     $(".brush-form-wrapper").click(function(e) {
         $('.brush-form-wrapper').removeClass('active');
         $(this).addClass('active');
+    });
+
+//switch color
+    $(".btn-choose-color").click(function(){
+        // If this isn't already active
+        if (!$(this).hasClass("active")) {
+            // Remove the class from anything that is active
+            $(".btn-choose-color.active").removeClass("active");
+            // And make this active
+            $(this).addClass("active");
+        }
+    });
+
+//    switch tint
+    $(".btn-choose-tint").click(function(){
+        // If this isn't already active
+        if (!$(this).hasClass("active")) {
+            // Remove the class from anything that is active
+            $(".btn-choose-tint.active").removeClass("active");
+            // And make this active
+            $(this).addClass("active");
+        }
     });
 
 
