@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6778edc4-4afe-43d8-bc69-2a652cc0982c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/modal.css" afterPath="$PROJECT_DIR$/css/modal.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modal_palette.php" afterPath="$PROJECT_DIR$/modal_palette.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="6778edc4-4afe-43d8-bc69-2a652cc0982c" name="Default" comment="" />
     <ignored path="vk.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -68,7 +64,7 @@
           <file leaf-file-name="modal_palette.php" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/modal_palette.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="176" column="75" selection-start="11772" selection-end="11772" vertical-scroll-proportion="0.86998785" vertical-offset="2488" max-vertical-offset="4171">
+                <state line="163" column="72" selection-start="11030" selection-end="11030" vertical-scroll-proportion="0.57793766" vertical-offset="2488" max-vertical-offset="4182">
                   <folding>
                     <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#1;n#div#0;n#!!top" expanded="true" />
                   </folding>
@@ -110,7 +106,7 @@
           <file leaf-file-name="modal.css" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/modal.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="1594" column="8" selection-start="37694" selection-end="37694" vertical-scroll-proportion="0.8258824" vertical-offset="28170" max-vertical-offset="29740">
+                <state line="1581" column="0" selection-start="37388" selection-end="37388" vertical-scroll-proportion="0.543554" vertical-offset="28170" max-vertical-offset="29751">
                   <folding />
                 </state>
               </provider>
@@ -423,9 +419,9 @@
     <frame x="59" y="24" width="2501" height="1416" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33635676" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33635676" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32930514" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32804233" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32804233" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.105820104" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -734,7 +730,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/modal_palette.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="176" column="75" selection-start="11772" selection-end="11772" vertical-scroll-proportion="0.86998785" vertical-offset="2488" max-vertical-offset="4171">
+        <state line="163" column="72" selection-start="11030" selection-end="11030" vertical-scroll-proportion="0.57793766" vertical-offset="2488" max-vertical-offset="4182">
           <folding>
             <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#div#1;n#div#2;n#div#1;n#div#0;n#!!top" expanded="true" />
           </folding>
@@ -743,7 +739,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/modal.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1594" column="8" selection-start="37694" selection-end="37694" vertical-scroll-proportion="0.8258824" vertical-offset="28170" max-vertical-offset="29740">
+        <state line="1581" column="0" selection-start="37388" selection-end="37388" vertical-scroll-proportion="0.543554" vertical-offset="28170" max-vertical-offset="29751">
           <folding />
         </state>
       </provider>
