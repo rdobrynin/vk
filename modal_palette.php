@@ -174,6 +174,7 @@
 
                             </tbody>
                         </table>
+                        <button class="btn btn-riu-modal-primary btn-submit-color" style="top: -14px;" data-original-title="" title="">Выбрать</button>
                     </div>
                 </div>
             </div>
