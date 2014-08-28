@@ -20,7 +20,7 @@ $(window).on("load", function() {
 });
 
 $(window).load(function(){
-//    $('#modal-username').modal('show');
+    $('#modal-username').modal('show');
 });
 
 //restrict selection
