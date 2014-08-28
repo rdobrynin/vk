@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6778edc4-4afe-43d8-bc69-2a652cc0982c" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/script.js" afterPath="$PROJECT_DIR$/js/script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="6778edc4-4afe-43d8-bc69-2a652cc0982c" name="Default" comment="" />
     <ignored path="vk.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -67,7 +64,7 @@
           <file leaf-file-name="modal_palette.php" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/modal_palette.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="144" column="113" selection-start="9856" selection-end="9856" vertical-scroll-proportion="0.60679615" vertical-offset="2128" max-vertical-offset="4154">
+                <state line="118" column="36" selection-start="8250" selection-end="8250" vertical-scroll-proportion="0.016766466" vertical-offset="2128" max-vertical-offset="4165">
                   <folding />
                 </state>
               </provider>
@@ -125,7 +122,7 @@
           <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/js/script.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="28" column="0" selection-start="1793" selection-end="1793" vertical-scroll-proportion="0.8249119" vertical-offset="54" max-vertical-offset="8393">
+                <state line="28" column="0" selection-start="1793" selection-end="1793" vertical-scroll-proportion="0.8143852" vertical-offset="54" max-vertical-offset="8404">
                   <folding>
                     <marker date="1409222239690" expanded="false" signature="2854:2928" placeholder="..." />
                   </folding>
@@ -417,12 +414,12 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="59" y="24" width="2501" height="1416" extended-state="7" />
-    <editor active="true" />
+    <frame x="59" y="24" width="2501" height="1416" extended-state="6" />
+    <editor active="false" />
     <layout>
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33610272" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33610272" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32930514" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32779455" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32779455" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.105820104" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -729,7 +726,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="0" selection-start="1793" selection-end="1793" vertical-scroll-proportion="0.8249119" vertical-offset="54" max-vertical-offset="8393">
+        <state line="28" column="0" selection-start="1793" selection-end="1793" vertical-scroll-proportion="0.8143852" vertical-offset="54" max-vertical-offset="8404">
           <folding>
             <marker date="1409222239690" expanded="false" signature="2854:2928" placeholder="..." />
           </folding>
@@ -738,7 +735,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/modal_palette.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="144" column="113" selection-start="9856" selection-end="9856" vertical-scroll-proportion="0.60679615" vertical-offset="2128" max-vertical-offset="4154">
+        <state line="118" column="36" selection-start="8250" selection-end="8250" vertical-scroll-proportion="0.016766466" vertical-offset="2128" max-vertical-offset="4165">
           <folding />
         </state>
       </provider>
