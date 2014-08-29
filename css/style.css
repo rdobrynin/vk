@@ -10,13 +10,6 @@ body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fiel
 }
 /*Restrict select body*/
 
-body, p, div, span, img, button {
-    -webkit-user-select: none;  /* Chrome all / Safari all */
-    -moz-user-select: none;     /* Firefox all */
-    -ms-user-select: none;      /* IE 10+ */
-}
-
-
 h1, h2, h3, h4, h5, h6 {
     font-size: 100%;
 }
