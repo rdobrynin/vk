@@ -90,10 +90,8 @@
                                     <div class="data-profile-wrapper">
                                         <div class="bg-data-profile-wrapper">
                                             <div class="data-profile">
-                                                <span class="bg-profile-row-3-false"></span>
-                                                <span class="data-profile-text-row-3-true">154</span>
-                                                <span class="bg-profile-row-3-true"></span>
-                                                <span class="data-profile-text-row-3-false">35</span>
+                                                <span class="data-profile-text-row-3-true"><img src="images/ok_sign.png" id="ok_true"  alt="" width="37" height="33"/>154</span>
+                                                <span class="data-profile-text-row-3-false"><img src="images/ok_false.png" id="ok_false"  alt="" width="37" height="33"/>351</span>
                                             </div>
                                         </div>
                                     </div>

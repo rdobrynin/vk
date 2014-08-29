@@ -15,12 +15,14 @@ $(window).on("load", function() {
         $('#modal-palette-title').attr('src', $('#modal-palette-title').attr('src').replace(".png","@2x.png"));
         $('#title-choose-color').attr('src', $('#title-choose-color').attr('src').replace(".png","@2x.png"));
         $('#title-choose-tint').attr('src', $('#title-choose-tint').attr('src').replace(".png","@2x.png"));
+        $('#ok_true').attr('src', $('#ok_true').attr('src').replace(".png","@2x.png"));
+        $('#ok_false').attr('src', $('#ok_false').attr('src').replace(".png","@2x.png"));
         $('body').addClass('retina');
     }
 });
 
 $(window).load(function(){
-    $('#modal-username').modal('show');
+//    $('#modal-username').modal('show');
 });
 
 //restrict selection
