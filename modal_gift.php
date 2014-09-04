@@ -23,7 +23,18 @@
                             <div class="gift-block">
                                 <div id="my-tab-content" class="tab-content">
                                     <div class="tab-pane active" id="gift-tab-1">
-                                       <p>1</p>
+                                      <div class="row">
+                                          <div class="col-md-12">
+                                              <div class="gift-cell"></div>
+                                              <div class="gift-cell"></div>
+                                              <div class="gift-cell"></div>
+                                              <div class="gift-cell"></div>
+                                              <div class="gift-cell"></div>
+                                              <div class="gift-cell"></div>
+                                              <div class="gift-cell"></div>
+                                              <div class="gift-cell"></div>
+                                          </div>
+                                      </div>
                                     </div>
                                     <div class="tab-pane" id="gift-tab-2">
                                         <p>2</p>

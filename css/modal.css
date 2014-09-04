@@ -368,7 +368,7 @@
     -moz-box-shadow: 0 -3px 2px #fff;
     box-shadow: 0 -3px 2px #fff;
     top: -63px;
-    padding: 22px;
+    padding: 28px;
     float: left;
 }
 
@@ -1815,4 +1815,25 @@ button.btn.btn-arrow {
     margin: 0 auto;
     min-height: 0;
     top: 2px;
+}
+
+.gift-cell {
+    position: relative;
+    float: left;
+    width: 130px;
+    height: 152px;
+    -webkit-border-radius: 14px;
+    -moz-border-radius: 14px;
+    border-radius: 14px;
+    border: 3px solid #e0e4e5;
+    background: transparent;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+#my-tab-content {
+    width: 579px;
+    position: relative;
+    left: -8px;
+    top: -13px;
 }
