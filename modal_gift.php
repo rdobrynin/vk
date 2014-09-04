@@ -7,7 +7,6 @@
                 <img id="top-gift-img" src="images/gift_bg.png" alt="" width="137" height="68">
             </div>
             <div class="top-gift">
-
                 <div class="gift-title">Подарки</div>
                 <div class="close-modal-wrapper-profile">
                     <button type="button" class="btn btn-close btn-close-profile" data-dismiss="modal">
@@ -25,7 +24,9 @@
                                     <div class="tab-pane active" id="gift-tab-1">
                                       <div class="row">
                                           <div class="col-md-12">
-                                              <div class="gift-cell"></div>
+                                              <div class="gift-cell">
+
+                                              </div>
                                               <div class="gift-cell"></div>
                                               <div class="gift-cell"></div>
                                               <div class="gift-cell"></div>
@@ -37,7 +38,13 @@
                                       </div>
                                     </div>
                                     <div class="tab-pane" id="gift-tab-2">
-                                        <p>2</p>
+                                        <div class="row">
+                                            <div class="col-md-12">
+                                                <div class="gift-cell">
+
+                                                </div>
+                                            </div>
+                                        </div>
                                     </div>
                                 </div>
                             </div>

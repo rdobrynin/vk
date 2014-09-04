@@ -1736,8 +1736,8 @@ button.btn.btn-arrow {
 }
 
 .bg-arrow-left{
-    background-position: -246px -23px;
-    background-image: url('../images/gift_sprite@2x.png');
+    background-position: -247px -23px;
+    background-image: url('../images/gift_sprite.png');
     background-size: 275px 131px;
     display: block;
     position: relative;
@@ -1750,7 +1750,7 @@ button.btn.btn-arrow {
 
 .bg-arrow-right{
     background-position: -246px -51px;
-    background-image: url('../images/gift_sprite@2x.png');
+    background-image: url('../images/gift_sprite.png');
     background-size: 275px 131px;
     display: block;
     position: relative;
