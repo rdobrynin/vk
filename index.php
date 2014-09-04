@@ -246,7 +246,7 @@
             <div class="add-gift">
                 <div class="icon-add-gift-default-bg">
                     <div class="gift-default-bg">
-                        <button class="btn icon-add-gift-default"></button>
+                        <button class="btn icon-add-gift-default" data-toggle="modal" data-target="#modal-gift"></button>
                     </div>
                 </div>
             </div>
@@ -465,6 +465,7 @@
 <?php include('modal_level.php')?>
 <?php include('modal_username.php')?>
 <?php include('modal_palette.php')?>
+<?php include('modal_gift.php')?>
 <script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
 <script src="//oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
 <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>

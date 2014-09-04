@@ -7,6 +7,7 @@ $(window).on("load", function() {
         $('#modal-buy-close').attr('src', $('#modal-buy-close').attr('src').replace(".png","@2x.png"));
         $('#modal-level-close').attr('src', $('#modal-level-close').attr('src').replace(".png","@2x.png"));
         $('#modal-profile-close').attr('src', $('#modal-profile-close').attr('src').replace(".png","@2x.png"));
+        $('#modal-gift-close').attr('src', $('#modal-gift-close').attr('src').replace(".png","@2x.png"));
         $('#new-instrument-1').attr('src', $('#new-instrument-1').attr('src').replace(".png","@2x.png"));
         $('#new-instrument-2').attr('src', $('#new-instrument-2').attr('src').replace(".png","@2x.png"));
         $('.left-col-btn-present-img').attr('src', $('.left-col-btn-present-img').attr('src').replace(".png","@2x.png"));

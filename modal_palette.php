@@ -8,7 +8,7 @@
             <div class="top-profile">
                 <div class="close-modal-wrapper-profile">
                     <button type="button" class="btn btn-close btn-close-profile" data-dismiss="modal">
-                        <img id="modal-palette-close" src="images/close_profile.png" alt="" width="23" height="20"/>
+                        <img id="modal-palette-close" src="images/close.png" alt="" width="19" height="19"/>
                     </button>
                 </div>
                 <div class="title-palette">
