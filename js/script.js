@@ -110,7 +110,6 @@ $(function () {
             }
         }
     });
-
     $('.sound-on-off').click(function () {
         $('.current-track').html('L. Utesov- U Samovara');
         if (($(".current-track").length > 0)) {
@@ -143,13 +142,10 @@ $(function () {
         //Combines the two sections
         return n.join(".");
     }
-
     strBalance = $('#balance-amount').html();
     strScore1 = $('.score-1').html();
     strScore2 = $('.score-2').html();
     var letters = strBalance.length;
-
-
     var balance = CommaFormatted(strBalance);
     $('#balance-amount').html(balance);
 
@@ -158,7 +154,6 @@ $(function () {
 
     var score2 = CommaFormatted(strScore2);
     $('.score-2').html(score2);
-
 
     if(letters == 1) {
         $('.green-plus-wrapper').css({ 'right': '-23px' });
@@ -271,7 +266,6 @@ $(function () {
             $('#username-1').html(username1 + ' ...');
         }
     }
-
     if (($("#username-2").length > 0)) {
         var user_2 = $('#username-2').html();
         if (user_2.length > 10) {
@@ -279,7 +273,6 @@ $(function () {
             $('#username-2').html(username2 + ' ...');
         }
     }
-
     if (($("#username-3").length > 0)) {
         var user_3 = $('#username-3').html();
         if (user_3.length > 10) {
@@ -287,7 +280,6 @@ $(function () {
             $('#username-3').html(username3 + ' ...');
         }
     }
-
     if (($("#username-4").length > 0)) {
         var user_4 = $('#username-4').html();
         if (user_4.length > 10) {
@@ -295,7 +287,6 @@ $(function () {
             $('#username-4').html(username4 + ' ...');
         }
     }
-
     if (($("#username-5").length > 0)) {
         var user_5 = $('#username-5').html();
         if (user_5.length > 10) {
@@ -303,7 +294,6 @@ $(function () {
             $('#username-5').html(username5 + ' ...');
         }
     }
-
     if (($("#username-6").length > 0)) {
         var user_6 = $('#username-6').html();
         if (user_6.length > 10) {
@@ -311,7 +301,6 @@ $(function () {
             $('#username-6').html(username6 + ' ...');
         }
     }
-
     if (($("#username-7").length > 0)) {
         var user_7 = $('#username-7').html();
         if (user_7.length > 10) {
@@ -319,7 +308,6 @@ $(function () {
             $('#username-7').html(username7 + ' ...');
         }
     }
-
     if (($("#current-user").length > 0)) {
         var userCurrent = $('#current-user').html();
         if (userCurrent.length > 10) {
@@ -327,7 +315,6 @@ $(function () {
             $('#current-user').html(username + ' ...');
         }
     }
-
     if (($(".current-track").length > 0)) {
         var track = $('.current-track').html();
         if (track.length > 26) {
@@ -362,7 +349,6 @@ $(function () {
             $(this).addClass("active");
         }
     });
-
 //    switch tint
     $(".btn-choose-tint").click(function(){
         // If this isn't already active
@@ -373,8 +359,6 @@ $(function () {
             $(this).addClass("active");
         }
     });
-
-
 //    LOGIN
     $("#password").keydown(function() {
         $('#ok').removeAttr("disabled");
@@ -402,9 +386,7 @@ $(function () {
         });
     });
 
-
     $('#gift-tabs').tab();
-
     $('#btn-next').click(function () {
         $('#btn-first').attr('disabled', false);
         $(this).attr('disabled', true);
