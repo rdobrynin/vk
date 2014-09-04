@@ -1762,13 +1762,14 @@ button.btn.btn-arrow {
 }
 
 .gift-switch {
-    width: 100px;
+    width: 76px;
     height: 30px;
     position: relative;
     float: left;
-    left: 157px;
+    left: 273px;
+    margin: 0 auto;
+    top: -30px;
 }
-
 .radio-btn-wrapper {
     background: #4584C4;
     background: -moz-linear-gradient(top, #4584C4 0%, #88BCF1 100%);
@@ -1784,6 +1785,8 @@ button.btn.btn-arrow {
     -moz-border-radius: 25px;
     border-radius: 25px;
     top: 4px;
+    float: left;
+    margin-right: 6px;
 }
 
 .bg-radio {
@@ -1791,7 +1794,7 @@ button.btn.btn-arrow {
     height: 18px;
     border-radius: 18px;
     background-color: #417FB7;
-    position: relative;
+    position: absolute;
     left: 3.5px;
     top: 3.5px;
     -webkit-box-shadow: 0 -2.5px 0 #3B72AD;
@@ -1801,3 +1804,15 @@ button.btn.btn-arrow {
     box-shadow: inset 0 2.5px 0 #3B72AD;
 }
 
+.radio.active {
+    width: 14px;
+    height: 14px;
+    -webkit-border-radius: 14px;
+    -moz-border-radius: 14px;
+    border-radius: 14px;
+    background-color: #D2EBFF;
+    position: relative;
+    margin: 0 auto;
+    min-height: 0;
+    top: 2px;
+}

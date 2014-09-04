@@ -15,33 +15,47 @@
                     </button>
                 </div>
             </div>
-            <!--end top-profile-->
+            <!--end top-gift-->
             <div class="inside-bg-gift">
                 <div class="bg-gift-wrapper">
                     <div class="content-gift-wrapper">
                         <div class="gift-container">
                             <div class="gift-block">
-
+                                <div id="my-tab-content" class="tab-content">
+                                    <div class="tab-pane active" id="red">
+                                       <p>1</p>
+                                    </div>
+                                    <div class="tab-pane" id="orange">
+                                        <p>2</p>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="bottom-gift">
-                <button class="btn btn-arrow left pull-left">
-                    <span class="bg-arrow-left"></span>
+                <span id="gift-tabs" class="nav nav-tabs" data-tabs="tabs">
+                <button class="btn btn-arrow left pull-left" id="btn-first" disabled="disabled">
+                    <a href="#red" data-toggle="tab"><span class="bg-arrow-left"></span></a>
                 </button>
-                <button class="btn btn-arrow left pull-right">
-                    <span class="bg-arrow-right"></span>
-                </button>
+                     <button class="btn btn-arrow left pull-right" id="btn-next">
+                         <a href="#orange" data-toggle="tab"><span class="bg-arrow-right"></span></a>
+                     </button>
+                </span>
                 <div class="gift-switch">
                     <div class="radio-btn-wrapper">
-                        <div class="bg-radio"></div>
+                        <div class="bg-radio">
+                            <span class="radio active" id="radio-1"></span>
+                        </div>
+                    </div>
+                    <div class="radio-btn-wrapper">
+                        <div class="bg-radio">
+                            <span class="radio" id="radio-2"></span>
+                        </div>
                     </div>
                 </div>
             </div>
-
-
         </div>
         <!-- END Modal GIFT wrapper-->
     </div>
