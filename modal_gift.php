@@ -1,4 +1,4 @@
-<!-- Modal PROFILE-->
+<!-- Modal GIFT-->
 <div class="modal fade" id="modal-gift" tabindex="-1" role="dialog" aria-labelledby="modal-gift" data-backdrop="false" aria-hidden="true">
     <div class="modal-dialog"></div>
     <div class="gift-static">
@@ -20,12 +20,30 @@
                 <div class="bg-gift-wrapper">
                     <div class="content-gift-wrapper">
                         <div class="gift-container">
+                            <div class="gift-block">
+
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
+            <div class="bottom-gift">
+                <button class="btn btn-arrow left pull-left">
+                    <span class="bg-arrow-left"></span>
+                </button>
+                <button class="btn btn-arrow left pull-right">
+                    <span class="bg-arrow-right"></span>
+                </button>
+                <div class="gift-switch">
+                    <div class="radio-btn-wrapper">
+                        <div class="bg-radio"></div>
+                    </div>
+                </div>
+            </div>
+
+
         </div>
-        <!-- END Modal PROFILE wrapper-->
+        <!-- END Modal GIFT wrapper-->
     </div>
 </div>
 <!-- END Modal PROFILE-->
