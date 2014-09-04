@@ -71,8 +71,8 @@
 }
 
 #modal-gift .modal-gift {
-    width: 492px;
-    height: 462px;
+    width: 632px;
+    height: 486px;
     top: 39px;
     -webkit-border-radius: 23px;
     -moz-border-radius: 23px;
@@ -86,7 +86,7 @@
     padding-left: 27px;
     border-bottom: 4px solid #558EC5;
     position: fixed;
-    left: 163px;
+    left: 105px;
 }
 
 
@@ -212,8 +212,8 @@
 }
 
 .inside-bg-gift {
-    width: 472px;
-    height: 394px;
+    width: 611px;
+    height: 377px;
     position: relative;
     background-color: #5088C4;
     -webkit-border-radius: 16px;
@@ -277,8 +277,8 @@
 }
 
 .bg-gift-wrapper {
-    width: 470px;
-    height: 388px;
+    width: 609px;
+    height: 371px;
     -webkit-border-radius: 14px;
     -moz-border-radius: 14px;
     border-radius: 14px;
@@ -338,8 +338,8 @@
 
 
 .content-gift-wrapper {
-    width: 461px;
-    height: 377px;
+    width: 594px;
+    height: 357px;
     background-color: #DAE1E6;
     position: relative;
     -webkit-box-shadow: 0 3px 0 #5088C5;
@@ -350,20 +350,20 @@
     border-radius: 14px;
     border: 1px solid #5088C5;
     margin: 0 auto;
-    top: 4px;
+    top: 6px;
 }
 
 
 
 .gift-container {
-    width: 457px;
-    height: 366px;
+    width: 591px;
+    height: 347px;
     position: relative;
     -webkit-border-radius: 12px;
     -moz-border-radius: 12px;
     border-radius: 12px;
     background-color: #F2F6F7;
-    left: 1px;
+    left: 0px;
     -webkit-box-shadow: 0 -3px 2px #fff;
     -moz-box-shadow: 0 -3px 2px #fff;
     box-shadow: 0 -3px 2px #fff;
@@ -419,7 +419,7 @@
     float: left;
     top: -47px;
     z-index: 9999;
-    left: -14px;
+    left: 0;
     width: 81px;
 }
 
@@ -435,10 +435,10 @@
 
 .gift-static {
     background: none repeat scroll 0% 0% rgba(48, 48, 48, 0.1);
-    width: 495px;
-    height: 459px;
+    width: 639px;
+    height: 481px;
     border-radius: 31px;
-    left: 175px;
+    left: 113px;
     position: fixed;
     top: 57px;
 }
@@ -1277,7 +1277,7 @@ font-size: 33px;
     position: relative;
     float: left;
     top: -23px;
-    left: -11px;
+    left: 3px;
     font-weight: 800;
     color: #fff;
     font-size: 22px;

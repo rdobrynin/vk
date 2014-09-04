@@ -100,7 +100,7 @@ $(function () {
 
 //    INVITE USER
     $('.add-user').click(function () {
-        $('#placeholder-6').html('<div class="user-frame"><div class="user-gift-image"><div class="gift"></div></div><div class="photo" data-toggle="modal" data-target="#modal-profile"><img src="images/photo_right_2@2x.jpg" width="59" height="58"/></div><div class="add-gift add-gift-left"><div class="icon-add-gift-default-bg"><div class="gift-default-bg"><button class="btn icon-add-gift-default"></button></div></div></div><span class="username" id="username-7">роман</span></div>');
+        $('#placeholder-6').html('<div class="user-frame"><div class="user-gift-image"><div class="gift"></div></div><div class="photo" data-toggle="modal" data-target="#modal-profile"><img src="images/photo_right_2@2x.jpg" width="59" height="58"/></div><div class="add-gift add-gift-left"><div class="icon-add-gift-default-bg"><div class="gift-default-bg"><button class="btn icon-add-gift-default" data-toggle="modal" data-target="#modal-gift"></button></div></div></div><span class="username" id="username-7">роман</span></div>');
 //IF after click username length >10
         if (($("#username-7").length > 0)) {
             var user_7 = $('#username-7').html();

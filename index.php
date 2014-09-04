@@ -141,7 +141,7 @@
                 <div class="add-gift">
                     <div class="icon-add-gift-default-bg">
                         <div class="gift-default-bg">
-                            <button class="btn icon-add-gift-default"></button>
+                            <button class="btn icon-add-gift-default" data-toggle="modal" data-target="#modal-gift"></button>
                         </div>
                     </div>
                 </div>
@@ -161,7 +161,7 @@
                 <div class="add-gift">
                     <div class="icon-add-gift-default-bg">
                         <div class="gift-default-bg">
-                            <button class="btn icon-add-gift-default"></button>
+                            <button class="btn icon-add-gift-default" data-toggle="modal" data-target="#modal-gift"></button>
                         </div>
                     </div>
                 </div>
@@ -181,7 +181,7 @@
                 <div class="add-gift">
                     <div class="icon-add-gift-default-bg">
                         <div class="gift-default-bg">
-                            <button class="btn icon-add-gift-default"></button>
+                            <button class="btn icon-add-gift-default" data-toggle="modal" data-target="#modal-gift"></button>
                         </div>
                     </div>
                 </div>
@@ -201,7 +201,7 @@
                 <div class="add-gift">
                     <div class="icon-add-gift-default-bg">
                         <div class="gift-default-bg">
-                            <button class="btn icon-add-gift-default"></button>
+                            <button class="btn icon-add-gift-default" data-toggle="modal" data-target="#modal-gift"></button>
                         </div>
                     </div>
                 </div>
@@ -266,7 +266,7 @@
             <div class="add-gift">
                 <div class="icon-add-gift-default-bg">
                     <div class="gift-default-bg">
-                        <button class="btn icon-add-gift-default"></button>
+                        <button class="btn icon-add-gift-default" data-toggle="modal" data-target="#modal-gift"></button>
                     </div>
                 </div>
             </div>
@@ -289,7 +289,7 @@
             <div class="add-gift add-gift-left">
                 <div class="icon-add-gift-default-bg">
                     <div class="gift-default-bg">
-                        <button class="btn icon-add-gift-default"></button>
+                        <button class="btn icon-add-gift-default" data-toggle="modal" data-target="#modal-gift"></button>
                     </div>
                 </div>
             </div>
