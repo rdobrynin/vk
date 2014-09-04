@@ -22,10 +22,10 @@
                         <div class="gift-container">
                             <div class="gift-block">
                                 <div id="my-tab-content" class="tab-content">
-                                    <div class="tab-pane active" id="red">
+                                    <div class="tab-pane active" id="gift-tab-1">
                                        <p>1</p>
                                     </div>
-                                    <div class="tab-pane" id="orange">
+                                    <div class="tab-pane" id="gift-tab-2">
                                         <p>2</p>
                                     </div>
                                 </div>
@@ -37,10 +37,10 @@
             <div class="bottom-gift">
                 <span id="gift-tabs" class="nav nav-tabs" data-tabs="tabs">
                 <button class="btn btn-arrow left pull-left" id="btn-first" disabled="disabled">
-                    <a href="#red" data-toggle="tab"><span class="bg-arrow-left"></span></a>
+                    <a href="#gift-tab-1" data-toggle="tab"><span class="bg-arrow-left"></span></a>
                 </button>
                      <button class="btn btn-arrow left pull-right" id="btn-next">
-                         <a href="#orange" data-toggle="tab"><span class="bg-arrow-right"></span></a>
+                         <a href="#gift-tab-2" data-toggle="tab"><span class="bg-arrow-right"></span></a>
                      </button>
                 </span>
                 <div class="gift-switch">

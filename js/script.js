@@ -408,15 +408,15 @@ $(function () {
     $('#btn-next').click(function () {
         $('#btn-first').attr('disabled', false);
         $(this).attr('disabled', true);
-        $('#radio-1').removeClass('active');
-        $('#radio-2').addClass('active');
+        $('#radio-1, #gift-tab-1').removeClass('active');
+        $('#radio-2, #gift-tab-2').addClass('active');
     });
 
     $('#btn-first').click(function () {
         $('#btn-next').attr('disabled', false);
         $(this).attr('disabled', true);
-        $('#radio-1').addClass('active');
-        $('#radio-2').removeClass('active');
+        $('#radio-1, #gift-tab-1').addClass('active');
+        $('#radio-2, #gift-tab-2').removeClass('active');
     });
 
 });
