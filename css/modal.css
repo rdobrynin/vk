@@ -367,7 +367,7 @@
     -webkit-box-shadow: 0 -3px 2px #fff;
     -moz-box-shadow: 0 -3px 2px #fff;
     box-shadow: 0 -3px 2px #fff;
-    top: -37px;
+    top: -63px;
     padding: 22px;
     float: left;
 }
@@ -412,6 +412,15 @@
     z-index: 0;
     bottom: 44.5px;
     left: -23px;
+}
+
+.modal-left-top-gift-img {
+    position: relative;
+    float: left;
+    top: -47px;
+    z-index: 9999;
+    left: -14px;
+    width: 81px;
 }
 
 .profile-static {
@@ -1262,6 +1271,42 @@ font-size: 33px;
     0 2px 1px #609DD5;
 
 }
+
+.gift-title {
+    display: block;
+    position: relative;
+    float: left;
+    top: -23px;
+    left: -11px;
+    font-weight: 800;
+    color: #fff;
+    font-size: 22px;
+    text-transform: capitalize;
+    text-shadow: 1px 1px 1px #1268B5,
+    -0.5px -0.5px 0.5px #1268B5,
+    -0.5px 0.5px 0.5px #1268B5,
+    0.5px -0.5px 0.5px #1268B5,
+    -0.5px 0 0.5px #1268B5,
+    0.5px 0 0.5px #1268B5,
+    0 0.5px 0.5px #1268B5,
+    0 -0.5px 0.5px #1268B5,
+
+    1.5px 1.5px 1px #609DD5,
+    -1.5px 1.5px 1px #609DD5,
+    1.5px 1.5px 1px #609DD5,
+    1.5px 0 1px #609DD5,
+    2px 0 1px #609DD5,
+    0 2px 1px #609DD5,
+    2px 2px 1px #609DD5,
+    -2px 2px 1px #609DD5,
+    -2px 2px 1px #609DD5,
+    2px 0 1px #609DD5,
+    -2px 0 1px #609DD5,
+    2px 0 1px #609DD5,
+    0 2px 1px #609DD5;
+
+}
+
 
 .left-col {
     position: relative;
