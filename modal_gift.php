@@ -9,7 +9,7 @@
             <div class="top-gift">
                 <div class="gift-title">Подарки</div>
                 <div class="close-modal-wrapper-profile">
-                    <button type="button" class="btn btn-close btn-close-profile" data-dismiss="modal">
+                    <button type="button" class="btn btn-close btn-close-profile" id="gift-btn-close-modal" data-dismiss="modal">
                         <img id="modal-gift-close" src="images/close.png" alt="" width="19" height="19"/>
                     </button>
                 </div>

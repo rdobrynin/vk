@@ -419,4 +419,11 @@ $(function () {
         $('#radio-2, #gift-tab-2').removeClass('active');
     });
 
+    $('#gift-btn-close-modal').click(function () {
+        $('#btn-first').attr('disabled', true);
+        $('#btn-next').attr('disabled', false);
+        $('#radio-1, #gift-tab-1').addClass('active');
+        $('#radio-2, #gift-tab-2').removeClass('active');
+    });
+
 });
