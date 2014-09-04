@@ -9,7 +9,7 @@
                     <br />
                     <input type="password" id="password" name="password" value="" placeholder="Password" class="form-control" autocomplete="on">
                 </form>
-                <input type="button" class="btn btn-primary" disabled="disabled" id="ok" style=" margin-top: 10px; width: 100%;" value="&#xf00c;">
+                <input type="button" class="btn btn-primary" disabled="disabled" id="ok" style=" margin-top: 10px; width: 100%;" value="ok">
             </div>
 
         </div><!-- /.modal-content -->

@@ -25,94 +25,94 @@
                             <tr class="choose-color">
                                 <td>
                                     <button class="btn btn-choose-color active" data-toggle="tooltip" data-placement="top" title="синий">
-                                        <img id="img-choose-color" src="images/brush_form_blue.png" alt="" width="19" height="19"/>
+                                        <img class="img-choose-color" src="images/brush_form_blue.png" alt="" width="19" height="19"/>
                                     </button>
                                 </td>
                                 <td>
                                     <button class="btn btn-choose-color" data-toggle="tooltip" data-placement="top" title="желтый">
-                                        <img id="img-choose-color" src="images/brush_form_yellow.png" alt="" width="19" height="19"/>
+                                        <img class="img-choose-color" src="images/brush_form_yellow.png" alt="" width="19" height="19"/>
                                     </button>
                                 </td>
                                 <td>
                                     <button class="btn btn-choose-color" data-toggle="tooltip" data-placement="top" title="красный">
-                                        <img id="img-choose-color" src="images/brush_form_red.png" alt="" width="19" height="19"/>
+                                        <img class="img-choose-color" src="images/brush_form_red.png" alt="" width="19" height="19"/>
                                     </button>
                                 </td>
                                 <td>
                                     <button class="btn btn-choose-color" data-toggle="tooltip" data-placement="top" title="оранжевый">
-                                        <img id="img-choose-color" src="images/brush_form_orange.png" alt="" width="19" height="19"/>
+                                        <img class="img-choose-color" src="images/brush_form_orange.png" alt="" width="19" height="19"/>
                                     </button>
                                 </td>
                                 <td>
                                     <button class="btn btn-choose-color" data-toggle="tooltip" data-placement="top" title="розовый">
-                                        <img id="img-choose-color" src="images/brush_form_pink.png" alt="" width="19" height="19"/>
+                                        <img class="img-choose-color" src="images/brush_form_pink.png" alt="" width="19" height="19"/>
                                     </button>
                                 </td>
                                 <td>
                                     <button class="btn btn-choose-color" data-toggle="tooltip" data-placement="top" title="фукси">
-                                        <img id="img-choose-color" src="images/brush_form_magenda.png" alt="" width="19" height="19"/>
+                                        <img class="img-choose-color" src="images/brush_form_magenda.png" alt="" width="19" height="19"/>
                                     </button>
                                 </td>
                                 <td>
                                     <button class="btn btn-choose-color" data-toggle="tooltip" data-placement="top" title="зеленый">
-                                        <img id="img-choose-color" src="images/brush_form_deep_green.png" alt="" width="19" height="19"/>
+                                        <img class="img-choose-color" src="images/brush_form_deep_green.png" alt="" width="19" height="19"/>
                                     </button>
                                 </td>
                                 <td>
                                     <button class="btn btn-choose-color" data-toggle="tooltip" data-placement="top" title="бирюзовый">
-                                        <img id="img-choose-color" src="images/brush_form_sea.png" alt="" width="19" height="19"/>
+                                        <img class="img-choose-color" src="images/brush_form_sea.png" alt="" width="19" height="19"/>
                                     </button>
                                 </td>
                                 <td>
                                     <button class="btn btn-choose-color" data-toggle="tooltip" data-placement="top" title="черный">
-                                        <img id="img-choose-color" src="images/brush_form_black.png" alt="" width="19" height="19"/>
+                                        <img class="img-choose-color" src="images/brush_form_black.png" alt="" width="19" height="19"/>
                                     </button>
                                 </td>
                             </tr>
                             <tr class="choose-color">
                                 <td>
                                     <button class="btn btn-choose-color" disabled="disabled">
-                                        <img id="img-choose-color" src="images/blue_tint_untitled.png" alt="" width="19" height="19"/>
+                                        <img class="img-choose-color" src="images/blue_tint_untitled.png" alt="" width="19" height="19"/>
                                     </button>
                                 </td>
                                 <td>
                                     <button class="btn btn-choose-color" disabled="disabled">
-                                        <img id="img-choose-color" src="images/blue_tint_untitled.png" alt="" width="19" height="19"/>
+                                        <img class="img-choose-color" src="images/blue_tint_untitled.png" alt="" width="19" height="19"/>
                                     </button>
                                 </td>
                                 <td>
                                     <button class="btn btn-choose-color" disabled="disabled">
-                                        <img id="img-choose-color" src="images/blue_tint_untitled.png" alt="" width="19" height="19"/>
+                                        <img class="img-choose-color" src="images/blue_tint_untitled.png" alt="" width="19" height="19"/>
                                     </button>
                                 </td>
                                 <td>
                                     <button class="btn btn-choose-color" disabled="disabled">
-                                        <img id="img-choose-color" src="images/blue_tint_untitled.png" alt="" width="19" height="19"/>
+                                        <img class="img-choose-color" src="images/blue_tint_untitled.png" alt="" width="19" height="19"/>
                                     </button>
                                 </td>
                                 <td>
                                     <button class="btn btn-choose-color" disabled="disabled">
-                                        <img id="img-choose-color" src="images/blue_tint_untitled.png" alt="" width="19" height="19"/>
+                                        <img class="img-choose-color" src="images/blue_tint_untitled.png" alt="" width="19" height="19"/>
                                     </button>
                                 </td>
                                 <td>
                                     <button class="btn btn-choose-color" disabled="disabled">
-                                        <img id="img-choose-color" src="images/blue_tint_untitled.png" alt="" width="19" height="19"/>
+                                        <img class="img-choose-color" src="images/blue_tint_untitled.png" alt="" width="19" height="19"/>
                                     </button>
                                 </td>
                                 <td>
                                     <button class="btn btn-choose-color" disabled="disabled">
-                                        <img id="img-choose-color" src="images/blue_tint_untitled.png" alt="" width="19" height="19"/>
+                                        <img class="img-choose-color" src="images/blue_tint_untitled.png" alt="" width="19" height="19"/>
                                     </button>
                                 </td>
                                 <td>
                                     <button class="btn btn-choose-color" disabled="disabled">
-                                        <img id="img-choose-color" src="images/blue_tint_untitled.png" alt="" width="19" height="19"/>
+                                        <img class="img-choose-color" src="images/blue_tint_untitled.png" alt="" width="19" height="19"/>
                                     </button>
                                 </td>
                                 <td>
                                     <button class="btn btn-choose-color" disabled="disabled">
-                                        <img id="img-choose-color" src="images/blue_tint_untitled.png" alt="" width="19" height="19"/>
+                                        <img class="img-choose-color" src="images/blue_tint_untitled.png" alt="" width="19" height="19"/>
                                     </button>
                                 </td>
                             </tr>
@@ -127,47 +127,47 @@
                             <tr class="choose-color">
                                 <td>
                                     <button class="btn btn-choose-tint">
-                                        <img id="img-choose-color" src="images/blue_tint_1.png" alt="" width="19" height="19"/>
+                                        <img class="img-choose-color" src="images/blue_tint_1.png" alt="" width="19" height="19"/>
                                     </button>
                                 </td>
                                 <td>
                                     <button class="btn btn-choose-tint">
-                                        <img id="img-choose-color" src="images/blue_tint_2.png" alt="" width="19" height="19"/>
+                                        <img class="img-choose-color" src="images/blue_tint_2.png" alt="" width="19" height="19"/>
                                     </button>
                                 </td>
                                 <td>
                                     <button class="btn btn-choose-tint">
-                                        <img id="img-choose-color" src="images/blue_tint_3.png" alt="" width="19" height="19"/>
+                                        <img class="img-choose-color" src="images/blue_tint_3.png" alt="" width="19" height="19"/>
                                     </button>
                                 </td>
                                 <td>
                                     <button class="btn btn-choose-tint">
-                                        <img id="img-choose-color" src="images/blue_tint_4.png" alt="" width="19" height="19"/>
+                                        <img class="img-choose-color" src="images/blue_tint_4.png" alt="" width="19" height="19"/>
                                     </button>
                                 </td>
                                 <td>
                                     <button class="btn btn-choose-tint">
-                                        <img id="img-choose-color" src="images/blue_tint_5.png" alt="" width="19" height="19"/>
+                                        <img class="img-choose-color" src="images/blue_tint_5.png" alt="" width="19" height="19"/>
                                     </button>
                                 </td>
                                 <td>
                                     <button class="btn btn-choose-tint">
-                                        <img id="img-choose-color" src="images/blue_tint_6.png" alt="" width="19" height="19"/>
+                                        <img class="img-choose-color" src="images/blue_tint_6.png" alt="" width="19" height="19"/>
                                     </button>
                                 </td>
                                 <td>
                                     <button class="btn btn-choose-tint">
-                                        <img id="img-choose-color" src="images/blue_tint_7.png" alt="" width="19" height="19"/>
+                                        <img class="img-choose-color" src="images/blue_tint_7.png" alt="" width="19" height="19"/>
                                     </button>
                                 </td>
                                 <td>
                                     <button class="btn btn-choose-tint">
-                                        <img id="img-choose-color" src="images/blue_tint_8.png" alt="" width="19" height="19"/>
+                                        <img class="img-choose-color" src="images/blue_tint_8.png" alt="" width="19" height="19"/>
                                     </button>
                                 </td>
                                 <td>
                                     <button class="btn btn-choose-tint" disabled="disabled">
-                                        <img id="img-choose-color" src="images/blue_tint_untitled.png" alt="" width="19" height="19"/>
+                                        <img class="img-choose-color" src="images/blue_tint_untitled.png" alt="" width="19" height="19"/>
                                     </button>
                                 </td>
                             </tr>

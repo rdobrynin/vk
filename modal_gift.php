@@ -55,10 +55,10 @@
             <div class="bottom-gift">
                 <span id="gift-tabs" class="nav nav-tabs" data-tabs="tabs">
                 <button class="btn btn-arrow left pull-left" id="btn-first" disabled="disabled">
-                    <a href="#gift-tab-1" data-toggle="tab"><span class="bg-arrow-left"></span></a>
+                   <span class="bg-arrow-left"></span>
                 </button>
                      <button class="btn btn-arrow left pull-right" id="btn-next">
-                         <a href="#gift-tab-2" data-toggle="tab"><span class="bg-arrow-right"></span></a>
+                       <span class="bg-arrow-right"></span>
                      </button>
                 </span>
                 <div class="gift-switch">
