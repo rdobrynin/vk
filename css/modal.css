@@ -133,7 +133,7 @@
 #modal-profile-close, #modal-palette-close, #modal-gift-close  {
     position: absolute;
     left: 4px;
-    top: 4px;
+    top: 4.5px;
 }
 
 
@@ -1925,4 +1925,11 @@ button.btn.btn-arrow {
     text-align: center;
     margin-top: 25px;
     left: 16px;
+
+}
+
+.btn-submit-gift{
+    -webkit-box-shadow: 0 3px #ddd;
+    -moz-box-shadow: 0 3px #ddd;
+    box-shadow: 0 3px #ddd;
 }

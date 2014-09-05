@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="6778edc4-4afe-43d8-bc69-2a652cc0982c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/modal.css" afterPath="$PROJECT_DIR$/css/modal.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modal_gift.php" afterPath="$PROJECT_DIR$/modal_gift.php" />
     </list>
     <ignored path="vk.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -40,7 +39,7 @@
           <file leaf-file-name="modal_gift.php" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/modal_gift.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="39" column="37" selection-start="2973" selection-end="2973" vertical-scroll-proportion="0.48387095" vertical-offset="219" max-vertical-offset="2581">
+                <state line="35" column="52" selection-start="2589" selection-end="2589" vertical-scroll-proportion="0.4074074" vertical-offset="219" max-vertical-offset="2581">
                   <folding>
                     <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
                     <element signature="n#style#0;n#button#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
@@ -82,7 +81,7 @@
           <file leaf-file-name="modal.css" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/modal.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="1909" column="24" selection-start="44531" selection-end="44531" vertical-scroll-proportion="0.5406032" vertical-offset="34364" max-vertical-offset="36016">
+                <state line="1929" column="0" selection-start="44883" selection-end="44883" vertical-scroll-proportion="0.7076566" vertical-offset="34580" max-vertical-offset="36142">
                   <folding />
                 </state>
               </provider>
@@ -637,7 +636,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/modal_gift.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="37" selection-start="2973" selection-end="2973" vertical-scroll-proportion="0.48387095" vertical-offset="219" max-vertical-offset="2581">
+        <state line="35" column="52" selection-start="2589" selection-end="2589" vertical-scroll-proportion="0.4074074" vertical-offset="219" max-vertical-offset="2581">
           <folding>
             <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#button#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#2;n#div#0;n#div#1;n#div#0;n#!!top" expanded="true" />
@@ -653,7 +652,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/modal.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1909" column="24" selection-start="44531" selection-end="44531" vertical-scroll-proportion="0.5406032" vertical-offset="34364" max-vertical-offset="36016">
+        <state line="1929" column="0" selection-start="44883" selection-end="44883" vertical-scroll-proportion="0.7076566" vertical-offset="34580" max-vertical-offset="36142">
           <folding />
         </state>
       </provider>
