@@ -19,6 +19,7 @@ $(window).on("load", function() {
         $('#top-gift-img').attr('src', $('#top-gift-img').attr('src').replace(".png","@2x.png"));
         $('#ok_true').attr('src', $('#ok_true').attr('src').replace(".png","@2x.png"));
         $('#ok_false').attr('src', $('#ok_false').attr('src').replace(".png","@2x.png"));
+        $('.gift-costs-img').attr('src', $('.gift-costs-img').attr('src').replace(".png","@2x.png"));
         $('body').addClass('retina');
     }
 });

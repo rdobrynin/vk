@@ -203,5 +203,58 @@ only screen and (                min-resolution: 2dppx) {
         left: 16px;
     }
 
+    #img-lips {
+        background-position: -197px -75px;
+        background-image: url('../images/gift_sprite@2x.png');
+        background-size: 324px 155px;
+    }
+
+    #img-toy {
+        background-position: -129px -75px;
+        background-image: url('../images/gift_sprite@2x.png');
+        background-size: 324px 155px;
+    }
+
+    #img-berry {
+        background-position: -65px 0;
+        background-image: url('../images/gift_sprite@2x.png');
+        background-size: 324px 155px;
+    }
+
+    #img-beer {
+        background-position: 5px 0;
+        background-image: url('../images/gift_sprite@2x.png');
+        background-size: 324px 155px;
+    }
+
+    #img-whiskey {
+        background-position: -130px 1px;
+        background-image: url('../images/gift_sprite@2x.png');
+        background-size: 324px 155px;
+    }
+
+    #img-roze{
+        background-position: -65px -75px;
+        background-image: url('../images/gift_sprite@2x.png');
+        background-size: 324px 155px;
+    }
+
+    #img-bar{
+        background-position: -196px 1px;
+        background-image: url('../images/gift_sprite@2x.png');
+        background-size: 324px 155px;
+    }
+
+    #img-tomato{
+        background-position: -1px -75px;
+        background-image: url('../images/gift_sprite@2x.png');
+        background-size: 324px 155px;
+    }
+
+
+
+
+
+
 
 }

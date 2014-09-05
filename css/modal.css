@@ -1837,3 +1837,77 @@ button.btn.btn-arrow {
     left: -8px;
     top: -13px;
 }
+
+.get-gift-img {
+    width: 62px;
+    height: 79px;
+    margin: 0 auto;
+    top: 5px;
+    position: relative;
+}
+
+#img-lips {
+    background-position: -195px -75px;
+    background-image: url('../images/gift_sprite.png');
+    background-size: 324px 155px;
+}
+
+#img-toy {
+    background-position: -129px -75px;
+    background-image: url('../images/gift_sprite.png');
+    background-size: 324px 155px;
+}
+
+#img-berry {
+    background-position: -65px 0;
+    background-image: url('../images/gift_sprite.png');
+    background-size: 324px 155px;
+}
+
+#img-beer {
+    background-position: 5px 0;
+    background-image: url('../images/gift_sprite.png');
+    background-size: 324px 155px;
+}
+
+#img-whiskey {
+    background-position: -130px 1px;
+    background-image: url('../images/gift_sprite.png');
+    background-size: 324px 155px;
+}
+
+#img-roze{
+    background-position: -65px -75px;
+    background-image: url('../images/gift_sprite.png');
+    background-size: 324px 155px;
+}
+
+#img-bar{
+    background-position: -196px 1px;
+    background-image: url('../images/gift_sprite.png');
+    background-size: 324px 155px;
+}
+
+#img-tomato{
+    background-position: -1px -75px;
+    background-image: url('../images/gift_sprite.png');
+    background-size: 324px 155px;
+}
+
+.gift-costs {
+    display: block;
+    position: relative;
+    width: 62px;
+    height: 20px;
+    font-weight: 800;
+    font-size: 19px;
+    color: #7C898E;
+    padding-top: 4px;
+    margin: 0 auto;
+    padding-left: 4px;
+}
+
+.gift-costs-img {
+    vertical-align: sub;
+}
+

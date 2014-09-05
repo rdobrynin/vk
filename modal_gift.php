@@ -25,14 +25,37 @@
                                       <div class="row">
                                           <div class="col-md-12">
                                               <div class="gift-cell">
+                                                 <div class="get-gift-img" id="img-lips"></div>
+                                                  <span class="gift-costs"><img class="gift-costs-img" src="images/gift_costs.png" alt="" width="23" height="22"/>&nbsp;15</span>
                                               </div>
-                                              <div class="gift-cell"></div>
-                                              <div class="gift-cell"></div>
-                                              <div class="gift-cell"></div>
-                                              <div class="gift-cell"></div>
-                                              <div class="gift-cell"></div>
-                                              <div class="gift-cell"></div>
-                                              <div class="gift-cell"></div>
+                                              <div class="gift-cell">
+                                                  <div class="get-gift-img" id="img-toy"></div>
+                                                  <span class="gift-costs"><img class="gift-costs-img" src="images/gift_costs.png" alt="" width="23" height="22"/>&nbsp;15</span>
+                                              </div>
+                                              <div class="gift-cell">
+                                                  <div class="get-gift-img" id="img-berry"></div>
+                                                  <span class="gift-costs"><img class="gift-costs-img" src="images/gift_costs.png" alt="" width="23" height="22"/>&nbsp;15</span>
+                                              </div>
+                                              <div class="gift-cell">
+                                                  <div class="get-gift-img" id="img-beer"></div>
+                                                  <span class="gift-costs"><img class="gift-costs-img" src="images/gift_costs.png" alt="" width="23" height="22"/>&nbsp;15</span>
+                                              </div>
+                                              <div class="gift-cell">
+                                                  <div class="get-gift-img" id="img-whiskey"></div>
+                                                  <span class="gift-costs"><img class="gift-costs-img" src="images/gift_costs.png" alt="" width="23" height="22"/>&nbsp;15</span>
+                                              </div>
+                                              <div class="gift-cell">
+                                                  <div class="get-gift-img" id="img-roze"></div>
+                                                  <span class="gift-costs"><img class="gift-costs-img" src="images/gift_costs.png" alt="" width="23" height="22"/>&nbsp;15</span>
+                                              </div>
+                                              <div class="gift-cell">
+                                                  <div class="get-gift-img" id="img-bar"></div>
+                                                  <span class="gift-costs"><img class="gift-costs-img" src="images/gift_costs.png" alt="" width="23" height="22"/>&nbsp;15</span>
+                                              </div>
+                                              <div class="gift-cell">
+                                                  <div class="get-gift-img" id="img-tomato"></div>
+                                                  <span class="gift-costs"><img class="gift-costs-img" src="images/gift_costs.png" alt="" width="23" height="22"/>&nbsp;15</span>
+                                              </div>
                                           </div>
                                       </div>
                                     </div>
