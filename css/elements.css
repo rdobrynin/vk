@@ -499,6 +499,10 @@ img.img-choose-color {
     top: -1px;
 }
 
+.icon-grand-bg {
+    cursor: pointer;
+}
+
 .icon-wrapper-lg-note {
     position: fixed;
     top: 114px;

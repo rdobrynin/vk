@@ -79,7 +79,7 @@ $(function () {
     });
 
     $('.icon-grand-bg').click(function () {
-        $('#modal-level').modal('show');
+        $('#modal-top').modal('show');
     });
 
     $('.color-palette-bg').click(function () {
