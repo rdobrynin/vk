@@ -1842,7 +1842,7 @@ button.btn.btn-arrow {
     width: 62px;
     height: 79px;
     margin: 0 auto;
-    top: 5px;
+    top: 2px;
     position: relative;
 }
 
@@ -1902,12 +1902,27 @@ button.btn.btn-arrow {
     font-weight: 800;
     font-size: 19px;
     color: #7C898E;
-    padding-top: 4px;
     margin: 0 auto;
     padding-left: 4px;
 }
 
 .gift-costs-img {
     vertical-align: sub;
+    position: relative;
+    top: 0;
 }
 
+
+.btn-submit-gift, .btn-submit-gift:focus {
+    width: 93px;
+    height: 29px;
+    -webkit-border-radius: 13px;
+    -moz-border-radius: 13px;
+    border-radius: 13px;
+    padding-top: 3px;
+    position: relative;
+    font-size: 13px !important;
+    text-align: center;
+    margin-top: 25px;
+    left: 16px;
+}
