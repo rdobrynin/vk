@@ -27,42 +27,42 @@
                                               <div class="gift-cell">
                                                  <div class="get-gift-img" id="img-lips"></div>
                                                   <span class="gift-costs"><img class="gift-costs-img" src="images/gift_costs.png" alt="" width="23" height="22"/>&nbsp;15</span>
-                                                  <button class="btn btn-riu-modal-primary btn-submit-gift" style="top: -14px;" data-original-title="" title="">Подарить</button>
+                                                  <button class="btn btn-riu-modal-primary btn-submit-gift" data-original-title="" title="">Подарить</button>
                                               </div>
                                               <div class="gift-cell">
                                                   <div class="get-gift-img" id="img-toy"></div>
                                                   <span class="gift-costs"><img class="gift-costs-img" src="images/gift_costs.png" alt="" width="23" height="22"/>&nbsp;15</span>
-                                                  <button class="btn btn-riu-modal-primary btn-submit-gift" style="top: -14px;" data-original-title="" title="">Подарить</button>
+                                                  <button class="btn btn-riu-modal-primary btn-submit-gift" data-original-title="" title="">Подарить</button>
                                               </div>
                                               <div class="gift-cell">
                                                   <div class="get-gift-img" id="img-berry"></div>
                                                   <span class="gift-costs"><img class="gift-costs-img" src="images/gift_costs.png" alt="" width="23" height="22"/>&nbsp;15</span>
-                                                  <button class="btn btn-riu-modal-primary btn-submit-gift" style="top: -14px;" data-original-title="" title="">Подарить</button>
+                                                  <button class="btn btn-riu-modal-primary btn-submit-gift" data-original-title="" title="">Подарить</button>
                                               </div>
                                               <div class="gift-cell">
                                                   <div class="get-gift-img" id="img-beer"></div>
                                                   <span class="gift-costs"><img class="gift-costs-img" src="images/gift_costs.png" alt="" width="23" height="22"/>&nbsp;15</span>
-                                                  <button class="btn btn-riu-modal-primary btn-submit-gift" style="top: -14px;" data-original-title="" title="">Подарить</button>
+                                                  <button class="btn btn-riu-modal-primary btn-submit-gift" data-original-title="" title="">Подарить</button>
                                               </div>
                                               <div class="gift-cell">
                                                   <div class="get-gift-img" id="img-whiskey"></div>
                                                   <span class="gift-costs"><img class="gift-costs-img" src="images/gift_costs.png" alt="" width="23" height="22"/>&nbsp;15</span>
-                                                  <button class="btn btn-riu-modal-primary btn-submit-gift" style="top: -14px;" data-original-title="" title="">Подарить</button>
+                                                  <button class="btn btn-riu-modal-primary btn-submit-gift" data-original-title="" title="">Подарить</button>
                                               </div>
                                               <div class="gift-cell">
                                                   <div class="get-gift-img" id="img-roze"></div>
                                                   <span class="gift-costs"><img class="gift-costs-img" src="images/gift_costs.png" alt="" width="23" height="22"/>&nbsp;15</span>
-                                                  <button class="btn btn-riu-modal-primary btn-submit-gift" style="top: -14px;" data-original-title="" title="">Подарить</button>
+                                                  <button class="btn btn-riu-modal-primary btn-submit-gift" data-original-title="" title="">Подарить</button>
                                               </div>
                                               <div class="gift-cell">
                                                   <div class="get-gift-img" id="img-bar"></div>
                                                   <span class="gift-costs"><img class="gift-costs-img" src="images/gift_costs.png" alt="" width="23" height="22"/>&nbsp;15</span>
-                                                  <button class="btn btn-riu-modal-primary btn-submit-gift" style="top: -14px;" data-original-title="" title="">Подарить</button>
+                                                  <button class="btn btn-riu-modal-primary btn-submit-gift" data-original-title="" title="">Подарить</button>
                                               </div>
                                               <div class="gift-cell">
                                                   <div class="get-gift-img" id="img-tomato"></div>
                                                   <span class="gift-costs"><img class="gift-costs-img" src="images/gift_costs.png" alt="" width="23" height="22"/>&nbsp;15</span>
-                                                  <button class="btn btn-riu-modal-primary btn-submit-gift" style="top: -14px;" data-original-title="" title="">Подарить</button>
+                                                  <button class="btn btn-riu-modal-primary btn-submit-gift" data-original-title="" title="">Подарить</button>
                                               </div>
                                           </div>
                                       </div>
