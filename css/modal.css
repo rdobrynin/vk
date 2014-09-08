@@ -510,13 +510,21 @@
     width: 81px;
 }
 
+
+
 .modal-left-top-top-img {
-    position: relative;
+    position: absolute;
     float: left;
-    top: -47px;
-    z-index: 9999;
+    top: -24px;
+    /* z-index: 9999; */
     left: 0;
-    width: 81px;
+    background-image: url('../images/top_bg.png');
+    background-repeat: no-repeat;
+    background-size: 107px 73px;
+    background-position: center;
+    width: 101px;
+    height: 100px;
+
 }
 
 
@@ -1404,15 +1412,15 @@ font-size: 33px;
 
 }
 
-.gift-top{
+.top-title{
     display: block;
     position: relative;
     float: left;
-    top: -23px;
-    left: 3px;
+    top: -30px;
+    left: 20px;
     font-weight: 800;
     color: #fff;
-    font-size: 22px;
+    font-size: 26px;
     text-transform: capitalize;
     text-shadow: 1px 1px 1px #1268B5,
     -0.5px -0.5px 0.5px #1268B5,
@@ -2065,4 +2073,56 @@ button.btn.btn-arrow {
     -webkit-box-shadow: 0 3px #ddd;
     -moz-box-shadow: 0 3px #ddd;
     box-shadow: 0 3px #ddd;
+}
+
+
+#myTabTop {
+    position: absolute;
+    left: 9px;
+    border-bottom: 0;
+    top: 12px;
+    font-weight: 800;
+}
+
+
+#tab-content {
+    background-color: #fff;
+    top: 52px;
+    position: absolute;
+    width: 592px;
+    height: 306px;
+    border-bottom-left-radius: 14px;
+    border-bottom-right-radius: 14px;
+    border-top-right-radius: 14px;
+    left: 9px;
+    padding: 20px;
+    box-shadow: 0 5px #E5E9EC;
+}
+
+.nav-tabs>li>a {
+    margin-right: 2px;
+    line-height: 1.42857143;
+    border-radius: 14px 14px 0 0;
+    border: 0 !important;
+}
+
+
+.nav>li>a:hover, .nav>li>a:focus {
+    text-decoration: none;
+    background-color: #fff;
+    color: #578CC5 !important;
+}
+
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus {
+    color: #578CC5 !important;
+}
+
+#myTabTop>li>a {
+    color: #fff;
+}
+
+.top-top-container {
+    width: 560px;
+    height: 274px;
+    overflow: overlay;
 }

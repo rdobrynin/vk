@@ -20,6 +20,8 @@ $(window).on("load", function() {
         $('#ok_true').attr('src', $('#ok_true').attr('src').replace(".png","@2x.png"));
         $('#ok_false').attr('src', $('#ok_false').attr('src').replace(".png","@2x.png"));
         $('.gift-costs-img').attr('src', $('.gift-costs-img').attr('src').replace(".png","@2x.png"));
+        $('#modal-top-close').attr('src', $('#modal-top-close').attr('src').replace(".png","@2x.png"));
+        $('#top-top-img').attr('src', $('#top-top-img').attr('src').replace(".png","@2x.png"));
         $('body').addClass('retina');
     }
 });
@@ -409,4 +411,21 @@ $(function () {
         $('#radio-2, #gift-tab-2').removeClass('active');
     });
 
+
+    $('#myTab a').click(function (e) {
+        e.preventDefault()
+        $(this).tab('show')
+    })
+
+    $('#li-2, #li-3').click(function () {
+$('#tab-content').css({"border-top-left-radius":"14px"});
+    });
+
+    $( "#li-1" ).mouseover(function() {
+        $('#tab-content').css({"border-top-left-radius":"0"});
+    });
+
+    if ($("#li-1").hasClass("active")) {
+        $('#tab-content').css({"border-top-left-radius":"0"});
+    }
 });
