@@ -2096,6 +2096,8 @@ button.btn.btn-arrow {
     border-top-right-radius: 14px;
     left: 9px;
     padding: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     box-shadow: 0 5px #E5E9EC;
 }
 
@@ -2191,6 +2193,7 @@ img.top-vase {
 .top-map-span {
     color: #7E898E;
     padding-left: 6px;
+    text-align: left;
 
 }
 
@@ -2202,8 +2205,8 @@ td.regional-map {
 .top-btn-vk {
     box-shadow: 0 2px 0 #5492CF;
     background-color: #6BA9E4;
-    width: 35px;
-    height: 33px;
+    width: 30px;
+    height: 28px;
     border-radius: 36px;
     position: relative;
     left: 1px;
@@ -2213,8 +2216,8 @@ td.regional-map {
 .top-btn-vk:focus {
     box-shadow: 0 2px 0 #5492CF;
     background-color: #6BA9E4;
-    width: 35px;
-    height: 33px;
+    width: 30px;
+    height: 28px;
     border-radius: 36px;
     position: relative;
     left: 1px;
@@ -2226,8 +2229,8 @@ td.regional-map {
 .top-btn-vk:hover {
     box-shadow: 0 2px 0 #5492CF;
     background-color: #76bcff;
-    width: 35px;
-    height: 33px;
+    width: 30px;
+    height: 28px;
     border-radius: 36px;
     position: relative;
     left: 1px;

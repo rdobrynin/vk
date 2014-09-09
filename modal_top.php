@@ -35,7 +35,7 @@
                                         <td style="width: 20%;"><img class="top-vase" src="images/vase@2x.png" alt="" width="23" height="24"/><span class="top-1">11</span><span class="top-2">/35</span></td>
                                         <td class="regional-map"><img src="images/map_point@2x.png" alt="" width="13" height="19"/><span class="top-map-span">Москва, Россия</span></td>
                                         <td class="topvk"><button class="btn top-btn-vk" data-original-title="" title="">
-                                                <img src="images/vk_profile_btn.png" class="top-btn-vk-img" alt="" width="24" height="27">
+                                                <img src="images/vk_profile_btn.png" class="top-btn-vk-img" alt="" width="19" height="22">
                                             </button></td>
                                     </tr>
                                     <tr class="top">
@@ -46,7 +46,7 @@
                                         <td style="width: 20%;"><img class="top-vase" src="images/vase@2x.png" alt="" width="23" height="24"/><span class="top-1">11</span><span class="top-2">/35</span></td>
                                         <td class="regional-map"><img src="images/map_point@2x.png" alt="" width="13" height="19"/><span class="top-map-span">Москва, Россия</span></td>
                                         <td class="topvk"><button class="btn top-btn-vk" data-original-title="" title="">
-                                                <img src="images/vk_profile_btn.png" class="top-btn-vk-img" alt="" width="24" height="27">
+                                                <img src="images/vk_profile_btn.png" class="top-btn-vk-img" alt="" width="19" height="22">
                                             </button></td>
                                     </tr>
                                     <tr class="top">
@@ -57,7 +57,7 @@
                                         <td style="width: 20%;"><img class="top-vase" src="images/vase@2x.png" alt="" width="23" height="24"/><span class="top-1">11</span><span class="top-2">/35</span></td>
                                         <td class="regional-map"><img src="images/map_point@2x.png" alt="" width="13" height="19"/><span class="top-map-span">Москва, Россия</span></td>
                                         <td class="topvk"><button class="btn top-btn-vk" data-original-title="" title="">
-                                                <img src="images/vk_profile_btn.png" class="top-btn-vk-img" alt="" width="24" height="27">
+                                                <img src="images/vk_profile_btn.png" class="top-btn-vk-img" alt="" width="19" height="22">
                                             </button></td>
                                     </tr>
                                     <tr class="top">
@@ -68,7 +68,7 @@
                                         <td style="width: 20%;"><img class="top-vase" src="images/vase@2x.png" alt="" width="23" height="24"/><span class="top-1">11</span><span class="top-2">/35</span></td>
                                         <td class="regional-map"><img src="images/map_point@2x.png" alt="" width="13" height="19"/><span class="top-map-span">Москва, Россия</span></td>
                                         <td class="topvk"><button class="btn top-btn-vk" data-original-title="" title="">
-                                                <img src="images/vk_profile_btn.png" class="top-btn-vk-img" alt="" width="24" height="27">
+                                                <img src="images/vk_profile_btn.png" class="top-btn-vk-img" alt="" width="19" height="22">
                                             </button></td>
                                     </tr>
                                     <tr class="top">
@@ -79,7 +79,7 @@
                                         <td style="width: 20%;"><img class="top-vase" src="images/vase@2x.png" alt="" width="23" height="24"/><span class="top-1">11</span><span class="top-2">/35</span></td>
                                         <td class="regional-map"><img src="images/map_point@2x.png" alt="" width="13" height="19"/><span class="top-map-span">Москва, Россия</span></td>
                                         <td class="topvk"><button class="btn top-btn-vk" data-original-title="" title="">
-                                                <img src="images/vk_profile_btn.png" class="top-btn-vk-img" alt="" width="24" height="27">
+                                                <img src="images/vk_profile_btn.png" class="top-btn-vk-img" alt="" width="19" height="22">
                                             </button></td>
                                     </tr>
                                     <tr class="top">
@@ -90,7 +90,7 @@
                                         <td style="width: 20%;"><img class="top-vase" src="images/vase@2x.png" alt="" width="23" height="24"/><span class="top-1">11</span><span class="top-2">/35</span></td>
                                         <td class="regional-map"><img src="images/map_point@2x.png" alt="" width="13" height="19"/><span class="top-map-span">Москва, Россия</span></td>
                                         <td class="topvk"><button class="btn top-btn-vk" data-original-title="" title="">
-                                                <img src="images/vk_profile_btn.png" class="top-btn-vk-img" alt="" width="24" height="27">
+                                                <img src="images/vk_profile_btn.png" class="top-btn-vk-img" alt="" width="19" height="22">
                                             </button></td>
                                     </tr>
                                     <tr class="top">
@@ -101,7 +101,7 @@
                                         <td style="width: 20%;"><img class="top-vase" src="images/vase@2x.png" alt="" width="23" height="24"/><span class="top-1">11</span><span class="top-2">/35</span></td>
                                         <td class="regional-map"><img src="images/map_point@2x.png" alt="" width="13" height="19"/><span class="top-map-span">Москва, Россия</span></td>
                                         <td class="topvk"><button class="btn top-btn-vk" data-original-title="" title="">
-                                                <img src="images/vk_profile_btn.png" class="top-btn-vk-img" alt="" width="24" height="27">
+                                                <img src="images/vk_profile_btn.png" class="top-btn-vk-img" alt="" width="19" height="22">
                                             </button></td>
                                     </tr>
                                     </tbody>

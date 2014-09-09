@@ -1669,3 +1669,7 @@ div#mCSB_1_dragger_vertical {
 .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {
     left: 1px !important;
 }
+
+.mCSB_inside > .mCSB_container {
+    margin-right: 16px !important;
+}
