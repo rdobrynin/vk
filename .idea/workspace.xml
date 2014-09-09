@@ -31,7 +31,7 @@
           <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="472" column="74" selection-start="22998" selection-end="22998" vertical-scroll-proportion="0.6" vertical-offset="7992" max-vertical-offset="9516">
+                <state line="471" column="0" selection-start="22923" selection-end="22923" vertical-scroll-proportion="0.57857144" vertical-offset="7992" max-vertical-offset="9516">
                   <folding />
                 </state>
               </provider>
@@ -82,21 +82,21 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/js/script.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="29" column="26" selection-start="2497" selection-end="2497" vertical-scroll-proportion="0.0" vertical-offset="414" max-vertical-offset="9381">
+                <state line="30" column="41" selection-start="2539" selection-end="2539" vertical-scroll-proportion="0.6435986" vertical-offset="378" max-vertical-offset="9327">
                   <folding>
-                    <marker date="1410261802730" expanded="false" signature="3878:3952" placeholder="..." />
+                    <marker date="1410262550294" expanded="false" signature="3776:3850" placeholder="..." />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="elements.css" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="elements.css" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css/elements.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="1643" column="1" selection-start="40306" selection-end="40306" vertical-scroll-proportion="0.4152249" vertical-offset="30204" max-vertical-offset="31413">
+                <state line="1653" column="1" selection-start="40529" selection-end="40529" vertical-scroll-proportion="0.0" vertical-offset="30186" max-vertical-offset="31593">
                   <folding />
                 </state>
               </provider>
@@ -168,8 +168,8 @@
         <option value="$PROJECT_DIR$/css/modal.css" />
         <option value="$PROJECT_DIR$/modal_top.php" />
         <option value="$PROJECT_DIR$/index.php" />
-        <option value="$PROJECT_DIR$/js/script.js" />
         <option value="$PROJECT_DIR$/css/elements.css" />
+        <option value="$PROJECT_DIR$/js/script.js" />
       </list>
     </option>
   </component>
@@ -645,22 +645,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="472" column="74" selection-start="22998" selection-end="22998" vertical-scroll-proportion="0.6" vertical-offset="7992" max-vertical-offset="9516">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="26" selection-start="2497" selection-end="2497" vertical-scroll-proportion="0.0" vertical-offset="414" max-vertical-offset="9381">
-          <folding>
-            <marker date="1410261802730" expanded="false" signature="3878:3952" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/modal.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="2172" column="13" selection-start="49705" selection-end="49705" vertical-scroll-proportion="0.0" vertical-offset="39330" max-vertical-offset="41817">
@@ -668,10 +652,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="471" column="0" selection-start="22923" selection-end="22923" vertical-scroll-proportion="0.57857144" vertical-offset="7992" max-vertical-offset="9516">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/elements.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1643" column="1" selection-start="40306" selection-end="40306" vertical-scroll-proportion="0.4152249" vertical-offset="30204" max-vertical-offset="31413">
+        <state line="1653" column="1" selection-start="40529" selection-end="40529" vertical-scroll-proportion="0.0" vertical-offset="30186" max-vertical-offset="31593">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="41" selection-start="2539" selection-end="2539" vertical-scroll-proportion="0.6435986" vertical-offset="378" max-vertical-offset="9327">
+          <folding>
+            <marker date="1410262550294" expanded="false" signature="3776:3850" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>

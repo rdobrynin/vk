@@ -1640,5 +1640,15 @@ div#mCSB_1_dragger_vertical {
 }
 
 .mCS-rounded-dark.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar, .mCS-rounded-dots-dark.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {
-    background-color: rgba(160, 160, 160, 1) !important;
+    background-color: rgb(161, 172, 176) !important;
+}
+
+.mCSB_draggerRail, .mCSB_draggerContainer {
+    cursor: pointer;
+}
+
+.mCSB_dragger_bar {
+    -webkit-box-shadow: 0 3px 0 rgb(87, 87, 87);
+    -moz-box-shadow: 0 3px 0 rgb(87, 87, 87);
+    box-shadow: 0 3px 0 rgb(87, 87, 87);
 }
