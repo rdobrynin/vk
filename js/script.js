@@ -30,9 +30,12 @@ $(window).on("load", function() {
 $(window).load(function(){
 //    $('#modal-username').modal('show');
     $("#members").mCustomScrollbar({
-        scrollButtons:{enable:true,scrollType:"stepped"},
+//        scrollButtons:{enable:true,scrollType:"stepped"},
         keyboard:{scrollType:"stepped"},
-        theme:"rounded-dark"
+        theme:"rounded-dark",
+        scrollButtons:{
+            enable:false
+        }
 
     });
 });
