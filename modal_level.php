@@ -23,8 +23,8 @@
                     <img id="modal-level-close" src="images/modal_close.png" alt="" width="21" height="20"/>
                 </button>
             </div>
-            <span class="new-level"></span>
-            <span class="available-new-instr"></span>
+            <span class="new-level">Новый уровень</span>
+            <span class="available-new-instr">Доступны новые инструменты:</span>
 
             <div class="new-instrument-left">
                 <div class="new-instrument-bg">

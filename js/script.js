@@ -28,7 +28,7 @@ $(window).on("load", function() {
 });
 
 $(window).load(function(){
-//    $('#modal-username').modal('show');
+    $('#modal-top').modal('show');
     $("#members").mCustomScrollbar({
         theme:"rounded-dark",
         scrollButtons:{
@@ -89,7 +89,7 @@ $(function () {
     });
 
     $('.icon-grand-bg').click(function () {
-        $('#modal-top').modal('show');
+        $('#modal-level').modal('show');
     });
 
     $('.color-palette-bg').click(function () {

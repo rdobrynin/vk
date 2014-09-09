@@ -11,9 +11,7 @@
                         <img id="modal-palette-close" src="images/close.png" alt="" width="19" height="19"/>
                     </button>
                 </div>
-                <div class="title-palette">
-                    <img id="modal-palette-title" src="images/text_palette_color.png" alt="" width="175" height="27"/>
-                </div>
+                <span class="palette-title">Наборы красок</span>
             </div>
             <div class="inside-bg-palette">
                 <div class="bg-palette-wrapper">

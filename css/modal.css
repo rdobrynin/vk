@@ -558,10 +558,7 @@
     top: 224px;
 }
 
-.title-palette {
-    position: absolute;
-    top: 12px;
-}
+
 
 .buy-static, .level-static  {
     border-radius: 31px;
@@ -774,6 +771,8 @@ img#modal-buy-close, img#modal-level-close {
 .text-buy-coins {
     position: relative;
     top: -13px;
+    width: 100%;
+    height: 62px;
 }
 
 .coins_cost {
@@ -815,7 +814,7 @@ img#modal-buy-close, img#modal-level-close {
 }
 
 .coin_300 {
-    top: 9px;
+    top: -8px;
 }
 
 .coin_1500 {
@@ -1134,15 +1133,44 @@ font-size: 33px;
 
 .available-new-instr {
     display: block;
-    width: 283px;
+    width: 100%;
     height: 66px;
-    background-image: url('../images/text_available_instruments@2x.png');
     background-size: 283px 66px;
     background-repeat: no-repeat;
     background-position: center;
     margin: 0 auto;
     position: relative;
     top: 3px;
+    /* left: 3px; */
+    color: #fff;
+    font-weight: 800;
+    text-transform: capitalize;
+    text-shadow: 1px 1px 1px #7B8A8F,
+    -0.5px -0.5px 0.5px #7B8A8F,
+    -0.5px 0.5px 0.5px #7B8A8F,
+    0.5px -0.5px 0.5px #7B8A8F,
+    -0.5px 0 0.5px #7B8A8F,
+    0.5px 0 0.5px #7B8A8F,
+    0 0.5px 0.5px #7B8A8F,
+    0 -0.5px 0.5px #7B8A8F,
+
+    1.5px 1.5px 1px #A4B4BD,
+    -1.5px 1.5px 1px #A4B4BD,
+    1.5px 1.5px 1px #A4B4BD,
+    1.5px 0 1px #A4B4BD,
+    2px 0 1px #A4B4BD,
+    0 2px 1px #A4B4BD,
+    2px 2px 1px #A4B4BD,
+    -2px 2px 1px #A4B4BD,
+    -2px 2px 1px #A4B4BD,
+    2px 0 1px #A4B4BD,
+    -2px 0 1px #A4B4BD,
+    2px 0 1px #A4B4BD,
+    0 2px 1px #A4B4BD;
+    left: -24px;
+    line-height: 31px;
+    font-size: 26px;
+    text-align: center;
 }
 
 .new-instrument-left {
@@ -1295,16 +1323,44 @@ font-size: 33px;
 }
 
 .new-level {
-    background-image: url('../images/text_new_level.png');
-    background-repeat: no-repeat;
     background-size: 137px 22px;
     background-position: center;
     display: block;
     position: relative;
     width: 137px;
-    height: 22px;
+    height: 28px;
     margin: 0 auto;
-    left: 3px;
+    /* left: 3px; */
+    color: #fff;
+    font-weight: 800;
+    text-transform: capitalize;
+    text-shadow: 1px 1px 1px #7B8A8F,
+    -0.5px -0.5px 0.5px #7B8A8F,
+    -0.5px 0.5px 0.5px #7B8A8F,
+    0.5px -0.5px 0.5px #7B8A8F,
+    -0.5px 0 0.5px #7B8A8F,
+    0.5px 0 0.5px #7B8A8F,
+    0 0.5px 0.5px #7B8A8F,
+    0 -0.5px 0.5px #7B8A8F,
+
+    1.5px 1.5px 1px #A4B4BD,
+    -1.5px 1.5px 1px #A4B4BD,
+    1.5px 1.5px 1px #A4B4BD,
+    1.5px 0 1px #A4B4BD,
+
+
+    2px 2px 1px #A4B4BD,
+    -2px 2px 1px #A4B4BD,
+    -2px 2px 1px #A4B4BD,
+    2px 0 1px #A4B4BD,
+    -2px 0 1px #A4B4BD,
+    2px 0 1px #A4B4BD,
+    0 2px 1px #A4B4BD;
+    top: -2px;
+    left: 14px;
+    line-height: 31px;
+    font-size: 15px;
+
 }
 
 #modal_profile_place_1{
@@ -1412,15 +1468,49 @@ font-size: 33px;
 
 }
 
+.palette-title {
+    position: absolute;
+    top: 12px;
+    font-weight: 800;
+    color: #fff;
+    font-size: 22px;
+    text-transform: capitalize;
+    text-shadow: 1px 1px 1px #1268B5,
+    -0.5px -0.5px 0.5px #1268B5,
+    -0.5px 0.5px 0.5px #1268B5,
+    0.5px -0.5px 0.5px #1268B5,
+    -0.5px 0 0.5px #1268B5,
+    0.5px 0 0.5px #1268B5,
+    0 0.5px 0.5px #1268B5,
+    0 -0.5px 0.5px #1268B5,
+
+    1.5px 1.5px 1px #609DD5,
+    -1.5px 1.5px 1px #609DD5,
+    1.5px 1.5px 1px #609DD5,
+    1.5px 0 1px #609DD5,
+    2px 0 1px #609DD5,
+    0 2px 1px #609DD5,
+    2px 2px 1px #609DD5,
+    -2px 2px 1px #609DD5,
+    -2px 2px 1px #609DD5,
+    2px 0 1px #609DD5,
+    -2px 0 1px #609DD5,
+    2px 0 1px #609DD5,
+    0 2px 1px #609DD5;
+    top: 7px;
+
+}
+
+
 .top-title{
     display: block;
     position: relative;
     float: left;
-    top: -30px;
+    top: -25px;
     left: 20px;
     font-weight: 800;
     color: #fff;
-    font-size: 26px;
+    font-size: 22px;
     text-transform: capitalize;
     text-shadow: 1px 1px 1px #1268B5,
     -0.5px -0.5px 0.5px #1268B5,
@@ -1446,6 +1536,48 @@ font-size: 33px;
     0 2px 1px #609DD5;
 
 }
+
+.buy-title{
+    display: block;
+    position: relative;
+    float: left;
+    top: -25px;
+    left: 20px;
+    font-weight: 800;
+    color: #fff;
+    font-size: 32px;
+    /* clear: both; */
+    text-transform: capitalize;
+    text-shadow: 1px 1px 1px #7B8A8F,
+    -0.5px -0.5px 0.5px #7B8A8F,
+    -0.5px 0.5px 0.5px #7B8A8F,
+    0.5px -0.5px 0.5px #7B8A8F,
+    -0.5px 0 0.5px #7B8A8F,
+    0.5px 0 0.5px #7B8A8F,
+    0 0.5px 0.5px #7B8A8F,
+    0 -0.5px 0.5px #7B8A8F,
+
+    1.5px 1.5px 1px #A4B4BD,
+    -1.5px 1.5px 1px #A4B4BD,
+    1.5px 1.5px 1px #A4B4BD,
+    1.5px 0 1px #A4B4BD,
+    2px 0 1px #A4B4BD,
+    0 2px 1px #A4B4BD,
+    2px 2px 1px #A4B4BD,
+    -2px 2px 1px #A4B4BD,
+    -2px 2px 1px #A4B4BD,
+    2px 0 1px #A4B4BD,
+    -2px 0 1px #A4B4BD,
+    2px 0 1px #A4B4BD,
+    0 2px 1px #A4B4BD;
+    top: -11px;
+    left: 6px;
+    line-height: 39px;
+    float: left;
+    width: 227px;
+
+}
+
 
 
 
@@ -2248,4 +2380,12 @@ td.topvk {
     position: relative;
     left: 4px;
     top: 2px;
+}
+
+tr.top.myplace {
+    border-top: 3px solid #E5E9EA;
+}
+
+td.top-name {
+    padding-left: 4px;
 }

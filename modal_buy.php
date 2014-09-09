@@ -5,7 +5,11 @@
         <div class="modal-buy">
 <!--<span class="modal-title">Докупить<br/>монеты</span>-->
 
-            <div class="text-buy-coins"><img id="text-buy-coins" src="images/text_buy_money.png" alt="" width="168" height="59"/></div>
+            <div class="text-buy-coins">
+
+                <span class="buy-title">Докупить</span>
+                <span class="buy-title">монеты</span>
+            </div>
 
             <div class="modal-right-top-corner">
                 <img id="top-chest" src="images/chest.png" alt="" width="137" height="127"/></div>
