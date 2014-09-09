@@ -2151,18 +2151,21 @@ td.top-name {
     color: #4E89C3;
     font-weight: 800;
     text-align: left;
-    width: 10%;
+    width: 20%;
 }
 
 td.top-prize {
-    background-position: 12px 12px;
+    background-position: -2px 12px;
     background-image: url('../images/top_star.png');
     background-repeat: no-repeat;
     background-size: 29px 29px;
-    width: 20%;
+    width: 15%;
     font-size: 21px;
     color: #808B91;
     font-weight: 800;
+    text-align: center;
+    z-index: 9999;
+    padding-left: 9px;
 }
 
 .top-1, .top-2 {
@@ -2193,4 +2196,53 @@ img.top-vase {
 
 td.regional-map {
     width: 30%;
+}
+
+
+.top-btn-vk {
+    box-shadow: 0 2px 0 #5492CF;
+    background-color: #6BA9E4;
+    width: 35px;
+    height: 33px;
+    border-radius: 36px;
+    position: relative;
+    left: 1px;
+    top: -4px;
+}
+
+.top-btn-vk:focus {
+    box-shadow: 0 2px 0 #5492CF;
+    background-color: #6BA9E4;
+    width: 35px;
+    height: 33px;
+    border-radius: 36px;
+    position: relative;
+    left: 1px;
+    top: -4px;
+}
+
+
+
+.top-btn-vk:hover {
+    box-shadow: 0 2px 0 #5492CF;
+    background-color: #76bcff;
+    width: 35px;
+    height: 33px;
+    border-radius: 36px;
+    position: relative;
+    left: 1px;
+    top: -4px;
+}
+
+.top-btn-vk-img {
+    position: absolute;
+    left: 5px;
+    top: 4px;
+}
+
+td.topvk {
+    margin-left: 4px;
+    position: relative;
+    left: 4px;
+    top: 2px;
 }
