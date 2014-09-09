@@ -24,10 +24,74 @@
 <!--CONTENT-->
                         <div class="tab-content" id="tab-content">
                             <div class="tab-pane active" id="global-tab">
-                            <div class="top-top-container">
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid consectetur est et eum inventore minus molestias nihil obcaecati, odio rem repellat repellendus, suscipit totam? Dolore omnis perferendis vel voluptatem! Commodi corporis distinctio dolor dolorum eius eligendi enim exercitationem explicabo in incidunt ipsam, iusto labore molestias necessitatibus neque possimus, quod rem repellendus repudiandae tempore. Ad beatae blanditiis facilis libero nulla omnis quis tempore. Adipisci, consequuntur ipsum iure necessitatibus nostrum quaerat qui reiciendis suscipit ullam. Accusamus, consectetur error esse facilis iste modi molestiae natus, non officiis, quae quia quod quos ratione reiciendis rem sequi sit sunt ullam unde voluptatum. Hic id, nobis!</p>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid consectetur est et eum inventore minus molestias nihil obcaecati, odio rem repellat repellendus, suscipit totam? Dolore omnis perferendis vel voluptatem! Commodi corporis distinctio dolor dolorum eius eligendi enim exercitationem explicabo in incidunt ipsam, iusto labore molestias necessitatibus neque possimus, quod rem repellendus repudiandae tempore. Ad beatae blanditiis facilis libero nulla omnis quis tempore. Adipisci, consequuntur ipsum iure necessitatibus nostrum quaerat qui reiciendis suscipit ullam. Accusamus, consectetur error esse facilis iste modi molestiae natus, non officiis, quae quia quod quos ratione reiciendis rem sequi sit sunt ullam unde voluptatum. Hic id, nobis!</p>
-                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid consectetur est et eum inventore minus molestias nihil obcaecati, odio rem repellat repellendus, suscipit totam? Dolore omnis perferendis vel voluptatem! Commodi corporis distinctio dolor dolorum eius eligendi enim exercitationem explicabo in incidunt ipsam, iusto labore molestias necessitatibus neque possimus, quod rem repellendus repudiandae tempore. Ad beatae blanditiis facilis libero nulla omnis quis tempore. Adipisci, consequuntur ipsum iure necessitatibus nostrum quaerat qui reiciendis suscipit ullam. Accusamus, consectetur error esse facilis iste modi molestiae natus, non officiis, quae quia quod quos ratione reiciendis rem sequi sit sunt ullam unde voluptatum. Hic id, nobis!</p>
+                            <div id="members" class="top-top-container slickscroll">
+                                <table>
+                                    <tbody>
+                                    <tr class="top">
+                                        <td class="top-place">1.</td>
+                                        <td class="top-photo"><img src="images/top_photo.png" alt="" width="39" height="39"/></td>
+                                        <td class="top-name">Анатоли</td>
+                                        <td class="top-prize">9</td>
+                                        <td><img class="top-vase" src="images/vase@2x.png" alt="" width="23" height="24"/><span class="top-1">11</span><span class="top-2">/35</span></td>
+                                        <td class="regional-map"><img src="images/map_point@2x.png" alt="" width="13" height="19"/><span class="top-map-span">Москва, Россия</span></td>
+                                        <td>7</td>
+                                    </tr>
+                                    <tr class="top">
+                                        <td class="top-place">2.</td>
+                                        <td class="top-photo"><img src="images/top_photo.png" alt="" width="39" height="39"/></td>
+                                        <td class="top-name">Анатоли</td>
+                                        <td class="top-prize">9</td>
+                                        <td><img class="top-vase" src="images/vase@2x.png" alt="" width="23" height="24"/><span class="top-1">11</span><span class="top-2">/35</span></td>
+                                        <td class="regional-map"><img src="images/map_point@2x.png" alt="" width="13" height="19"/><span class="top-map-span">Москва, Россия</span></td>
+                                        <td>7</td>
+                                    </tr>
+                                    <tr class="top">
+                                        <td class="top-place">3.</td>
+                                        <td class="top-photo"><img src="images/top_photo.png" alt="" width="39" height="39"/></td>
+                                        <td class="top-name">Анатоли</td>
+                                        <td class="top-prize">9</td>
+                                        <td><img class="top-vase" src="images/vase@2x.png" alt="" width="23" height="24"/><span class="top-1">11</span><span class="top-2">/35</span></td>
+                                        <td class="regional-map"><img src="images/map_point@2x.png" alt="" width="13" height="19"/><span class="top-map-span">Москва, Россия</span></td>
+                                        <td>7</td>
+                                    </tr>
+                                    <tr class="top">
+                                        <td class="top-place">4.</td>
+                                        <td class="top-photo"><img src="images/top_photo.png" alt="" width="39" height="39"/></td>
+                                        <td class="top-name">Анатоли</td>
+                                        <td class="top-prize">9</td>
+                                        <td><img class="top-vase" src="images/vase@2x.png" alt="" width="23" height="24"/><span class="top-1">11</span><span class="top-2">/35</span></td>
+                                        <td class="regional-map"><img src="images/map_point@2x.png" alt="" width="13" height="19"/><span class="top-map-span">Москва, Россия</span></td>
+                                        <td>7</td>
+                                    </tr>
+                                    <tr class="top">
+                                        <td class="top-place">5.</td>
+                                        <td class="top-photo"><img src="images/top_photo.png" alt="" width="39" height="39"/></td>
+                                        <td class="top-name">Анатоли</td>
+                                        <td class="top-prize">9</td>
+                                        <td><img class="top-vase" src="images/vase@2x.png" alt="" width="23" height="24"/><span class="top-1">11</span><span class="top-2">/35</span></td>
+                                        <td class="regional-map"><img src="images/map_point@2x.png" alt="" width="13" height="19"/><span class="top-map-span">Москва, Россия</span></td>
+                                        <td>7</td>
+                                    </tr>
+                                    <tr class="top">
+                                        <td class="top-place">6.</td>
+                                        <td class="top-photo"><img src="images/top_photo.png" alt="" width="39" height="39"/></td>
+                                        <td class="top-name">Анатоли</td>
+                                        <td class="top-prize">9</td>
+                                        <td><img class="top-vase" src="images/vase@2x.png" alt="" width="23" height="24"/><span class="top-1">11</span><span class="top-2">/35</span></td>
+                                        <td class="regional-map"><img src="images/map_point@2x.png" alt="" width="13" height="19"/><span class="top-map-span">Москва, Россия</span></td>
+                                        <td>7</td>
+                                    </tr>
+                                    <tr class="top">
+                                        <td class="top-place">7.</td>
+                                        <td class="top-photo"><img src="images/top_photo.png" alt="" width="39" height="39"/></td>
+                                        <td class="top-name">Анатоли</td>
+                                        <td class="top-prize">9</td>
+                                        <td><img class="top-vase" src="images/vase@2x.png" alt="" width="23" height="24"/><span class="top-1">11</span><span class="top-2">/35</span></td>
+                                        <td class="regional-map"><img src="images/map_point@2x.png" alt="" width="13" height="19"/><span class="top-map-span">Москва, Россия</span></td>
+                                        <td>7</td>
+                                    </tr>
+                                    </tbody>
+                                </table>
                             </div>
                             </div>
                             <div class="tab-pane fade" id="local-tab">2</div>

@@ -428,4 +428,5 @@ $('#tab-content').css({"border-top-left-radius":"14px"});
     if ($("#li-1").hasClass("active")) {
         $('#tab-content').css({"border-top-left-radius":"0"});
     }
+
 });

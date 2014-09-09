@@ -2124,5 +2124,73 @@ button.btn.btn-arrow {
 .top-top-container {
     width: 560px;
     height: 274px;
-    overflow: overlay;
+    overflow: auto;
+}
+
+tr.top {
+    height: 54px;
+    border-bottom: 3px solid #E5E9EA;
+
+}
+
+td.top-place {
+    font-size: 21px;
+    color: #808B91;
+    font-weight: 800;
+    text-align: left;
+    width: 5%
+}
+
+td.top-photo {
+    width: 10%;
+
+}
+
+td.top-name {
+    font-size: 16px;
+    color: #4E89C3;
+    font-weight: 800;
+    text-align: left;
+    width: 10%;
+}
+
+td.top-prize {
+    background-position: 12px 12px;
+    background-image: url('../images/top_star.png');
+    background-repeat: no-repeat;
+    background-size: 29px 29px;
+    width: 20%;
+    font-size: 21px;
+    color: #808B91;
+    font-weight: 800;
+}
+
+.top-1, .top-2 {
+    font-weight: 800;
+    font-size: 18px;
+}
+
+.top-1 {
+    color: #4985C2;
+}
+
+.top-2{
+    color: #BDC1C2;
+}
+
+
+img.top-vase {
+    position: relative;
+    margin-right: 5px;
+    top: -1px;
+}
+
+.top-map-span {
+    color: #7E898E;
+    padding-left: 6px;
+
+}
+
+td.regional-map {
+    width: 30%;
 }

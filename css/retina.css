@@ -251,6 +251,16 @@ only screen and (                min-resolution: 2dppx) {
         background-size: 324px 155px;
     }
 
+    td.top-prize {
+        background-position: 10px 7px;
+        background-image: url('../images/top_star@2x.png');
+        background-repeat: no-repeat;
+        background-size: 29px 29px;
+        width: 20%;
+        font-size: 21px;
+        color: #808B91;
+        font-weight: 800;
+    }
 
 
 
