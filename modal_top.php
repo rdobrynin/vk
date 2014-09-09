@@ -29,77 +29,77 @@
                                     <tbody>
                                     <tr class="top">
                                         <td class="top-place">1.</td>
-                                        <td class="top-photo"><a href="#"><img src="images/top_photo.png" alt="" width="39" height="39"/></a></td>
+                                        <td class="top-photo"><a href="#"><img src="images/top_photo@2x.png" alt="" width="39" height="39"/></a></td>
                                         <td class="top-name"><a href="#">Анатолий</a></td>
                                         <td class="top-prize">9</td>
                                         <td style="width: 20%;"><img class="top-vase" src="images/vase@2x.png" alt="" width="23" height="24"/><span class="top-1">11</span><span class="top-2">/35</span></td>
-                                        <td class="regional-map"><img src="images/map_point@2x.png" alt="" width="13" height="19"/><span class="top-map-span">Москва, Россия</span></td>
+                                        <td class="regional-map"><img class="map-img" src="images/map_point.png" alt="" width="13" height="19"/><span class="top-map-span">Москва, Россия</span></td>
                                         <td class="topvk"><button class="btn top-btn-vk" data-original-title="" title="">
                                                 <img src="images/vk_profile_btn.png" class="top-btn-vk-img" alt="" width="19" height="22">
                                             </button></td>
                                     </tr>
                                     <tr class="top">
                                         <td class="top-place">2.</td>
-                                        <td class="top-photo"><a href="#"><img src="images/top_photo.png" alt="" width="39" height="39"/></a></td>
+                                        <td class="top-photo"><a href="#"><img src="images/top_photo@2x.png" alt="" width="39" height="39"/></a></td>
                                         <td class="top-name"><a href="#">Анатолий</a></td>
                                         <td class="top-prize">9</td>
                                         <td style="width: 20%;"><img class="top-vase" src="images/vase@2x.png" alt="" width="23" height="24"/><span class="top-1">11</span><span class="top-2">/35</span></td>
-                                        <td class="regional-map"><img src="images/map_point@2x.png" alt="" width="13" height="19"/><span class="top-map-span">Москва, Россия</span></td>
+                                        <td class="regional-map"><img class="map-img" src="images/map_point.png" alt="" width="13" height="19"/><span class="top-map-span">Москва, Россия</span></td>
                                         <td class="topvk"><button class="btn top-btn-vk" data-original-title="" title="">
                                                 <img src="images/vk_profile_btn.png" class="top-btn-vk-img" alt="" width="19" height="22">
                                             </button></td>
                                     </tr>
                                     <tr class="top">
                                         <td class="top-place">3.</td>
-                                        <td class="top-photo"><a href="#"><img src="images/top_photo.png" alt="" width="39" height="39"/></a></td>
+                                        <td class="top-photo"><a href="#"><img src="images/top_photo@2x.png" alt="" width="39" height="39"/></a></td>
                                         <td class="top-name"><a href="#">Анатолий</a></td>
                                         <td class="top-prize">9</td>
                                         <td style="width: 20%;"><img class="top-vase" src="images/vase@2x.png" alt="" width="23" height="24"/><span class="top-1">11</span><span class="top-2">/35</span></td>
-                                        <td class="regional-map"><img src="images/map_point@2x.png" alt="" width="13" height="19"/><span class="top-map-span">Москва, Россия</span></td>
+                                        <td class="regional-map"><img class="map-img" src="images/map_point.png" alt="" width="13" height="19"/><span class="top-map-span">Москва, Россия</span></td>
                                         <td class="topvk"><button class="btn top-btn-vk" data-original-title="" title="">
                                                 <img src="images/vk_profile_btn.png" class="top-btn-vk-img" alt="" width="19" height="22">
                                             </button></td>
                                     </tr>
                                     <tr class="top">
                                         <td class="top-place">4.</td>
-                                        <td class="top-photo"><a href="#"><img src="images/top_photo.png" alt="" width="39" height="39"/></a></td>
+                                        <td class="top-photo"><a href="#"><img src="images/top_photo@2x.png" alt="" width="39" height="39"/></a></td>
                                         <td class="top-name"><a href="#">Анатолий</a></td>
                                         <td class="top-prize">9</td>
                                         <td style="width: 20%;"><img class="top-vase" src="images/vase@2x.png" alt="" width="23" height="24"/><span class="top-1">11</span><span class="top-2">/35</span></td>
-                                        <td class="regional-map"><img src="images/map_point@2x.png" alt="" width="13" height="19"/><span class="top-map-span">Москва, Россия</span></td>
+                                        <td class="regional-map"><img class="map-img" src="images/map_point.png" alt="" width="13" height="19"/><span class="top-map-span">Москва, Россия</span></td>
                                         <td class="topvk"><button class="btn top-btn-vk" data-original-title="" title="">
                                                 <img src="images/vk_profile_btn.png" class="top-btn-vk-img" alt="" width="19" height="22">
                                             </button></td>
                                     </tr>
                                     <tr class="top">
                                         <td class="top-place">5.</td>
-                                        <td class="top-photo"><a href="#"><img src="images/top_photo.png" alt="" width="39" height="39"/></a></td>
+                                        <td class="top-photo"><a href="#"><img src="images/top_photo@2x.png" alt="" width="39" height="39"/></a></td>
                                         <td class="top-name"><a href="#">Анатолий</a></td>
                                         <td class="top-prize">9</td>
                                         <td style="width: 20%;"><img class="top-vase" src="images/vase@2x.png" alt="" width="23" height="24"/><span class="top-1">11</span><span class="top-2">/35</span></td>
-                                        <td class="regional-map"><img src="images/map_point@2x.png" alt="" width="13" height="19"/><span class="top-map-span">Москва, Россия</span></td>
+                                        <td class="regional-map"><img class="map-img" src="images/map_point.png" alt="" width="13" height="19"/><span class="top-map-span">Москва, Россия</span></td>
                                         <td class="topvk"><button class="btn top-btn-vk" data-original-title="" title="">
                                                 <img src="images/vk_profile_btn.png" class="top-btn-vk-img" alt="" width="19" height="22">
                                             </button></td>
                                     </tr>
                                     <tr class="top">
                                         <td class="top-place">6.</td>
-                                        <td class="top-photo"><a href="#"><img src="images/top_photo.png" alt="" width="39" height="39"/></a></td>
+                                        <td class="top-photo"><a href="#"><img src="images/top_photo@2x.png" alt="" width="39" height="39"/></a></td>
                                         <td class="top-name"><a href="#">Анатолий</a></td>
                                         <td class="top-prize">9</td>
                                         <td style="width: 20%;"><img class="top-vase" src="images/vase@2x.png" alt="" width="23" height="24"/><span class="top-1">11</span><span class="top-2">/35</span></td>
-                                        <td class="regional-map"><img src="images/map_point@2x.png" alt="" width="13" height="19"/><span class="top-map-span">Москва, Россия</span></td>
+                                        <td class="regional-map"><img class="map-img" src="images/map_point.png" alt="" width="13" height="19"/><span class="top-map-span">Москва, Россия</span></td>
                                         <td class="topvk"><button class="btn top-btn-vk" data-original-title="" title="">
                                                 <img src="images/vk_profile_btn.png" class="top-btn-vk-img" alt="" width="19" height="22">
                                             </button></td>
                                     </tr>
                                     <tr class="top">
                                         <td class="top-place">7.</td>
-                                        <td class="top-photo"><a href="#"><img src="images/top_photo.png" alt="" width="39" height="39"/></a></td>
+                                        <td class="top-photo"><a href="#"><img src="images/top_photo@2x.png" alt="" width="39" height="39"/></a></td>
                                         <td class="top-name"><a href="#">Анатолий</a></td>
                                         <td class="top-prize">9</td>
                                         <td style="width: 20%;"><img class="top-vase" src="images/vase@2x.png" alt="" width="23" height="24"/><span class="top-1">11</span><span class="top-2">/35</span></td>
-                                        <td class="regional-map"><img src="images/map_point@2x.png" alt="" width="13" height="19"/><span class="top-map-span">Москва, Россия</span></td>
+                                        <td class="regional-map"><img class="map-img" src="images/map_point.png" alt="" width="13" height="19"/><span class="top-map-span">Москва, Россия</span></td>
                                         <td class="topvk"><button class="btn top-btn-vk" data-original-title="" title="">
                                                 <img src="images/vk_profile_btn.png" class="top-btn-vk-img" alt="" width="19" height="22">
                                             </button></td>
@@ -107,11 +107,11 @@
                                     <tr class="top"></tr>
                                     <tr class="top myplace">
                                         <td class="top-place">1238.</td>
-                                        <td class="top-photo"><a href="#"><img src="images/top_photo.png" alt="" width="39" height="39"/></a></td>
+                                        <td class="top-photo"><a href="#"><img src="images/top_photo@2x.png" alt="" width="39" height="39"/></a></td>
                                         <td class="top-name"><a href="#">Роман</a></td>
                                         <td class="top-prize">9</td>
                                         <td style="width: 20%;"><img class="top-vase" src="images/vase@2x.png" alt="" width="23" height="24"/><span class="top-1">11</span><span class="top-2">/35</span></td>
-                                        <td class="regional-map"><img src="images/map_point@2x.png" alt="" width="13" height="19"/><span class="top-map-span">Таллин, Эстония</span></td>
+                                        <td class="regional-map"><img class="map-img" src="images/map_point.png" alt="" width="13" height="19"/><span class="top-map-span">Таллин, Эстония</span></td>
                                         <td class="topvk"><button class="btn top-btn-vk" data-original-title="" title="">
                                                 <img src="images/vk_profile_btn.png" class="top-btn-vk-img" alt="" width="19" height="22">
                                             </button></td>

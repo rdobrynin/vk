@@ -20,7 +20,7 @@
             </div>
             <div class="close-modal-wrapper-level">
                 <button type="button" class=" btn btn-close" data-dismiss="modal">
-                    <img id="modal-level-close" src="images/modal_close.png" alt="" width="21" height="20"/>
+                    <img id="modal-level-close" src="images/close_pallette.png" alt="" width="17" height="18"/>
                 </button>
             </div>
             <span class="new-level">Новый уровень</span>

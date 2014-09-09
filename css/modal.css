@@ -516,7 +516,6 @@
     position: absolute;
     float: left;
     top: -24px;
-    /* z-index: 9999; */
     left: 0;
     background-image: url('../images/top_bg.png');
     background-repeat: no-repeat;
@@ -640,11 +639,18 @@
     position: relative;
 }
 
-img#modal-buy-close, img#modal-level-close {
+img#modal-buy-close {
     position: absolute;
     margin: 0 auto;
     left: 3px;
-    top: 3px;
+    top: 4px;
+}
+
+img#modal-level-close {
+    position: absolute;
+    margin: 0 auto;
+    left: 5px;
+    top: 5px;
 }
 
 .modal-title {

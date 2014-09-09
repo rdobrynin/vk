@@ -153,18 +153,7 @@ only screen and (                min-resolution: 2dppx) {
         background-position: -97px -12px;
     }
 
-    .new-level {
-        background-image: url('../images/text_new_level@2x.png');
-        background-repeat: no-repeat;
-        background-size: 137px 22px;
-        background-position: center;
-        display: block;
-        position: relative;
-        width: 137px;
-        height: 22px;
-        margin: 0 auto;
-        left: 10px;
-    }
+
     #gift-cell-1 {
         background-position: -469px -66px;
         background-image: url('../images/gift_sprite@2x.png');
@@ -252,7 +241,7 @@ only screen and (                min-resolution: 2dppx) {
     }
 
     td.top-prize {
-        background-position: 10px 7px;
+        background-position: 10px 11px;
         background-image: url('../images/top_star@2x.png');
         background-repeat: no-repeat;
         background-size: 29px 29px;
@@ -260,6 +249,20 @@ only screen and (                min-resolution: 2dppx) {
         font-size: 21px;
         color: #808B91;
         font-weight: 800;
+    }
+
+    .modal-left-top-top-img {
+        position: absolute;
+        float: left;
+        top: -24px;
+        left: 0;
+        background-image: url('../images/top_bg@2x.png');
+        background-repeat: no-repeat;
+        background-size: 107px 73px;
+        background-position: center;
+        width: 101px;
+        height: 100px;
+
     }
 
 

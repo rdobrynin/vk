@@ -3,17 +3,16 @@ $(window).on("load", function() {
     if (pixelRatio > 1) {
         $('#top-chest').attr('src', $('#top-chest').attr('src').replace(".png","@2x.png"));
         $('#gold-gift').attr('src', $('#gold-gift').attr('src').replace(".png","@2x.png"));
-        $('#text-buy-coins').attr('src', $('#text-buy-coins').attr('src').replace(".png","@2x.png"));
+
         $('#modal-buy-close').attr('src', $('#modal-buy-close').attr('src').replace(".png","@2x.png"));
         $('#modal-level-close').attr('src', $('#modal-level-close').attr('src').replace(".png","@2x.png"));
         $('#modal-profile-close').attr('src', $('#modal-profile-close').attr('src').replace(".png","@2x.png"));
         $('#modal-gift-close').attr('src', $('#modal-gift-close').attr('src').replace(".png","@2x.png"));
-        $('#new-instrument-1').attr('src', $('#new-instrument-1').attr('src').replace(".png","@2x.png"));
-        $('#new-instrument-2').attr('src', $('#new-instrument-2').attr('src').replace(".png","@2x.png"));
+
+
         $('.left-col-btn-present-img').attr('src', $('.left-col-btn-present-img').attr('src').replace(".png","@2x.png"));
         $('.left-col-btn-vk-img').attr('src', $('.left-col-btn-vk-img').attr('src').replace(".png","@2x.png"));
         $('.left-col-btn-vase-img').attr('src', $('.left-col-btn-vase-img').attr('src').replace(".png","@2x.png"));
-        $('#modal-palette-title').attr('src', $('#modal-palette-title').attr('src').replace(".png","@2x.png"));
         $('#title-choose-color').attr('src', $('#title-choose-color').attr('src').replace(".png","@2x.png"));
         $('#title-choose-tint').attr('src', $('#title-choose-tint').attr('src').replace(".png","@2x.png"));
         $('#top-gift-img').attr('src', $('#top-gift-img').attr('src').replace(".png","@2x.png"));
@@ -21,8 +20,9 @@ $(window).on("load", function() {
         $('#ok_false').attr('src', $('#ok_false').attr('src').replace(".png","@2x.png"));
         $('.gift-costs-img').attr('src', $('.gift-costs-img').attr('src').replace(".png","@2x.png"));
         $('#modal-top-close').attr('src', $('#modal-top-close').attr('src').replace(".png","@2x.png"));
-        $('#top-top-img').attr('src', $('#top-top-img').attr('src').replace(".png","@2x.png"));
+//        $('#top-top-img').attr('src', $('#top-top-img').attr('src').replace(".png","@2x.png"));
         $('.top-btn-vk-img').attr('src', $('.top-btn-vk-img').attr('src').replace(".png","@2x.png"));
+        $('.map-img').attr('src', $('.map-img').attr('src').replace(".png","@2x.png"));
         $('body').addClass('retina');
     }
 });
