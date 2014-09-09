@@ -14,6 +14,8 @@
     <link href="css/style.css" rel="stylesheet">
     <link href="css/elements.css" rel="stylesheet">
     <link href="css/modal.css" rel="stylesheet">
+    <link rel="stylesheet" href="http://malihu.github.io/custom-scrollbar/jquery.mCustomScrollbar.min.css" />
+    <link href="css/jquery.mCustomScrollbar.css" rel="stylesheet">
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
     <link href="css/retina.css" rel="stylesheet">
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
@@ -467,10 +469,12 @@
 <?php include('modal_palette.php')?>
 <?php include('modal_gift.php')?>
 <?php include('modal_top.php')?>
+
 <script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
 <script src="//oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
 <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
 <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
 <script src="js/function.js"></script>
 <script src="js/canvas.js"></script>
 <script src="js/script.js"></script>

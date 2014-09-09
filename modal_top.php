@@ -24,7 +24,7 @@
 <!--CONTENT-->
                         <div class="tab-content" id="tab-content">
                             <div class="tab-pane active" id="global-tab">
-                            <div id="members" class="top-top-container slickscroll">
+                            <div id="members" class="top-top-container">
                                 <table>
                                     <tbody>
                                     <tr class="top">

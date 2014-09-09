@@ -29,6 +29,12 @@ $(window).on("load", function() {
 
 $(window).load(function(){
 //    $('#modal-username').modal('show');
+    $("#members").mCustomScrollbar({
+        scrollButtons:{enable:true,scrollType:"stepped"},
+        keyboard:{scrollType:"stepped"},
+        theme:"rounded-dark"
+
+    });
 });
 
 //restrict selection
@@ -77,6 +83,7 @@ if ($.browser.msie  && parseInt($.browser.version, 10) === 7 ) {
 }
 
 $(function () {
+
     $('.btn-trash').click(function () {
         $(".timer").text(plz(0) + ":" + plz(0));
     });
