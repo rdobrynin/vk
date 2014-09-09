@@ -20,7 +20,6 @@ $(window).on("load", function() {
         $('#ok_false').attr('src', $('#ok_false').attr('src').replace(".png","@2x.png"));
         $('.gift-costs-img').attr('src', $('.gift-costs-img').attr('src').replace(".png","@2x.png"));
         $('#modal-top-close').attr('src', $('#modal-top-close').attr('src').replace(".png","@2x.png"));
-//        $('#top-top-img').attr('src', $('#top-top-img').attr('src').replace(".png","@2x.png"));
         $('.top-btn-vk-img').attr('src', $('.top-btn-vk-img').attr('src').replace(".png","@2x.png"));
         $('.map-img').attr('src', $('.map-img').attr('src').replace(".png","@2x.png"));
         $('body').addClass('retina');
