@@ -1652,3 +1652,20 @@ div#mCSB_1_dragger_vertical {
     -moz-box-shadow: 0 3px 0 rgb(87, 87, 87);
     box-shadow: 0 3px 0 rgb(87, 87, 87);
 }
+
+.mCSB_scrollTools .mCSB_draggerRail {
+    width: 3px !important;
+    height: 100%;
+    margin: 0 auto;
+    -webkit-border-radius: 16px;
+    -moz-border-radius: 16px;
+    border-radius: 16px;
+}
+
+.mCS-rounded-dark.mCSB_scrollTools .mCSB_draggerRail {
+    background-color: #E5E9EA !important;
+}
+
+.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {
+    left: 1px !important;
+}
