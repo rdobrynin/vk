@@ -2274,10 +2274,10 @@ tr.top {
 }
 
 td.top-place {
-    font-size: 21px;
+    font-size: 18px;
     color: #808B91;
     font-weight: 800;
-    text-align: left;
+    text-align: right;
     width: 5%
 }
 
@@ -2332,6 +2332,7 @@ img.top-vase {
     color: #7E898E;
     padding-left: 6px;
     text-align: left;
+    font-size: 12px;
 
 }
 
@@ -2384,12 +2385,13 @@ td.regional-map {
 td.topvk {
     margin-left: 4px;
     position: relative;
-    left: 4px;
+    left: -5px;
     top: 2px;
 }
 
 tr.top.myplace {
     border-top: 3px solid #E5E9EA;
+    background-color: #fffae4;
 }
 
 td.top-name {
