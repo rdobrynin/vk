@@ -17,6 +17,7 @@ $(window).on("load", function() {
         $('#title-choose-tint').attr('src', $('#title-choose-tint').attr('src').replace(".png","@2x.png"));
         $('#top-gift-img').attr('src', $('#top-gift-img').attr('src').replace(".png","@2x.png"));
         $('#ok_true').attr('src', $('#ok_true').attr('src').replace(".png","@2x.png"));
+        $('#modal-answer-star').attr('src', $('#modal-answer-star').attr('src').replace(".png","@2x.png"));
         $('#ok_false').attr('src', $('#ok_false').attr('src').replace(".png","@2x.png"));
         $('.gift-costs-img').attr('src', $('.gift-costs-img').attr('src').replace(".png","@2x.png"));
         $('#modal-top-close').attr('src', $('#modal-top-close').attr('src').replace(".png","@2x.png"));
@@ -27,7 +28,7 @@ $(window).on("load", function() {
 });
 
 $(window).load(function(){
-    $('#modal-top').modal('show');
+    $('#modal-answer').modal('show');
     $("#members").mCustomScrollbar({
         theme:"rounded-dark",
         scrollButtons:{
@@ -82,6 +83,10 @@ if ($.browser.msie  && parseInt($.browser.version, 10) === 7 ) {
 }
 
 $(function () {
+
+    $('.place-icon').click(function () {
+        $('#modal-top').modal('show');
+    });
 
     $('.btn-trash').click(function () {
         $(".timer").text(plz(0) + ":" + plz(0));
