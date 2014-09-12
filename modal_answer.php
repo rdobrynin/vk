@@ -24,11 +24,11 @@
                 </div>
             </div>
             <div class="right-answer-wrapper">
-              <div class="answer-btn-wrapper">  <button class="btn btn-answer">Вариант ответа</button></div>
-                <div class="answer-btn-wrapper">  <button class="btn btn-answer">Вариант ответа</button></div>
-                <div class="answer-btn-wrapper">  <button class="btn btn-answer">Вариант ответа</button></div>
-                <div class="answer-btn-wrapper">  <button class="btn btn-answer">Вариант ответа</button></div>
-                <div class="answer-btn-wrapper">  <button class="btn btn-answer">Вариант ответа</button></div>
+              <div class="answer-btn-wrapper">  <button class="btn btn-answer" id="bnt-answer-1">Вариант ответа</button></div>
+                <div class="answer-btn-wrapper">  <button class="btn btn-answer" id="bnt-answer-2">Вариант ответа</button></div>
+                <div class="answer-btn-wrapper">  <button class="btn btn-answer" id="bnt-answer-3">Вариант ответа</button></div>
+                <div class="answer-btn-wrapper">  <button class="btn btn-answer" id="bnt-answer-4">Вариант ответа</button></div>
+                <div class="answer-btn-wrapper">  <button class="btn btn-answer" id="bnt-answer-5">Вариант ответа</button></div>
                 <div class="bottom-right-answer">
 <span>Осталось времени на ответ</span>
                 </div>
@@ -38,3 +38,19 @@
     </div>
 </div>
 <!-- END Modal ANSWER-->
+
+<!-- Modal ANSWER-TRUE-->
+<div class="modal fade" id="modal-answer-true" tabindex="-1" role="dialog" data-backdrop="false"  aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="answer-true-static">
+    <div class="modal-dialog">
+        <div class="modal-content" id="modal-atrue-content">
+
+            <div class="modal-body">
+             <div id="testClick">click</div>
+            </div>
+
+        </div>
+    </div>
+        </div>
+</div>
+<!--END  Modal ANSWER-TRUE-->

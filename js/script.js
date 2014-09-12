@@ -88,6 +88,10 @@ $(function () {
         $('#modal-top').modal('show');
     });
 
+    $('.btn-answer').click(function () {
+        $('#modal-answer-true').modal('show');
+    });
+
     $('.btn-trash').click(function () {
         $(".timer").text(plz(0) + ":" + plz(0));
     });
@@ -440,5 +444,22 @@ $('#tab-content').css({"border-top-left-radius":"14px"});
     if ($("#li-1").hasClass("active")) {
         $('#tab-content').css({"border-top-left-radius":"0"});
     }
+
+    $('#bnt-answer-1, #bnt-answer-2').click(function () {
+        $(this).css({"text-decoration":"line-through", "height":"42px"});
+        $(this).prop("disabled", true);
+        $(this).append('<img class="img-answer-no" src="images/no_answer.png" alt="" width="29" height="29"/>');
+    });
+
+    $('#bnt-answer-3, #bnt-answer-4,  #bnt-answer-5').click(function () {
+        $(this).css({"text-decoration":"line-through", "height":"42px"});
+        $(this).prop("disabled", true);
+        $(this).append('<img class="img-answer-yes" src="images/yes_answer.png" alt="" width="19" height="19"/>');
+    });
+
+
+    $('#testClick').click(function () {
+        $('#modal-answer-true').modal('hide');
+    });
 
 });
