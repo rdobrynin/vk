@@ -23,9 +23,15 @@
                     </div>
                 </div>
             </div>
-
             <div class="right-answer-wrapper">
-                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Amet atque aut beatae facere illo laboriosam, laborum, libero necessitatibus porro quo totam, unde veritatis? Adipisci doloremque fugit incidunt mollitia natus repellat.</p>
+              <div class="answer-btn-wrapper">  <button class="btn btn-answer">Вариант ответа</button></div>
+                <div class="answer-btn-wrapper">  <button class="btn btn-answer">Вариант ответа</button></div>
+                <div class="answer-btn-wrapper">  <button class="btn btn-answer">Вариант ответа</button></div>
+                <div class="answer-btn-wrapper">  <button class="btn btn-answer">Вариант ответа</button></div>
+                <div class="answer-btn-wrapper">  <button class="btn btn-answer">Вариант ответа</button></div>
+                <div class="bottom-right-answer">
+<span>Осталось времени на ответ</span>
+                </div>
             </div>
         </div>
         <!-- END Modal ANSWER wrapper-->
