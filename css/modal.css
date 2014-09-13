@@ -2650,3 +2650,82 @@ img.img-answer-yes {
     top: 0;
     right: 4px;
 }
+
+.answer-true-body {
+    width: 100%;
+    height: 167px;
+    position: relative;
+    margin: 0 auto;
+}
+
+.answer-row {
+    display: block;
+    position: relative;
+    margin: 0 auto;
+    text-align: center;
+    margin-bottom: 22px;
+}
+
+img.img-answer-yes-row {
+    top: -2px;
+    position: relative;
+}
+
+.btn-ranswer, .btn-ranswer:hover, .btn-ranswer:focus {
+    width: 100%;
+    text-transform: none ;
+}
+
+.btn-ranswer-wrapper {
+    padding-bottom: 4px;
+    background-color: #ddd;
+    text-align: left;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    width: 293px;
+    margin: 0 auto;
+}
+
+.btn-ranswer-wrapper-green {
+    padding-bottom: 4px;
+    background-color: #ddd;
+    text-align: left;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    width: 185px;
+    margin: 0 auto;
+}
+
+.btn-riu-modal-primary.green {
+    position: relative;
+    height: 43px;
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    background-color: #5EC502;
+    border-bottom: 3px solid #4DAE02;
+    padding-top: 8px;
+    text-shadow: 0 0 0.5px #4DAE02,
+    0 0 0.5px #4DAE02,
+    0 0 0.6px #4DAE02,
+    0.2px 0 0.5px #4DAE02,
+    0.2px 0 0.6px #4DAE02,
+    0.4px 0 0.5px #4DAE02,
+    -0.2px 0 0.5px #4DAE02,
+    -0.4px 0 0.5px #4DAE02,
+    0 0.2px 0.5px #4DAE02,
+    0 0.4px 0.5px #4DAE02,
+    0 -0.2px 0.5px #4DAE02,
+    0 -0.4px 0.5px #4DAE02,
+    0 0.2px 0.5px #4DAE02,
+    0 0.4px 0.5px #4DAE02,
+    0 0.6px 0.5px #4DAE02,
+    0 1.2px 0.5px #4DAE02,
+    0 1.6px 0.5px #4DAE02,
+    0 2.0px 0.5px #4DAE02,
+    0 2.2px 0.5px #4DAE02;
+}
+
+

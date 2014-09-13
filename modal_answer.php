@@ -24,13 +24,23 @@
                 </div>
             </div>
             <div class="right-answer-wrapper">
-              <div class="answer-btn-wrapper">  <button class="btn btn-answer" id="bnt-answer-1">Вариант ответа</button></div>
-                <div class="answer-btn-wrapper">  <button class="btn btn-answer" id="bnt-answer-2">Вариант ответа</button></div>
-                <div class="answer-btn-wrapper">  <button class="btn btn-answer" id="bnt-answer-3">Вариант ответа</button></div>
-                <div class="answer-btn-wrapper">  <button class="btn btn-answer" id="bnt-answer-4">Вариант ответа</button></div>
-                <div class="answer-btn-wrapper">  <button class="btn btn-answer" id="bnt-answer-5">Вариант ответа</button></div>
+                <div class="answer-btn-wrapper">
+                    <button class="btn btn-answer" id="bnt-answer-1">Вариант ответа</button>
+                </div>
+                <div class="answer-btn-wrapper">
+                    <button class="btn btn-answer" id="bnt-answer-2">Вариант ответа</button>
+                </div>
+                <div class="answer-btn-wrapper">
+                    <button class="btn btn-answer" id="bnt-answer-3">Вариант ответа</button>
+                </div>
+                <div class="answer-btn-wrapper">
+                    <button class="btn btn-answer" id="bnt-answer-4">Вариант ответа</button>
+                </div>
+                <div class="answer-btn-wrapper">
+                    <button class="btn btn-answer" id="bnt-answer-5">Вариант ответа</button>
+                </div>
                 <div class="bottom-right-answer">
-<span>Осталось времени на ответ</span>
+                    <span>Осталось времени на ответ</span>
                 </div>
             </div>
         </div>
@@ -38,19 +48,32 @@
     </div>
 </div>
 <!-- END Modal ANSWER-->
-
 <!-- Modal ANSWER-TRUE-->
-<div class="modal fade" id="modal-answer-true" tabindex="-1" role="dialog" data-backdrop="false"  aria-labelledby="myModalLabel" aria-hidden="true">
+<div class="modal fade" id="modal-answer-true" tabindex="-1" role="dialog" data-backdrop="false" aria-labelledby="myModalLabel" aria-hidden="true">
     <div class="answer-true-static">
-    <div class="modal-dialog">
-        <div class="modal-content" id="modal-atrue-content">
-
-            <div class="modal-body">
-             <div id="testClick">click</div>
+        <div class="modal-dialog">
+            <div class="modal-content" id="modal-atrue-content">
+                <div class="modal-body">
+                    <div class="answer-true-body">
+                        <div class="answer-row">
+                            <img class="img-answer-yes-row" src="images/no_answer.png" alt="" width="29" height="29"/>&nbsp;&nbsp;&nbsp;
+                            <span style="font-weight: 800; color: #7f8a90; font-size: 16px;">Вы ответили неверно</span>
+                        </div>
+                        <div class="answer-row">
+                            <div class="btn-ranswer-wrapper">
+                                <button class="btn btn-riu-modal-primary btn-ranswer">Повторить попытку&nbsp;&nbsp;&nbsp;<img class="gift-costs-img" style="top:1px;" src="images/gift_costs.png" alt="" width="23" height="23"/>&nbsp;15
+                                </button>
+                            </div>
+                        </div>
+                        <div class="answer-row">
+                            <div class="btn-ranswer-wrapper-green">
+                                <button class="btn btn-riu-modal-primary btn-ranswer green">Оставить ответ</button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
-
         </div>
     </div>
-        </div>
 </div>
 <!--END  Modal ANSWER-TRUE-->
