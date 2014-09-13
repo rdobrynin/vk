@@ -54,7 +54,8 @@
         <div class="modal-dialog">
             <div class="modal-content" id="modal-atrue-content">
                 <div class="modal-body">
-                    <div class="answer-true-body">
+<!-- IF FALSE-->
+                    <div class="answer-false-body">
                         <div class="answer-row">
                             <img class="img-answer-yes-row" src="images/no_answer.png" alt="" width="29" height="29"/>&nbsp;&nbsp;&nbsp;
                             <span style="font-weight: 800; color: #7f8a90; font-size: 16px;">Вы ответили неверно</span>
@@ -71,6 +72,28 @@
                             </div>
                         </div>
                     </div>
+<!-- END IF FALSE BODY-->
+
+                    <!-- IF TRUE-->
+                    <div class="answer-true-body">
+                        <div class="answer-row">
+                            <img class="img-answer-yes-row" src="images/yes_answer.png" alt="" width="19" height="19"/>&nbsp;&nbsp;&nbsp;
+                            <span style="font-weight: 800; color: #7f8a90; font-size: 16px;">Вы ответили правильно</span>
+                        </div>
+                        <div class="answer-row">
+                            <div class="answer-present-area">
+                                <span class="answer-present-info"><span style=" font-size: 14px;font-weight: 600;color: #7f8a90; ">Награда</span>
+                                        <img class="img-answer-star" src="images/answer_star.png" alt="" width="34" height="34"/>
+                                    <span style="font-weight: 800;color: #7f8a90; font-size: 18px;">150</span></span>
+                            </div>
+                        </div>
+                        <div class="answer-row">
+                            <div class="btn-ranswer-wrapper-green">
+                                <button class="btn btn-riu-modal-primary btn-ranswer green">Продолжить</button>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- END IF TRUE BODY-->
                 </div>
             </div>
         </div>

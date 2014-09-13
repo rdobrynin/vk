@@ -24,6 +24,7 @@ $(window).on("load", function() {
         $('.top-btn-vk-img').attr('src', $('.top-btn-vk-img').attr('src').replace(".png","@2x.png"));
         $('.map-img').attr('src', $('.map-img').attr('src').replace(".png","@2x.png"));
         $('.img-answer-yes-row').attr('src', $('.img-answer-yes-row').attr('src').replace(".png","@2x.png"));
+        $('.img-answer-star').attr('src', $('.img-answer-star').attr('src').replace(".png","@2x.png"));
         $('body').addClass('retina');
     }
 });
@@ -450,12 +451,16 @@ $('#tab-content').css({"border-top-left-radius":"14px"});
         $(this).css({"text-decoration":"line-through", "height":"42px"});
         $(this).prop("disabled", true);
         $(this).append('<img class="img-answer-no" src="images/no_answer.png" alt="" width="29" height="29"/>');
+        $('.answer-false-body').show();
+        $('.answer-true-body').hide();
     });
 
     $('#bnt-answer-3, #bnt-answer-4,  #bnt-answer-5').click(function () {
         $(this).css({"text-decoration":"line-through", "height":"42px"});
         $(this).prop("disabled", true);
         $(this).append('<img class="img-answer-yes" src="images/yes_answer.png" alt="" width="19" height="19"/>');
+        $('.answer-true-body').show();
+        $('.answer-false-body').hide();
     });
 
 
