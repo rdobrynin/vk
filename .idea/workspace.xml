@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6778edc4-4afe-43d8-bc69-2a652cc0982c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modal_achievments.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/modal.css" afterPath="$PROJECT_DIR$/css/modal.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/retina.css" afterPath="$PROJECT_DIR$/css/retina.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/script.js" afterPath="$PROJECT_DIR$/js/script.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modal_achievments.php" afterPath="$PROJECT_DIR$/modal_achievments.php" />
     </list>
     <ignored path="vk.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,7 +25,7 @@
     <favorites_list name="vk" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.40056416">
+    <splitter split-orientation="horizontal" split-proportion="0.6445698">
       <split-first>
         <leaf>
           <file leaf-file-name="modal_gift.php" pinned="false" current="false" current-in-tab="false">
@@ -53,7 +49,7 @@
           <file leaf-file-name="modal_achievments.php" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/modal_achievments.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="12" column="0" selection-start="691" selection-end="691" vertical-scroll-proportion="0.34005037" vertical-offset="0" max-vertical-offset="1352">
+                <state line="10" column="18" selection-start="507" selection-end="507" vertical-scroll-proportion="0.21377672" vertical-offset="0" max-vertical-offset="1472">
                   <folding />
                 </state>
               </provider>
@@ -104,10 +100,10 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="retina.css" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="retina.css" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/css/retina.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="272" column="0" selection-start="7582" selection-end="7582" vertical-scroll-proportion="0.6658768" vertical-offset="4334" max-vertical-offset="5830">
+                <state line="272" column="0" selection-start="7582" selection-end="7582" vertical-scroll-proportion="0.0" vertical-offset="4334" max-vertical-offset="5855">
                   <folding />
                 </state>
               </provider>
@@ -133,10 +129,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="modal.css" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="modal.css" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/modal.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="484" column="1" selection-start="11422" selection-end="11422" vertical-scroll-proportion="-11.642858" vertical-offset="8386" max-vertical-offset="52836">
+                <state line="2935" column="29" selection-start="65893" selection-end="65893" vertical-scroll-proportion="0.69193155" vertical-offset="52750" max-vertical-offset="54404">
                   <folding />
                 </state>
               </provider>
@@ -207,9 +203,9 @@
         <option value="$PROJECT_DIR$/modal_answer.php" />
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/js/script.js" />
+        <option value="$PROJECT_DIR$/css/retina.css" />
         <option value="$PROJECT_DIR$/modal_achievments.php" />
         <option value="$PROJECT_DIR$/css/modal.css" />
-        <option value="$PROJECT_DIR$/css/retina.css" />
       </list>
     </option>
   </component>
@@ -428,9 +424,9 @@
     <frame x="59" y="24" width="2501" height="1416" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34138972" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34138972" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32930514" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32250756" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32250756" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967034" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.0044770045" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -736,23 +732,23 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/retina.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="272" column="0" selection-start="7582" selection-end="7582" vertical-scroll-proportion="0.0" vertical-offset="4334" max-vertical-offset="5855">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/modal_achievments.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="691" selection-end="691" vertical-scroll-proportion="0.34005037" vertical-offset="0" max-vertical-offset="1352">
+        <state line="10" column="18" selection-start="507" selection-end="507" vertical-scroll-proportion="0.21377672" vertical-offset="0" max-vertical-offset="1472">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/modal.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="484" column="1" selection-start="11422" selection-end="11422" vertical-scroll-proportion="-11.642858" vertical-offset="8386" max-vertical-offset="52836">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/retina.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="272" column="0" selection-start="7582" selection-end="7582" vertical-scroll-proportion="0.6658768" vertical-offset="4334" max-vertical-offset="5830">
+        <state line="2935" column="29" selection-start="65893" selection-end="65893" vertical-scroll-proportion="0.69193155" vertical-offset="52750" max-vertical-offset="54404">
           <folding />
         </state>
       </provider>

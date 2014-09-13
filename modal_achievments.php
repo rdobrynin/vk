@@ -3,8 +3,15 @@
     <div class="modal-dialog"></div>
     <div class="achievements-static">
         <div class="modal-achievements">
-
                 <div class="bg-achievements"></div>
+            <div class="achievements-title">Достижения</div>
+
+            <div class="data-ach-wrapper">
+<span class="ach-amount"></span>
+            </div>
+
+
+
                 <div class="close-modal-wrapper-achievements">
                     <button type="button" class="btn btn-close btn-close-achievements" data-dismiss="modal">
                         <img id="modal-achievements-close" src="images/close.png" alt="" width="19" height="19"/>
