@@ -4,6 +4,7 @@
     <list default="true" id="6778edc4-4afe-43d8-bc69-2a652cc0982c" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/modal.css" afterPath="$PROJECT_DIR$/css/modal.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modal_achievments.php" afterPath="$PROJECT_DIR$/modal_achievments.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="vk.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -49,7 +50,7 @@
           <file leaf-file-name="modal_achievments.php" pinned="false" current="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/modal_achievments.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="10" column="18" selection-start="507" selection-end="507" vertical-scroll-proportion="0.21377672" vertical-offset="0" max-vertical-offset="1472">
+                <state line="30" column="30" selection-start="1411" selection-end="1411" vertical-scroll-proportion="0.6413302" vertical-offset="0" max-vertical-offset="1364">
                   <folding />
                 </state>
               </provider>
@@ -132,7 +133,7 @@
           <file leaf-file-name="modal.css" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/css/modal.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="2935" column="29" selection-start="65893" selection-end="65893" vertical-scroll-proportion="0.69193155" vertical-offset="52750" max-vertical-offset="54404">
+                <state line="2972" column="22" selection-start="66757" selection-end="66757" vertical-scroll-proportion="0.64792174" vertical-offset="53452" max-vertical-offset="54944">
                   <folding />
                 </state>
               </provider>
@@ -204,8 +205,8 @@
         <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/js/script.js" />
         <option value="$PROJECT_DIR$/css/retina.css" />
-        <option value="$PROJECT_DIR$/modal_achievments.php" />
         <option value="$PROJECT_DIR$/css/modal.css" />
+        <option value="$PROJECT_DIR$/modal_achievments.php" />
       </list>
     </option>
   </component>
@@ -741,14 +742,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/modal_achievments.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="18" selection-start="507" selection-end="507" vertical-scroll-proportion="0.21377672" vertical-offset="0" max-vertical-offset="1472">
+        <state line="30" column="30" selection-start="1411" selection-end="1411" vertical-scroll-proportion="0.6413302" vertical-offset="0" max-vertical-offset="1364">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/modal.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2935" column="29" selection-start="65893" selection-end="65893" vertical-scroll-proportion="0.69193155" vertical-offset="52750" max-vertical-offset="54404">
+        <state line="2972" column="22" selection-start="66757" selection-end="66757" vertical-scroll-proportion="0.64792174" vertical-offset="53452" max-vertical-offset="54944">
           <folding />
         </state>
       </provider>

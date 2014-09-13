@@ -2924,17 +2924,19 @@ img.img-answer-star {
 
 .data-ach-wrapper{
     background-color: #4E86C3;
-    position: absolute;
-    min-width: 100px;
+    position: relative;
+    min-width: 80px;
     height: 32px;
-    top: 12px;
-    left: 263px;
-    -webkit-box-shadow:  0 6px 0 #85BEE9;
-    -moz-box-shadow:  0 6px 0 #85BEE9;
-    box-shadow:  0 6px 0 #85BEE9;
+    top: -28px;
+    left: 99px;
+    -webkit-box-shadow: 0 6px 0 #85BEE9;
+    -moz-box-shadow: 0 6px 0 #85BEE9;
+    box-shadow: 0 6px 0 #85BEE9;
     -webkit-border-radius: 20px;
     -moz-border-radius: 20px;
     border-radius: 20px;
+    float: left;
+    margin: 0 auto;
 }
 
 .ach-amount {
@@ -2946,6 +2948,34 @@ img.img-answer-star {
     border-radius: 33px;
     margin: 0 auto;
     top: 4px;
+    color: #fff;
+    font-weight: 800;
+    font-size: 20px;
+    text-align: center;
+    text-transform: capitalize;
+    text-shadow: 1px 1px 1px #1268B5,
+    -0.5px -0.5px 0.5px #1268B5,
+    -0.5px 0.5px 0.5px #1268B5,
+    0.5px -0.5px 0.5px #1268B5,
+    -0.5px 0 0.5px #1268B5,
+    0.5px 0 0.5px #1268B5,
+    0 0.5px 0.5px #1268B5,
+    0 -0.5px 0.5px #1268B5,
+    1.5px 1.5px 1px #609DD5,
+    -1.5px 1.5px 1px #609DD5,
+    1.5px 1.5px 1px #609DD5,
+    1.5px 0 1px #609DD5,
+    2px 0 1px #609DD5,
+    0 2px 1px #609DD5,
+    2px 2px 1px #609DD5,
+    -2px 2px 1px #609DD5,
+    -2px 2px 1px #609DD5,
+    2px 0 1px #609DD5,
+    -2px 0 1px #609DD5,
+    2px 0 1px #609DD5,
+    0 2px 1px #609DD5;
+    padding-right: 6px;
+    padding-left: 6px;
 }
 
 
