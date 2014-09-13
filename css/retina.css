@@ -265,6 +265,12 @@ only screen and (                min-resolution: 2dppx) {
 
     }
 
+    .bg-achievements {
+        background-image: url('../images/bg_ach@2x.png');
+        background-repeat: no-repeat;
+        background-size: 118px 58px;
+    }
+
 
 
 

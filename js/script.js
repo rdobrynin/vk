@@ -8,6 +8,7 @@ $(window).on("load", function() {
         $('#modal-level-close').attr('src', $('#modal-level-close').attr('src').replace(".png","@2x.png"));
         $('#modal-profile-close').attr('src', $('#modal-profile-close').attr('src').replace(".png","@2x.png"));
         $('#modal-gift-close').attr('src', $('#modal-gift-close').attr('src').replace(".png","@2x.png"));
+        $('#modal-achievements-close').attr('src', $('#modal-achievements-close').attr('src').replace(".png","@2x.png"));
 
 
         $('.left-col-btn-present-img').attr('src', $('.left-col-btn-present-img').attr('src').replace(".png","@2x.png"));
@@ -30,7 +31,8 @@ $(window).on("load", function() {
 });
 
 $(window).load(function(){
-    $('#modal-answer').modal('show');
+    $('#modal-achievements').modal('show');
+//    $('#modal-answer').modal('show');
     $("#members").mCustomScrollbar({
         theme:"rounded-dark",
         scrollButtons:{
@@ -88,6 +90,10 @@ $(function () {
 
     $('.place-icon').click(function () {
         $('#modal-top').modal('show');
+    });
+
+    $('.cup-icon').click(function () {
+        $('#modal-achievements').modal('show');
     });
 
     $('.btn-answer').click(function () {
