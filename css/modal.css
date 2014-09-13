@@ -3092,6 +3092,7 @@ img.ach-award-img {
     font-size: 12px;
     text-align: center;
     font-weight: 600;
+    text-transform: initial;
 }
 
 /*BAR*/
