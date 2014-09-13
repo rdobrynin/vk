@@ -26,6 +26,9 @@ $(window).on("load", function() {
         $('.map-img').attr('src', $('.map-img').attr('src').replace(".png","@2x.png"));
         $('.img-answer-yes-row').attr('src', $('.img-answer-yes-row').attr('src').replace(".png","@2x.png"));
         $('.img-answer-star').attr('src', $('.img-answer-star').attr('src').replace(".png","@2x.png"));
+        $('.ach-starF-img').attr('src', $('.ach-starF-img').attr('src').replace(".png","@2x.png"));
+        $('.ach-starE-img').attr('src', $('.ach-starE-img').attr('src').replace(".png","@2x.png"));
+        $('.ach-award-img').attr('src', $('.ach-award-img').attr('src').replace(".png","@2x.png"));
         $('body').addClass('retina');
     }
 });
@@ -472,6 +475,27 @@ $('#tab-content').css({"border-top-left-radius":"14px"});
 
     $('.btn-ranswer').click(function () {
         $('#modal-answer-true').modal('hide');
+    });
+
+//    PROGRESSIVE BAR
+
+    $('.bar-percentage[data-amount]').each(function () {
+        var progress = $(this);
+        var percentage = Math.ceil($(this).attr('data-amount'));
+        $({countNum: 0}).animate({countNum: percentage}, {
+            duration: 1000,
+            easing:'linear',
+            step: function() {
+                // What todo on every count
+                var pct = '';
+                if(percentage == 0){
+                    pct = Math.floor(this.countNum) + '%';
+                }else{
+                    pct = Math.floor(this.countNum+1) + '%';
+                }
+                progress.text(pct) && progress.siblings().children().children().css('width',pct);
+            }
+        });
     });
 
 });
