@@ -29,6 +29,7 @@ $(window).on("load", function() {
         $('.ach-starF-img').attr('src', $('.ach-starF-img').attr('src').replace(".png","@2x.png"));
         $('.ach-starE-img').attr('src', $('.ach-starE-img').attr('src').replace(".png","@2x.png"));
         $('.ach-award-img').attr('src', $('.ach-award-img').attr('src').replace(".png","@2x.png"));
+        $('.top-star-img').attr('src', $('.top-star-img').attr('src').replace(".png","@2x.png"));
         $('body').addClass('retina');
     }
 });
@@ -503,7 +504,7 @@ $('#tab-content').css({"border-top-left-radius":"14px"});
             colour: 'rgba(255,255,255, 1)'
         }, function() {
 //            $('.done').fadeIn(400).delay(400).fadeOut(400);
-            alert('time is over');
+            console.log('time is over');
 
         });
 });
