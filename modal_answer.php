@@ -41,6 +41,11 @@
                 </div>
                 <div class="bottom-right-answer">
                     <span>Осталось времени на ответ</span>
+
+                    <div class="pietimer-wrapper">
+                        <div id="pietimer"></div>
+                    </div>
+
                 </div>
             </div>
         </div>

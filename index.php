@@ -480,6 +480,7 @@
 <script src="js/function.js"></script>
 <script src="js/canvas.js"></script>
 <script src="js/script.js"></script>
+<script src="js/pietimer.js"></script>
 <script src="js/jquery.preload.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
 

@@ -34,8 +34,7 @@ $(window).on("load", function() {
 });
 
 $(window).load(function(){
-    $('#modal-achievements').modal('show');
-//    $('#modal-answer').modal('show');
+    $('#modal-answer').modal('show');
     $("#members").mCustomScrollbar({
         theme:"rounded-dark",
         scrollButtons:{
@@ -93,10 +92,6 @@ $(function () {
 
     $('.place-icon').click(function () {
         $('#modal-top').modal('show');
-    });
-
-    $('.cup-icon').click(function () {
-        $('#modal-achievements').modal('show');
     });
 
     $('.btn-answer').click(function () {
@@ -479,23 +474,36 @@ $('#tab-content').css({"border-top-left-radius":"14px"});
 
 //    PROGRESSIVE BAR
 
-    $('.bar-percentage[data-amount]').each(function () {
-        var progress = $(this);
-        var percentage = Math.ceil($(this).attr('data-amount'));
-        $({countNum: 0}).animate({countNum: percentage}, {
-            duration: 1000,
-            easing:'linear',
-            step: function() {
-                // What todo on every count
-                var pct = '';
-                if(percentage == 0){
-                    pct = Math.floor(this.countNum) + '%';
-                }else{
-                    pct = Math.floor(this.countNum+1) + '%';
+    $('.cup-icon').click(function () {
+        $('#modal-achievements').modal('show');
+        $('.bar-percentage[data-amount]').each(function () {
+            var progress = $(this);
+            var percentage = Math.ceil($(this).attr('data-amount'));
+            $({countNum: 0}).animate({countNum: percentage}, {
+                duration: 1000,
+                easing:'linear',
+                step: function() {
+                    // What todo on every count
+                    var pct = '';
+                    if(percentage == 0){
+                        pct = Math.floor(this.countNum) + '%';
+                    }else{
+                        pct = Math.floor(this.countNum+1) + '%';
+                    }
+                    progress.text(pct) && progress.siblings().children().children().css('width',pct);
                 }
-                progress.text(pct) && progress.siblings().children().children().css('width',pct);
-            }
+            });
         });
+
     });
 
+//    PIE TIMER
+        $('div#pietimer').pietimer({
+            seconds: 8,
+            colour: 'rgba(255,255,255, 1)'
+        }, function() {
+//            $('.done').fadeIn(400).delay(400).fadeOut(400);
+            alert('time is over');
+
+        });
 });
