@@ -1,0 +1,49 @@
+@media
+only screen and (-webkit-min-device-pixel-ratio: 2),
+only screen and (   min--moz-device-pixel-ratio: 2),
+only screen and (     -o-min-device-pixel-ratio: 2/1),
+only screen and (        min-device-pixel-ratio: 2),
+only screen and (                min-resolution: 192dpi),
+only screen and (                min-resolution: 2dppx) {
+    .row-2-tiz-1 {
+        background-position: center 10px;
+        background-image: url('../img/tiz_1@2x.png');
+        background-size: 73px 125px;
+        background-repeat: no-repeat;
+    }
+
+    .row-2-tiz-2 {
+        background-position: 64px 10px;
+        background-image: url('../img/tiz_2@2x.png');
+        background-size: 102px 125px;
+        background-repeat: no-repeat;
+    }
+
+    .row-2-tiz-3 {
+        background-position: center 10px;
+        background-image: url('../img/tiz_3@2x.png');
+        background-size: 109px 129px;
+        background-repeat: no-repeat;
+    }
+
+    .row-2-tiz-4 {
+        background-position: center 21px;
+        background-image: url('../img/tiz_4@2x.png');
+        background-size: 101px 116px;
+        background-repeat: no-repeat;
+    }
+
+    .row-5 {
+        background-position: 184px 109px;
+        background-image: url('../img/row_5@2x.png');
+        background-size: 233px 92px;
+        background-repeat: no-repeat;
+    }
+
+    .row-4 {
+        background-position: 5px -55px;
+        background-image: url('../img/bg_green@2x.png');
+        background-size: 256px 196px;
+        background-repeat: no-repeat;
+    }
+}
