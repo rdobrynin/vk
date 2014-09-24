@@ -3,6 +3,19 @@ $(window).on("load", function() {
     if (pixelRatio > 1) {
         $('#row1').attr('src', $('#row1').attr('src').replace(".png","@2x.png"));
         $('.ok').attr('src', $('.ok').attr('src').replace(".png","@2x.png"));
+        $('#thumb1').attr('src', $('#thumb1').attr('src').replace(".png","@2x.png"));
+        $('#thumb2').attr('src', $('#thumb2').attr('src').replace(".png","@2x.png"));
+        $('#thumb3').attr('src', $('#thumb3').attr('src').replace(".png","@2x.png"));
+        $('#thumb4').attr('src', $('#thumb4').attr('src').replace(".png","@2x.png"));
+        $('#thumb5').attr('src', $('#thumb5').attr('src').replace(".png","@2x.png"));
+        $('#thumb6').attr('src', $('#thumb6').attr('src').replace(".png","@2x.png"));
+        $('#stripe').attr('src', $('#stripe').attr('src').replace(".png","@2x.png"));
+        $('#arrow1').attr('src', $('#arrow1').attr('src').replace(".png","@2x.png"));
+        $('#arrow2').attr('src', $('#arrow2').attr('src').replace(".png","@2x.png"));
+        $('#arrow3').attr('src', $('#arrow3').attr('src').replace(".png","@2x.png"));
+        $('.star').attr('src', $('.star').attr('src').replace(".png","@2x.png"));
+        $('.info').attr('src', $('.info').attr('src').replace(".png","@2x.png"));
+        $('#avatar').attr('src', $('#avatar').attr('src').replace(".png","@2x.png"));
         $('body').addClass('retina');
     }
 });

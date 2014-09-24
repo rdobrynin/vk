@@ -6,30 +6,30 @@ only screen and (        min-device-pixel-ratio: 2),
 only screen and (                min-resolution: 192dpi),
 only screen and (                min-resolution: 2dppx) {
     .row-2-tiz-1 {
-        background-position: center 10px;
-        background-image: url('../img/tiz_1@2x.png');
-        background-size: 73px 125px;
+        background-position: 61px 13px;
+        background-image: url('../img/p_2@2x.png');
+        background-size: 95px 144px;
         background-repeat: no-repeat;
     }
 
     .row-2-tiz-2 {
-        background-position: 64px 10px;
-        background-image: url('../img/tiz_2@2x.png');
-        background-size: 102px 125px;
+        background-position: 55px 11px;
+        background-image: url('../img/p_4@2x.png');
+        background-size: 123px 147px;
         background-repeat: no-repeat;
     }
 
     .row-2-tiz-3 {
-        background-position: center 10px;
-        background-image: url('../img/tiz_3@2x.png');
-        background-size: 109px 129px;
+        background-position: 46px 10px;
+        background-image: url('../img/p_1@2x.png');
+        background-size: 151px 149px;
         background-repeat: no-repeat;
     }
 
     .row-2-tiz-4 {
-        background-position: center 21px;
-        background-image: url('../img/tiz_4@2x.png');
-        background-size: 101px 116px;
+        background-position: 47px 19px;
+        background-image: url('../img/p_3@2x.png');
+        background-size: 117px 132px;
         background-repeat: no-repeat;
     }
 
@@ -45,5 +45,102 @@ only screen and (                min-resolution: 2dppx) {
         background-image: url('../img/bg_green@2x.png');
         background-size: 256px 196px;
         background-repeat: no-repeat;
+    }
+
+    .row-2-tiz-3:before {
+        content: url('../img/corner_p1@2x.png');
+        left: -22.5px;
+        bottom: -34px;
+        position: absolute;
+        transform: scale(.5);
+        z-index: 9999;
+    }
+
+    .row-2-tiz-1:before {
+        content: url('../img/corner_p2@2x.png');
+        left: -23.0px;
+        bottom: -34.2px;
+        position: absolute;
+        transform: scale(.5);
+        z-index: 9999;
+    }
+
+
+    .row-2-tiz-4:before {
+        content: url('../img/corner_p3@2x.png');
+        left: -23px;
+        bottom: -35.8px;
+        position: absolute;
+        transform: scale(.5);
+        z-index: 9999;
+    }
+
+    .row-2-tiz-2:before {
+        content: url('../img/corner_p4@2x.png');
+        left: -21px;
+        bottom: -32.8px;
+        position: absolute;
+        transform: scale(.5);
+        z-index: 9999;
+    }
+
+    .row-1-label:before {
+        content: url('../img/corner@2x.png');
+        left: 215px;
+        bottom: 66.6px;
+        position: absolute;
+        transform: scale(.5);
+        z-index: 9999;
+    }
+
+    .bubble-5:before {
+        content: url('../img/corner2@2x.png');
+        left: 254px;
+        bottom: 54.2px;
+        position: absolute;
+        transform: scale(.5);
+        z-index: 9999;
+    }
+
+    .block-img:before {
+        content: url('../img/corner_grey@2x.png');
+        left: -23px;
+        bottom: -29px;
+        position: absolute;
+        z-index: 9999;
+        transform: scale(.5);
+    }
+
+    .promotion.last:before {
+        content: url('../img/small_star@2x.png');
+        left: 89px;
+        bottom: 97px;
+        position: absolute;
+        z-index: 9999;
+        transform: scale(.5);
+    }
+
+    .row-7 {
+        background-position: 648px 38px;
+        background-image: url('../img/award_new@2x.png');
+        background-size: 116px 168px;
+        background-repeat: no-repeat;
+    }
+
+    .row-7 ul li {
+        background-image: url('../img/li_yellow@2x.png');
+        background-repeat: no-repeat;
+        background-position: 0 22px;
+        padding-left: 16px;
+        background-size: 9px 11px;
+    }
+
+    .row-6>.block ul  li {
+        list-style-type:none;
+        background-image: url('../img/li_blue@2x.png');
+        background-repeat: no-repeat;
+        background-position: 0 2px;
+        padding-left: 16px;
+        background-size: 9px 11px;
     }
 }
