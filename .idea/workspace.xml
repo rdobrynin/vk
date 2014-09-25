@@ -2,6 +2,54 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6778edc4-4afe-43d8-bc69-2a652cc0982c" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gosti/img/grey_wrapper.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gosti/img/grey_wrapper@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gosti/img/people_1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gosti/img/people_1@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gosti/img/people_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gosti/img/people_2@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gosti/img/people_3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gosti/img/people_3@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gosti/img/people_4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gosti/img/people_4@2x.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gosti/img/plus.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gosti/img/pop_1.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gosti/img/pop_2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gosti/img/pop_3.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gosti/img/pop_4.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gosti/img/pop_5.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gosti/img/pop_6.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gosti/img/profile@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gosti/img/promo_page_gosti4.png" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gosti/img/corner_grey.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gosti/img/corner_grey@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gosti/img/corner_p1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gosti/img/corner_p1@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gosti/img/corner_p2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gosti/img/corner_p2@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gosti/img/corner_p3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gosti/img/corner_p3@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gosti/img/corner_p4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gosti/img/corner_p4@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gosti/img/p_1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gosti/img/p_1@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gosti/img/p_2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gosti/img/p_2@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gosti/img/p_3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gosti/img/p_3@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gosti/img/p_4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gosti/img/p_4@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gosti/img/sprites.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gosti/img/tiz_4.png" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gosti/img/i.png" afterPath="$PROJECT_DIR$/gosti/img/info.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/gosti/img/i@2x.png" afterPath="$PROJECT_DIR$/gosti/img/info@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gosti/img/bg_green.png" afterPath="$PROJECT_DIR$/gosti/img/bg_green.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gosti/img/bg_green@2x.png" afterPath="$PROJECT_DIR$/gosti/img/bg_green@2x.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gosti/img/profile.png" afterPath="$PROJECT_DIR$/gosti/img/profile.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gosti/index.html" afterPath="$PROJECT_DIR$/gosti/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gosti/js/main.js" afterPath="$PROJECT_DIR$/gosti/js/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gosti/css/retina.css" afterPath="$PROJECT_DIR$/gosti/css/retina.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gosti/css/style.css" afterPath="$PROJECT_DIR$/gosti/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="vk.iws" />
@@ -24,17 +72,110 @@
     <favorites_list name="vk" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="15" selection-start="1674" selection-end="1681" vertical-scroll-proportion="0.55516016" vertical-offset="162" max-vertical-offset="9591">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.639399">
+      <split-first>
+        <leaf>
+          <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/gosti/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="112" column="17" selection-start="5327" selection-end="5327" vertical-scroll-proportion="-9.555555" vertical-offset="1758" max-vertical-offset="5523">
+                  <folding>
+                    <element signature="n#style#0;n#p#0;n#div#3;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="grey_wrapper.jpg" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/gosti/img/grey_wrapper.jpg">
+              <provider selected="true" editor-type-id="images">
+                <state />
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="people_4.jpg" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/gosti/img/people_4.jpg">
+              <provider selected="true" editor-type-id="images">
+                <state />
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="people_3.jpg" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/gosti/img/people_3.jpg">
+              <provider selected="true" editor-type-id="images">
+                <state />
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="people_2.jpg" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/gosti/img/people_2.jpg">
+              <provider selected="true" editor-type-id="images">
+                <state />
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="preview_100.jpg" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/gosti/img/preview_100.jpg">
+              <provider selected="true" editor-type-id="images">
+                <state />
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="retina.css" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/gosti/css/retina.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="12" column="36" selection-start="484" selection-end="484" vertical-scroll-proportion="0.0" vertical-offset="18" max-vertical-offset="1693">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="avatar.png" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/gosti/img/avatar.png">
+              <provider selected="true" editor-type-id="images">
+                <state />
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="avatar@2x.png" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/gosti/img/avatar@2x.png">
+              <provider selected="true" editor-type-id="images">
+                <state />
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/gosti/css/style.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="241" column="23" selection-start="5077" selection-end="5077" vertical-scroll-proportion="0.6104513" vertical-offset="4130" max-vertical-offset="13100">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="people_1.jpg" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/gosti/img/people_1.jpg">
+              <provider selected="true" editor-type-id="images">
+                <state />
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/gosti/js/main.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="31" column="37" selection-start="1869" selection-end="1869" vertical-scroll-proportion="0.0" vertical-offset="558" max-vertical-offset="720">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -78,6 +219,10 @@
         <option value="$PROJECT_DIR$/js/script.js" />
         <option value="$PROJECT_DIR$/modal_top.php" />
         <option value="$PROJECT_DIR$/css/modal.css" />
+        <option value="$PROJECT_DIR$/gosti/js/main.js" />
+        <option value="$PROJECT_DIR$/gosti/css/retina.css" />
+        <option value="$PROJECT_DIR$/gosti/index.html" />
+        <option value="$PROJECT_DIR$/gosti/css/style.css" />
       </list>
     </option>
   </component>
@@ -114,6 +259,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -156,13 +302,66 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="gosti" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gosti" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="gosti" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -264,6 +463,7 @@
     <frame x="59" y="24" width="2501" height="1416" extended-state="6" />
     <editor active="true" />
     <layout>
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34063444" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32930514" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32175228" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967034" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -277,15 +477,14 @@
       <window_info id="Jenkins" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32955924" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.12983313" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34063444" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32930514" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -307,74 +506,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/images/sprites_color@2x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/preview/modal_profile_preview_200.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/modal_2_profile@2x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/modal_10_profile@2x.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/modal_sprites.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/text_new_level.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/ie8-responsive-file-warning.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="1" selection-start="599" selection-end="599" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1059" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/ie10-viewport-bug-workaround.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1501" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/jquery.preload.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1203" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/trash.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.MD">
-      <provider editor-type-id="MarkdownPreviewEditor">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="39" selection-start="451" selection-end="451" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="432" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/function.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="1" selection-start="470" selection-end="470" vertical-scroll-proportion="0.48083624" vertical-offset="0" max-vertical-offset="1527" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/canvas.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="80" column="0" selection-start="2274" selection-end="2274" vertical-scroll-proportion="0.0" vertical-offset="1104" max-vertical-offset="3398" />
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/embed.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="22" selection-start="427" selection-end="427" vertical-scroll-proportion="0.28295043" vertical-offset="0" max-vertical-offset="12671" />
@@ -555,16 +686,89 @@
         <state line="176" column="21" selection-start="5089" selection-end="5089" vertical-scroll-proportion="0.020689655" vertical-offset="3150" max-vertical-offset="5856" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gosti/index.html">
+    <entry file="file://$PROJECT_DIR$/gosti/img/avatar@2x.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gosti/img/info.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gosti/img/info@2x.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gosti/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="0" selection-start="681" selection-end="681" vertical-scroll-proportion="0.38434163" vertical-offset="0" max-vertical-offset="4263">
+        <state line="31" column="37" selection-start="1869" selection-end="1869" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1511">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gosti/img/people_1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gosti/img/people_2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gosti/img/people_3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gosti/img/people_4.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gosti/img/avatar.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gosti/css/retina.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="36" selection-start="484" selection-end="484" vertical-scroll-proportion="0.0" vertical-offset="18" max-vertical-offset="1691">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="15" selection-start="1674" selection-end="1681" vertical-scroll-proportion="0.55516016" vertical-offset="162" max-vertical-offset="9591">
+        <state line="55" column="31" selection-start="2406" selection-end="2406" vertical-scroll-proportion="0.48292682" vertical-offset="612" max-vertical-offset="10234">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gosti/img/preview_100.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gosti/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="112" column="17" selection-start="5327" selection-end="5327" vertical-scroll-proportion="-9.555555" vertical-offset="1758" max-vertical-offset="5667">
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#3;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gosti/img/grey_wrapper.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gosti/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="241" column="23" selection-start="5077" selection-end="5077" vertical-scroll-proportion="0.6104513" vertical-offset="4130" max-vertical-offset="13100">
           <folding />
         </state>
       </provider>

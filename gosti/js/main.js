@@ -14,8 +14,10 @@ $(window).on("load", function() {
         $('#arrow2').attr('src', $('#arrow2').attr('src').replace(".png","@2x.png"));
         $('#arrow3').attr('src', $('#arrow3').attr('src').replace(".png","@2x.png"));
         $('.star').attr('src', $('.star').attr('src').replace(".png","@2x.png"));
-        $('.info').attr('src', $('.info').attr('src').replace(".png","@2x.png"));
+        $('#info-1').attr('src', $('#info-1').attr('src').replace(".png","@2x.png"));
+        $('#info-2').attr('src', $('#info-2').attr('src').replace(".png","@2x.png"));
         $('#avatar').attr('src', $('#avatar').attr('src').replace(".png","@2x.png"));
+        $('#profile').attr('src', $('#profile').attr('src').replace(".png","@2x.png"));
         $('body').addClass('retina');
     }
 });
