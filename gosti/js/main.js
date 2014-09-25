@@ -18,6 +18,15 @@ $(window).on("load", function() {
         $('#info-2').attr('src', $('#info-2').attr('src').replace(".png","@2x.png"));
         $('#avatar').attr('src', $('#avatar').attr('src').replace(".png","@2x.png"));
         $('#profile').attr('src', $('#profile').attr('src').replace(".png","@2x.png"));
+        $('.corner-2').attr('src', $('.corner-2').attr('src').replace(".png","@2x.png"));
+        $('.corner-1').attr('src', $('.corner-1').attr('src').replace(".png","@2x.png"));
+        $('#row-4').attr('src', $('#row-4').attr('src').replace(".png","@2x.png"));
+        $('#tiz-1').attr('src', $('#tiz-1').attr('src').replace(".jpg","@2x.jpg"));
+        $('#tiz-2').attr('src', $('#tiz-2').attr('src').replace(".jpg","@2x.jpg"));
+        $('#tiz-3').attr('src', $('#tiz-3').attr('src').replace(".jpg","@2x.jpg"));
+        $('#tiz-4').attr('src', $('#tiz-4').attr('src').replace(".jpg","@2x.jpg"));
+
+
         $('body').addClass('retina');
     }
 });

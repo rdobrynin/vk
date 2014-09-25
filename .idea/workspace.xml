@@ -2,55 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6778edc4-4afe-43d8-bc69-2a652cc0982c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gosti/img/grey_wrapper.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gosti/img/grey_wrapper@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gosti/img/people_1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gosti/img/people_1@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gosti/img/people_2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gosti/img/people_2@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gosti/img/people_3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gosti/img/people_3@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gosti/img/people_4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gosti/img/people_4@2x.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gosti/img/plus.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gosti/img/pop_1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gosti/img/pop_2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gosti/img/pop_3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gosti/img/pop_4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gosti/img/pop_5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gosti/img/pop_6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gosti/img/profile@2x.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gosti/img/promo_page_gosti4.png" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gosti/img/corner_grey.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gosti/img/corner_grey@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gosti/img/corner_p1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gosti/img/corner_p1@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gosti/img/corner_p2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gosti/img/corner_p2@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gosti/img/corner_p3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gosti/img/corner_p3@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gosti/img/corner_p4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gosti/img/corner_p4@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gosti/img/p_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gosti/img/p_1@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gosti/img/p_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gosti/img/p_2@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gosti/img/p_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gosti/img/p_3@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gosti/img/p_4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gosti/img/p_4@2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gosti/img/sprites.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/gosti/img/tiz_4.png" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gosti/img/i.png" afterPath="$PROJECT_DIR$/gosti/img/info.png" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/gosti/img/i@2x.png" afterPath="$PROJECT_DIR$/gosti/img/info@2x.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gosti/img/bg_green.png" afterPath="$PROJECT_DIR$/gosti/img/bg_green.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gosti/img/bg_green@2x.png" afterPath="$PROJECT_DIR$/gosti/img/bg_green@2x.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gosti/img/profile.png" afterPath="$PROJECT_DIR$/gosti/img/profile.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gosti/index.html" afterPath="$PROJECT_DIR$/gosti/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gosti/js/main.js" afterPath="$PROJECT_DIR$/gosti/js/main.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gosti/css/retina.css" afterPath="$PROJECT_DIR$/gosti/css/retina.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gosti/css/style.css" afterPath="$PROJECT_DIR$/gosti/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="vk.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -72,21 +27,29 @@
     <favorites_list name="vk" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.639399">
+    <splitter split-orientation="horizontal" split-proportion="0.4629939">
       <split-first>
         <leaf>
           <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/gosti/index.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="112" column="17" selection-start="5327" selection-end="5327" vertical-scroll-proportion="-9.555555" vertical-offset="1758" max-vertical-offset="5523">
+                <state line="132" column="0" selection-start="6481" selection-end="6481" vertical-scroll-proportion="3.709091" vertical-offset="2580" max-vertical-offset="6264">
                   <folding>
                     <element signature="n#style#0;n#p#0;n#div#3;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                    <element signature="n#style#0;n#h2#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="grey_wrapper.jpg" pinned="false" current="false" current-in-tab="true">
+          <file leaf-file-name="corner2.png" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/gosti/img/corner2.png">
+              <provider selected="true" editor-type-id="images">
+                <state />
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="grey_wrapper.jpg" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/gosti/img/grey_wrapper.jpg">
               <provider selected="true" editor-type-id="images">
                 <state />
@@ -114,19 +77,10 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="preview_100.jpg" pinned="false" current="false" current-in-tab="false">
+          <file leaf-file-name="preview_100.jpg" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/gosti/img/preview_100.jpg">
               <provider selected="true" editor-type-id="images">
                 <state />
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="retina.css" pinned="false" current="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/gosti/css/retina.css">
-              <provider selected="true" editor-type-id="text-editor">
-                <state line="12" column="36" selection-start="484" selection-end="484" vertical-scroll-proportion="0.0" vertical-offset="18" max-vertical-offset="1693">
-                  <folding />
-                </state>
               </provider>
             </entry>
           </file>
@@ -148,12 +102,35 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
+          <file leaf-file-name="style.css" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/gosti/css/style.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="241" column="23" selection-start="5077" selection-end="5077" vertical-scroll-proportion="0.6104513" vertical-offset="4130" max-vertical-offset="13100">
+                <state line="292" column="11" selection-start="6449" selection-end="6449" vertical-scroll-proportion="-0.35714287" vertical-offset="5246" max-vertical-offset="13532">
                   <folding />
                 </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="small_star.png" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/gosti/img/small_star.png">
+              <provider selected="true" editor-type-id="images">
+                <state />
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="retina.css" pinned="false" current="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/gosti/css/retina.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state line="25" column="37" selection-start="839" selection-end="839" vertical-scroll-proportion="0.5344418" vertical-offset="0" max-vertical-offset="1904">
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="corner.png" pinned="false" current="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/gosti/img/corner.png">
+              <provider selected="true" editor-type-id="images">
+                <state />
               </provider>
             </entry>
           </file>
@@ -167,7 +144,7 @@
           <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/gosti/js/main.js">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="31" column="37" selection-start="1869" selection-end="1869" vertical-scroll-proportion="0.0" vertical-offset="558" max-vertical-offset="720">
+                <state line="28" column="0" selection-start="2183" selection-end="2183" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1698">
                   <folding />
                 </state>
               </provider>
@@ -219,10 +196,10 @@
         <option value="$PROJECT_DIR$/js/script.js" />
         <option value="$PROJECT_DIR$/modal_top.php" />
         <option value="$PROJECT_DIR$/css/modal.css" />
-        <option value="$PROJECT_DIR$/gosti/js/main.js" />
-        <option value="$PROJECT_DIR$/gosti/css/retina.css" />
         <option value="$PROJECT_DIR$/gosti/index.html" />
+        <option value="$PROJECT_DIR$/gosti/js/main.js" />
         <option value="$PROJECT_DIR$/gosti/css/style.css" />
+        <option value="$PROJECT_DIR$/gosti/css/retina.css" />
       </list>
     </option>
   </component>
@@ -506,21 +483,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$APPLICATION_HOME_DIR$/lib/phpstorm.jar!/resources/html5-schema/embed.rnc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="22" selection-start="427" selection-end="427" vertical-scroll-proportion="0.28295043" vertical-offset="0" max-vertical-offset="12671" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/brush_form_blue.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="40988" selection-start="41153" selection-end="41153" vertical-scroll-proportion="0.31182796" vertical-offset="5589" max-vertical-offset="16749" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/bootstrap-responsive.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="896" column="3" selection-start="17350" selection-end="17350" vertical-scroll-proportion="0.0" vertical-offset="16065" max-vertical-offset="20781" />
@@ -701,13 +663,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gosti/js/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="37" selection-start="1869" selection-end="1869" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1511">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gosti/img/people_1.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -733,31 +688,10 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gosti/css/retina.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="36" selection-start="484" selection-end="484" vertical-scroll-proportion="0.0" vertical-offset="18" max-vertical-offset="1691">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="55" column="31" selection-start="2406" selection-end="2406" vertical-scroll-proportion="0.48292682" vertical-offset="612" max-vertical-offset="10234">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gosti/img/preview_100.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gosti/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="112" column="17" selection-start="5327" selection-end="5327" vertical-scroll-proportion="-9.555555" vertical-offset="1758" max-vertical-offset="5667">
-          <folding>
-            <element signature="n#style#0;n#p#0;n#div#3;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -766,11 +700,55 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gosti/css/style.css">
+    <entry file="file://$PROJECT_DIR$/gosti/img/small_star.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gosti/img/corner2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gosti/img/corner.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gosti/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="241" column="23" selection-start="5077" selection-end="5077" vertical-scroll-proportion="0.6104513" vertical-offset="4130" max-vertical-offset="13100">
+        <state line="28" column="0" selection-start="2183" selection-end="2183" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1698">
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gosti/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="292" column="11" selection-start="6449" selection-end="6449" vertical-scroll-proportion="-0.35714287" vertical-offset="5246" max-vertical-offset="13532">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gosti/css/retina.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="37" selection-start="839" selection-end="839" vertical-scroll-proportion="0.5344418" vertical-offset="0" max-vertical-offset="1904">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gosti/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="132" column="0" selection-start="6481" selection-end="6481" vertical-scroll-proportion="3.709091" vertical-offset="2580" max-vertical-offset="6264">
+          <folding>
+            <element signature="n#style#0;n#p#0;n#div#3;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gosti/img/preview_100.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
   </component>

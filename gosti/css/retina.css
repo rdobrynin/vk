@@ -14,15 +14,6 @@ only screen and (                min-resolution: 2dppx) {
         background-repeat: no-repeat;
     }
 
-    .row-4 {
-        background-position: 5px -55px;
-        background-image: url('../img/bg_green@2x.png');
-        background-size: 256px 196px;
-        background-repeat: no-repeat;
-    }
-
-
-
     .row-7 {
         background-position: 648px 38px;
         background-image: url('../img/award_new@2x.png');
@@ -45,5 +36,26 @@ only screen and (                min-resolution: 2dppx) {
         background-position: 0 2px;
         padding-left: 16px;
         background-size: 9px 11px;
+    }
+
+    .block-img {
+        position: relative;
+        width: 117px;
+        height: 133px;
+        background-image: url('../img/grey_wrapper@2x.jpg');
+        background-size: 117px 133px;
+        background-repeat: no-repeat;
+        float: left;
+        clear: both;
+        margin-bottom: 36px;
+        margin-right: 20px;
+    }
+
+
+    .promotion-star{
+        background-position: 184px 31px;
+        background-image: url('../img/small_star@2x.png');
+        background-size: 105px 104px;
+        background-repeat: no-repeat;
     }
 }

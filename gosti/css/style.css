@@ -232,7 +232,6 @@ img.ok {
     position: relative;
     width: 117px;
     height: 133px;
-
     background-image: url('../img/grey_wrapper.jpg');
     background-size: 117px 133px;
     background-repeat: no-repeat;
@@ -258,20 +257,37 @@ img.ok {
     padding-top: 6px;
 }
 
+.row-4-bg {
+    width: 295px;
+    height: 196px;
+    position: absolute;
+    overflow: hidden;
+    left: 0;
+}
+
+img#row-4 {
+    left: -36px;
+    position: relative;
+    top: -50px;
+}
 
 .row-4 {
     position: relative;
-    background-color: #00a474;
     width: 100%;
     min-height: 290px;
     height: auto;
     float: left;
     margin-bottom: 20px;
-    background-position: -29px -55px;
-    background-image: url('../img/bg_green.png');
-    background-size: 256px 196px;
-    background-repeat: no-repeat;
     padding-left: 15px;
+    background: #009969; /* Old browsers */
+    background: -moz-linear-gradient(top,  #009969 0%, #00a474 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#009969), color-stop(100%,#00a474)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #009969 0%,#00a474 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #009969 0%,#00a474 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #009969 0%,#00a474 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #009969 0%,#00a474 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#009969', endColorstr='#00a474',GradientType=0 ); /* IE6-9 */
+
 }
 
 .row-4 h2 {
@@ -440,12 +456,30 @@ img#thumb6 {
     left: 20px;
 }
 
-.promotion.last:before {
-    content: url('../img/small_star.png');
-    left: 141px;
-    bottom: 147px;
+
+.bubble-corner-1 {
     position: absolute;
-    z-index: 9999;
+    left: 234px;
+    top: 65px;
+
+}
+
+
+.bubble-corner-2 {
+    position: absolute;
+    right: 59px;
+    top: 39px;
+}
+
+.promotion-star{
+    background-position: 184px 31px;
+    background-image: url('../img/small_star.png');
+    background-size: 105px 104px;
+    background-repeat: no-repeat;
+    position: absolute;
+    right: 0;
+    width: 300px;
+    height: 300px;
 }
 
 .promotion.prom-2 {
