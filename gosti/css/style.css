@@ -16,9 +16,14 @@ a {
     width: 800px;
     height: auto;
     position: relative;
-    margin: 0 auto;
     padding-top: 10px;
     font-family: Tahoma, Arial, Helvetica, sans-serif;
+}
+
+.romanStyles1 .navtab {
+    position: relative;
+    margin: 0 auto;
+    width: 100%;
 }
 
 .romanStyles1 h1 {
@@ -27,7 +32,7 @@ a {
 }
 
 .romanStyles1 h2 {
-    font-weight: 800;
+    font-weight: bold;
     color: #525963;
     font-size: 1.6em;
 }
@@ -49,7 +54,7 @@ a {
 
 .row-bubble h3 {
     font-size: 1.3em;
-    font-weight: 400;
+    font-weight: normal;
     padding-bottom: 5px;
 }
 
@@ -60,7 +65,7 @@ a {
 /*navigation*/
 
 ul.pop-nav {
-    width: 800px;
+    width: 759px;
     height: 40px;
     margin: 0 auto;
     text-align: center;
@@ -162,7 +167,7 @@ text-align: center;
     word-wrap: break-word;
     padding-left: 15px;
     font-size: 0.8em;
-    font-weight: 800;
+    font-weight: bold;
 }
 
 .ok-wr {
@@ -211,13 +216,14 @@ img.ok {
 }
 
 .block-content {
-    width: 380px;
+    width: 375px;
     height: 136px;
     position: relative;
     display: block;
     margin-top: 20px;
     float: left;
     margin-right: 20px;
+    margin-left: 5px;
 }
 
 .article-block {
@@ -244,7 +250,7 @@ img.ok {
 .block-content h3 {
     padding-top: 10px;
     position: relative;
-    font-weight: 800;
+    font-weight: bold;
     color: #0068cf;
     word-wrap: break-word;
     line-height: 1em;
@@ -343,25 +349,28 @@ img#row-4 {
     position: relative;
     display: block;
     float: left;
-    margin-right: 10px;
-    width: 186px;
+    margin-right: 8px;
+    width: 180px;
     height: 200px;
     border: 2px solid #d4d4d4;
     margin-top: 15px;
     margin-bottom: 15px;
     text-align: center;
     padding-top: 20px;
+    margin-left: 8px;
 }
 
 .note {
     position: relative;
     display: block;
-text-align: center;
+    text-align: center;
     color: #525963;
     padding-bottom: 10px;
     font-weight: normal;
-    width: 100%;
+    width: 99%;
     float: left;
+    margin-left: 1%;
+    font-size: 0.9em;
 }
 
 .notification h3 {
@@ -621,17 +630,18 @@ padding-left: 10px;
     background-size: 116px 168px;
     background-repeat: no-repeat;
     padding-top: 40px;
-    padding-left: 30px;
 }
 
 .row-7 h2 {
     font-weight: bold;
     color:#fff;
+    padding-left: 30px;
 }
 
 .row-7 ul {
     width: 605px;
     padding-left: 2px;
+    padding-left: 30px;
 }
 
 .row-7 ul li {
