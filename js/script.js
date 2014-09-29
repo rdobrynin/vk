@@ -93,18 +93,24 @@ $(function () {
 
 //    CHANGE MODALS
 
-    $('#queue-leader').hide();
+    $('#queue-leader, #choosing-leader').hide();
 
     $('#btn-wait').click(function () {
         $('#first-player').hide();
         $('#queue-leader').show();
     });
-// END CHANGE MODALS
 
-    $('#btn-begin-draw').click(function () {
+    $('#btn-become-leader').click(function () {
         $('#modal-chooser').modal('hide');
+
     });
 
+
+    $('#btn-begin-draw').click(function () {
+        $('#first-player').hide();
+        $('#choosing-leader').show();
+    });
+// END CHANGE MODALS
 
     $('.place-icon').click(function () {
         $('#modal-top').modal('show');
