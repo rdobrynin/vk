@@ -28,7 +28,6 @@
     <button class="btn btn-riu-modal-primary" id="btn-become-leader" style="width: auto; margin-top: 20px; margin-right: 8px;">Стать ведущим</button>
     <button class="btn btn-riu-modal-success green" id="btn-guess" style="width: auto; margin-top: 20px; margin-left: 8px;">Хочу угадывать</button>
 </div>
-
       <div id="choosing-leader">
           <p><b>Выбирается ведущий</b></p>
 <div style="margin-top: 80px;"><span style="font-weight: bold; color: #00A8FF;">Подсказка:</span> Если вам понравился один из игроков и вы хотите привлеч его внимание, пошлите ему особый подарок, нажав на
@@ -48,10 +47,7 @@
           <div class="choosing-leader-block">
               <div class="get-gift-img" id="img-beer"></div>
           </div>
-
       </div>
-
-
   </div>
     </div>
   </div>
