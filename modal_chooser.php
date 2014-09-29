@@ -1,5 +1,5 @@
 <!-- Modal -->
-<div class="modal fade" id="modal-chooser" tabindex="-1" role="dialog" aria-labelledby="modal-chooserLabel" aria-hidden="true">
+<div class="modal fade" id="modal-chooser"  tabindex="-1" role="dialog" aria-labelledby="modal-chooserLabel" aria-hidden="true">
   <div class="chooser-static">
   <div class="modal-dialog">
     <div class="modal-content">
@@ -24,13 +24,26 @@
         </div>
     </div>
     <p><b>Ваша очередь стать ведущим</b></p>
+
   <p>Желаете ли вы стать ведущим или продолжите <br />угадывать то, что рисуют другие?</p>
-    <button class="btn btn-riu-modal-primary" id="btn-become-leader" style="width: auto; margin-top: 20px; margin-right: 8px;">Стать ведущим</button>
-    <button class="btn btn-riu-modal-success green" id="btn-guess" style="width: auto; margin-top: 20px; margin-left: 8px;">Хочу угадывать</button>
+    <button class="btn btn-riu-modal-primary" id="btn-become-leader" style="width: auto; margin-top: 20px; margin-right: 10px;">Стать ведущим</button>
+    <div class="pie-chooser-wrapper  pie-queue">
+        <div class="pietimer-bg"></div>
+    </div>
+    <button class="btn btn-riu-modal-success green" id="btn-guess" style="width: auto; margin-top: 20px; margin-left: 54px;">Хочу угадывать</button>
 </div>
       <div id="choosing-leader">
           <p><b>Выбирается ведущий</b></p>
-<div style="margin-top: 80px;"><span style="font-weight: bold; color: #00A8FF;">Подсказка:</span> Если вам понравился один из игроков и вы хотите привлеч его внимание, пошлите ему особый подарок, нажав на
+
+          <div class="pie-chooser-wrapper">
+              <div class="pietimer-bg">
+
+              </div>
+          </div>
+
+
+
+<div style="margin-top: 60px;"><span style="font-weight: bold; color: #00A8FF;">Подсказка:</span> Если вам понравился один из игроков и вы хотите привлеч его внимание, пошлите ему особый подарок, нажав на
     <img class="grey_gift" src="images/grey_gift.png" alt="" width="19" height="22"> рядом с его аватаркой.</div>
           <div class="choosing-leader-block">
               <div class="get-gift-img" id="img-berry"></div>

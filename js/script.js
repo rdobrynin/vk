@@ -37,6 +37,8 @@ $(window).on("load", function() {
 
 $(window).load(function(){
     $('#modal-chooser').modal('show');
+//    $('#modal-choose-word').modal('show');
+//    $('#modal-answer').modal('show');
     $("#members").mCustomScrollbar({
         theme:"rounded-dark",
         scrollButtons:{
@@ -92,6 +94,13 @@ if ($.browser.msie  && parseInt($.browser.version, 10) === 7 ) {
 
 $(function () {
 
+    $(".btn-word").click(function(){
+        if ($(".btn-word").hasClass('active')) {
+            $(".btn-word").removeClass('active');
+        }
+        $(this).addClass('active');
+    });
+
 //    CHANGE MODALS
 
     $('#queue-leader, #choosing-leader').hide();
@@ -103,7 +112,6 @@ $(function () {
 
     $('#btn-become-leader').click(function () {
         $('#modal-chooser').modal('hide');
-
     });
 
 
@@ -523,10 +531,18 @@ $('#tab-content').css({"border-top-left-radius":"14px"});
 //    PIE TIMER
         $('div#pietimer').pietimer({
             seconds: 8,
-            colour: 'rgba(255,255,255, 1)'
+            colour: 'rgba(255,255,255, 1)',
+            target: 'pie_timer',
+            canvas: 'pie_timer'
         }, function() {
 //            $('.done').fadeIn(400).delay(400).fadeOut(400);
             console.log('time is over');
 
         });
+
+//    2
+
+
+
+
 });

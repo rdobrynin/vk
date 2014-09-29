@@ -6,7 +6,9 @@
             'seconds': 10,
             'colour': 'rgba(255, 255, 255, 0.8)',
             'height': this.height(),
-            'width': this.width()
+            'width': this.width(),
+            'target':'pie_timer',
+            'canvas':'pie_timer'
         };
 
         if ( options ) {
@@ -14,7 +16,7 @@
         }
 
 
-        this.html('<canvas id="pie_timer" width="'+settings.height+'" height="'+settings.height+'"></canvas>');
+        this.html('<canvas id="'+settings.canvas+'" width="'+settings.height+'" height="'+settings.height+'"></canvas>');
 
         var val = 360;
 
@@ -22,7 +24,7 @@
 
         function timer(){
 
-            var canvas = document.getElementById('pie_timer');
+            var canvas = document.getElementById(settings.target);
 
             if (canvas.getContext){
 
