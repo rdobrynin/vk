@@ -791,6 +791,43 @@ span.present-info {
     top: 57px;
 }
 
+
+.modal-content {
+    height: 275px;
+    width: 561px;
+}
+
+.chooser-static {
+    background: none;
+    width: 561px;
+    height: 355px;
+    left: 113px;
+    position: fixed;
+    top: 57px;
+}
+
+.modal-chooser {
+    text-align: center;
+    padding: 20px;
+}
+
+.user-frame-modal {
+    width: 62px;
+    height: 60px;
+    border-radius: 4px;
+    background-color: #D5DDE0;
+    position: relative;
+    margin: 0 auto;
+    top: 9px;
+    margin-bottom: 20px;
+}
+
+.modal-chooser p {
+    color: #7f8a8e;
+    line-height: 27px;
+}
+
+
 .answer-static {
     background: none repeat scroll 0% 0% rgba(48, 48, 48, 0.1);
     width: 639px;
@@ -1217,9 +1254,40 @@ font-size: 33px;
     width: 126px;
     position: relative;
     height: 43px;
-    -webkit-border-radius: 8px;
-    -moz-border-radius: 8px;
-    border-radius: 8px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    background-color: #00A8FF;
+    border-bottom: 3px solid #1B98E7;
+    padding-top: 8px;
+    text-shadow: 0 0 0.5px #1B98E7,
+    0 0 0.5px #1B98E7,
+    0 0 0.6px #1B98E7,
+    0.2px 0 0.5px #1B98E7,
+    0.2px 0 0.6px #1B98E7,
+    0.4px 0 0.5px #1B98E7,
+    -0.2px 0 0.5px #1B98E7,
+    -0.4px 0 0.5px #1B98E7,
+    0 0.2px 0.5px #1B98E7,
+    0 0.4px 0.5px #1B98E7,
+    0 -0.2px 0.5px #1B98E7,
+    0 -0.4px 0.5px #1B98E7,
+    0 0.2px 0.5px #1B98E7,
+    0 0.4px 0.5px #1B98E7,
+    0 0.6px 0.5px #1B98E7,
+    0 1.2px 0.5px #1B98E7,
+    0 1.6px 0.5px #1B98E7,
+    0 2.0px 0.5px #1B98E7,
+    0 2.2px 0.5px #1B98E7;
+}
+
+.btn-riu-modal{
+    width: auto;
+    position: relative;
+    height: 43px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
     background-color: #00A8FF;
     border-bottom: 3px solid #1B98E7;
     padding-top: 8px;
@@ -1245,13 +1313,14 @@ font-size: 33px;
 }
 
 
+
 .btn-riu-modal-success {
     width: 126px;
     position: relative;
     height: 43px;
-    -webkit-border-radius: 8px;
-    -moz-border-radius: 8px;
-    border-radius: 8px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
     background-color: #00c81d;
     border-bottom: 3px solid #0caf23;
     padding-top: 8px;
@@ -1280,9 +1349,9 @@ font-size: 33px;
     width: 126px;
     position: relative;
     height: 43px;
-    -webkit-border-radius: 8px;
-    -moz-border-radius: 8px;
-    border-radius: 8px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
     background-color: #00c81d;
     padding-top: 8px;
     color: #fff;
@@ -1313,10 +1382,10 @@ font-size: 33px;
     width: 126px;
     position: relative;
     height: 43px;
-    -webkit-border-radius: 8px;
-    -moz-border-radius: 8px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
     color: #fff;
-    border-radius: 8px;
+    border-radius: 5px;
     background-color: #00A8FF;
     padding-top: 8px;
     text-shadow: 0 0 0.5px #1B98E7,
@@ -1342,7 +1411,6 @@ font-size: 33px;
 
 .btn-riu-modal-primary, .btn-riu-modal-success, .btn-riu-modal-primary:hover, .btn-riu-modal-success:hover  {
     color: #fff;
-    text-transform: capitalize;
     font-size: 17px;
     text-align: center;
     font-weight: 800;
@@ -1573,13 +1641,13 @@ font-size: 33px;
     border-radius: 6px;
 }
 
-.btn-level-modal:focus {
+.btn-riu-modal-success:focus {
     width: 126px;
     position: relative;
     height: 43px;
-    -webkit-border-radius: 8px;
-    -moz-border-radius: 8px;
-    border-radius: 8px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
     background-color: #5EC502;
     padding-top: 8px;
     color: #fff;
@@ -1603,6 +1671,8 @@ font-size: 33px;
     0 2.0px 0.5px #4DAD02,
     0 2.2px 0.5px #4DAD02;
 }
+
+
 
 .new-level {
     background-size: 137px 22px;
@@ -2862,12 +2932,12 @@ img.img-answer-yes-row {
     margin: 0 auto;
 }
 
-.btn-riu-modal-primary.green {
+.btn-riu-modal-primary.green, .btn-riu-modal-success.green {
     position: relative;
     height: 43px;
-    -webkit-border-radius: 8px;
-    -moz-border-radius: 8px;
-    border-radius: 8px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
     background-color: #5EC502;
     border-bottom: 3px solid #4DAE02;
     padding-top: 8px;

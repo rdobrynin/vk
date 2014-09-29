@@ -471,6 +471,7 @@
 <?php include('modal_top.php')?>
 <?php include('modal_answer.php')?>
 <?php include('modal_achievments.php')?>
+<?php include('modal_chooser.php')?>
 
 <script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
 <script src="//oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>

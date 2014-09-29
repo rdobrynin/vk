@@ -35,7 +35,7 @@ $(window).on("load", function() {
 });
 
 $(window).load(function(){
-    $('#modal-answer').modal('show');
+    $('#modal-chooser').modal('show');
     $("#members").mCustomScrollbar({
         theme:"rounded-dark",
         scrollButtons:{
@@ -90,6 +90,12 @@ if ($.browser.msie  && parseInt($.browser.version, 10) === 7 ) {
 }
 
 $(function () {
+
+    $('#btn-wait, #btn-begin-draw').click(function () {
+        $('#modal-chooser').modal('hide');
+    });
+
+    btn-wait
 
     $('.place-icon').click(function () {
         $('#modal-top').modal('show');
