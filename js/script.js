@@ -95,7 +95,6 @@ $(function () {
         $('#modal-chooser').modal('hide');
     });
 
-    btn-wait
 
     $('.place-icon').click(function () {
         $('#modal-top').modal('show');
