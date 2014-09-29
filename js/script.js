@@ -91,7 +91,17 @@ if ($.browser.msie  && parseInt($.browser.version, 10) === 7 ) {
 
 $(function () {
 
-    $('#btn-wait, #btn-begin-draw').click(function () {
+//    CHANGE MODALS
+
+    $('#queue-leader').hide();
+
+    $('#btn-wait').click(function () {
+        $('#first-player').hide();
+        $('#queue-leader').show();
+    });
+// END CHANGE MODALS
+
+    $('#btn-begin-draw').click(function () {
         $('#modal-chooser').modal('hide');
     });
 

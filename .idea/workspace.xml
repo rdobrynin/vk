@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96d27140-b349-4225-b59b-f7cd660c1619" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/elements.css" afterPath="$PROJECT_DIR$/css/elements.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/modal.css" afterPath="$PROJECT_DIR$/css/modal.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modal_chooser.php" afterPath="$PROJECT_DIR$/modal_chooser.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/script.js" afterPath="$PROJECT_DIR$/js/script.js" />
     </list>
     <ignored path="vk.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,23 +26,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="script.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="53" column="0" selection-start="3193" selection-end="3193" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="10130">
+            <state line="107" column="0" selection-start="4614" selection-end="4614" vertical-scroll-proportion="0.7744186" vertical-offset="1260" max-vertical-offset="10310">
               <folding>
-                <marker date="1411975671054" expanded="false" signature="4184:4258" placeholder="..." />
+                <marker date="1411977054698" expanded="false" signature="4184:4258" placeholder="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="modal.css" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="modal.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/modal.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="815" column="0" selection-start="18119" selection-end="18119" vertical-scroll-proportion="0.44110578" vertical-offset="14303" max-vertical-offset="60430">
+            <state line="810" column="0" selection-start="18070" selection-end="18070" vertical-scroll-proportion="-9.892858" vertical-offset="14303" max-vertical-offset="60430">
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="preview_chooser.jpg" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/preview/preview_chooser.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
@@ -59,18 +65,12 @@
       <file leaf-file-name="modal_chooser.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/modal_chooser.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="21" column="6" selection-start="946" selection-end="946" vertical-scroll-proportion="-14.0" vertical-offset="0" max-vertical-offset="1193">
+            <state line="24" column="10" selection-start="1115" selection-end="1115" vertical-scroll-proportion="-7.8545456" vertical-offset="0" max-vertical-offset="1399">
               <folding>
-                <marker date="1411976189170" expanded="true" signature="141:945" placeholder="..." />
-                <marker date="1411976189170" expanded="true" signature="172:938" placeholder="..." />
-                <marker date="1411976189170" expanded="true" signature="201:927" placeholder="..." />
-                <marker date="1411976189170" expanded="true" signature="233:918" placeholder="..." />
-                <marker date="1411976189170" expanded="true" signature="263:907" placeholder="..." />
-                <marker date="1411976189170" expanded="true" signature="294:898" placeholder="..." />
-                <marker date="1411976189170" expanded="true" signature="329:455" placeholder="..." />
-                <marker date="1411976189170" expanded="true" signature="355:444" placeholder="..." />
-                <marker date="1411976189170" expanded="false" signature="668:717" placeholder="..." />
-                <marker date="1411976189170" expanded="false" signature="817:865" placeholder="..." />
+                <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#button#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -89,10 +89,10 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/js/script.js" />
         <option value="$PROJECT_DIR$/css/elements.css" />
-        <option value="$PROJECT_DIR$/modal_chooser.php" />
         <option value="$PROJECT_DIR$/css/modal.css" />
+        <option value="$PROJECT_DIR$/modal_chooser.php" />
+        <option value="$PROJECT_DIR$/js/script.js" />
       </list>
     </option>
   </component>
@@ -159,6 +159,38 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="vk" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="images" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="preview" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -239,13 +271,14 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/js/script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="53" column="0" selection-start="3193" selection-end="3193" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="10130">
-          <folding>
-            <marker date="1411975671054" expanded="false" signature="4184:4258" placeholder="..." />
-          </folding>
-        </state>
+    <entry file="file://$PROJECT_DIR$/images/preview/answer_preview_100.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/preview/preview_100.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/elements.css">
@@ -255,28 +288,41 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/modal.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="810" column="0" selection-start="18070" selection-end="18070" vertical-scroll-proportion="-9.892858" vertical-offset="14303" max-vertical-offset="60430">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/preview/preview_chooser.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/photo_top_1@2x.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/modal_chooser.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="6" selection-start="946" selection-end="946" vertical-scroll-proportion="-14.0" vertical-offset="0" max-vertical-offset="1193">
+        <state line="24" column="10" selection-start="1115" selection-end="1115" vertical-scroll-proportion="-7.8545456" vertical-offset="0" max-vertical-offset="1399">
           <folding>
-            <marker date="1411976189170" expanded="true" signature="141:945" placeholder="..." />
-            <marker date="1411976189170" expanded="true" signature="172:938" placeholder="..." />
-            <marker date="1411976189170" expanded="true" signature="201:927" placeholder="..." />
-            <marker date="1411976189170" expanded="true" signature="233:918" placeholder="..." />
-            <marker date="1411976189170" expanded="true" signature="263:907" placeholder="..." />
-            <marker date="1411976189170" expanded="true" signature="294:898" placeholder="..." />
-            <marker date="1411976189170" expanded="true" signature="329:455" placeholder="..." />
-            <marker date="1411976189170" expanded="true" signature="355:444" placeholder="..." />
-            <marker date="1411976189170" expanded="false" signature="668:717" placeholder="..." />
-            <marker date="1411976189170" expanded="false" signature="817:865" placeholder="..." />
+            <element signature="n#style#0;n#button#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#button#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/modal.css">
+    <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="815" column="0" selection-start="18119" selection-end="18119" vertical-scroll-proportion="0.44110578" vertical-offset="14303" max-vertical-offset="60430">
-          <folding />
+        <state line="107" column="0" selection-start="4614" selection-end="4614" vertical-scroll-proportion="0.7744186" vertical-offset="1260" max-vertical-offset="10310">
+          <folding>
+            <marker date="1411977054698" expanded="false" signature="4184:4258" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
