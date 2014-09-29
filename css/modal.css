@@ -517,8 +517,6 @@
     top: 5px;
 }
 
-
-
 .profile-container {
     width: 457px;
     height: 366px;
@@ -811,16 +809,11 @@ span.present-info {
     padding: 20px;
 }
 
+
 .user-frame-modal {
-    width: 62px;
-    height: 60px;
-    border-radius: 4px;
-    background-color: #D5DDE0;
-    position: relative;
-    margin: 0 auto;
-    top: 9px;
     margin-bottom: 20px;
 }
+
 
 .modal-chooser p {
     color: #7f8a8e;

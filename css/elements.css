@@ -519,7 +519,6 @@ img.img-choose-color {
     width: 64px;
     height: 63px;
     border-radius: 4px;
-    background-color:  #D5DDE0;
     position: relative;
     margin: 0 auto;
     top: 9px;
@@ -535,6 +534,7 @@ img.img-choose-color {
     border-radius: 3px;
     overflow: hidden;
     cursor: pointer;
+    border: 2px solid #D5DDE0;
 }
 
 .user-gift-image {
