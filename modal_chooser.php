@@ -31,7 +31,24 @@
 
       <div id="choosing-leader">
           <p><b>Выбирается ведущий</b></p>
-          <span>Подсказка:</span> Если вам понравился один из игроков и вы хотите привлеч его внимание, пошлите ему особый подарок, нажав на рядом с его аватаркой.
+<div style="margin-top: 80px;"><span style="font-weight: bold; color: #00A8FF;">Подсказка:</span> Если вам понравился один из игроков и вы хотите привлеч его внимание, пошлите ему особый подарок, нажав на
+    <img class="grey_gift" src="images/grey_gift.png" alt="" width="19" height="22"> рядом с его аватаркой.</div>
+          <div class="choosing-leader-block">
+              <div class="get-gift-img" id="img-berry"></div>
+          </div>
+          <div class="choosing-leader-block">
+              <div class="get-gift-img" id="img-toy"></div>
+          </div>
+          <div class="choosing-leader-block">
+              <div class="get-gift-img" id="img-whiskey"></div>
+          </div>
+          <div class="choosing-leader-block">
+              <div class="get-gift-img" id="img-roze"></div>
+          </div>
+          <div class="choosing-leader-block">
+              <div class="get-gift-img" id="img-beer"></div>
+          </div>
+
       </div>
 
 

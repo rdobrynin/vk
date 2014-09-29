@@ -30,6 +30,7 @@ $(window).on("load", function() {
         $('.ach-starE-img').attr('src', $('.ach-starE-img').attr('src').replace(".png","@2x.png"));
         $('.ach-award-img').attr('src', $('.ach-award-img').attr('src').replace(".png","@2x.png"));
         $('.top-star-img').attr('src', $('.top-star-img').attr('src').replace(".png","@2x.png"));
+        $('.grey_gift').attr('src', $('.grey_gift').attr('src').replace(".png","@2x.png"));
         $('body').addClass('retina');
     }
 });
