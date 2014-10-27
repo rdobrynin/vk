@@ -42,9 +42,8 @@
     <div class="coin-balance-wrapper">
         <div class="coin-balance-bg">
             <div class="coin-balance-big">
-                <span class="balance-amount" id="balance-amount">1</span>
-                <div class="coin-gold-icon">
-                </div>
+                <span class="balance-amount" id="balance-amount">1234</span>
+                <div class="coin-gold-icon"></div>
                 <div class="green-plus-wrapper">
                     <div class="green-plus-bg">
                         <button class="btn add-coins" id="button-add-coins" data-toggle="modal" data-target="#modal-buy"></button>
