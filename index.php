@@ -426,8 +426,8 @@
                             <div class="ready"><button class="btn btn-riu-success" >готово!</button></div>
                         </div>
                         <div class="activation-panel">
-                            <button class="btn btn-painter" onclick="switcher('painter')"></button>
-                            <button class="btn btn-eraser" onclick="switcher('eraser')"></button>
+                            <button class="btn btn-painter" id="painter" onclick="switcher('painter')"></button>
+                            <button class="btn btn-eraser" id="eraser" onclick="switcher('eraser')"></button>
                             <div class="empty-1">
                                 <button class="btn lock lock-1" data-toggle="tooltip" data-placement="bottom" title="открыть 1">
                                    <img src="images/lock@2x.png" alt="" width="21" height="26"/></button>

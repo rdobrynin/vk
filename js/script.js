@@ -283,7 +283,7 @@ $(function () {
         $('.coin-balance-wrapper').css({ 'width': '150px' });
         $('.coin-balance-wrapper').css({ 'left': '658px' });
     }
-    }, 1000);
+    }, 10);
 
 //USER SHORT TEXT
 //    If username length >10, username name = username...

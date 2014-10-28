@@ -1053,6 +1053,56 @@ img.img-choose-color {
     float: left;
 }
 
+#painter.btn-pencil {
+    width: 34px;
+    height: 38px;
+    background-image: url('../images/sprites_color@2x.png');
+    background-size: 37px 735px;
+    background-position: -0px -585px;
+    position: relative;
+    top: 2px;
+    left: 16px;
+    cursor: pointer;
+}
+
+#painter.btn-eraser {
+    width: 34px;
+    height: 38px;
+    background-image: url('../images/sprites_color@2x.png');
+    background-size: 37px 735px;
+    background-position: 0 -453px;
+    position: relative;
+    top: 4px;
+    left: 16px;
+    cursor: pointer;
+    float: left;
+}
+
+#eraser.btn-pencil {
+    width: 34px;
+    height: 38px;
+    background-image: url('../images/sprites_color@2x.png');
+    background-size: 37px 735px;
+    background-position: -0px -585px;
+    position: relative;
+    top: 2px;
+    left: 47px;
+    cursor: pointer;
+}
+
+#eraser.btn-painter {
+    width: 34px;
+    height: 38px;
+    background-image: url('../images/sprites_color@2x.png');
+    background-size: 37px 735px;
+    background-position: 0 -525px;
+    position: relative;
+    top: 5px;
+    left: 47px;
+    cursor: pointer;
+    float: left;
+}
+
 .btn-eraser:active  {
     width: 34px;
     height: 38px;
