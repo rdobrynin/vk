@@ -36,7 +36,7 @@ $(window).on("load", function() {
 });
 
 $(window).load(function(){
-    $('#modal-chooser').modal('show');
+//    $('#modal-chooser').modal('show');
 //    $('#modal-choose-word').modal('show');
 //    $('#modal-answer').modal('show');
     $("#members").mCustomScrollbar({

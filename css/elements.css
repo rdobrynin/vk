@@ -996,6 +996,20 @@ img.img-choose-color {
     float: left;
 }
 
+#switcher.btn-painter {
+    width: 34px;
+    height: 38px;
+    background-image: url('../images/sprites_color@2x.png');
+    background-size: 37px 735px;
+    background-position: 0 -525px;
+    position: relative;
+    top: 28px;
+    left: 13px;
+    cursor: pointer;
+    float: left;
+}
+
+
 .btn-painter:active  {
     width: 34px;
     height: 38px;
@@ -1022,6 +1036,19 @@ img.img-choose-color {
     position: relative;
     top: 4px;
     left: 45px;
+    cursor: pointer;
+    float: left;
+}
+
+#switcher.btn-eraser {
+    width: 34px;
+    height: 38px;
+    background-image: url('../images/sprites_color@2x.png');
+    background-size: 37px 735px;
+    background-position: 0 -453px;
+    position: relative;
+    top: 30px;
+    left: 13px;
     cursor: pointer;
     float: left;
 }

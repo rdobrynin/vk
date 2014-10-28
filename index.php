@@ -20,6 +20,7 @@
     <link href="css/retina.css" rel="stylesheet">
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="js/ie10-viewport-bug-workaround.js"></script>
+    <script src="js/switcher.js"></script>
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -328,8 +329,7 @@
                 <div class="paint-frame">
                     <div class="left-corner-bg">
                         <div class="left-corner">
-                            <button class="btn btn-pencil" data-toggle="tooltip" data-placement="bottom" title="карандаш">
-                            </button>
+                            <button id="switcher" class="btn btn-pencil" onclick="switcher('current')"></button>
                         </div>
                     </div>
                     <div class="left-panel-paint">
@@ -426,8 +426,8 @@
                             <div class="ready"><button class="btn btn-riu-success" >готово!</button></div>
                         </div>
                         <div class="activation-panel">
-                            <button class="btn btn-painter" data-toggle="tooltip" data-placement="bottom" title="кисть"></button>
-                            <button class="btn btn-eraser" data-toggle="tooltip" data-placement="bottom" title="резинка"></button>
+                            <button class="btn btn-painter" onclick="switcher('painter')"></button>
+                            <button class="btn btn-eraser" onclick="switcher('eraser')"></button>
                             <div class="empty-1">
                                 <button class="btn lock lock-1" data-toggle="tooltip" data-placement="bottom" title="открыть 1">
                                    <img src="images/lock@2x.png" alt="" width="21" height="26"/></button>
