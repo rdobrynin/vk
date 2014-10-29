@@ -7,6 +7,7 @@ function switcher(param) {
     var current = current_obj.split(' ')[1];
     var new_param = current.substring(4, current.length);
     if(param != 'current') {
+    $('#'+param).removeClass('btn-'+param);
     $('#switcher').removeClass(current).addClass('btn-'+param);
     $('#'+param).addClass(current);
 
@@ -22,7 +23,7 @@ function switcherNew(param) {
     var new_param = current.substring(4, current.length);
     if(param != 'current') {
         $('#switcher').removeClass(current).addClass('btn-'+param);
-        $('#'+param).toggleClass(current);
+        $('#'+new_param).addClass(current);
         $('.'+current).removeClass('btn-'+param);
         $('#'+new_param).attr('onclick', 'switcher('+'\''+new_param+'\')');
     }
