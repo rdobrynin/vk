@@ -91,12 +91,12 @@
             radius = 5;
         });
 
-        $('.btn-pencil').click(function () {
+        $('#switcher-1').click(function () {
             radius = 1;
             $('canvas').css( 'cursor', 'url(../images/cursor_pencil.png), auto' );
         });
 
-        $('.btn-painter').click(function () {
+        $('#switcher-2').click(function () {
             radius = 8;
             $('canvas').css( 'cursor', 'url(../images/cursor_paint.png), auto' );
         });
