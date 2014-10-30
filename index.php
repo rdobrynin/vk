@@ -426,30 +426,30 @@
                             <div class="ready"><button class="btn btn-riu-success" >готово!</button></div>
                         </div>
                         <div class="activation-panel">
-                            <button class="btn btn-painter" id="painter"></button>
-                            <button class="btn btn-eraser" id="eraser"></button>
-                            <div class="empty-1">
-                                <button class="btn lock lock-1" data-toggle="tooltip" data-placement="bottom" title="открыть 1">
+                            <button class="btn btn-painter" id="switcher-2"></button>
+                            <button class="btn btn-eraser" id="switcher-3"></button>
+                            <div class="empty-1" id="switcher-4">
+                                <button class="btn lock lock-1">
                                    <img src="images/lock@2x.png" alt="" width="21" height="26"/></button>
                             </div>
-                            <div class="empty-2">
-                                <button class="btn lock lock-2" data-toggle="tooltip" data-placement="bottom" title="открыть 2">
+                            <div class="empty-2" id="switcher-5">
+                                <button class="btn lock lock-2">
                                     <img src="images/lock@2x.png" alt="" width="21" height="26"/></button>
                             </div>
-                            <div class="empty-3">
-                                <button class="btn lock lock-3" data-toggle="tooltip" data-placement="bottom" title="открыть 3">
+                            <div class="empty-3" id="switcher-6">
+                                <button class="btn lock lock-3">
                                     <img src="images/lock@2x.png" alt="" width="21" height="26"/></button>
                             </div>
-                            <div class="empty-4">
-                                <button class="btn lock lock-4" data-toggle="tooltip" data-placement="bottom" title="открыть 4">
+                            <div class="empty-4" id="switcher-7">
+                                <button class="btn lock lock-4">
                                     <img src="images/lock@2x.png" alt="" width="21" height="26"/></button>
                             </div>
-                            <div class="empty-5">
-                                <button class="btn lock lock-5" data-toggle="tooltip" data-placement="bottom" title="открыть 5">
+                            <div class="empty-5" id="switcher-8">
+                                <button class="btn lock lock-5">
                                     <img src="images/lock@2x.png" alt="" width="21" height="26"/></button>
                             </div>
-                            <div class="empty-6">
-                                <button class="btn lock lock-6" data-toggle="tooltip" data-placement="bottom" title="открыть 6">
+                            <div class="empty-6"  id="switcher-9" >
+                                <button class="btn lock lock-6">
                                     <img src="images/lock@2x.png" alt="" width="21" height="26"/></button>
                             </div>
                         </div>

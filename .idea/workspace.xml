@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="96d27140-b349-4225-b59b-f7cd660c1619" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/js/switcher.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
     </list>
     <ignored path="vk.iws" />
@@ -72,7 +71,7 @@
           <file leaf-file-name="index.php" pinned="false" current="true" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/index.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state line="342" column="75" selection-start="15142" selection-end="15142" vertical-scroll-proportion="0.5591398" vertical-offset="5688" max-vertical-offset="9603">
+                <state line="451" column="64" selection-start="21920" selection-end="21920" vertical-scroll-proportion="0.83870965" vertical-offset="7416" max-vertical-offset="9603">
                   <folding />
                 </state>
               </provider>
@@ -608,7 +607,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="342" column="75" selection-start="15142" selection-end="15142" vertical-scroll-proportion="0.5591398" vertical-offset="5688" max-vertical-offset="9603">
+        <state line="451" column="64" selection-start="21920" selection-end="21920" vertical-scroll-proportion="0.83870965" vertical-offset="7416" max-vertical-offset="9603">
           <folding />
         </state>
       </provider>
