@@ -20,7 +20,6 @@
     <link href="css/retina.css" rel="stylesheet">
     <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
     <script src="js/ie10-viewport-bug-workaround.js"></script>
-    <script src="js/switcher.js"></script>
     <!-- HTML5 shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -421,37 +420,37 @@
                             <div class="ready"><button class="btn btn-riu-success" >готово!</button></div>
                         </div>
                         <div class="activation-panel">
-                            <div class="activation-tab active">
-                                <button class="btn btn-pencil" id="switcher-1"></button>
+                            <div class="activation-tab active" id="switcher-1">
+                                <button class="btn btn-pencil" data-toggle="tooltip" data-placement="bottom" title="карандаш"></button>
                             </div>
-                            <div class="activation-tab">
-                                <button class="btn btn-painter" id="switcher-2"></button>
+                            <div class="activation-tab" id="switcher-2">
+                                <button class="btn btn-painter" data-toggle="tooltip" data-placement="bottom" title="кисть"></button>
                             </div>
-                            <div class="activation-tab">
-                                <button class="btn btn-eraser" id="switcher-3"></button>
+                            <div class="activation-tab" id="switcher-3">
+                                <button class="btn btn-eraser" data-toggle="tooltip" data-placement="bottom" title="резинка"></button>
                             </div>
                             <div class="empty-1" id="switcher-4">
-                                <button class="btn lock lock-1">
+                                <button class="btn lock lock-1" data-toggle="tooltip" data-placement="bottom" title="открыть 1">
                                    <img src="images/lock@2x.png" alt="" width="21" height="26"/></button>
                             </div>
                             <div class="empty-2" id="switcher-5">
-                                <button class="btn lock lock-2">
+                                <button class="btn lock lock-2" data-toggle="tooltip" data-placement="bottom" title="открыть 2">
                                     <img src="images/lock@2x.png" alt="" width="21" height="26"/></button>
                             </div>
                             <div class="empty-3" id="switcher-6">
-                                <button class="btn lock lock-3">
+                                <button class="btn lock lock-3" data-toggle="tooltip" data-placement="bottom" title="открыть 3">
                                     <img src="images/lock@2x.png" alt="" width="21" height="26"/></button>
                             </div>
                             <div class="empty-4" id="switcher-7">
-                                <button class="btn lock lock-4">
+                                <button class="btn lock lock-4" data-toggle="tooltip" data-placement="bottom" title="открыть 4">
                                     <img src="images/lock@2x.png" alt="" width="21" height="26"/></button>
                             </div>
                             <div class="empty-5" id="switcher-8">
-                                <button class="btn lock lock-5">
+                                <button class="btn lock lock-5" data-toggle="tooltip" data-placement="bottom" title="открыть 5">
                                     <img src="images/lock@2x.png" alt="" width="21" height="26"/></button>
                             </div>
-                            <div class="empty-6"  id="switcher-9" >
-                                <button class="btn lock lock-6">
+                            <div class="empty-6"  id="switcher-9">
+                                <button class="btn lock lock-6" data-toggle="tooltip" data-placement="bottom" title="открыть 6">
                                     <img src="images/lock@2x.png" alt="" width="21" height="26"/></button>
                             </div>
                         </div>

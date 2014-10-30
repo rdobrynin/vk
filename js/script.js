@@ -94,6 +94,18 @@ if ($.browser.msie  && parseInt($.browser.version, 10) === 7 ) {
 
 $(function () {
 
+
+    $(".activation-tab").click(function(){
+        // If this isn't already active
+        if (!$(this).hasClass("active")) {
+            // Remove the class from anything that is active
+            $(".activation-tab.active").removeClass("active");
+            // And make this active
+            $(this).addClass("active");
+        }
+    });
+
+
     $(".btn-word").click(function(){
         if ($(".btn-word").hasClass('active')) {
             $(".btn-word").removeClass('active');
