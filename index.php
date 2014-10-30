@@ -474,7 +474,6 @@
 <?php include('modal_chooser.php')?>
 <?php include('modal_choose_word.php')?>
 
-<script src="//oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
 <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
 <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
 <script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
