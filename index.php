@@ -327,11 +327,6 @@
         <div class="content-frame-paint">
             <div class="content-frame-paint-blur">
                 <div class="paint-frame">
-                    <div class="left-corner-bg">
-                        <div class="left-corner">
-                            <button id="switcher" class="btn btn-pencil"></button>
-                        </div>
-                    </div>
                     <div class="left-panel-paint">
                         <div class="brush-form-wrapper color-form-1">
                             <div class="brush-form-inside">
@@ -426,8 +421,15 @@
                             <div class="ready"><button class="btn btn-riu-success" >готово!</button></div>
                         </div>
                         <div class="activation-panel">
-                            <button class="btn btn-painter" id="switcher-2"></button>
-                            <button class="btn btn-eraser" id="switcher-3"></button>
+                            <div class="activation-tab active">
+                                <button class="btn btn-pencil" id="switcher-1"></button>
+                            </div>
+                            <div class="activation-tab">
+                                <button class="btn btn-painter" id="switcher-2"></button>
+                            </div>
+                            <div class="activation-tab">
+                                <button class="btn btn-eraser" id="switcher-3"></button>
+                            </div>
                             <div class="empty-1" id="switcher-4">
                                 <button class="btn lock lock-1">
                                    <img src="images/lock@2x.png" alt="" width="21" height="26"/></button>
