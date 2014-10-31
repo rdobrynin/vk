@@ -441,8 +441,8 @@
                             <div class="activation-tab" id="switcher-7">
                                 <button class="btn btn-diff-pencil" data-toggle="tooltip" data-placement="bottom" title="карандаш"></button>
                             </div>
-                            <div class="activation-tab" id="switcher-8">
-                                <button class="btn btn-brush-spray" data-toggle="tooltip" data-placement="bottom" title="спрэй"></button>
+                            <div class="activation-tab lock" id="switcher-8">
+                                <button class="btn btn-brush-spray " data-toggle="tooltip" data-placement="bottom" title="спрэй"></button>
                             </div>
                             <div class="activation-tab" id="switcher-9">
                                 <button class="btn btn-spider" data-toggle="tooltip" data-placement="bottom" title="паутина"></button>

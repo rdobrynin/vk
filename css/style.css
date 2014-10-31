@@ -567,6 +567,22 @@ canvas {
     border-bottom: 2px solid #E8EDED;
 }
 
+.activation-tab.lock:before {
+    content: "";
+    width: 41px;
+    height: 52px;
+    background: url("../images/lock@2x.png") no-repeat;
+    background-size: 21px 26px;
+    position: absolute;
+    top: 16px;
+    right:-18px;
+    z-index: 9999;
+}
+.activation-tab.lock .btn {
+    cursor: default !important;
+}
+
+
 
 .activation-panel {
     width: 100%;
