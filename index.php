@@ -421,7 +421,7 @@
                         </div>
                         <div class="activation-panel">
                             <div class="activation-tab active" id="switcher-1">
-                                <button class="btn btn-pencil" data-toggle="tooltip" data-placement="bottom" title="карандаш"></button>
+                                <button class="btn btn-pencil active-button" data-toggle="tooltip" data-placement="bottom" title="карандаш"></button>
                             </div>
                             <div class="activation-tab" id="switcher-2">
                                 <button class="btn btn-painter" data-toggle="tooltip" data-placement="bottom" title="кисть"></button>
@@ -429,30 +429,25 @@
                             <div class="activation-tab" id="switcher-3">
                                 <button class="btn btn-eraser" data-toggle="tooltip" data-placement="bottom" title="резинка"></button>
                             </div>
-                            <div class="empty-1" id="switcher-4">
-                                <button class="btn lock lock-1" data-toggle="tooltip" data-placement="bottom" title="открыть 1">
-                                   <img src="images/lock@2x.png" alt="" width="21" height="26"/></button>
+                            <div class="activation-tab" id="switcher-4">
+                                <button class="btn btn-strip" data-toggle="tooltip" data-placement="bottom" title="вопрос"></button>
                             </div>
-                            <div class="empty-2" id="switcher-5">
-                                <button class="btn lock lock-2" data-toggle="tooltip" data-placement="bottom" title="открыть 2">
-                                    <img src="images/lock@2x.png" alt="" width="21" height="26"/></button>
+                            <div class="activation-tab" id="switcher-5">
+                                <button class="btn btn-spray" data-toggle="tooltip" data-placement="bottom" title="спрэй"></button>
                             </div>
-                            <div class="empty-3" id="switcher-6">
-                                <button class="btn lock lock-3" data-toggle="tooltip" data-placement="bottom" title="открыть 3">
-                                    <img src="images/lock@2x.png" alt="" width="21" height="26"/></button>
+                            <div class="activation-tab" id="switcher-6">
+                                <button class="btn btn-stamp" data-toggle="tooltip" data-placement="bottom" title="печать"></button>
                             </div>
-                            <div class="empty-4" id="switcher-7">
-                                <button class="btn lock lock-4" data-toggle="tooltip" data-placement="bottom" title="открыть 4">
-                                    <img src="images/lock@2x.png" alt="" width="21" height="26"/></button>
+                            <div class="activation-tab" id="switcher-7">
+                                <button class="btn btn-diff-pencil" data-toggle="tooltip" data-placement="bottom" title="карандаш"></button>
                             </div>
-                            <div class="empty-5" id="switcher-8">
-                                <button class="btn lock lock-5" data-toggle="tooltip" data-placement="bottom" title="открыть 5">
-                                    <img src="images/lock@2x.png" alt="" width="21" height="26"/></button>
+                            <div class="activation-tab" id="switcher-8">
+                                <button class="btn btn-brush-spray" data-toggle="tooltip" data-placement="bottom" title="спрэй"></button>
                             </div>
-                            <div class="empty-6"  id="switcher-9">
-                                <button class="btn lock lock-6" data-toggle="tooltip" data-placement="bottom" title="открыть 6">
-                                    <img src="images/lock@2x.png" alt="" width="21" height="26"/></button>
+                            <div class="activation-tab" id="switcher-9">
+                                <button class="btn btn-spider" data-toggle="tooltip" data-placement="bottom" title="паутина"></button>
                             </div>
+
                         </div>
                     </div>
                 </div>

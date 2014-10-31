@@ -708,7 +708,7 @@ img.img-choose-color {
     background-color: #ccd5da;
 }
 
-.lock, .lock:focus, .btn-painter, .btn-painter:focus, .btn-eraser, .btn-eraser:focus, .btn-trash, .btn-trash:focus, .btn-pencil, .btn-pencil:focus {
+.activation-tab .btn, .activation-tab .btn:hover{
     background-color: transparent;
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
@@ -955,55 +955,40 @@ img.img-choose-color {
     border-radius: 0;
 }
 
-.btn-pencil {
-    width: 34px;
-    height: 38px;
-    background-image: url('../images/sprites_color@2x.png');
-    background-size: 37px 735px;
-    background-position: -0px -585px;
-    position: relative;
-    top: 34px;
-    left: 12px;
-    cursor: pointer;
-    float: left;
-}
-
-.btn-pencil:active {
-    width: 34px;
-    height: 38px;
-    background-image: url('../images/sprites_color@2x.png');
-    background-size: 37px 735px;
-    background-position: -0px -585px;
-    position: relative;
-    top: 34px;
-    left: 12px;
-    cursor: pointer;
-    float: left;
-}
-
-.btn-painter  {
+.btn-pencil, .btn-pencil:active  {
     width: 34px;
     height: 38px;
     background-image: url('../images/activation_panel@2x.png');
     background-size: 75px 430px;
-    background-position: -3px -480px;
+    background-position: -3px -433px;
     position: relative;
-    top: 19px;
+    top: 35px;
+    left: 14px;
+    cursor: pointer;
+    float: left;
+}
+
+.btn-pencil.active-button {
+    width: 34px;
+    height: 38px;
+    background-image: url('../images/activation_panel@2x.png');
+    background-size: 75px 430px;
+    background-position: -41px -433px;
+    position: relative;
+    top: 35px;
     left: 13px;
     cursor: pointer;
     float: left;
 }
 
-
-
-.btn-painter:active  {
+.btn-painter, .btn-painter:active {
     width: 34px;
     height: 38px;
     background-image: url('../images/activation_panel@2x.png');
     background-size: 75px 430px;
-    background-position: -3px -480px;
+    background-position: -2px -480px;
     position: relative;
-    top: 19px;
+    top: 21px;
     left: 13px;
     cursor: pointer;
     float: left;
@@ -1014,7 +999,190 @@ img.img-choose-color {
     height: 38px;
     background-image: url('../images/activation_panel@2x.png');
     background-size: 75px 430px;
-    background-position: -41px -480px;
+    background-position: -40px -480px;
+    position: relative;
+    top: 21px;
+    left: 13px;
+    cursor: pointer;
+    float: left;
+}
+
+.btn-eraser, .btn-eraser:active  {
+    width: 34px;
+    height: 38px;
+    background-image: url('../images/activation_panel@2x.png');
+    background-size: 75px 430px;
+    background-position: -1px -522px;
+    position: relative;
+    top: 21px;
+    left: 13px;
+    cursor: pointer;
+    float: left;
+}
+
+.btn-eraser.active-button  {
+    width: 34px;
+    height: 38px;
+    background-image: url('../images/activation_panel@2x.png');
+    background-size: 75px 430px;
+    background-position: -39px -522px;
+    position: relative;
+    top: 21px;
+    left: 13px;
+    cursor: pointer;
+    float: left;
+}
+
+
+.btn-strip, .btn-strip:active  {
+    width: 34px;
+    height: 38px;
+    background-image: url('../images/activation_panel@2x.png');
+    background-size: 75px 430px;
+    background-position: -3px -568px;
+    position: relative;
+    top: 19px;
+    left: 13px;
+    cursor: pointer;
+    float: left;
+}
+
+.btn-strip.active-button  {
+    width: 34px;
+    height: 38px;
+    background-image: url('../images/activation_panel@2x.png');
+    background-size: 75px 430px;
+    background-position: -41px -568px;
+    position: relative;
+    top: 19px;
+    left: 13px;
+    cursor: pointer;
+    float: left;
+}
+
+.btn-spray, .btn-spray:active {
+    width: 34px;
+    height: 38px;
+    background-image: url('../images/activation_panel@2x.png');
+    background-size: 75px 430px;
+    background-position: -2px -616px;
+    position: relative;
+    top: 19px;
+    left: 13px;
+    cursor: pointer;
+    float: left;
+}
+
+.btn-spray.active-button  {
+    width: 34px;
+    height: 38px;
+    background-image: url('../images/activation_panel@2x.png');
+    background-size: 75px 430px;
+    background-position: -40px -616px;
+    position: relative;
+    top: 19px;
+    left: 13px;
+    cursor: pointer;
+    float: left;
+}
+
+.btn-stamp, .btn-stamp:active {
+    width: 34px;
+    height: 38px;
+    background-image: url('../images/activation_panel@2x.png');
+    background-size: 75px 430px;
+    background-position: -5px -670px;
+    position: relative;
+    top: 19px;
+    left: 13px;
+    cursor: pointer;
+    float: left;
+}
+
+.btn-stamp.active-button  {
+    width: 34px;
+    height: 38px;
+    background-image: url('../images/activation_panel@2x.png');
+    background-size: 75px 430px;
+    background-position: -43px -670px;
+    position: relative;
+    top: 19px;
+    left: 13px;
+    cursor: pointer;
+    float: left;
+}
+
+.btn-diff-pencil, .btn-diff-pencil:active {
+    width: 34px;
+    height: 38px;
+    background-image: url('../images/activation_panel@2x.png');
+    background-size: 75px 430px;
+    background-position: 0 -723px;
+    position: relative;
+    top: 19px;
+    left: 13px;
+    cursor: pointer;
+    float: left;
+}
+
+.btn-diff-pencil.active-button  {
+    width: 34px;
+    height: 38px;
+    background-image: url('../images/activation_panel@2x.png');
+    background-size: 75px 430px;
+    background-position: -39px -723px;
+    position: relative;
+    top: 19px;
+    left: 13px;
+    cursor: pointer;
+    float: left;
+}
+
+.btn-brush-spray, .btn-brush-spray:active {
+    width: 34px;
+    height: 38px;
+    background-image: url('../images/activation_panel@2x.png');
+    background-size: 75px 430px;
+    background-position: 0 -769px;
+    position: relative;
+    top: 19px;
+    left: 13px;
+    cursor: pointer;
+    float: left;
+}
+
+.btn-brush-spray.active-button {
+    width: 34px;
+    height: 38px;
+    background-image: url('../images/activation_panel@2x.png');
+    background-size: 75px 430px;
+    background-position: -39px -769px;
+    position: relative;
+    top: 19px;
+    left: 13px;
+    cursor: pointer;
+    float: left;
+}
+
+.btn-spider, .btn-spider:active {
+    width: 34px;
+    height: 38px;
+    background-image: url('../images/activation_panel@2x.png');
+    background-size: 75px 430px;
+    background-position: -2px -819px;
+    position: relative;
+    top: 19px;
+    left: 13px;
+    cursor: pointer;
+    float: left;
+}
+
+.btn-spider.active-button {
+    width: 34px;
+    height: 38px;
+    background-image: url('../images/activation_panel@2x.png');
+    background-size: 75px 430px;
+    background-position: -41px -819px;
     position: relative;
     top: 19px;
     left: 13px;
@@ -1023,139 +1191,6 @@ img.img-choose-color {
 }
 
 
-.btn-eraser  {
-    width: 34px;
-    height: 38px;
-    background-image: url('../images/sprites_color@2x.png');
-    background-size: 37px 735px;
-    background-position: 0 -453px;
-    position: relative;
-    top: 18px;
-    left: 13px;
-    cursor: pointer;
-    float: left;
-}
-
-.btn-eraser:active  {
-    width: 34px;
-    height: 38px;
-    background-image: url('../images/sprites_color@2x.png');
-    background-size: 37px 735px;
-    background-position: 0 -453px;
-    position: relative;
-    top: 18px;
-    left: 13px;
-    cursor: pointer;
-    float: left;
-}
-
-
-.empty-1  {
-    width: 34px;
-    height: 38px;
-    background-image: url('../images/sprites_color@2x.png');
-    background-size: 37px 735px;
-    background-position: 0 -193px;
-    position: absolute;
-    top: 4px;
-    left: 192px;
-    float: left;
-}
-
-.empty-2  {
-    width: 34px;
-    height: 38px;
-    background-image: url('../images/sprites_color@2x.png');
-    background-size: 37px 735px;
-    background-position: 0 -236px;
-    position: absolute;
-    top: 3px;
-    left: 260px;
-    float: left;
-}
-
-.empty-3  {
-    width: 34px;
-    height: 38px;
-    background-image: url('../images/sprites_color@2x.png');
-    background-size: 37px 735px;
-    background-position: 0 -280px;
-    position: absolute;
-    top: 2px;
-    left: 329px;
-    float: left;
-}
-
-.empty-4 {
-    width: 34px;
-    height: 45px;
-    background-image: url('../images/sprites_color@2x.png');
-    background-size: 37px 735px;
-    background-position: 0 -320px;
-    position: absolute;
-    top: -2px;
-    left: 405px;
-    float: left;
-}
-
-.empty-5 {
-    width: 34px;
-    height: 45px;
-    background-image: url('../images/sprites_color@2x.png');
-    background-size: 37px 735px;
-    background-position: 0 -365px;
-    position: absolute;
-    top: -2px;
-    left: 476px;
-    float: left;
-}
-
-.empty-6 {
-    width: 34px;
-    height: 40px;
-    background-image: url('../images/sprites_color@2x.png');
-    background-size: 37px 735px;
-    background-position: 0 -411px;
-    position: absolute;
-    top: 3px;
-    left: 548px;
-    float: left;
-}
-
-.lock-1 {
-    position: relative;
-    left: 20px;
-    top: -3px;
-}
-
-.lock-2 {
-    position: relative;
-    left: 20px;
-    top: -2px;
-}
-
-.lock-3 {
-    position: relative;
-    left: 24px;
-}
-
-.lock-4 {
-    position: relative;
-    left: 18px;
-    top: 3px;
-}
-
-.lock-5 {
-    position: relative;
-    left: 24px;
-    top: 3px;
-}
-
-.lock-6 {
-    position: relative;
-    left: 24px;
-    top: 1px;
-}
 
 .ready {
     background-color: #E6ECEB;
