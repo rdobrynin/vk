@@ -99,9 +99,12 @@ $(function () {
         // If this isn't already active
         if (!$(this).hasClass("active")) {
             // Remove the class from anything that is active
+            $(".activation-tab.active").children('button').removeClass('active-button');
             $(".activation-tab.active").removeClass("active");
             // And make this active
             $(this).addClass("active");
+            $(this).children('button').addClass('active-button');
+
         }
     });
 
