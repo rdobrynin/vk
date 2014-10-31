@@ -433,7 +433,7 @@
                                 <button class="btn btn-strip" data-toggle="tooltip" data-placement="bottom" title="вопрос"></button>
                             </div>
                             <div class="activation-tab" id="switcher-5">
-                                <button class="btn btn-spray" data-toggle="tooltip" data-placement="bottom" title="спрэй"></button>
+                                <button class="btn btn-spray" data-toggle="tooltip" data-placement="bottom" title="спрей"></button>
                             </div>
                             <div class="activation-tab" id="switcher-6">
                                 <button class="btn btn-stamp" data-toggle="tooltip" data-placement="bottom" title="печать"></button>
