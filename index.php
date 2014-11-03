@@ -14,6 +14,7 @@
     <link href="css/style.css" rel="stylesheet">
     <link href="css/elements.css" rel="stylesheet">
     <link href="css/modal.css" rel="stylesheet">
+    <link href="css/panel.css" rel="stylesheet">
     <link rel="stylesheet" href="http://malihu.github.io/custom-scrollbar/jquery.mCustomScrollbar.min.css" />
     <link href="css/jquery.mCustomScrollbar.css" rel="stylesheet">
     <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
